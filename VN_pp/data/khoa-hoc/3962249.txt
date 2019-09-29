@@ -1,0 +1,43 @@
+TITLE: Bốn 'bài giảng đại chúng' về AI trong Ngày hội Trí tuệ nhân tạo - VnExpress
+
+KEY WORDS: AI4VN, Ngày hội trí tuệ nhân tạo, trí tuệ nhân tạo, Blockchain, Bộ Khoa học và Công nghệ, Đại học Bách khoa Hà Nội
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Chiều 14/8, hoạt động chuyên đề "Tutorial"- các bài giảng đại chúng, thuộc khuôn khổ chương trình Ngày hội Trí tuệ nhân tạo (AI4VN) sẽ diễn ra từ 13h30 đến 16h30 tại Đại học Bách Khoa, Hà Nội.
+Với mỗi 40-45 phút, bốn bài giảng sẽ lần lượt được trình bày bởi các Giáo sư, Tiến sĩ uy tín trong ngành tại Việt Nam. Các bài nói tập trung vào những vấn đề như xu hướng Blockchain hóa; khả năng học tập liên tục và suốt đời của máy móc; AI trong an ninh mạng...Đăng ký tham gia các bài giảng về AI tại đây. 
+Blockchain hóa – Làn sóng mới trong kỉ nguyên dữ liệu lớn
+Công nghệ Blockchain ngày càng trở nên phổ biến và chứng minh được tính hữu dụng trong nhiều lĩnh vực. Về tính ứng dụng Blockchain, TS Nguyễn Bình Minh, Trưởng Bộ môn Hệ thống thông tin, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách Khoa Hà Nội, mang đến một đóng góp cụ thể qua các phân tích về khả năng áp dụng công nghệ này nhằm giải quyết các khó khăn của dữ liệu lớn.
+Từ góc nhìn này, ông và các đồng sự sẽ chỉ ra các cơ hội mới trong việc Blockchain hóa các ứng dụng dữ liệu lớn trong cuộc cách mạng chuyển đổi số qua bài thuyết trình "Blockchain hóa – Làn sóng mới trong kỉ nguyên dữ liệu lớn".
+TS Nguyễn Bình Minh, Trưởng Bộ môn Hệ thống thông tin, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách Khoa Hà Nội. 
+Trong phần trình bày của mình, TS Minh duyệt lại các tính chất của dữ liệu lớn và Blockchain. Để chứng minh cho làn sóng Blockchain hóa, ông sẽ trình diễn các chức năng của nền tảng truy xuất nguồn gốc dựa trên nền tảng Blockchain trong việc xây dựng một ứng dụng truy xuất cụ thể. 
+"Nền tảng của chúng tôi cho phép thúc đẩy cộng đồng các nhà lập trình sáng tạo các ứng dụng dựa trên công nghệ Blockchain phục vụ các khía cạnh khác nhau của đời sống, và theo đó sẽ tạo ra một lượng dữ liệu lớn dựa trên nền công nghệ này", TS Minh cho biết. 
+TS Nguyễn Bình Minh nhận bằng thạc sỹ ngành Máy tính hỗ trợ thiết kế tại khoa Công nghệ thông tin và Tự động hóa, trường đại học kĩ thuật Tambov (Liên bang Nga) năm 2008 và tiến sỹ ngành Tin học ứng dụng tại khoa Công nghệ thông tin và Tin học, trường đại học kĩ thuật Slovak tại Bratislava (Cộng hòa Slovakia) năm 2013. 
+Từ năm 2008 đến 2013, ông là nghiên cứu viên tại bộ phận nghiên cứu về xử lý thông tin song song và phân tán, viện tin học, viện hàn lâm khoa học Slovakia. Hiện nay ông là giảng viên và trưởng bộ môn Hệ thống thông tin, viện Công nghệ thông tin và Truyền thông, trường đại học Bách Khoa Hà Nội. 
+Tháng 7/2019, Quỹ sáng tạo của VinGroup (VINIF) thông báo ông và nhóm được nhận kinh phí hỗ trợ để xây dựng một giải pháp Blockchain trong hai năm tới.
+Liệu máy có thể học suốt đời?
+ 
+"Làm thế nào để tạo một cái máy có khả năng học liên tục từ dữ liệu trong cuộc đời của nó" là một trong những câu hỏi ám ảnh và trăn trở không chỉ riêng của TS Thân Quang Khoát, Trưởng Phòng Thí nghiệm Khoa học Dữ liệu, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội.
+"Đây là một trong những câu hỏi trung tâm của lĩnh vực Trí tuệ nhân tạo. Rất nhiều thách thức sẽ xuất hiện, chẳng hạn như khó khăn khi học từ lượng dữ liệu đến liên tục và vô hạn, tính động của môi trường, dữ liệu nhiễu và lỗi", TS Khoát cho biết. 
+TS Thân Quang Khoát, Trưởng Phòng Thí nghiệm Khoa học Dữ liệu, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội.
+Vì vậy, ông sẽ mang đến cho công chúng bài giảng "Liệu máy có thể học suốt đời: Tổng quan về cách tiếp cận Bayes" như một nỗ lực để khai phá, trả lời cho câu hỏi trên. Bài trình bày sẽ bàn luận một con đường tự nhiên và hiệu quả dựa trên định lý Bayes. Trong đó, một số khái niệm cơ bản về mô hình và suy diễn Bayes sẽ được giới thiệu cùng một phương pháp để huấn luyện một mô hình từ luồng dữ liệu vô hạn...
+Bên cạnh công việc giảng dạy, TS Thân Quang Khoát hiện còn là cộng tác viên của Viện nghiên cứu về Trí tuệ nhân tạo (VinAI Research). Ông tốt nghiệp Tiến sĩ năm 2013 tại Viện Khoa học và Công nghệ tiên tiến Nhật Bản (JAIST). TS Khoát thường xuyên tham gia vào hội đồng chương trình của nhiều hội nghị quốc tế hàng đầu trên thế giới như ICML, NIPS, IJCAI, ICLR, PAKDD, ACML.
+AI trong an ninh mạng
+Trong một vài năm trở lại đây, sự phát triển mạnh mẽ của kết nối số trong Cuộc Cách mạng Công nghiệp 4.0 được đánh giá tạo nên những động lực mạnh mẽ cho sự phát triển của nhân loại. Tuy vậy, càng phát triển và càng kết nối, nguy cơ trong bảo mật và an toàn thông tin cũng ngày càng tăng cao, các cuộc tấn công mạng ngày càng đa dạng và khó lường.
+Bị thu hút bởi câu hỏi làm thế nào để ứng dụng Trí tuệ nhân tạo trong lĩnh vực an toàn thông tin và an ninh mạng, TS Nguyễn Việt Hùng, Chủ nhiệm Bộ môn An toàn Thông tin, Khoa Công nghệ Thông tin, Học viện Kỹ thuật Quân sự, mang đến cho công chúng bài giảng về "AI trong an ninh mạng" qua các nghiên cứu của mình. Bài chia sẻ này sẽ giới thiệu một số ứng dụng AI giải quyết các bài toán quan trọng trong An toàn thông tin.
+TS Nguyễn Việt Hùng, Chủ nhiệm Bộ môn An toàn Thông tin, Khoa Công nghệ Thông tin, Học viện Kỹ thuật Quân sự. 
+"Trong những năm gần đây, AI đã được nghiên cứu và ứng dụng mạnh mẽ trong lĩnh vực an toàn thông tin. AI được sử dụng để phân tích dữ liệu mạng nhằm phát hiện kịp thời các cuộc tấn công vào hệ thống máy tính, ứng dụng trong tự động phân tích và phát hiện hành vi của mã độc, phân tích và dò quét lỗ hổng bảo mật trong mã nguồn", TS Hùng nói. 
+TS. Nguyễn Việt Hùng hiện là Chủ nhiệm Bộ môn An toàn thông tin, Khoa Công nghệ thông tin, Học viện Kỹ thuật Quân sự. TS. Nguyễn Việt Hùng tốt nghiệp chuyên ngành Máy tính nơron và mạng nơron, nhận bằng Tiến sĩ Khoa học máy tính năm 2012 tại Đại học Vật lý kỹ thuật Moscow. 
+Các bài toán tối ưu trong lĩnh vực Logistics
+Theo TS Phạm Quang Dũng, Giảng viên, Nghiên cứu viên Bộ môn Khoa học máy tính, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội, Logistics là một trong những lĩnh vực đóng vai trò quan trọng trong nền kinh tế mỗi quốc gia.
+Logistics bao gồm các vấn đề lập kế hoạch, điều hành thực hiện và theo dõi luồng hàng hóa, thông tin từ nơi sản xuất đến nơi tiêu thụ. Logistics liên quan đến các tác nhân như con người, phương tiện vận chuyển, đường sá, kho bãi,...
+"Nhiều bài toán tối ưu hóa trong logistics được đưa ra, nghiên cứu và giải quyết trong nhiều năm bởi các nhà khoa học bao gồm toán học, khoa học máy tính. Việc tìm ra các phương án tốt cho các bài toán này góp phần đáng kể vào việc tiết kiệm chi phí logistics", TS Dũng cho biết.
+TS Phạm Quang Dũng, Giảng viên, Nghiên cứu viên Bộ môn Khoa học máy tính, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách khoa Hà Nội. 
+Tham dự Ngày hội Trí tuệ nhân tạo, ông mang đến bài giảng "Các bài toán tối ưu trong lĩnh vực logistics: phương pháp giải và công cụ phần mềm". Bài trình bày này bao gồm hai phần: Tổng quan các bài toán tối ưu điển hình trong lĩnh vực logistics và một số phương pháp thuật toán giải quyết; cách thức sử dụng thư viện nguồn mở để mô hình hóa và tìm lời giải cho một số bài toán tối ưu trong logistics.  
+TS Phạm Quang Dũng hoàn thành luận án Tiến sĩ Khoa học máy tính vào năm 2011 tại trường Đại học Catholique de Louvain, vương quốc Bỉ. Hiện tại, ông là giảng viên tại bộ môn Khoa học máy tính, Viện Công nghệ Thông tin và Truyền thông, Đại học Bách Khoa Hà Nội. Ông là trưởng nhóm nghiên cứu phát triển các thư viện mã nguồn mở (OpenCBLS, CBLSVR) phục vụ cho việc nghiên cứu và phát triển các ứng dụng tối ưu hoá trong lĩnh vực vận tải và kho vận.
+Phương Nguyên
+Ngày 15-16/8, chương trình Ngày hội Trí tuệ nhân tạo (AI4VN) diễn ra tại trường Đại học Bách Khoa Hà Nội, số 1 Đại Cồ Việt, quận Hai Bà Trưng, Hà Nội. Sự kiện được tổ chức bởi Bộ Khoa học và Công nghệ, Bộ kế hoạch và Đầu tư, trường Đại học Bách Khoa cùng báo điện tử VnExpress.
+Với chủ đề "Đẩy mạnh hệ sinh thái Trí tuệ nhân tạo", Ngày hội AI năm nay là nền tảng kết nối các thành tố trong hệ sinh thái từ đơn vị nghiên cứu, doanh nghiệp, tập đoàn, startup đến các nhóm cộng đồng nhằm mục tiêu thúc đẩy nghiên cứu phát triển và ứng dụng công nghệ AI trong các lĩnh vực giáo dục, thương mại, kinh doanh, nông nghiệp, y tế...của Việt Nam
+Chương trình bao gồm nhiều hoạt động thuyết trình, trình bày tham luận, thảo luận bàn tròn báo cáo về xu hướng và đầu tư AI toàn cầu từ các chuyên gia, CEO trong và ngoài nước, triển lãm và trình diễn công nghệ AI, cuộc thi lập trình trong 48h (Hackathon)...Chi tiết về chương trình và đăng ký tham dự Ngày hội tại đây: https://ai4vn.vnexpress.net/. 
+ 

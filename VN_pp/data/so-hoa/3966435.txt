@@ -1,0 +1,22 @@
+TITLE: Dùng AI chấm điểm người yêu - VnExpress Số Hóa
+
+KEY WORDS: AI, nhận diện
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cách đây không lâu, giới trí tuệ nhân tạo Trung Quốc nổi lên một vấn đề nhiều tranh luận. Một blogger có tên "Chôn vùi ký ức" tuyên bố rằng anh chuẩn bị tung ra một công cụ nhận dạng khuôn mặt để cứu những người trung thực. Ứng dụng này sử dụng máy móc để đối chiếu dữ liệu khuôn mặt trên các trang web đen với dữ liệu khuôn mặt của các phương tiện truyền thông xã hội lớn, nhằm xác định những cô gái mại dâm đã "nghỉ hưu". Theo cách nói của chủ nhân bài viết, công cụ này đã xác định thành công hơn 100.000 gái mại dâm với tỉ lệ nhận dạng là 99%.
+Thông tin làm dấy lên một cuộc tranh luận lớn. Những người tán thành thì tâng bốc đến mức gọi ứng dụng là "Báu vật tha thứ". Những người còn lại thì phản bác, cho rằng đây là việc làm vô đạo đức, không tôn trọng quyền riêng tư của con người.
+Tao Ni, một chuyên gia công nghệ người Trung Quốc, đã phát hiện ra rằng công cụ nhận dạng khuôn mặt của blogger "Chôn vùi ký ức" còn rất nhiều lỗi. Thứ nhất, không chứng minh được tỷ lệ nhận dạng tới 99% như quảng cáo. Tất cả đều chỉ dựa vào lời nói của blogger. Ngoài ra, ngay cả khi tỷ lệ nhận dạng cao, hậu quả của 1% sai sót cũng vô cùng nguy hiểm. Hơn nữa, trên mạng xuất hiện rất nhiều video quay lén. Việc coi những cô gái xuất hiện trong video bị quay lén cũng đồng nghĩa với gái mại dâm là sai.
+Vì sự việc gây ra quá nhiều tranh cãi về quyền riêng tư và đạo đức, tác giả "Chôn vùi ký ức" đã xoá bài viết trên blog và xin lỗi mọi người để xoa dịu dư luận.
+Tuy nhiên, vấn đề không chìm xuống hẳn, mà qua bàn tay kỳ diệu của tiếp thị, ứng dụng "Báu vật tha thứ" đã trở lại với định dạng game mang tên H5. Chuyên gia công nghệ Tao Ni đã thâm nhập vào game này để nghiên cứu. Thanh công cụ hiển thị lượng người dùng trong thời gian thực là hơn 2,5 triệu người. Sau nhiều lần khám phá, anh phát hiện đây là một cái bẫy.
+Tao Ni, theo chỉ dẫn, đã tải lên một bức ảnh chụp chính diện mặt mình. Sau một phút chờ đợi, trang đã trả về một trị số "96%" được gọi là "Chỉ số tha thứ". Theo giới thiệu, chỉ số tha thứ trên 90% có nghĩa là bạn an toàn. Tiếp theo, anh thử tải lên một bức ảnh của cô Thương (một diễn viên phim cấp 3 - tên nhân vật đã được thay đổi), "chỉ số tha thứ" đạt 97%. Từng là người nổi tiếng trong lĩnh vực phim người lớn và là người có lượt video nhiều lượt xem nhất trên các trang chia sẻ video mà chỉ số tha thứ của cô Thương lại cao hơn Tao Ni.
+Không chỉ có cô Thương, qua những thử nghiệm của người dùng mạng xã hội, "chỉ số tha thứ" của những người nổi tiếng khác trong lĩnh vực phim cấp 3 cũng đều cao hơn 95%. Vì vậy, cái gọi là "chỉ số tha thứ" này rất có thể là được tạo ngẫu nhiên.
+Trong 15 phút trải nghiệm online của Tao Ni, anh thấy game này đã tăng hơn 10.000 người, chứng tỏ những người tham gia đều bị kích thích bởi "chỉ số tha thứ".
+So với phương thức truyền thống như "bắt tại trận" hay mời thám tử tư, công cụ "Báu vật tha thứ" đánh trúng vào tâm lý con người - luôn nghi ngờ, thắc mắc và thích đồ miễn phí. 
+Khi vào giai đoạn được gọi là "giải mã khuôn mặt" và "kết hợp trí tuệ", ứng dụng "Báu vật tha thứ" sẽ hiển thị toàn bộ quá trình cho bạn xem một lần và hiện điểm (97%).
+"Chỉ số tha thứ" có thể là không thật, nhưng hình ảnh mà bạn đăng tải lên là thật. Khi thử nghiệm "Báu vật tha thứ" núp dưới tên game H5, Tao Ni đã cố ý tải lên hình đại diện hoạt hình thì đều bị ứng dụng này chặn. Muốn có "chỉ số tha thứ", chỉ có thể tải ảnh người thật.
+Phần mềm sử dụng công nghệ AI và máy học học rất chính xác. Sau khi tải ảnh lên, hệ thống sẽ tự động xác định giới tính, tuổi tác và biểu cảm của nhân vật với độ chính xác rất cao. Ngoài ra, sau khi hoàn thành đối chiếu khuôn mặt, hệ thống yêu cầu điền tên của người trong ảnh, nếu không sẽ không thể xem chỉ số tha thứ. Những người thực sự muốn kiểm tra người yêu, chắc chắn sẽ trực tiếp điền tên thật của bạn gái mình vào.
+Tới đây, người dùng chắc đã lờ mờ "thấy" điều gì đó. Ứng dụng đã không tốn một đồng nào mà lại có được ảnh và tên thật của người dùng. Sử dụng trí tuệ nhân tạo phân biệt giới tính, tuổi tác, nếu khớp với dữ liệu cá nhân mua từ thị trường chợ đen, thì kết quả tạo ra một thông tin cá nhân hoàn chỉnh không phải là điều không thể.
+Trong thời đại nhận diện, như mở khoá bằng khuôn mặt, thanh toán bằng khuôn mặt... không thể tưởng tượng được ngành "công nghiệp đen" sử dụng dữ liệu mặt người để làm những gì.
+Phương Mai (theo Pacific Internet)

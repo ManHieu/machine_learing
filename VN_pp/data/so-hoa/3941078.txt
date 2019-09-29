@@ -1,0 +1,15 @@
+TITLE: Google Chat - ứng dụng nhắn tin tương tự Apple iMessage - VnExpress Số Hóa
+
+KEY WORDS: iMessage, Google, Google Chat, ứng dụng nhắn tin
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Chat là dịch vụ mới vừa được Google ra mắt nhằm mục tiêu thay thế phần mềm nhắn tin SMS truyền thống trên smartphone Android, tương tự iMessage trên iPhone của Apple. Người dùng có thể sử dụng để trao đổi thông tin, cũng như gửi hình ảnh, video chất lượng cao.
+Giao diện ứng dụng Chat của Google.
+"Mục tiêu của chúng tôi là mang lại trải nghiệm nhắn tin hiện đại, tiện dụng cho mọi người dùng Android trên toàn thế giới mà không phụ thuộc vào thiết bị hay nhà mạng", Sanaz Ahari, Giám đốc sản phẩm của Google nói với CNN Business.
+Ahari cho biết, Chat được tích hợp sẵn vào ứng dụng Nhắn tin (Messages) và người dùng chỉ cần mở nó để sử dụng. Nếu cả hai máy đều hỗ trợ Chat, cuộc trò chuyện tự động chuyển qua nền tảng mới, ngược lại sẽ quay về nhắn tin dạng SMS, tương tự iMessage.
+Cơ chế hoạt động của Chat dựa trên nền tảng RCS (Rich Communication Services) - tiêu chuẩn ra đời năm 2007 với mục đích thay thế SMS nhưng ít được đón nhận. Khác với iMessage, WhatsApp hay Signal, RCS không cung cấp mã hóa đầu cuối, do đó Google vẫn có thể xem các nội dung gửi và nhận từ người dùng trên máy chủ của mình.
+Theo Ahari, Chat dự kiến triển khai cho người dùng smartphone Android tại Anh và Pháp cuối tháng 6 trước khi có mặt cho các thị trường khác trong năm nay. Tuy vậy, ông không đề cập chi tiết thời gian.
+Trong quá khứ, Google ra khá nhiều ứng dụng nhắn tin, chẳng hạn Hangouts, Allo, Duo, Android Messages... Tuy nhiên, hầu hết trong đó không mang lại thành công như iMessage của Apple.
+Bảo Lâm (theo CNN)

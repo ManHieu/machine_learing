@@ -1,0 +1,13 @@
+TITLE: Hơn 1.000 ứng dụng Android bất chấp thu thập dữ liệu - VnExpress Số Hóa
+
+KEY WORDS: dữ liệu người dùng, quyền riêng tư, thu thập dữ liệu, Android, Google
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Các nhà nghiên cứu tại Viện Khoa học Máy tính Quốc tế (ICSI) đã xem xét hơn 88.000 ứng dụng Android và phát hiện 1.325 chương trình thu thập trái phép dữ liệu của người dùng. Chẳng hạn Shutoston, phần mềm chỉnh sửa ảnh, đã lấy tọa độ GPS từ ảnh và gửi về máy chủ, ngay cả khi người dùng không cho phép truy cập thông tin vị trí.
+Một số ứng dụng Android có thể thu thập dữ liệu dù người dùng không cho phép. Ảnh: Cnet
+"Về cơ bản, người dùng có rất ít công cụ và dấu hiệu để có thể nhận biết và kiểm soát quyền riêng tư hay đưa ra quyết định về nó", Serge Egelman, giám đốc ICSI nói. "Nếu các nhà phát triển ứng dụng có thể phá vỡ cơ chế bảo mật của hệ thống thì việc xin phép quyền truy cập của người dùng trở nên vô nghĩa".
+Egelman cho biết nhóm nghiên cứu đã thông báo cho Google và Ủy ban Thương mại Liên bang Mỹ (FTC) về vấn đề này từ tháng 9/2018. Google cho biết sẽ giải quyết hạn chế trên trong Android Q, bản phần mềm mới có thể được tung ra trong năm nay. Danh sách chi tiết 1.325 ứng dụng mà ICSI phát hiện sẽ được công bố trong tháng 8.
+Ngoài Shutoston, ứng dụng Hong Kong Disneyland park do Baidu phát triển hay phần mềm Health và Browser của Samsung cũng được cho là thu thập dữ liệu ngay cả khi người dùng không cho phép. Baidu, Disney và Samsung không đưa ra bình luận.
+Bảo Anh (theo Cnet)

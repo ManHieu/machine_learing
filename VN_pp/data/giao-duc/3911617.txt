@@ -1,0 +1,21 @@
+TITLE: Đáp án bài toán chu vi trong đề IMSO 2018 - VnExpress
+
+KEY WORDS: đáp án, bài toán, chu vi, đề IMSO 2018, thể dục trí não, đố vui
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 34. PERIMETER OF A RECTANGLE
+Problem: A rectangle is divided into 9 smaller portions as shown in the figure below. The perimeter, in cm, of the 5 known portions are also given. Find the perimeter, in cm, of the original rectangle.
+Dịch đề: Chia một hình chữ nhật thành 9 phần nhỏ như hình dưới đây. Chu vi của 5 phần nhỏ đã được cho trong hình. Tính chu vi của hình chữ nhật ban đầu theo cm.
+Bình luận: Khi chọn bài toán này gửi đến bạn đọc, nhóm biên soạn không chỉ nói về lời giải mà nhiều hơn thế muốn nhặt sạn trong đề bài của một cuộc thi uy tín như IMSO. Với những ngôn từ trong đề bài: "Chia một hình chữ nhật thành 9 phần nhỏ như hình dưới đây..." thì bài toán sẽ không có lời giải. Cần bổ sung thành "9 hình chữ nhật nhỏ" để tạo ra một đề bài chuẩn mực là:
+"Chia một hình chữ nhật thành 9 hình chữ nhật nhỏ như hình vẽ dưới đây...".
+Lời giải:
+Tổng chu vi của 9 hình chữ nhật nhỏ là: 20 + 11 + 11 + 12 + 8 = 62 (cm)
+Tổng này bằng chu vi hình chữ nhật ban đầu cộng với 2 lần chu vi hình chữ nhật ở trong cùng (chu vi 8 cm).
+Vậy chu vi hình chữ nhật ban đầu là: 62 – 8 – 8 = 46 (cm).
+Solution
+The sum of the perimeters of the 9 small rectangles is:
+20 + 11 + 11 + 12 + 8 = 62 (cm).
+This equals to the perimeter of the original rectangle plus twice the perimeter of the innermost small rectangle (whose perimeter is 8 cm).
+Thus, the perimeter of the original rectangle is: 62 – 8 – 8 = 46 (cm). 

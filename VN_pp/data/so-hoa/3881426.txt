@@ -1,0 +1,16 @@
+TITLE: Đánh bạc, khiêu dâm và góc khuất về ứng dụng cho iPhone, iPad - VnExpress Số Hóa
+
+KEY WORDS: Apple, App Store, chứng chỉ doanh nghiệp
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Chương trình Nhà phát triển doanh nghiệp được Apple tạo ra nhằm hỗ trợ phân phối ứng dụng nội bộ cho tập đoàn, chính phủ và các tổ chức. Trong điều khoản dịch vụ, Apple cấm sử dụng nó vào bất kỳ mục đích khác, tuy nhiên nhiều công ty trong đó có cả Google, Facebook đã lợi dụng chính sách này.
+Một ứng dụng khiêu dâm có thể cài trên iOS thông qua chứng chỉ doanh nghiệp. Ảnh: TechCrunch
+Theo Reuters, chứng chỉ doanh nghiệp bị lợi dụng để phân phối phiên bản lậu của các phần mềm phổ biến cho iPhone, iPad như Minecraft , Spotify và Pokémon Go. Chẳng hạn, TutuApp cung cấp trò chơi Minecraft bản miễn phí, trong khi đúng ra người dùng phải trả tiền. Hay AppValley đưa ứng dụng nghe nhạc Spotify đã được loại bỏ quảng cáo.
+Một điều tra của TechCrunch cũng phát hiện "hàng tá ứng dụng khiêu dâm, chương trình đánh bạc bằng tiền thật nằm ngoài vòng giám sát của Apple". Giống những ứng dụng lậu ở trên, các chương trình này được phân phối không thông qua kho ứng dụng App Store, bởi nếu đưa lên thì nó sẽ không được Apple phê duyệt.
+Trả lời việc một số công ty lợi dụng chương trình Nhà phát triển doanh nghiệp để phân phối các ứng dụng bất hợp pháp, Apple cho biết sẽ xem xét và chấm dứt nếu phát hiện vi phạm. Thực tế, ngay cả khi Google và Facebook không tuân thủ, Apple đã không ngần ngại rút chứng nhận của họ.
+Game đánh bài đổi tiền thật trên iPhone, iPad.
+Apple nhiều lần bị chỉ trích vì chính sách phê duyệt ứng dụng khắt khe trên App Store và điều này đến nay vẫn chưa được thay đổi. Tuy nhiên, một số người lại ca ngợi vì công ty sẵn sàng gỡ các chương trình vi phạm chính sách riêng tư, các ứng dụng vi phạm chính sách hay truyền bá thông tin sai lệch. Việc kiểm soát của Apple không hoàn hảo nhưng đem lại nhiều mặt tích cực.
+Ngược lại, Google Play của nền tảng Android ít nghiêm ngặt hơn, dễ cài đặt các ứng dụng không được phân phối qua kho mà Google kiểm soát. Có thể nói iOS và Android đi theo hai "trường phái" khác nhau, đem đến sự lựa chọn đa dạng cho người dùng. 
+Đình Nam

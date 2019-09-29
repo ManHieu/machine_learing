@@ -1,0 +1,14 @@
+TITLE: Dữ liệu hoạt động của người dùng trên Chrome và các ứng dụng Google sẽ được xóa tự động - VnExpress Số Hóa
+
+KEY WORDS: Google, lịch sử duyệt web, lịch sử tìm kiếm
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+"Google đang làm việc nhằm giữ dữ liệu của bạn luôn riêng tư và an toàn. Chúng tôi đã nghe phản hồi từ phía người dùng rằng cần cung cấp công cụ quản lý hoặc xóa dữ liệu đơn giản hơn", Google cho biết trong một bài đăng trên blog.
+Tính năng xóa dữ liệu hoạt động của Google.
+Tính năng tự động xóa mới của Google sẽ có sẵn trong vài tuần tới, cho phép người dùng chọn thời gian lưu dữ liệu hoạt động của mình, từ 3 đến 18 tháng. Sau đó, những thông tin như lịch sử vị trí, hoạt động duyệt web và ứng dụng... sẽ tự động bị loại bỏ khỏi hệ thống.
+Trước đây, Google từng cung cấp tính năng tương tự, nhưng chỉ cho phép người dùng xóa một phần dữ liệu và phải thao tác thủ công. Một số chuyên gia cho rằng, công cụ mới sẽ giúp thông tin cá nhân của người dùng không bị lưu trên máy chủ của công ty tìm kiếm, nhất là khi họ quên không xóa chúng.
+Động thái của công ty tìm kiếm Mỹ diễn ra sau khi vấn đề về quyền riêng tư được quan tâm tại nhiều nơi, đặc biệt là ở Mỹ và châu Âu. Tại hai thị trường này, Google cùng Facebook đã bị kiểm soát gắt gao sau loạt bê bối thu thập thông tin cá nhân, cũng như bị điều tra mục đích sử dụng những dữ liệu này.
+Năm ngoái, Facebook cũng tiết lộ tính năng tương tự có tên Clear History, cho phép người dùng xóa cookie và lịch sử theo cách thủ công, nhưng bị trì hoãn sau đó. Trong một sự kiện báo chí gần đây, giám đốc điều hành Facebook Guy Rosen cho biết công cụ này dự kiến sẽ ra mắt vào mùa thu 2019.
+Bảo Lâm (theo CNN)

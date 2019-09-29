@@ -1,0 +1,17 @@
+TITLE: Tin tặc Trung Quốc hack thành công xe Tesla, khiến ôtô chuyển làn đột ngột - VnExpress Số Hóa
+
+KEY WORDS: Tesla, ​Keen Security Labs, Tencent, Elon Musk
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Nhóm nghiên cứu tại Keen Security Labs tìm ra hai phương pháp để phá vỡ hệ thống nhận dạng làn đường tự động của Tesla. Cách đầu tiên sử dụng nhiều miếng dán, có thể ví như các mảng vá trên đường. Dù thành công, các nhà nghiên cứu cho rằng cách này không thực tế.
+Phương pháp khác sử dụng ba miếng dán được đặt ở các vị trí đặc biệt trên đường để đánh lừa hệ thống tự lái của ôtô Tesla. Trong một thử nghiệm, mẫu xe của tỷ phú Elon Musk đột ngột chuyển sang làn đường ngược chiều sau khi đi vào "bẫy" mà các chuyên gia bảo mật tạo nên.
+ 
+ 
+Hacker Trung Quốc khiến xe tự lái Tesla chuyển làn đột ngột
+Hacker Trung Quốc đánh lừa hệ thống tự lái trên xe Tesla. Video: Keen Security Labs
+Bên cạnh đó Keen Security Labs còn đánh lừa được hệ thống gạt mưa tự động của Tesla. Sử dụng camera và hệ thống phần mềm, mẫu ôtô này sẽ tự động kích hoạt gạt nước khi phát hiện trời mưa. Tuy nhiên khi nhóm nghiên cứu đặt một chiếc màn hình với hình ảnh đặc biệt ở phía trước, xe tự động gạt dù không có mưa.
+Giám đốc điều hành Tesla Elon Musk đã khen ngợi các phát hiện của nhóm nghiên cứu Keen Security Labs trên Twitter. Trong khi đó phát ngôn viên của Tesla nói rằng trong thử nghiệm trên, môi trường vật lý xung quanh xe đã bị thay đổi một cách giả tạo. Ngoài ra, người điều khiển có thể tác động vào vô-lăng và phanh hay gạt mưa bất cứ lúc nào, ngay cả khi ôtô kích hoạt chế độ tự lái.
+Keen Security Labs là nhóm bảo mật thuộc "gã khổng lồ" Internet Trung Quốc Tencent. Năm 2016, các chuyên gia tại đây đã hack thành công xe Tesla để mở cửa, can thiệp vào hệ thống phanh từ xa. Nhóm cũng đạt được nhiều giải thưởng trong các cuộc thi bảo mật trên toàn cầu.
+Bảo Anh (theo CNBC)

@@ -1,0 +1,14 @@
+TITLE: Chip Exynos 5G đã được Samsung sản xuất hàng loạt - VnExpress Số Hóa
+
+KEY WORDS: chip 5G, modem 5G, sản xuất hàng loạt, Samsung
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Samsung bắt đầu sản xuất hàng loạt ba chip 5G cho smartphone, bao gồm Exynos Modem 5100, Exynos RF 5500 và Exynos SM 5800. Trong số này, Exynos 5100 là sản phẩm đã được tích hợp vào Galaxy S10 5G.
+Bộ ba chip 5G mới đã được Samsung sản xuất hàng loạt.
+Ra mắt tháng 8 năm ngoái, Exynos Modem 5100 là chip 5G đầu tiên trên thế giới tương thích với tiêu chuẩn 5G New Radio (5G-NR) của 3GPP - dự án thuộc Liên minh Viễn thông Quốc tế (ITU). Exynos RF 5500 là chip xử lý 14 luồng tải xuống, đi kèm công nghệ 4x4 MIMO và 256 QAM giúp tăng tốc độ tải dữ liệu trong mạng 5G. Eyxnos SM5800 với ưu điểm tiết kiệm năng lượng hơn 30% so với các sản phẩm trước đây.
+Theo đại diện Samsung, việc sản xuất hàng loạt giúp hãng chủ động hơn về nguồn cung chip 5G cho smartphone Galaxy trong tương lai. Bên cạnh đó, công ty Hàn Quốc cũng muốn tiên phong trong công nghệ kết nối thế hệ mới, cạnh tranh trực tiếp với Qualcomm và Huawei.
+Samsung nhấn mạnh 5G là công nghệ "mang đến những cơ hội không thể bỏ lỡ" và kỳ vọng sẽ đạt 20% thị phần ở mảng này vào năm 2020.
+Hiện phiên bản Galaxy S10 5G cho Hàn Quốc sử dụng Exynos 5100. Trong khi đó, mẫu chạy Snapdragon 855 vẫn dùng modem 5G X50 của Qualcomm.
+Bảo Lâm (theo ZDNet)

@@ -1,0 +1,16 @@
+TITLE: FaceApp đã có dữ liệu hơn 150 triệu người dùng - VnExpress Số Hóa
+
+KEY WORDS: Faceapp
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Forbes, ứng dụng FaceApp đã có dữ liệu của hơn 150 triệu người dùng trên thế giới chỉ trong thời gian ngắn. Tính riêng trên nền tảng Android, phần mềm này đã có hơn 100 triệu lượt người dùng tải về. FaceApp cũng đang nằm trong số ứng dụng iOS phổ biến nhất ở 121 quốc gia, theo hãng nghiên cứu ứng dụng App Annie.
+Xuất hiện từ 2017, nhưng FaceApp mới gây sốt trên mạng xã hội trong vòng một tuần trở lại đây. Ứng dụng cho phép tạo ra bức ảnh chân dung già đi trong tương lai, bằng cách thêm vào các hiệu ứng về tóc, da, nếp nhăn hay râu... Hình ảnh sau khi xử lý chân thực đến nỗi nhiều người ưa chuộng nó.
+FaceApp tải ảnh lên Internet và sử dụng điện toán đám mây, AI để chỉnh sửa hiệu ứng.
+Tuy nhiên, đánh đổi cho điều này là rủi ro lớn về bảo mật. Theo trang báo của Mỹ, FaceApp không chỉ sử dụng một bức ảnh mà người dùng chọn lựa chỉnh sửa thực tế, nó còn có thể truy cập vào toàn bộ kho ảnh có trên thiết bị, một khi được cấp phép để sử dụng. Bên cạnh đó, khi sử dụng nó còn được quyền truy cập sâu vào một số dữ liệu khác ngoài hình ảnh như trợ lý ảo Siri hay danh mục tìm kiếm trên Android. Thậm chí, nó còn có thể xử lý dữ liệu nền, trao đổi thông tin tới Internet ngay cả khi ứng dụng không hoạt động. 
+Trong khi đó, theo cây viết Peter Kostadinov của trang công nghệ Phone Arena, FaceApp có thể sử dụng dữ liệu ảnh chân dung mà người dùng tải lên để huấn luyện các thuật toán nhận diện khuôn mặt AI. Vì ngoài hình ảnh, ứng dụng này còn lấy được tên của người dùng. Kết hợp hai dữ liệu này sẽ tạo ra được thông tin cá nhân định danh của nhiều người. 
+Trong điều khoản sử dụng, nhà cung cấp ứng dụng FaceApp cho biết luôn đảm bảo an toàn dữ liệu cá nhân. Tuy nhiên, khác với nhiều phần mềm chỉnh sửa ảnh thông thường xử lý trực tiếp trên thiết bị người dùng, FaceApp lại tải ảnh lên môi trường Internet và xử lý trên "đám mây". 
+FaceApp được điều hành bởi Wireless Lab OOO, trụ sở tại St. Petersburg (Nga). Nó cũng có một chi nhánh khác ở Delaware (Mỹ), theo Washington Post. Yaroslav Goncharov là "cha đẻ" của FaceApp. Theo hồ sơ LinkedIn, ông là CEO của FaceApp từ năm 2014, nhưng hình ảnh và thông tin về người này trên Internet rất ít. Một số báo cáo gần đây cho thấy, FaceApp được cho là liên quan đến chính phủ Nga. 
+Các quan chức Mỹ mới đây đã yêu cầu FBI phải tiến hành điều tra ứng dụng FaceApp do lo ngại rủi ro bảo mật thông tin cá nhân và liên quan tới chính phủ Nga. Năm ngoái, chính phủ Mỹ gặp nhiều rắc rối khi kết quả bầu cử Mỹ năm 2016 được cho là đã bị ảnh hưởng từ vụ rò rỉ dữ liệu cá nhân của hàng triệu người dùng mạng xã hội FaceBook, thông qua ứng dụng của Cambridge Analytica. 
+Mỹ Anh (theo Forbes)

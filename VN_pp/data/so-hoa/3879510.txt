@@ -1,0 +1,12 @@
+TITLE: Điện thoại Android có thể bị hack khi mở một bức ảnh - VnExpress Số Hóa
+
+KEY WORDS: Android, smartphone, tin tặc, PNG
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo BGR, thông tin được mô tả trong bản cập nhật bảo mật mới nhất của Google. Một lỗ hổng Android từ phiên bản 7.0 đến 9.0 sẽ cho phép tin tặc chạy mã độc trên điện thoại thông minh hoặc máy tính bảng và người dùng không có cách nào để phát hiện việc mình đã được tin tặc nhắm mục tiêu.
+Ảnh: BGR
+"Lỗ hổng bảo mật nghiêm trọng trong Framework có thể cho phép kẻ tấn công từ xa sử dụng tệp PNG được chế tạo đặc biệt để thực thi mã tùy ý trong bối cảnh như một quy trình đã được cấp quyền", bản cập nhật ghi.
+Theo ZDNet, Google từ chối tiết lộ chi tiết để giảm rủi ro bị tấn công. Họ cũng không nói rõ kẻ tấn công có thể làm gì thông qua lỗ hổng này. Người dùng được khuyên không mở bất kỳ tệp ảnh PNG khả nghi nào được gửi tới vì nguy cơ vẫn tồn tại chừng nào thiết bị Android của người dùng chưa nhận được bản cập nhật bảo mật mới nhất. 
+Bảo Nam

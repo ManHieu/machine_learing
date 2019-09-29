@@ -1,0 +1,13 @@
+TITLE: Bài toán lớp 6 từng làm khó nhiều học sinh giỏi - VnExpress
+
+KEY WORDS: bài toán, lớp 6, làm khó, học sinh giỏi
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 48. INDIRECT SUMMATION
+Problem: We use 8 digits 0, 1, 2, 3, 4, 5, 6, 7 to form all 5-digit natural numbers consisting of distinct digits. Find the sum of all numbers that can be formed.
+Dịch đề: Từ 8 chữ số 0, 1, 2, 3, 4, 5, 6, 7, lập tất cả các số tự nhiên gồm 5 chữ số khác nhau. Hãy tính tổng tất cả các số tự nhiên được tạo thành.
+Olympic Toán châu Á Thái Bình Dương (APMOPS); Olympic Toán và Khoa học quốc tế (IMSO); Olympic Toán học trẻ quốc tế (XIMC trong đó X là tên chữ cái đầu của nước tổ chức kỳ thi) là những cuộc thi uy tín, dành cho học sinh lứa tuổi 11-12.
+Hà Nội đăng cai tổ chức cuộc thi IMSO lần thứ 16, thời gian dự kiến từ ngày 26/11 đến hết 1/12.
+Minh Phương 

@@ -1,0 +1,13 @@
+TITLE: Không thể kiểm tra tình trạng iPhone nếu thay pin không chính hãng - VnExpress Số Hóa
+
+KEY WORDS: Apple, pin Apple
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Giá thay pin của Apple là cho các mẫu iPhone 2018 là 69 USD.
+Theo iFixit, tình trạng này chỉ xảy ra trên những mẫu iPhone ra mắt 2018 là XS, XS Max và XR. Trên những mẫu máy này, Apple thiết kế thêm chip của Texas Instruments để kiểm tra tình trạng, đồng thời xác thực độ tin cậy của viên pin khi kết nối với bo mạch chủ. iFixit cũng nhấn mạnh rằng đây chỉ là vấn đề về mặt thông báo, bởi pin hàng linh kiện vẫn giúp iPhone có thể hoạt động bình thường.
+Apple chưa đưa ra bất cứ bình luận nào về việc này. Tuy nhiên, có ý kiến cho rằng công ty đang muốn triệt đường sống của các bên thứ 3 chuyên làm dịch vụ sửa chữa như iFixit. Vấn đề họ quan tâm không phải là lợi nhuận của việc bán linh kiện, mà là sự an toàn của người sử dụng, đặc biệt sau nhiều vụ nổ pin iPhone thời gian gần đây.
+Mức giá thay pin chính hãng tại Apple thậm chí còn rẻ hơn các dịch vụ bên ngoài. Chẳng hạn pin chính hãng của iPhone XS, XR và XS Max đều "đồng giá" 69 USD, trong khi ở bên thứ 3 là 79 USD cho đến 89 USD.
+Để kiểm tra tình trạng pin iPhone, người dùng truy cập vào mục Cài đặt > Pin > Tình trạng pin. 
+Lưu Quý (theo iFixit)

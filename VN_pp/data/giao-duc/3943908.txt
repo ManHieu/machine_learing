@@ -1,0 +1,21 @@
+TITLE: Nhân viên văn phòng học lại đại học vì đam mê Automotive - VnExpress
+
+KEY WORDS: Automotive, FUNiX, FUNiX way, đại học trực tuyến
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+Anh Vũ Tuấn Hiền (sinh năm 1982) từng theo học chuyên ngành Nông lâm, Đại học Đà Lạt theo định hướng gia đình. Cùng thời điểm đó, khi được bạn bè rủ đi học bằng B tin học, anh phát hiện thêm khả năng về CNTT nên đã đăng ký học ngành Kỹ thuật viên máy tính Đại học Bách Khoa TP HCM (cơ sở Đà Lạt). Sau 4 năm, anh cùng lúc tốt nghiệp 2 ngành Nông lâm và Kỹ thuật viên.
+Sau khi ra trường, Tuấn Hiền trải qua nhiều công việc nhưng không liên quan đến CNTT, chưa phát huy hết tiềm năng về CNTT của bản thân. Dù không gặp khó khăn nào trong công việc, nhịp sống đều đặn và tương lai không nhiều triển vọng lại là động lực thôi thúc anh tìm cho mình một hướng đi khả quan hơn ở tuổi 37.
+Anh Vũ Tuấn Hiền (1982) từng theo học chuyên ngành Nông lâm, Đại học Đà Lạt theo định hướng gia đình.
+Cựu sinh viên Đại học Bách Khoa TP HCM cho biết, qua tìm hiểu trên internet, anh nhận thấy C++ là một trong ba ngôn ngữ lập trình phổ biến nhất hiện nay, đồng thời bản thân anh đặc biệt thích mọi thứ tự động làm thay thế sức người. Vì vậy, anh đã tìm hiểu và biết FUNiX đang triển khai khóa học Automotive - Lập trình ứng dụng trên ô tô bằng C++. Bị hấp dẫn vì mô hình học linh hoạt, hiện đại và thực tế, anh Hiền đã đăng ký vào FUNiX và trở thành sinh viên của trường từ tháng 3/2019.
+Bắt đầu học một ngôn ngữ mới, theo đuổi một ngành mới khi tuổi không còn trẻ, anh Hiền cho biết gia đình cũng lo lắng. Để có tiền trang trải sinh hoạt và lo cho hai cậu con trai, anh đăng ký làm cộng tác viên tại Bưu điện tỉnh Đồng Nai trong thời gian học tại FUNiX. "Chọn học Automotive vì tôi đã có kiến thức cơ bản về lập trình, nên khi chuyển hướng cũng nhanh. Giống như khi đã biết đi xe đạp, thì sau đi xe máy, sẽ dễ dàng hơn rất nhiều", anh Tuấn Hiền chia sẻ.
+Anh Hiền từng học online chứng chỉ Microsoft nhưng không thành công vì học online nhiều cái khó, như một số nội dung thực hành, cần hướng dẫn làm mẫu mà không biết hỏi ai. Nhưng khi học tại FUNiX, kết nối nhiều với Mentor và Hannah, anh được hỗ trợ nhiều trong quá trình học. "Mỗi khi chưa hiểu gì, tôi đề hỏi mentor ngay. Đặc biệt, mentor Nguyễn Viết Hiền, Mai Văn Đức, Nguyễn Văn Sim Anh giải đáp và hướng dẫn rất cụ thể", anh Hiền chia sẻ.
+Hannah Việt Anh - cô gái theo sát Vũ Tuấn Hiền trong suốt quá trình học, ấn tượng với anh Hiền bởi thái độ học tập tốt, chăm chỉ. "Qua nói chuyện, tôi thấy anh ấy thật sự cố gắng và có đam mê với lập trình, đặc biệt có quyết tâm đổi nghề cao. Anh Hiền có tiến độ học nhanh, hoàn thành môn sớm, ngoài ra cũng nhiệt tình giúp đỡ xTer khác trong việc học, chia sẻ kiến thức", Hannah Việt Anh cho hay.
+Mất 8 tiếng mỗi ngày để hoàn thành công việc, sinh viên 37 tuổi chỉ có thể dành khoảng 2 đến 3 tiếng buổi tối để học code. "Tôi đã có kiến thức về lập trình, nên chỉ tập trung vào những nội dung chưa học hoặc nội dung nâng cao. Khi làm bài tập, cố gắng áp dụng phần mềm đã sử dụng trước đây vì trước hay viết vài app nhỏ nhỏ cho công việc. Nhớ lại các lỗi đã gặp và áp dụng vào bài làm" – Tuấn Hiền chia sẻ.
+Đánh giá về cách học tại FUNiX, anh Hiền khẳng định, áp dụng FUNiX Way mang lại hiệu quả cao bởi cách học này giúp sinh viên phải tự vận động, chủ động học tập. Song song đó, lý thuyết và bài tập sát với thực tế là những gì anh thấy tâm đắc khi học ở đây.
+Với phương châm "Học không bao giờ muộn, việc học theo ta suốt đời", anh Hiền dự kiến hoàn thành chương trình học Automotive trước 1, 2 tháng. Việc làm cũng là vấn đề khiến anh băn khoăn vì hiện nay công ty nào cũng cần người trẻ. "Tuổi của tôi tuy lớn nhưng bù lại, tôi có kinh nghiệm làm việc trên nhiều phần mềm khác nhau, nắm được nhiều nguyên lý vận hành của phần mềm. Dự định của tôi là học lập trình học lập trình thật tốt để chuyển hẳn công việc sang ngành Lập trình ô tô", anh Hiền nói.
+Thanh Nga
+Automotive thuộc chương trình xSeries của Đại học Trực tuyến FUNiX - đào tạo các kiến thức lập trình đón đầu Cách mạng công nghệ 4.0. 
+Chương trình hợp tác giữa FUNiX và FPT Software dành cho những bạn có mong muốn đặt chân vào lĩnh vực ô tô bằng con đường phần mềm. Học viên được cam kết làm việc tại dự án FGA và được FPT Software tài trợ đến 1/3 học phí. Tìm hiểu thêm tại: Automotive.
+ 

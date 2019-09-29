@@ -1,0 +1,15 @@
+TITLE: Hàng tỷ USD được giao dịch trên 'dark web' qua Bitcoin - VnExpress Số Hóa
+
+KEY WORDS: Bitcoin, tiền ảo, web đen, web ngầm, dark web
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo nghiên cứu của Chainalysis, số Bitcoin trị giá 872 triệu USD đã được sử dụng trong các chi tiêu trên mạng lưới web ngầm (dark web) năm 2017. Con số này giảm trong năm ngoái do giá của đồng tiền ảo này đi xuống nhưng được dự báo sẽ đạt một tỷ USD tính đến hết năm nay.
+Nhiều giao dịch ngầm được thanh toán qua Bitcoin. Ảnh: Coinnounce
+Những số liệu trên cảnh báo về các rủi ro pháp lý khi tiền ảo ngày càng được tội phạm mạng yêu thích vì tính ẩn danh của nó. Tháng 6, Lực lượng Đặc nhiệm Tài chính (FATF), một tổ chức liên chính phủ tập trung vào việc chống rửa tiền và tài trợ khủng bố, đã bắt đầu giám sát các giao dịch Bitcoin. Cơ quan Cảnh sát Liên minh châu Âu (Europol) cũng đã gặp gỡ các công ty liên quan để trao đổi về các kinh nghiệm nhằm phát hiện tội phạm rửa tiền thông qua Bitcoin.
+Theo Chainalysis, ma túy là mặt hàng được giao dịch nhiều nhất trên web ngầm, bên cạnh thông tin thẻ tín dụng, khiêu dâm trẻ em. Bitcoin là loại tiền điện tử phổ biến nhất được chấp nhận trên thị trường bất hợp pháp này, tiếp theo là đồng Monero.
+Mua bán trái phép thông qua Bitcoin tăng về giá trị nhưng tỷ lệ giao dịch của đồng tiền này gắn với các hoạt động bất hợp pháp đang giảm. Không đầy 1% trong tổng số các giao dịch bằng Bitcoin vào nửa đầu năm nay là bất hợp pháp, giảm từ 7% của năm 2012.
+Dark web là tập hợp những website mà IP máy chủ đã bị ẩn, hoàn toàn "vô hình" trước các công cụ tìm kiếm và người dùng chỉ có thể truy cập thông qua một phần mềm đặc biệt. Ở đó là cả một thế giới ngầm của những kẻ buôn bán ma túy, vũ khí, những kẻ bệnh hoạn, ấu dâm, sát thủ...
+Bitcoin và nhiều đồng tiền ảo khác được tội phạm lựa chọn vì các giao dịch này có tính ẩn danh, khó phát hiện và có thể thực hiện xuyên biên giới. Việc khó kiểm soát và những mặt trái khác cũng khiến nhiều quốc gia cấm giao dịch tiền ảo.
+Bảo Anh (theo Bloomberg)

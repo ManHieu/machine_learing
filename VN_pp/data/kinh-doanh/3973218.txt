@@ -1,0 +1,19 @@
+TITLE: Lại bùng phát cuộc gọi giả danh chiếm đoạt tài khoản ngân hàng - VnExpress Kinh Doanh
+
+KEY WORDS: giả danh nhân viên ngân hàng, giả mạo ngân hàng, chiếm đoạt tài khoản, lừa đảo chiếm đoạt tài sản
+
+TOPIC: kinh doanh, ebank, ngân hàng
+
+CONTENT: 
+Tuần trước, chị Phương (Hà Nội) nhận được cuộc gọi từ một người tự xưng là nhân viên VietinBank. "Nhân viên ngân hàng" này cho biết chị đang có giao dịch chuyển tiền bị treo trên hệ thống nên cần kiểm tra một số thông tin như giao dịch gần đây nhất, số dư tài khoản hiện tại.
+"Tại sao nhân viên ngân hàng gọi điện lại dùng số di động, hơn nữa cách nói chuyện rất ào ào, không giống với một nhân viên chăm sóc khách hàng", Phương băn khoăn. Cũng làm ngân hàng nên Phương tỉnh táo hỏi lại đầu dây bên kia: "Bạn ở chi nhánh nào, để mình báo bộ phận IT kiểm tra hộ?". Người này liền cúp máy và biến mất.
+Tuy nhiên, không phải người dùng nào cũng cẩn trọng như Phương. Mới đây, một trường hợp ở Lào Cai khi nhận được cuộc gọi từ "nhân viên ngân hàng " với kịch bản tương tự, đã vô tư cung cấp mã số thẻ, giao dịch gần nhất và cả mã OTP. Hậu quả là người này bị mất 15 triệu trong tài khoản ngân hàng.
+Thẻ rút tiền của một số ngân hàng. Ảnh: Anh Tú. 
+Trong tin nhắn gửi mã OTP, các nhà băng đã có khuyến cáo rất rõ: "Không cung cấp mã OTP cho bất kỳ ai, kể cả nhân viên ngân hàng". Tuy nhiên vẫn có những người lơ là, mất cảnh giác và sập bẫy. Phó tổng giám đốc Ngân hàng Việt Nam Thịnh Vượng (VPBank) Nguyễn Thành Long cho biết, gần đây, ngân hàng đã phát hiện một số trường hợp giả mạo nhân viên để gọi điện (chủ yếu từ đầu số 058) yêu cầu cung cấp thông tin cá nhân, mã OTP. Sau đó, đối tượng chiếm quyền sử dụng Internet Banking và chuyển tiền/thanh toán hàng hóa, dịch vụ để chiếm đoạt tiền.
+"Thực tế, ngân hàng không bao giờ yêu cầu khách hàng cung cấp thông tin cá nhân, thông tin bảo mật, đặc biệt là mật khẩu, mã truy cập, mã OTP... Vì vậy, nếu có người tự xưng là nhân viên ngân hàng yêu cầu cung cấp những thông tin này, chắc chắn đó là đối tượng lừa đảo", ông Long chia sẻ.
+Bên cạnh đó, còn rất nhiều tình huống khác như giả danh cơ quan chức năng với mục đích chung là yêu cầu cung cấp thông tin về chứng minh thư, số thẻ, giao dịch tài khoản và mã OTP gửi về điện thoại...
+Gần đây, anh Thắng (Sài Gòn) nhận cuộc gọi từ số máy lạ xưng là Công an TP Hà Nội. Người này đọc chính xác thông tin địa chỉ của anh, cho biết anh từng giao dịch một lô đất và nhận chuyển tiền qua ngân hàng. Hiện nay, cơ quan công an phát hiện có sự bất minh với nguồn tiền mà người mua lô đất chuyển cho anh.
+Đúng là cách đây khoảng nửa năm, anh có nhận chuyển khoản từ việc bán đất và giao dịch giấy tờ tại phòng công chứng. Lo lắng vì liên quan đến kiện tụng, anh đã khai toàn bộ thông tin từ mối quan hệ gia đình, chứng minh thư nhân dân, nơi làm việc của mình... cho "cán bộ công an".
+Tuy nhiên, sau khi người này yêu cầu chuyển khoản lại toàn bộ số tiền bán đất sang số tài khoản khác để xác minh nguồn tiền, anh Thắng bán tín bán nghi và từ chối chuyển tiền.
+Gần đây, hàng loạt các nhà băng Techcombank, VIB, VPBank... đều gửi email, thông tin cảnh báo cho khách hàng sau khi tình trạng lừa đảo qua các cuộc gọi bùng phát trở lại. Theo các nhà băng, ngoài giả mạo nhân viên ngân hàng, cơ quan điều tra, kẻ gian còn dùng chiêu khác như thông báo trúng thưởng, gửi đường dẫn tới các trang web giả mạo ngân hàng... mà người dùng cần phải cảnh giác và tuyệt đối lưu ý bảo mật thông tin.
+Quỳnh Trang - Minh Sơn	

@@ -1,0 +1,27 @@
+TITLE: 5 router Wi-Fi vừa rẻ, vừa mạnh cho gia đình - VnExpress Số Hóa
+
+KEY WORDS: router, thiết bị định tuyến, Wi-Fi router
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Tenda F6 v4 (300.000 đồng)
+Bộ định tuyến Tenda F6 v4 có giá rẻ và khả năng phát sóng mạnh mẽ nhờ 4 ăng-ten.
+Là thương hiệu nổi tiếng về thiết bị mạng, Tenda có một số router Wi-Fi với giá bán phải chăng và chất lượng tốt. Tenda F6 v4 được trang bị 4 ăng-ten và công nghệ Mumimo, cho khả năng phát sóng đi xa và hỗ trợ nhiều thiết bị kết nối cùng một lúc. Bộ định tuyến đạt chuẩn N với tốc độ truyền tải tối đa là 300 Mb/giây, đáp ứng được nhiều nhu cầu sử dụng của người dùng.
+Tenda trang bị cho sản phẩm chip Broadcom, nhằm đảm bảo hiệu suất không dây ổn định và nhanh chóng. Tuy nhiên, hạn chế trên thiết bị là giao diện thiết lập bằng ngôn ngữ tiếng Trung Quốc.
+Totolink N600R (350.000 đồng)
+Totolink N600R có nút Turbo để tăng cường vùng phủ sóng.
+Totolink N600R là router Wi-Fi chuẩn N 600 Mb/giây, tương thích với chuẩn IEEE 802.11N trên băng tần 2,4GHz, cho phép tốc độ truyền tải dữ liệu không dây lên tới 600 Mb/giây. Thông số kỹ thuật này đáp ứng hầu hết được mọi nhu cầu Internet trong gia đình hiện nay, như tải dữ liệu, chơi game online và HD Streaming. Thiết kế với 4 ăng-ten hiệu suất cao, Totolink N600R cho khả năng phát sóng không dây ổn định ở khoảng cách xa.
+Bộ định tuyến của Totolink còn được trang bị công nghệ MIMO nâng cao chất lượng truyền tải và tính năng Turbo Bootes hỗ trợ tăng vùng phủ sóng. Sản phẩm được lắp ráp và sản xuất tại Việt Nam.
+Xiaomi Mi Router 4A (420.000 đồng)
+Bộ phát của Xiaomi có thể thiết lập từ xa qua ứng dụng Mi WiFi.
+Được giới thiệu vào đầu năm nay, Xiaomi Mi Router 4A là bộ phát Wi-Fi hỗ trợ băng tần kép, không bị nhiễu lẫn nhau. Tốc độ kết nối không dây của thiết bị có thể đạt tới 1.167 Mb/giây. Việc hỗ trợ đồng thời 2 bằng tần giúp cho Xiaomi Mi Router 4A có khả năng phủ sóng tốt hơn, đường truyền dài hơn và ổn định hơn.
+Thông số kỹ thuật của sản phẩm bao gồm chip MediaTek MT7628DA, RAM 64 MB và 16 MB ROM. Bộ phát của Xiaomi có thể được điều khiển từ xa qua ứng dụng Mi Wi-Fi và hỗ trợ tối đa 64 thiết bị kết nối đồng thời.
+TP-Link TL-WR940N (480.000 đồng)
+Sản phẩm của TP-Link khá dễ sử dụng nhờ giao diện thiết lập tiếng Việt.
+Mặc dù không phải dòng sản phẩm cao cấp nhất của TP-Link, chất lượng của TL-WR940N được rất nhiều người dùng đánh giá tốt. Đây là router Wi-Fi chuẩn N, cho tốc độ truyền tải không dây tối đa đạt 450 Mb/giây, phù hợp với nhu cầu sử dụng Internet của hầu hết gia đình hiện nay.
+Nhờ thiết kế 3 ăng-ten đẳng hướng và tương thích với chuẩn IEEE 802.11N trên băng tần 2,4 GHz, sản phẩm mang tới khả năng phủ sóng rộng và mạnh, ổn định hơn so với thế hệ trước. Việc cấu hình TP-Link TL-WR940N cũng khá đơn giản vì giao diện thiết lập là tiếng Việt.
+Tenda AC7 (535.000 đồng)
+Tenda AC7 có 5 ăng-ten và sử dụng chip 28nm thế hệ mới.
+Tenda AC7 là một bộ định tuyến Wi-Fi hỗ trợ băng tần kép mạnh mẽ và ổn định, phù hợp để dùng trong nhà có diện tích lớn và nhiều phòng. Tốc độ truyền tải không dây đồng thời trên hai băng tần đạt 1.167 Mb/giây, rất ít nhiễu và ổn định. Thiết bị có thiết kế 5 ăng-ten và bộ khuếch đại độc lập, nên có khả năng phát sóng xuyên tường tuyệt vời với độ phủ rộng.
+Theo thông số kỹ thuật của Tenda cung cấp, bộ định tuyến AC7 được trang bị chip 28nm thế hệ mới, nên mang tới hiệu năng vượt trội của bộ định tuyến thông thường với chip 40nm về hiệu suất, hệ thống tản nhiệt và độ ổn định.

@@ -1,0 +1,29 @@
+TITLE: Lịch sử và ứng dụng của số Pi trong đời sống - VnExpress
+
+KEY WORDS: số Pi, toán học, ý nghĩa, Ngày số Pi
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Từ ba chữ số đầu tiên của số Pi (ký hiệu π) là 3,14, thế giới chọn ngày 14 tháng 3 làm Ngày số Pi, bởi con số này viết theo kiểu Mỹ là 3/14. Ngày lễ được tổ chức lần đầu vào năm 1988 ở bảo tàng khoa học Exploratorium, thành phố San Francisco, bang California, Mỹ.
+Do từ Pi phát âm giống "pie" (chiếc bánh) trong tiếng Anh, người ta thường ăn mừng Ngày của Pi với bánh nướng. 
+ 
+ 
+Ý nghĩa của số Pi trong toán học
+Video: Business Insider
+Theo Business Insider, π là con số quan trọng bậc nhất trong toán học. Nó là hằng số có giá trị bằng tỷ số giữa chu vi của một đường tròn với đường kính của đường tròn đó. Vì vậy, ở bất kỳ nơi nào có hình tròn hoặc đường cong, số π cũng xuất hiện. Bạn không thể giải quyết bài toán hình học, lượng giác, giải tích hay các nhánh khác của toán học mà không sử dụng đến π.
+Xét vai trò là một con số, π cũng hấp dẫn những người yêu toán học. Nó là một số vô tỷ, có nghĩa không thể được viết dưới dạng phân số của hai số nguyên, bất kể bạn cố chọn số nguyên nào. Nói cách khác, π là số thập phân vô hạn không tuần hoàn, tức phần thập phân sẽ kéo dài mãi và không lặp lại.
+Đặc biệt hơn, π thuộc nhóm rất ít được các nhà toán học gọi là số siêu việt. Nó được định nghĩa là số không phải nghiệm của bất kỳ phương trình đại số nào. 
+Bánh nướng thường được dùng để ăn mừng Ngày số Pi. Ảnh: Transit Wireless
+Trang Exploratorium thông tin, Pi được phát hiện gần 4.000 năm trước bởi người Babylon cổ đại. Một bản khắc ở Babylon có niên đại khoảng 1900-1680 trước công nguyên cho thấy giá trị của nó được tính là 3,125.
+Cuốn "Rhind Papyrus" khoảng năm 1650 trước công nguyên cũng mở ra cái nhìn sâu sắc về toán học của Ai Cập cổ đại. Người Ai Cập đã tính diện tích hình tròn bằng một công thức cho giá trị của π là 3.1605, chính xác hơn con số trước đó của người Babylon.
+Archimedes thành Syracuse (287-212 trước công nguyên), một trong những nhà toán học vĩ đại nhất thời Hy Lạp cổ đại, góp công lớn trong việc tìm ra giá trị của số π. Ông sử dụng định lý Pythagoras để tìm diện tích của hai đa giác thông thường: đa giác ngoại tiếp đường tròn và đa giác nội tiếp đường tròn.
+Archimedes biết rằng diện tích của hình tròn là một giá trị nằm ở khoảng giữa diện tích của đa giác ngoại tiếp và đa giác nội tiếp của nó, tức bằng cách tính diện tích của hai đa giác này, ta giới hạn được khoảng giá trị của diện tích hình tròn. Tuy không tìm ra con số cụ thể, ông tính được π là một số nằm giữa 3 1/7 và 3 10/71.
+Cách tiếp cận tương tự đã được sử dụng bởi Tổ Xung Chi (429-501), một nhà toán học và thiên văn học xuất chúng người Trung Quốc. Ông đã tính giá trị tỷ lệ giữa chu vi của một đường tròn với đường kính của nó là 355/113. Để làm được điều đó, ông thực hiện các phép tính dài liên quan đến hàng trăm căn bậc hai cho ra kết quả đến 9 chữ số thập phân. Tuy nhiên, vì cuốn sách của ông bị thất lạc, việc ông làm thế nào để tìm ra π vẫn chưa được giải đáp cặn kẽ.
+Các nhà toán học bắt đầu sử dụng ký hiệu π, vốn là chữ cái Hy Lạp, vào những năm 1700. Ký hiệu này được giới thiệu vào năm 1706 bởi William Jones, nhà toán học xứ Wales, sau đó nhà toán học Thụy Sĩ Leonhard Euler góp phần phổ biến nó từ năm 1737.
+Theo Amazing Archimedes, ngoài toán học, các ngành khoa học khác cũng sử dụng π trong một số công thức quan trọng, bao gồm các ngành thống kê, nhiệt động lực học, cơ học, vũ trụ học, lý thuyết số và điện từ học.
+π được sử dụng để tính giá trị của hàm lượng giác như sin, cosin, đường tiếp tuyến..., từ đó đo vận tốc chuyển động tròn của những thứ như bánh xe tải, trục động cơ, bánh răng.
+Người ta cũng dùng nó để kiểm tra tốc độ, độ chính xác của máy tính, phát hiện các lỗi phần mềm hoặc phần cứng. 
+Trong tự nhiên, π có thể ứng dụng để đo những thứ như sóng ánh sáng, sóng âm, sóng biển, khuỷu sông (phần khúc khuỷu của con sông)...
+π được các nhà thiên văn học sử dụng từ sớm để nghiên cứu Trái Đất, chuyển động và quỹ đạo của nó. Nó thậm chí còn là yếu tố quan trọng giúp tìm kiếm các hành tinh mới và bầu khí quyển của chúng bên ngoài hệ Mặt Trời. Nhờ π, người ta tính được mật độ của một hành tinh, từ đó hiểu về bản chất của nó, chẳng hạn được tạo thành chủ yếu từ đá hay khí. 
+NASA sử dụng π để tính toán quỹ đạo tàu vũ trụ, đo đạc miệng núi lửa, tìm hiểu về thành phần các tiểu hành tinh. Gần đây, π được dùng để tính toán lượng hydro trong đại dương bên dưới bề mặt của Europa, vệ tinh của Sao Mộc. 

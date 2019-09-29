@@ -1,0 +1,28 @@
+TITLE: 3 nghề kỹ sư IT có thể kiếm nửa tỷ đồng mỗi năm ở Việt Nam - VnExpress Kinh Doanh
+
+KEY WORDS: lương IT, kỹ sư công nghệ thông tin, nhân lực CNTT, AI, ML, Data
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Báo cáo về tình hình thị trường và xu hướng ngành Công nghệ thông tin năm 2019 do TopDev vừa công bố cho biết, xu hướng AI và Machine Learning hiện vẫn giữ vị trí quan tâm dẫn đầu trong ngành này. Có đến 25% lập trình viên muốn tìm hiểu về công nghệ này và mong muốn được học về AI trong năm 2019. Ngoài ra DevOps cũng đang một trong những xu hướng mà các back-end, system admin đang muốn hướng tới.
+Bản thân các kỹ sư chuyên về những công việc này có kinh nghiệp và năng lực giỏi cũng đang được trả lương cao hàng đầu, xấp xỉ 500 triệu đồng mỗi năm.
+Kỹ sư máy học, trí tuệ nhân tạo
+Mức lương bình quân tháng cho kỹ sư AI và ML theo cấp độ. Nguồn: TopDev
+Theo TopDev, trí tuệ nhân tạo (AI) đã đạt sự chín muồi nhất định tại thị trường Việt Nam. Sau thời gian dài phát triển, các dự án gần đây từ các công ty lớn nhỏ đã chứng tỏ sự sẵn sàng cho các cuộc cách mạng về AI sắp tới. Nhờ sự phát triển của các nền tảng (OpenAI, OpenCV, Tensor - Flow, Caffe...), vấn đề về thuật toán không còn quá khó khăn. Phần còn lại là có đủ dữ liệu, hoặc lớn hoặc chất lượng, để AI phát huy tác dụng.
+Có đến hơn 73% công ty công nghệ đang có ý định ứng dụng AI. Điều này cũng khiến cho nhu cầu về các kỹ sư AI đang rất cao. Mức lương của một kỹ sư AI giỏi có thể lên đến 520 triệu một năm.
+Chuyên gia dữ liệu
+Mức lương bình quân tháng cho chuyên gia dữ liệu theo cấp độ. Nguồn: TopDev
+Ba năm gần đây, Data Science đã không còn quá xa lạ với cộng đồng công nghệ tại Việt Nam. Những công ty lớn như FPT, VNG hay Vintech đều có những vị trí quan trọng là các kỹ sư IT có trình độ cao. Tại các nước Đông Nam Á cũng như Việt Nam, ngành tài chính, bất động sản, y tế, marketing... đã có nhiều bước tiến trong việc sử dụng dữ liệu hiệu quả.
+Theo Intel, xu hướng "thông minh hóa" doanh nghiệp, đặc biệt là ứng dụng AI và máy học (Machine Learning) là vùng đất màu mỡ cho Data Science phát triển. Mức lương của chuyên gia dữ liệu (Data Scientist) ở Việt Nam hiện có thể lên đến 470 triệu đồng mỗi năm.
+Chuyên viên DevOps
+Mức lương bình quân tháng cho chuyên viên DevOps theo cấp độ. Nguồn: TopDev
+Năm 2019 là năm quan trọng đối với cộng đồng lập trình với phương pháp DevOps. Devops yêu cầu người kỹ sư phải hoàn thiện bản thân với những kỹ năng xây dựng hạ tầng, cấu hình, thử nghiệm, xây dựng và phát hành. TopDev dự báo, trong những năm sắp tới, DevOps sẽ là vị trí quan trọng mà nhiều công ty tìm kiếm, đặc biệt là những công ty có hệ thống lớn. Mức lương của vị trí này có thể lên đến 450 triệu đồng mỗi năm.
+Về thị trường nhân lực công nghệ thông tin nói chung, Báo cáo nhận định rằng, dù các trường có sức đào tạo mạnh, mức lương thị trường cạnh tranh, doanh nghiệp trải thảm đỏ nhưng việc tuyển người vẫn còn gặp nhiều khó khăn.
+Cụ thể, 30,8 triệu đồng mỗi tháng là mức lương trung bình mà đa phần các nhà tuyển dụng sẵn sàng trả cho một lập trình viên có kinh nghiệm, và tỷ lệ tăng lương 6 tháng đầu năm 2019 đạt 15 -18%. Với mức lương trung bình là 27,6 triệu đồng mỗi tháng, C++ đang dẫn đầu trong top 5 ngôn ngữ được trả lương cao nhất, theo sau đó là Python và Java.
+Trong đó, vì sự khan hiếm của thị trường nhân lực, các kỹ sư AI/ML hứa hẹn sẽ đạt mức lương khá cao, trung bình là 34,8 triệu đồng mỗi tháng. Đối với các cấp quản lý, con số này không thấp hơn 35 triệu đồng tháng với kinh nghiệm trên 5 năm. Tuy nhiên, việc tuyển dụng những vị trí này gặp rất nhiều khó khăn do những đặc thù và yêu cầu gắt gao. Đây cũng là lý do khiến cho thị trường nhân lực IT càng hạn hẹp.
+Lương trung bình tháng của các vị trí theo chuyên môn trong ngành CNTT năm 2019. Nguồn: TopDev
+Năm 2019 đánh dấu mức tăng kỷ lục trong nhu cầu tuyển dụng đến 56%. Ước tính đến năm 2021, riêng lao động trong ngành lập trình sẽ cần khoảng 400.000 nhân lực trong khi khả năng hiện tại chỉ có khoảng 200.000 lao động đáp ứng được nhu cầu công việc.
+"Giới công nghệ Việt Nam đang đứng trước hai làn sóng. Làn sóng thứ nhất là  các quỹ đầu tư nước ngoài chú ý và tìm đến Việt Nam ngày càng nhiều hơn, sẽ có thêm nhiều startup mới ra đời. Làn sóng thứ hai là xu hướng chuyển đổi số của các doanh nghiệp thuộc các ngành nghề truyền thống để nâng cao cạnh tranh, khiến cho ngày càng nhiều công ty có nhu cầu tuyển dụng nhân sự công nghệ thông tin", ông Nguyễn Hữu Bình - CEO TopDev lý giải.
+Ông Bình nói thêm rằng làn sóng khởi nghiệp công nghệ cũng như việc gia tăng thêm các dự án từ các tập đoàn lớn đã có mặt trên thị trường, cũng góp phần không nhỏ trong xu hướng gia tăng nhu cầu nhân sự hiện nay. Thị trường khan hiếm và bản thân các lập trình viên đều hiểu rõ giá trị của họ nên việc giữ chân nhân sự thực sự làm đau đầu nhiều doanh nghiệp.
+Viễn Thông	

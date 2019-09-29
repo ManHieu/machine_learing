@@ -1,0 +1,21 @@
+TITLE: Đáp án bài toán chuyển động ngược chiều trong đề APMOPS - VnExpress
+
+KEY WORDS: đáp án, bài toán, chuyển động ngược chiều, đề APMOPS
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 29: Opposite-direction Motion Problems
+Problem: Alan and Betty started running towards each other at the same instant, from cities A and B respectively. It is known that the ratio of Alan’s speed to Betty’s is 3:2. Given that station C is between the two cities, Alan and Betty reached C at 0900h and 1900h respectively. At what time did Alan and Betty meet? (Write your answer using the 4-digit format. For example, if your answer is 14:35, please write 1435).
+Dịch đề: Alan and Betty cùng lúc bắt đầu chạy về phía nhau từ thành phố A và B tương ứng. Tỉ lệ vận tốc của Alan và Betty là 3:2. Ga C nằm giữa hai thành phố, Alan và Betty đến C lần lượt vào lúc 0900h và 1900h. Hỏi Alan và Betty gặp nhau lúc mấy giờ? (Viết đáp án của bạn dưới dạng 4 chữ số, ví dụ, nếu đáp án của bạn là 14:35, hãy viết 1435).
+Ảnh: Executivestyle
+Lời giải:
+Khi Alan đến C lúc 0900h thì Betty cần phải mất thêm 10h để đến C lúc 1900h. Do tỷ lệ vận tốc của Alan và Betty là 3:2 nên tỷ lệ thời gian của Alan và Betty là 2:3.
+Thời gian Alan chạy từ C đến khi gặp Betty là: 10h × 2/5 = 4h
+Thời điểm Alan và Betty gặp nhau là: 0900h + 0400h = 1300h
+Đáp số: 1300.
+Solution
+After Alan reached C at 0900 h, it took Betty 10 more hours to reach C at 1900 h. Since the ratio of Alan’s speed to Betty’s is 3:2, the ratio of Alan’s travel time to Betty’s is 2:3.
+The time it took Alan to run from C to his meeting point with Betty is: 10h × 2/5 = 4h.
+Thus, Alan and Betty met each other at: 0900h + 0400h = 1300h.
+The answer is 1300. 

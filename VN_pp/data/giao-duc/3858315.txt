@@ -1,0 +1,16 @@
+TITLE: Bốn phần mềm hữu ích khi dùng máy tính - VnExpress
+
+KEY WORDS: phần mềm, hữu ích, máy vi tính, mẹo sử dụng máy vi tính, khôi phục dữ liệu
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+1. Khôi phục dữ liệu đã xóa
+Sau khi đã xóa các tập tin và thậm chí làm trống thùng rác, bạn vẫn có thể khôi phục lại chúng. Hãy tải phần mềm Recuva và sửa chữa sai lầm nếu lỡ tay xóa đi một thứ gì đó rất quan trọng. Bạn chỉ cần chọn loại tập tin, chương trình sẽ tìm kiếm giúp bạn. Tuy nhiên, nếu thời gian xóa đã quá lâu, có thể Recuva sẽ thất bại trong việc xác định vị trí của nó. 
+2. Kiểm tra xem ai đang dùng trộm Wi-Fi
+Đôi khi kết nối của bạn trở nên rất chậm vì người khác đang lén sử dụng mà không được phép. Nếu không muốn đổi mật khẩu, đồng thời muốn tìm ra những ai đang dùng trộm Wi-Fi, bạn có thể tải Who Is on My Wi-Fi, tìm kiếm và ngắt kết nối với thiết bị lạ. 
+3. Điều chỉnh độ sáng màn hình theo môi trường xung quanh
+Mỗi người có một không gian để sử dụng máy vi tính mỗi ngày. Đôi khi, màn hình sáng rực trong không gian tối tăm có thể ảnh hưởng đến mắt và cả độ tập trung của bạn.
+Hầu hết máy tính có chế độ ban đêm nhằm điều chỉnh độ sáng. Nếu chưa hài lòng với hiệu quả của nó, bạn có thể tải và cài đặt F.lux. Phần mềm này sẽ tự động điều chỉnh độ sáng màn hình dựa trên mọi môi trường mà máy tính được đặt vào.
+4. Ẩn địa chỉ IP
+Có nhiều cách để ẩn địa chỉ IP của bạn và lướt web an toàn hơn. Trước hết, bạn cần cài đặt VPN trên trình duyệt Internet để thay đổi vị trí thực của bạn. Sau đó, bạn có thể tải PeerBlock, ứng dụng phổ biến nhất nhằm tạo "tường lửa" bảo vệ máy tính.  

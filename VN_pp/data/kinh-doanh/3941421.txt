@@ -1,0 +1,33 @@
+TITLE: Rủi ro mất tiền trong thanh toán trực tuyến thời 4.0 - VnExpress Kinh Doanh
+
+KEY WORDS: bảo mật, thanh toán, lừa đảo thanh toán, tội phạm thẻ, an ninh thanh toán, an toàn thanh toán
+
+TOPIC: kinh doanh, ebank
+
+CONTENT: 
+"An ninh thanh toán sẽ ngày càng phức tạp có thể đến từ mọi lúc, mọi nơi", ông Chris Clark - Chủ tịch Visa khu vực Châu Á - Thái Bình Dương tuyên bố tại Hội nghị Thượng đỉnh Bảo mật Visa châu Á – Thái Bình Dương 2019 vừa diễn ra tại Thượng Hải (Trung Quốc). Ông nói, hiện mối quan tâm hàng đầu của người dùng khi thanh toán điện tử là an toàn thế nào chứ không phải thanh toán ra sao.
+Thanh toán kỹ thuật số đang phát triển mạnh ở khu vực châu Á – Thái Bình Dương, khi người tiêu dùng ngày càng tích cực mua bán trực tuyến và đón nhận các phương thức thanh toán phi tiền mặt. Xu hướng này được ủng hộ bởi hàng loạt ngân hàng trung ương và chính phủ các nước.
+Ông Chris Clark - Chủ tịch Visa khu vực Châu Á - Thái Bình Dương tại hội nghị. Ảnh: Viễn Thông
+Tuy nhiên, sự phát triển của thanh toán kỹ thuật số trong giai đoạn Cách mạng công nghiệp lần thứ 4 tạo nền tảng cho dữ liệu phát triển đáng kể nhưng cũng đồng thời thu hút tội phạm mạng.
+Ngành 'công nghiệp đánh cắp tiền' 600 tỷ USD
+Hầu hết chính phủ tại khu vực châu Á – Thái Bình Dương đều tập trung vào lộ trình số hóa nhằm giảm thiểu sự phụ thuộc vào tiền mặt. "Điều này tạo ra vô số cơ hội cho các đổi mới trong thanh toán kỹ thuật số. Ngành công nghiệp thanh toán tạo ra một lượng lớn các dữ liệu quan trọng, trong số đó có những dữ liệu nhạy cảm, thu hút các tổ chức tội phạm," ông Joe Cunningham, Giám đốc Quản lý Rủi ro khu vực châu Á – Thái Bình Dương của Visa, cho biết.
+Theo nghiên cứu của Juniper Research, gian lận trong thanh toán số dự kiến gây thiệt hại 130 tỷ USD cho các nhà bán lẻ trên thế giới trong 5 năm tới. Còn khảo sát của Liên đoàn bán lẻ quốc gia Mỹ và Forrester cho biết, 55% số đáp viên nói thách thức hàng đầu trong lĩnh vực thanh toán mà các nhà bán lẻ phải đối mặt là gian lận.
+Không ít trong 25 tỷ thiết bị được kết nối vào 2021 có khả năng thành điểm thanh toán.
+Số liệu khác được công bố tại hội nghị cho hay, 5G và IoT giúp tạo ra thế giới "siêu kết nối", với 25 tỷ thiết bị có thể nói chuyện với nhau vào năm 2021. Tuy nhiên, nó cũng tạo ra nền công nghiệp tội phạm mạng trị giá 600 tỷ USD. Cứ mỗi vụ thất thoát dữ liệu sẽ gây tiêu tốn  trung bình 1,2 triệu USD.
+"Ngày nay tội phạm mạng được trang bị công nghệ và nguồn lực tốt hơn. Cần chú ý rằng, 600 tỷ USD nghĩa là 1% GDP toàn cầu", bà Shirley Yu - Tổng giám đốc của Visa Trung Quốc bình luận.
+'Con dao hai lưỡi' của dữ liệu
+"Bạn đặt mật khẩu từ 1 đến 6 cho những tài khoản cho rằng không quan trọng, như tài khoản mua vé xem phim chẳng hạn, nhưng tội phạm sẽ thu nhặt thông tin của bạn từ khắp nơi. Và những thông tin về bạn được cóp nhặt lại sẽ trở thành một rắc rối lớn", bà Yu cảnh báo thêm.
+Đi cùng 4 cuộc cách mạng công nghiệp, lừa đảo trong lĩnh vực tài chính cũng "tiến hóa" theo thời gian. Trong "Cách mạng lần thứ nhất", chúng tập trung vào lừa đảo thư tín. "Cách mạng lần hai" bùng phát đánh cắp và làm giả thẻ ngân hàng. "Cách mạng lần ba", với công nghệ thông tin phát triển, giúp chúng tấn công và đánh cắp dữ liệu quy mô lớn. Đến "Cách mạng lần bốn", dữ liệu ngày càng nhiều cũng là con mồi cho nhiều cách thức 'đánh cắp tiền' khác nhau.
+"Dữ liệu là sự hứa hẹn nhưng nó cũng là rắc rối lớn", ông Chris Clark thừa nhận. Cách đây 5 năm, tại Diễn đàn Kinh thế Thế giới (WEF), các chuyên gia đã dự đoán sự hữu ích của Big Data (dữ liệu lớn). Dữ liệu lớn kết hợp AI (trí thông minh nhân tạo) giúp phân tích người dùng, mở ra những cơ hội kinh doanh mới. Dữ liệu còn giúp cải thiện sức khỏe, chống lại đói nghèo và gia tăng an ninh.
+Sự đổi mới cũng mang hiệu ứng hai chiều. Tội phạm mạng ngày càng tinh vi và phổ biến hơn, buộc ngành công nghiệp thanh toán nghiên cứu những phương thức và giải pháp mới để ngăn chặn nguy cơ tiềm ẩn. Hiện nay, các công nghệ như chip EMV, Tokenization (mã hóa bảo mật tài khoản), Biometric (sinh trắc học), AI và phân tích dữ liệu... đang được kết hợp để đối phó.
+Bảo mật thanh toán thương mại điện tử là 1 trong 3 xu hướng bảo mật quan trọng. Ảnh: Pixabay
+Ví dụ, doanh số thương mại điện tử tại khu vực châu Á – Thái Bình Dương dự kiến sẽ đạt 3.500 tỷ USD vào năm 2021. Các công nghệ như Tokenization sẽ giúp đảm bảo không một thông tin chi tiết nào của mã token được truyền đi trong giao dịch trực tuyến.
+Ở Visa, công ty phát triển giải pháp 'chuẩn chi nâng cao', sử dụng máy học (Machine Learning) và AI để phân tích hơn 500 thuộc tính rủi ro và phân bổ điểm rủi ro cho mỗi giao dịch. Số điểm này sau đó được chia sẻ với các tổ chức tài chính để họ có thể đưa ra quyết định về việc phê duyệt hay từ chối giao dịch. Ông Joe Cunningham nói nếu dữ liệu được phân tích với các phương thức xác thực như sinh trắc học thì bảo mật trong thanh toán sẽ được tăng cường.
+Tầm nhìn cho Việt Nam
+Theo các chuyên gia, bảo mật thanh toán ở Việt Nam cũng cần đi theo 3 xu hướng chung của thế giới là: tiếp tục hạ thấp tỷ lệ lừa đảo thanh toán trực tiếp cá nhân, tăng các giải pháp bảo mật thanh toán điện tử trong bối cảnh thương mại điện tử phát triển và gia tăng khả năng ứng dụng công nghệ sinh trắc học.
+Cuối tháng 3/2019, Visa công bố Lộ trình an ninh thanh toán Việt Nam, với việc ứng dụng các công nghệ từng bước với thời điểm cụ thể. Các giải pháp này nhìn chung hướng đến việc làm dữ liệu mất giá trị với tội phạm; bảo vệ thông tin cá nhân và tài khoản; xác định những hành vi lừa đảo tiềm ẩn...
+"Chúng tôi đạt được sự đồng thuận cao của cơ quan quản lý cũng như các ngân hàng Việt Nam trong việc hoạch định ra lộ trình này. Các tổ chức, đơn vị đang sẵn sàng và có khả năng triển khai nó", ông Sriraman Shivakumar - Giám đốc Quản lý rủi ro, Visa khu vực Đông Nam Á cho hay.
+Một trong những chuyển động rõ nét ở Việt Nam là việc 7 ngân hàng đầu tiên vừa đồng loạt ra mắt thẻ ghi nợ nội địa (ATM) theo chuẩn chip EMV hồi cuối tháng năm. Động thái này nhằm thực hiện thông tư 41 của Ngân hàng Nhà nước hướng dẫn về lộ trình trong việc chuyển đổi toàn bộ thẻ ATM trên thị trường hiện nay sang công nghệ thẻ chip.
+Theo đó, trong năm 2019, các ngân hàng phải chuyển đổi 30% số lượng thẻ ATM trên thị trường sang thẻ chip. Đến năm 2021, toàn bộ 75 triệu thẻ ATM được đổi sang thẻ chip. Việc chuyển đổi kỳ vọng giúp Việt Nam thoát 'vùng trũng' về tội phạm thẻ.
+Tuy nhiên, vấn đề cũng không kém phần 'đau đầu' của các ngân hàng là chi phí chuyển đổi. Hiện chi phí chuyển đổi đang rơi vào khoảng 1 USD mỗi thẻ. Trên thị trường, giá mỗi thẻ chip dao động 1,5-2,5 USD.
+Viễn Thông	

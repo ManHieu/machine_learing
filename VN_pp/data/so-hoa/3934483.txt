@@ -1,0 +1,12 @@
+TITLE: Mật khẩu smartphone bị lộ qua âm thanh chạm màn hình - VnExpress Số Hóa
+
+KEY WORDS: hacker, bảo mật, mã PIN
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Các nhà nghiên cứu tại Đại học Cambridge (Anh) và Đại học Linköping (Thụy Điển) đã cảnh báo về một cách thức tấn công thiết bị di động mới. Hacker có thể xây dựng một mã độc kích hoạt microphone trên thiết bị để thu thập các âm thanh mà người sử dụng tạo ra khi gõ trên màn hình.
+Ảnh: BetaNews.
+Mã độc sẽ phân tích sóng âm từ microphone và màn hình, sau đó thông qua công nghệ máy học (machine learning), nó có khả năng đoán chính xác được 31 trong số 50 lượt đăng nhập mã PIN chứa bốn chữ số trên máy tính bảng Android chỉ sau 10 lần thử.
+"Hiện kiểu tấn công này chưa diễn ra, nhưng trong tương lai gần, nó chắc chắn sẽ bị hacker khai thác", Ilia Shumailov, trưởng nhóm nghiên cứu, nói trên Wall Street Journal. 
+Châu An

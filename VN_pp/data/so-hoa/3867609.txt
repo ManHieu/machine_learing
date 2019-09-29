@@ -1,0 +1,15 @@
+TITLE: iPhone 2019 có thể dùng modem 5G của Samsung, MediaTek - VnExpress Số Hóa
+
+KEY WORDS: Apple, . iPhone, 5G, Qualcomm
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Reuters, Apple đã có cuộc họp với Samsung và MediaTek trong việc cung cấp chip modem 5G cho iPhone 2019. Thông tin được hé lộ qua lời khai của Tony Blevins, giám đốc điều hành chuỗi cung ứng của Apple, tại phiên tòa giữa Qualcomm và Ủy ban Thương mại Liên bang Mỹ (FTC) hôm 11/1.
+Từ năm 2011 đến 2016, Apple đã dựa vào Qualcomm với tư cách là nhà cung cấp duy nhất các con chip hỗ trợ iPhone kết nối mạng không dây. Bắt đầu từ năm 2016, Apple hợp tác song song với cả hai doanh nghiệp là Intel và Qualcomm. Nhưng năm 2018, Apple đã chuyển hẳn sang dùng sản phẩm của Intel cho các mẫu điện thoại mới nhất của mình.
+FTC đang kiện Qualcomm, cáo buộc nhà cung cấp chip này tham gia vào các hoạt động cấp phép bằng sáng chế vi phạm luật cạnh tranh để duy trì vị trí thống lĩnh trong thị trường chip modem cao cấp.
+Trước tòa, Blevins làm chứng và nói Apple từ lâu đã tìm kiếm nhiều nhà cung cấp chip modem để không bị phụ thuộc hoàn toàn vào một ai, nhằm tiết kiệm chi phí.
+"Có quan hệ tốt với Intel nhưng chúng tôi cũng không muốn họ trở thành nhà cung cấp duy nhất của mình. Chúng tôi muốn có cả Qualcomm lẫn Intel", Blevins nói. Ông cũng làm chứng cho việc Apple xem xét đưa Intel trở thành nhà cung cấp chip modem duy nhất cho Apple Watch. Trước đó công ty đã bổ sung kết nối 4G trên dòng smartwatch này vào năm 2017 bằng cách sử dụng chip Qualcomm.
+Ông nói việc hợp tác với Samsung, nhà sản xuất hai dòng sản phẩm Galaxy và Note cạnh tranh với iPhone, không phải lựa chọn lý tưởng cho Apple. Tuy nhiên, Samsung hiện là nhà cung cấp linh kiện lớn nhất cho công ty.
+Blevins cũng không đề cập tới việc liệu Apple đã đưa ra quyết định về nhà cung cấp modem 5G hay công ty sẽ phát hành iPhone 5G vào năm 2019 hay không. 
+Bảo Nam

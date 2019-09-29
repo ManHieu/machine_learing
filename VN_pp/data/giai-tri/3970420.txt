@@ -1,0 +1,34 @@
+TITLE: Kỹ xảo tạo thú vật giống thật của 'The Lion King' - VnExpress Giải Trí
+
+KEY WORDS: The Lion King, Vua sư tử, Jon Favreau, Disney
+
+TOPIC: giải trí, phim, chuyện màn ảnh
+
+CONTENT: 
+Vua sư tử (The Lion King) là tác phẩm làm lại của bản gốc cùng tên năm 1994 - một trong những tác phẩm hoạt hình hay nhất mọi thời. Đạo diễn Jon Favreau chú trọng phần hình ảnh khi làm mới từng cảnh phim trong bản gốc theo phong cách photorealistic (đồ họa máy tính mô phỏng hình ảnh thực). Họ lần lượt thực hiện bốn công đoạn sản xuất chính cho phim.
+ 
+ 
+Một số cảnh kỹ xảo trong The Lion King (2019)
+Một số cảnh kỹ xảo trong "The Lion King". Nguồn video: hãng Moving Picture Company (làm kỹ xảo cho phim).
+Giai đoạn một: ở Kenya
+Đạo diễn hình ảnh Caleb Deschanel và Giám sát kỹ xảo Robert Legato ghi hình tư liệu tại Kenya. Nguồn: Disney.
+Đầu năm 2017, các thành viên chủ chốt trong đoàn phim bắt đầu chuyến thực địa kéo dài hai tuần tại châu Phi để quan sát môi trường tự nhiên cũng như các loài vật. Suốt chuyến đi, nhóm thu thập thông tin chi tiết của từng loài vật xuất hiện trong bản gốc 1994. Họ ghé thăm nhiều vườn quốc gia nằm dọc Kenya bằng trực thăng và xe chuyên dụng. Êkíp vận chuyển hệ thống ghi hình hiện đại, nặng gần một tấn để ghi lại tổng cộng 12 terabyte dữ liệu video, hơn 240.000 bức ảnh. Những hình ảnh này được chuyển giao cho đội ngũ kỹ xảo máy tính để làm tư liệu tham khảo cho quá trình tạo nên Pride Lands - bối cảnh chủ đạo của phim.
+Giai đoạn hai: tạo ra môi trường thực tế ảo cho hệ sinh thái Serengeti
+Một thành viên ê-kíp thao tác bằng dụng cụ thực tế ảo. Ảnh: Disney.
+Êkíp sử dụng Unity - một công cụ chuyên lập trình trò chơi điện tử phổ biến hiện nay, đặc biệt là thể loại nhập vai. Đã có hàng trăm trò chơi điện tử được tạo nên từ Unity, như Pokémon Go, Crossy Road, Wasteland.
+Từ nguồn tư liệu thực tế, các kỹ sư bắt đầu lập trình tạo nên một hệ sinh thái ảo với các loài động thực vật được chọn lọc kỹ càng dựa trên phiên bản gốc và ý đồ của đạo diễn Favreau. Trên trang Techcrunch, Ben Grossman - giám sát sản xuất thực tế ảo - cho biết sẻ quá trình này không chỉ có đồ họa máy tính, mà còn bao gồm trí thông minh nhân tạo. Khi mô hình 3D của một loài động vật được tạo ra, các kỹ sư sẽ "dạy" cho trí thông minh nhân tạo biết cách phát triển hình ảnh ứng với mỗi tình huống khi loài vật đó đói, lạnh.
+Giai đoạn ba: quay phim bằng công nghệ thực tế ảo
+Ê-kíp thực hiện chuyển động thú vật trong môi trường ảo. Ảnh: Disney. 
+Sau khi tạo hệ sinh thái với độ phân giải hình ảnh ở mức cơ bản, êkíp dựng lên một phim trường được đặt tên là Volume. Volume là sự kết hợp của hệ sinh thái ảo, cảm biến chuyển động và bộ giải mã hình ảnh thời gian thực. Trên American Cinematographer, Grossman chia sẻ sự kết hợp này đã mang đến độ chính xác "điên rồ".
+Trước khi bước vào Volume, các nhà quay phim đeo kính thực tế ảo, đồng thời trang bị thêm một số thiết bị vật lý mô phỏng máy quay, ống kính, các loại cần trục hỗ trợ máy quay ngoài đời thực. Trong phim trường, êkíp chọn góc máy, ánh sáng và cách di chuyển nhằm ghi lại hình ảnh ưng ý cho từng cảnh.
+Trên Indiewire, đạo diễn Favreau chia sẻ việc kết hợp giữa thao tác quay phim truyền thống và môi trường ảo giúp một phim hoạt hình như The Lion King 2019 có tính chất live-action (người đóng), dù trong phim không có hình ảnh đời thực nào. Bên cạnh đó, các nhà quay phim cũng quen việc thao tác trên thiết bị vật lý, thay vì ngồi bên bàn phím cùng các kỹ sư để lập trình các chuyển động máy quay. Dù các cảnh phim giống bản cũ, êkíp của The Lion King 2019 có cách xử lý mới cho một số cảnh. Tiêu biểu như cảnh đầu phim, họ sử dụng thêm góc máy bám theo đàn sếu đang bay trên mặt nước (tracking shot), thay vì chỉ có góc máy từ cao xuống mặt đất như trong bản gốc.
+Giai đoạn bốn: hậu kỳ
+Sau quá trình quay phim, êkíp bắt đầu hoàn thiện hình ảnh chi tiết. Thuật toán trong công cụ kết xuất hình ảnh mà họ sử dụng không khác biệt so với thuật toán từng sử dụng trong các tác phẩm theo phong cách photorealistic trước đây. Tuy nhiên, hình ảnh trong The Lion King 2019 đạt đến độ chân thật cao, được nhiều trang báo uy tín như Indiewire so sánh với bộ phim tài liệu Planet Earth. Theo CNN, độ chân thật đáng kinh ngạc này đến từ nguồn tư liệu hình ảnh, video phong phú mà các nhà làm phim đã kỳ công thu thập. Dữ liệu đầu vào càng tốt, thuật toán sẽ cho ra kết quả càng chi tiết và chân thực.
+ 
+ 
+The Lion King (Vua sư tử)
+Trailer "The Lion King".
+The Lion King là bộ phim đầu tiên áp dụng công nghệ đồ họa máy tính xuyên suốt thời lượng. Tác phẩm không sử dụng công nghệ motion capture (bắt chuyển động) là xu hướng hiện nay. Tuy không mô phỏng chuyển động trên loài vật hoặc diễn viên, đạo diễn Favreau có sự tham khảo về mặt thể hiện cảm xúc từ các diễn viên lồng tiếng. Thay vì tách diễn viên vào các buồng riêng để thu âm, Favreau tập hợp họ vào một không gian được đặt tên Black Box Theater. Tại đây, họ tương tác về cảm xúc khi lồng tiếng cùng nhau, kể cả có sự chồng lấn (overlap) về lời thoại ở một số tình huống. Cảm xúc của họ được êkíp dùng như một tư liệu tham khảo để nâng cao chất lượng hình ảnh đồ họa máy tính cho các nhân vật.
+Trước The Lion King, đã có một số tác phẩm ứng dụng công nghệ thực tế ảo để làm phim, tiêu biểu như The Jungle Book (cũng do Jon Favreau đạo diễn), Ready Player One và Alita. Tuy nhiên, điểm chung của những bộ phim này là vẫn có sự tham gia của các diễn viên đời thực, đồ họa máy tính chỉ chiếm một phần.
+Kỹ xảo và công nghệ trong The Lion King 2019 được nhiều chuyên trang uy tín đánh giá cao. Trang Indiewire nhận định đây là một "bước ngoặt" về công nghệ làm phim của thế giới. Bộ phim thu hút nhiều khán giả và hiện đạt doanh thu cao thứ hai từ đầu năm, chỉ sau Avengers: Endgame.
+Minh Dương 

@@ -1,0 +1,13 @@
+TITLE: Smartphone tương lai sẽ có camera 192 megapixel - VnExpress Số Hóa
+
+KEY WORDS: camera, smartphone, 192 megapixel
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo Mashable, các bộ xử lý mới được Qualcomm nâng cấp gồm Snapdragon 670, 675, 710, 845 và 855. Nhà sản xuất thực hiện bằng cách cập nhật bộ xử lý hiển thị hình ảnh, tăng cường tính năng giảm nhiễu đa khung (MFNR) và Zero Shutter Lag (ZSL), tính năng cho phép chụp với độ trễ bằng 0.
+Bên trái là ảnh chụp không có MFNR, bên phải là ảnh chụp có MFNR. Ảnh: Petapixel
+Trong đó, MFNR là cơ chế chụp nhiều ảnh và xếp chúng lại với nhau để loại bỏ độ nhiễu khỏi hình ảnh. Còn ZSL là kỹ thuật lưu trữ khung hình của ảnh trước khi người dùng nhấn nút. Khi nút chụp được nhấn, hệ thống lấy hình ảnh được lưu dưới dạng ảnh chụp, loại bỏ độ trễ màn trập của máy ảnh.
+Bản cập nhật này sẽ cho phép người dùng có thể chụp được các bức ảnh với độ phân giải 192 megapixel chỉ bằng camera trên điện thoại thông minh. Tất nhiên, hiện chưa có mẫu smartphone nào có thông số này và cần thêm thời gian trước khi các nhà sản xuất bắt kịp xu hướng mới.
+Đầu tháng 3, Xiaomi gây chú ý ra khi mắt Redmi Note 7 Pro tích hợp cảm biến máy ảnh 48 megapixel và hoàn toàn không sử dụng thuật toán để nâng độ phân giải hình ảnh. Smartphone này có giá khởi điểm chưa tới 5 triệu đồng.  
+Bảo Nam

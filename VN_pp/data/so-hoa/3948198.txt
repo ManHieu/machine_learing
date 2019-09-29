@@ -1,0 +1,13 @@
+TITLE: Google phát triển công cụ chặn quảng cáo mới - VnExpress Số Hóa
+
+KEY WORDS: Google, chặn quảng cáo, AdSense, AdWorks, Chrome, Chromium, AdBlock
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Quảng cáo (ad) là một trong những nguồn doanh thu chính của các doanh nghiệp hoạt động trên Internet. Tuy nhiên, không phải quảng cáo nào cũng mang lại trải nghiệm dễ chịu. Vì thế, Google đang nghiên cứu cách thức chặn tự động những nội dung khó chịu, "nặng nề", chiếm nhiều tài nguyên trên trình duyệt Chrome.
+Google đã nhiều lần thay đổi chính sách chặn quảng cáo trên Chrome. Tuy nhiên gần đây, công ty phải đối mặt với sự phản đối dữ dội của người dùng vì những tiện ích mở rộng (extention) trên trình duyệt này. Trước đó, Google đã tự phát triển một extention riêng, tích hợp thẳng vào Chrome, nhằm xử lý những mẩu quảng cáo không đạt chuẩn.
+Theo blog của trình duyệt mã nguồn mở Chromium, nhóm phát triển Chrome đang nghiên cứu một trình chặn quảng mới, nhắm đến các nội dung chiếm quá nhiều tài nguyên như CPU hay băng thông. Cụ thể, quảng cáo sẽ bị chặn nếu sử dụng quá 0,1% băng thông, 0,1% CPU mỗi phút. 
+Hình ảnh một quảng cáo bị chặn do vi phạm tiêu chuẩn của Google. Ảnh: 9to5Google.
+Là công ty chịu trách nhiệm về AdWorks và AdSense, Google rất khó xử trong việc hạn chế quảng cáo của các công ty khác vì có thể bị coi là cạnh tranh không lành mạnh.
+Hoàng Phong (theo 9to5Google)

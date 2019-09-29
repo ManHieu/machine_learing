@@ -1,0 +1,13 @@
+TITLE: công nghệ xe tự lái
+
+KEY WORDS: công nghệ xe tự lái, giao thông thông minh
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Tại hội thảo "Smart City: Từ nghiên cứu đến ứng dụng triển khai" tổ chức sáng 6/5 tại Hà Nội, các chuyên gia Nhật Bản đã thảo luận, một trong năm nhân tố cốt lõi để tạo nên thành phố thông minh là công nghệ xe không người lái (xe tự lái).
+Xe tự lái có thể dừng khi gặp chướng ngại vật. Ảnh minh họa: ST.
+TS Lê Anh Sơn, Đại học Nagoya (Nhật Bản) cho rằng, xe tự lái có thể giải được bài toán tắc nghẽn, xóa bỏ các vi phạm giao thông như lạng lách, tạt đầu, ép đầu xe, tai nạn giao thông... Xe tự động lái cũng có thể tự đi tìm chỗ đậu và trở lại điểm xuất phát, tiết kiệm thời gian cho người sử dụng xe.
+Tuy nhiên, không nên áp dụng mô hình xe tự lái ở tất cả các phương tiện tham gia giao thông bởi muốn vận hành xe tự lái phải có kết nối với các phương tiện khác, buộc thay thế hoàn toàn mọi phương tiện di chuyển bằng xe tự động lái. Khi đó con người bị lệ thuộc vào công nghệ, nếu an ninh mạng, an ninh công nghệ không được đảm bảo có thể gây ra những hậu quả nghiệm trọng. Vì vậy chỉ nên sử dụng trên mô hình giao thông công cộng như xe bus tàu điện ngầm...
+Về nguyên lý hoạt động, xe tự lái sẽ dừng lại khi phát hiện vật thể, đối tượng di chuyển gần. Tuy nhiên TS Tạ Đức Tùng, Đại học Tokyo cho rằng, với tình trạng giao thông hỗn loạn của Việt Nam hiện nay, các phương tiện di chuyển chưa đúng hàng lối, không tuân thủ luật giao thông triệt để khiến cho việc áp dụng xe tự lái trong hệ thống giao thông công cộng của Việt Nam rất khó khăn.
+TS Sơn cho rằng, trước mắt xe tự lái có thể áp dụng được ngay ở Việt Nam trên quy mô khu đô thị. Để ứng dụng rộng thì Việt Nam cần cải thiện ý thức của người tham gia giao thông, cải thiện và nâng cao chất lượng cơ sở hạ tầng. 

@@ -1,0 +1,11 @@
+TITLE: Bài toán diện tích thách thức người lớn trong đề thi APMOPS 2014 - VnExpress
+
+KEY WORDS: bài toán, diện tích, thách thức, người lớn, đề thi, APMOPS, đề thi quốc tế, toán quốc tế, học toán tiếng Anh
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Chủ đề về diện tích xuất hiện rất đa dạng từ lớp 4 đến lớp 12 cả ở bậc đại học và sau đại học. Có 20 phương pháp giải dạng toán diện tích cho học sinh 11-13 tuổi. Dưới đây là một bài toán rất hay về diện tích trong kỳ thi Olympic Toán học châu Á - Thái Bình Dương (APMOPS) 2014.
+Topic 16.2: Area
+Problem: As shown in the diagram, ΔABC is an isosceles right-angle triangle with AB = 28 cm. BC is the diameter of the semi-circle and point D is the midpoint of arc BC. Find the area of the shaded region in cm2. (Take π to be 22/7.)
+Dịch đề: Trong hình dưới đây, ΔABC là tam giác vuông cân có cạnh AB = 28 cm. BC là đường kính của nửa đường tròn và điểm D là trung điểm của cung BC. Tính diện tích phần tô đậm theo cm2. (Lấy π = 22/7.) 

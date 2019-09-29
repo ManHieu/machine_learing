@@ -1,0 +1,23 @@
+TITLE: 4 công nghệ 'chìa khóa thành công' cho doanh nghiệp năm 2019 - VnExpress Kinh Doanh
+
+KEY WORDS: chuyển đổi số, tự động hóa, 5G, mobile banking
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+VMD 2019 dẫn lời các chuyên gia cho rằng, chuyển đổi số (digital transformation) với sức phủ lớn, đang đặt ra hai kịch bản cho các doanh nghiệp: hoặc chết, hoặc phát triển vượt bậc nếu biết tận dụng lợi thế công nghệ. Sau đây là 5 xu hướng then chốt ảnh hưởng đến thành công của chuyển đổi số.
+Thanh toán di động
+Xu hướng này đã trở thành phương thức thanh toán phổ biến tại nhiều quốc gia phát triển, thúc đẩy các giao dịch thanh toán cho toàn thị trường. Các ưu điểm của nó bao gồm: nhanh chóng, chính xác và hạn chế chi phí.
+Theo Vụ Thanh toán (Ngân hàng Nhà nước), giá trị thanh toán qua qua di động và ví điện tử đến hết quý III/2018 tăng 126% và 161%. so với cùng kỳ 2017. VMD 2019 cho rằng, các ứng dụng đặt xe và đặt thức ăn đã góp phần không nhỏ cho sự tăng trưởng vượt bậc này.
+Tự động hóa 
+Tự động hóa quy trình (Robotics Process Automation – RPA) trở thành giải pháp rất "thời thượng" trong năm 2018. RPA thường được đặt trong nhóm với Trí tuệ nhân tạo (Artificial Intelligence – AI) và Học máy (Machine Learning – ML) và sự phát triển của tổ hợp này đã bùng nổ được một thời gian. Tuy nhiên, khi tách riêng ra, RPA được dự đoán sẽ tăng trưởng đáng kinh ngạc như một thị trường độc lập.
+Theo báo cáo của Forrester, thị trường RPA thế giới trị giá khoảng 250 triệu USD vào năm 2016, ước tính sẽ tăng lên 2,1 tỷ đôla vào năm 2021. Chỉ riêng trên thị trường phần mềm G2 Crowd, số lượng và tần suất truy cập vào trang danh mục RPA đã tăng đáng kể trong suốt năm 2018.
+Từ thời điểm danh mục được thêm vào tháng 2/2018 đến cuối tháng 10/2018, lưu lượng truy cập không phải trả tiền cho RPA đã tăng gần 10 lần và hiện là hạng mục cao thứ mười về lưu lượng truy cập miễn phí G2 Crowd, điều đó có nghĩa người mua đang rất tích cực tìm kiếm các giải pháp tự động hóa.
+Internet vạn vật
+Theo dự báo mới nhất của Business Insider Intelligence, sẽ có hơn 64 tỷ thiết bị IoT được cài đặt trên toàn thế giới vào năm 2026, tăng từ khoảng 10 tỷ vào năm 2018. Các công ty và người tiêu dùng sẽ chi gần 15.000 tỷ USD cho các thiết bị IoT, giải pháp và hệ thống hỗ trợ đến năm 2026. Đầu tư hàng năm dự kiến sẽ vượt 1.000 tỷ USD vào năm 2021.
+Tại Việt Nam, các chuyên gia dự báo IoT sẽ gắn liền "như hình với bóng" cùng chiếc smartphone của từng cá nhân. TopDev cho rằng cuộc đua sẽ nóng bỏng hơn giữa những nhà cung cấp khi có đến 22% các doanh nghiệp khảo sát tin rằng, IoT sẽ là một trong những mũi nhọn đáng đầu tư nhất trong năm nay.
+Mạng 5G
+Một trong những công nghệ được mong chờ hàng đầu năm nay là mạng 5G. Không chỉ có tốc độ đường truyền nhanh gấp nhiều lần so với 4G LTE, 5G còn có thể cho phép số lượng thiết bị kết nối gấp 100 lần trong 1 đơn vị diện tích.
+Theo khảo sát của Ericsson, 92% các chuyên viên trong số 100 nhà điều hành viễn thông toàn cầu đồng ý rằng 5G sẽ mở đường cho sự nổi lên của các ứng dụng công nghệ. Đặc biệt hơn, mạng dữ liệu 5G sẽ giúp thiết lập Internet vạn vật trở thành một phần không thể thiếu trong cuộc sống, thông qua việc đặt nền móng để phát huy hết toàn bộ tiềm năng của nó.
+"Mạng 5G sẽ thay đổi cách thức kinh doanh viễn thông và cung cấp các khả năng mới, biến đổi mới trong không gian IoT. Nó sẽ tăng thêm sức hấp dẫn cho các giải pháp di động. Đó là lý do tại sao gần một nửa các nhà cung cấp IoT cho biết họ có kế hoạch hỗ trợ mạng 5G cho các giải pháp của họ trong hai năm tới", Business Insider Intelligence nhận định.
+Viễn Thông	

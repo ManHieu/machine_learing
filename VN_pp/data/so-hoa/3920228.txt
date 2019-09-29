@@ -1,0 +1,16 @@
+TITLE: Camera nhận dạng khuôn mặt và trí tuệ nhân tạo giúp cảnh sát Trung Quốc bắt người trốn truy nã 20 năm - VnExpress Số Hóa
+
+KEY WORDS: DeepGlint, camera AI, trung quốc, trí tuệ nhân tạo, theo dõi người dùng, chấm điểm công dân
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cố gắng tìm kiếm một tên tội phạm đang lẩn trốn trong số 1,4 tỷ người dân là thách thức lâu năm đối với các cơ quan thực thi pháp luật của Trung Quốc. Tuy nhiên, công nghệ nhận dạng khuôn mặt kết hợp trí tuệ nhân tạo (AI) mới từ hàng loạt công ty khởi nghiệp có thể giúp hiện thực hóa điều này.
+Công nghệ nhận dạng khuôn mặt ngày càng được áp dụng nhiều tại Trung Quốc. Ảnh: SCMP.
+DeepGlint, một công ty có trụ sở tại Bắc Kinh, mới đây đã giúp cảnh sát Trung Quốc tóm gọn tên tội phạm đã trốn truy nã trong 20 năm. Để làm điều này, DeepGlint cho biết hệ thống của họ lấy cảm hứng từ mắt người, cho phép camera có thể chụp ảnh, nhận dạng các cá nhân và phương tiện ở khoảng cách 50 mét dưới dạng 3D, sau đó cảnh báo đến cơ quan chức năng nếu đối tượng có dấu hiệu đáng ngờ. Từ khi áp dụng, hệ thống này đã giúp cảnh sát bắt ít nhất 100 nghi phạm.
+DeepGlint đã được Sequoia Capital, một quỹ đầu tư mạo hiểm nổi tiếng thế giới, hỗ trợ, trong đó có việc đầu tư hệ thống trích xuất tự động, phân tích và "hiểu" các thông tin hữu ích từ hình ảnh hoặc chuỗi hình ảnh, sau đó đối chiếu với cơ sở dữ liệu có sẵn.
+Cũng theo đại diện DeepGlint, công nghệ của họ đã áp dụng tại vùng tự trị Tân Cương (Trung Quốc), giúp cảnh sát theo dõi và truy bắt hơn một triệu đối tượng có nguy cơ trở thành khủng bố. Tháng 4/2018, công ty này cũng đã thành lập một trung tâm ứng dụng giải pháp nhận dạng khuôn mặt để hỗ trợ sở cảnh sát Tân Cương.
+Không chỉ hoạt động độc lập, DeepGlint cùng các công ty chuyên về nhận dạng khuôn mặt khác tại Trung Quốc như SenseTime Group, Yitu Technology, Megvii thành lập liên minh, với mục đích giúp nhà chức trách chống tội phạm, duy trì trật tự công cộng.
+Theo số liệu của IHS Markit năm 2017, Trung Quốc hiện có khoảng 176 triệu camera giám sát ở khu vực công cộng và tư nhân, gấp hơn 3 lần so với 50 triệu camera tại Mỹ. Công ty nghiên cứu thị trường này cũng ước tính khoảng 450 triệu camera mới sẽ được lắp đặt tại quốc gia đông dân nhất thế giới.
+Nhiều hệ thống camera tại Trung Quốc cũng sử dụng kết hợp với các hành vi trò chuyện trực tuyến, trao đổi dữ liệu, mua sắm, thanh toán hóa đơn... để chấm điểm "uy tín xã hội" của công dân. Xếp hạng của họ phụ thuộc vào hành vi, người sai phạm nhiều sẽ bị kỳ thị, bị hạn chế phúc lợi xã hội. Ngược lại, người chấp hành tốt sẽ được thưởng, được ưu tiên. Human Rights Watch, một tổ chức theo dõi nhân quyền, cho rằng sự nở rộ của camera công cộng sẽ gây lo ngại về vấn đề quyền riêng tư của người dân.
+Bảo Lâm (theo SCMP)

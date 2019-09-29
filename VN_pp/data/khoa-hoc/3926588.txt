@@ -1,0 +1,15 @@
+TITLE: Định nghĩa về kilogram thay đổi sau 130 năm
+
+KEY WORDS: định nghĩa về kilogram, thay đổi định nghĩa về kilogram
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Khối lượng của Le Grand K giảm dần theo thời gian do mất nguyên tử. Ảnh: Foosya.
+Các nhà vật lý học thay đổi định nghĩa cũ về kilogram, khối kim loại 130 năm tuổi làm từ bạch kim và iridi mang tên "Le Grand K" nặng 1 kg đặt tại căn phòng ở Pháp bằng phép đo trừu tượng dựa trên hằng số Planck. Quyết định có hiệu lực từ ngày Đo lường Thế giới (20/5).
+Đây là một thành tựu lớn giúp giá trị của đại lượng kilogram không thay đổi theo thời gian. Trước đó, dưới tác động từ môi trường, khối kilogram tiêu chuẩn mất các nguyên tử và do đó giảm khối lượng.
+Theo giải thích của Viện Tiêu chuẩn và Kỹ thuật Quốc gia Mỹ, định nghĩa kilogram mới dựa trên mối quan hệ cơ bản giữa khối lượng và năng lượng, được phản ánh trong công thức E = mc^2 của Einstein, có nghĩa năng lượng bằng khối lượng nhân bình phương vận tốc ánh sáng. Khối lượng có thể được chuyển đổi thành năng lượng và ngược lại.
+Năm 1900, nhà vật lý Max Planck chỉ ra E = hv, có nghĩa năng lượng bằng v - tần số của một số hạt như photon, nhân với hằng số Planck được ký hiệu là h (h = 6,62607015 × 10-34). Đại lượng v trong công thức E = hv phải luôn là một số nguyên, như 1, 2, 3 hoặc 6.492, không được dùng phân số hay số thập phân.
+Định nghĩa kilogram mới kết hợp hai công thức E = mc^2 và E = hv. Nhờ đó, các nhà khoa học có thể xác định khối lượng theo hằng số Planck luôn không thay đổi. Một liên minh quốc tế gồm các phòng thí nghiệm khoa học cùng thực hiện các phép đo chính xác nhất về hằng số Planck với sai số chỉ vài phần tỷ. Khối lượng của một kilogram theo định nghĩa mới tương ứng với năng lượng của 1,4755214x1040 photon dao động ở cùng tần số với các nguyên tử caesium 133 sử dụng trong đồng hồ nguyên tử.
+Tuy giá trị của đại lượng kilogram không thay đổi, việc định nghĩa lại kilogram bằng hằng số sẽ đảm bảo đại lượng này luôn đáng tin cậy, giúp các phép đo khối lượng trở nên chính xác hơn trong tương lai.
+An Khang (Theo Live Science) 

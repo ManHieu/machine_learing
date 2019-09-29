@@ -1,0 +1,14 @@
+TITLE: Apple khai tử iTunes - VnExpress Số Hóa
+
+KEY WORDS: Apple, iTunes, Apple Music
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Tại sự kiện dành cho các nhà phát triển WWDC ở San Jose (Mỹ) rạng sáng 4/6, Apple cho biết iTunes sẽ được thay thế bằng ba ứng dụng hiện đại hơn là Apple Music, TV và Podcasts - tương tự những dịch vụ đã có trên iPhone và iPad. iTunes vẫn tồn tại như một ứng dụng độc lập trên iOS và Windows PC. Các giao dịch mua sắm và thư viện âm nhạc của người dùng vẫn được duy trì trong các ứng dụng mới trên máy Mac.
+Ba ứng dụng độc lập thay thế iTunes.
+Ngành công nghiệp âm nhạc đã thay đổi mạnh mẽ trong gần hai thập kỷ qua khi Apple cho công bố iTunes năm 2001, thay đổi cách mọi người mua các ca khúc và album nhạc. Dịch vụ này ra đời đúng lúc ngành âm nhạc đang đau đầu đối phó với vấn nạn tải lậu cũng như tình trạng các trang chia sẻ nhạc online mọc lên như nấm. 
+Tuy nhiên, ứng dụng gần đây thường xuyên bị phàn nàn bởi chiếm nhiều tài nguyên máy nên việc bị khai tử đã được nhiều người dự đoán. Trong khi đó, với ứng dụng mới Apple Music, hãng có thể thu phí thuê bao hàng tháng để tăng doanh thu một cách ổn định, hơn là phải đợi người dùng chi tiền mua một vài bài hát một cách ngẫu hứng.
+Apple Music tập trung vào âm nhạc và có thể gợi ý bài hát "cá nhân hóa", tức dựa trên thói quen và sở thích của mỗi người dùng, trong khi Podcasts cho phép người dùng tìm kiếm các nội dung audio với sự hỗ trợ của máy học còn ứng dụng TV phát nội dung từ các kênh như HBO, Showtime và các chương trình do Apple sản xuất.
+Với người vẫn sử dụng iTunes để đồng bộ các thiết bị, Apple cho biết sẽ có một công cụ mới được đặt trên thanh sidebar trong Finder của máy Mac.  
+Châu An

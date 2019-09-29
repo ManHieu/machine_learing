@@ -1,0 +1,15 @@
+TITLE: Công nghệ thu gom CO2
+
+KEY WORDS: công nghệ thu gom CO2, năng lượng toàn cầu
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Máy thu gom CO2 chạy bằng năng lượng điện. Ảnh: Carbon Brief.
+Một nghiên cứu mới đây được công bố trên tạp chí Nature Communications chỉ ra những lo ngại tiêu tốn năng lượng của công nghệ thu gom CO2 (DAC). Đây là công nghệ thu gom trực tiếp khí CO2 từ không khí trong khí quyển để sử dụng hoặc lưu trữ dưới dạng tinh khiết. Công nghệ này đã được áp dụng 7 dự án tại một số nước châu Âu như Mỹ, Canada, Switzerland ở quy mô công nghiệp nhằm sản xuất nhiên liệu và chất đốt sạch.
+Theo báo cáo của Carbon Engineering, sau khi triển khai ứng dụng công nghệ này vào mô hình doanh nghiệp từ năm 2009, lượng CO2 thu gom được có thể lên tới 1 tấn CO2 mỗi ngày. Nếu lắp đặt 3.000 nhà máy DAC, nhiệt độ toàn cầu có thể giảm từ 1,5-2 độ C so với thời tiền công nghiệp, góp phần giải quyết vấn đề nóng lên toàn cầu.
+Tuy nhiên, các nhà nghiên cứu lo ngại, tăng quy mô và phạm vi hoạt động của công nghệ DAC, cụ thể tăng 30% /năm với quy mô 30GTCO2/năm tương đương với việc xây dựng 3.000 nhà máy DAC như vậy liệu có đem lại hiệu quả trong việc giảm thiểu ô nhiễm và tái tạo năng lượng hay sẽ làm tiêu hao nhiều năng lượng toàn cầu hơn để có thể vận hành các nhà máy DAC. 
+Giáo sư Nico Bauer tại viện Nghiên cứu Tác động Khí hậu Potsdam (PIK), cũng không tin việc loại bỏ carbon có thể vô hiệu hóa tất cả các khí thải trong tương lai bởi một lượng nhiên liệu hóa thạch chứa lượng carbon khổng lồ vẫn đang nằm dưới lòng đất.
+Theo giáo sư Massimo Tavoni, giám đốc Viện Kinh tế và Môi trường châu Âu (EIEE), dù còn nhiều thách thức trong việc mở rộng quy mô nhưng không thể phủ nhận tầm quan trọng của công nghệ DAC trong việc cắt giảm đáng kể lượng khí thải công nghiệp.
+Hội nghị về Biến đổi khí hậu của Liên Hiệp Quốc 2015 kêu gọi mỗi khu vực và quốc gia bên cạnh việc phát triển công nghệ DAC thì phải có những chính sách cắt giảm khí thải, giảm thiểu tác động xấu nhất của con người đối với biến đổi khí hậu.
+Nguyễn Xuân (Theo Carbon Brief ) 

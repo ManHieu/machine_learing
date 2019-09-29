@@ -1,0 +1,16 @@
+TITLE: Người biểu tình Hong Kong liên lạc qua ứng dụng Bluetooth - VnExpress Số Hóa
+
+KEY WORDS: Hong Kong, biểu tình, Bridgefy, ứng dụng, liên lạc
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Bridgefy cho phép người biểu tình trao đổi thông tin với nhau mà không cần kết nối Internet. Phạm vi kết nối trực tiếp tối đa giữa hai thiết bị khoảng 100 mét. Tuy nhiên, ứng dụng có thể chuyển tin nhắn đi xa hơn bằng cách sử dụng nhiều thiết bị di động làm "cầu nối", với điều kiện chúng bật sẵn Bluetooth và cài Bridgefy.
+Bridgefy là ứng dụng liên lạc không cần kết nối Internet.
+Theo Apptopia, lượt tải xuống ứng dụng này đã tăng tới 4.000% trong hai tháng qua. "Mọi người đang sử dụng Bridgefy để liên lạc và giữ an toàn cho chính mình, không bị phụ thuộc vào kết nối Internet", Jorge Rios, đồng sáng lập Bridgefy, nói với Forbes.
+Bridgefy là ứng dụng thiết kế bởi một start-up có trụ sở tại San Francisco (Mỹ). Trước đây, nó được sử dụng ở những nơi có đường truyền Internet yếu hoặc mạng Wi-Fi quá tải, chẳng hạn các sự kiện âm nhạc hoặc thể thao lớn.
+Theo BBC, người biểu tình Hong Kong chuyển sang Bridgefy thay vì WeChat, email... nhằm tránh bị chính quyền Trung Quốc theo dõi và kiểm duyệt.
+Tuy nhiên, Giáo sư Alan Woodward, chuyên gia bảo mật máy tính thuộc Đại học Surrey, nghi ngờ sự an toàn của những ứng dụng như Bridgefy. "Với bất kỳ mạng ngang hàng nào, nếu am hiểu, bạn hoàn toàn có thể ngồi tại các điểm trung tâm và theo dõi thiết bị khác đang nói chuyện gì, chuyển dữ liệu nào, những ai đang tham gia", Woodward giải thích. "Blutooth là một giao thức không an toàn. Các nhà chức trách có thể không nghe lén dễ dàng, nhưng tôi tin họ có cách để thực hiện việc này".
+Trước đó, nhiều người Hong Kong được cho là sử dụng ứng dụng hẹn hò Tinder, game Pokemon Go, Telegram, nền tảng chơi game Twitch hay thậm chí "phát tờ rơi" qua tính năng Air Drop của Apple để "ngụy trang" cho việc xuống đường biểu tình.
+Biểu tình ở Hong Kong bùng phát từ đầu tháng 6 với các cuộc tuần hành trên đường phố để phản đối dự luật dẫn độ, trong đó cho phép Hong Kong đưa nghi phạm sang các khu vực nước này chưa có hiệp ước dẫn độ, bao gồm Trung Quốc. Các cuộc biểu tình đa phần ôn hòa, song người biểu tình cũng nhiều lần đụng độ với cảnh sát, xông vào đập phá trụ sở Hội đồng Lập pháp và tấn công Văn phòng Liên lạc Bắc Kinh tại Hong Kong.
+Bảo Lâm (theo BBC)

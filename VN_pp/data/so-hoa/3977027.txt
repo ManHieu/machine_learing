@@ -1,0 +1,21 @@
+TITLE: Google ra mắt Android 10 - VnExpress Số Hóa
+
+KEY WORDS: Google, Android 10, chính thức ra mắt
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Android 10 là tên chính thức của Android Q mà Goolge từng công bố cho các nhà phát triển vào tháng 4. Đây cũng là phiên bản đầu tiên công ty tìm kiếm Mỹ không dùng các món tráng miệng để đặt tên cho Android sau 11 năm nền tảng này ra đời (2008).
+Đa số tính năng của Android 10 đã được Google giới thiệu hồi tháng 4. Tuy nhiên, ở phiên bản chính thức, hệ điều hành này tiếp tục được bổ sung nhiều chi tiết mới, trong đó nổi bật có việc hỗ trợ các thiết bị có màn hình gập. Trong video giới thiệu, hình ảnh hiển thị trên điện thoại gập có thể tùy biến theo tình trạng máy gập hay mở.
+ 
+ 
+Google ra mắt Android 10
+Chơi game trên smartphone gập chạy Android 10.
+Bên cạnh đó, Android 10 cũng hỗ trợ các nhà phát triển tạo ra các ứng dụng và trò chơi tối ưu trải nghiệm nếu máy kết nối với mạng 5G. Khả năng điều hướng bằng cách vuốt cũng được làm mới, mang đến cho người dùng cảm giác vuốt tốt hơn khi sử dụng máy.
+Chế độ tối (Dark Mode) đã được Google chính thức mang lên Android. Công ty tìm kiếm Mỹ nhấn mạnh, chế độ này không chỉ giúp đỡ mỏi mắt khi dùng thiết bị ở nơi có ánh sáng yếu, mà còn giúp tiết kiệm năng lượng cho smartphone hơn.
+Trên Android mới, Google tích hợp khả năng khuếch đại âm thanh, giúp nghe rõ hơn ở nơi ồn ào hoặc lọc tiếng ồn khi sử dụng tai nghe. Người dùng cũng có thể trả lời tin nhắn nhanh trên thanh thông báo thông qua tính năng trả lời thông minh.
+Chế độ tối trên Pixel 3 chạy Android 10. Ảnh: 9to5google.
+Ngoài ra, Android 10 cũng được cải tiến về thời lượng pin, tối ưu máy ảnh, kết nối Wi-Fi, cải thiện thời gian khởi động ứng dụng và tăng cường bảo mật. Có 65 biểu tượng cảm xúc mới bổ sung vào nền tảng này.
+Như thường lệ, smartphone Pixel của Google sẽ là những thiết bị đầu tiên chạy phiên bản mới. Tuy nhiên, so với mọi năm, năm nay Google triển khai sớm hơn. Hiện một số chủ sở hữu Pixel và cả Essential Phone (smartphone đầu tiên của Essential, công ty do Andy Rubin - "cha đẻ" của hệ điều hành Android - đứng đầu) đã nhận được bản cập nhật Android 10. Những smartphone khác dự kiến sẽ "lên đời" Android mới nhất vào cuối năm nay.
+Android là hệ điều hành dựa trên nền tảng Linux dành cho thiết bị di động có màn hình cảm ứng. Những năm qua, nền tảng này được Google đặt tên theo các loại bánh kẹo, như Donut (phiên bản đầu tiên), Gingerbread, Ice Cream Sandwich, Jelly Bean, Lollipop... và gần đây nhất là Pie (phiên bản Android 9). Theo số liệu của IDC quý II/2019, Android là hệ điều hành phổ biến nhất thế giới với thị phần hơn 80%.
+Bảo Lâm (theo Phonearena)

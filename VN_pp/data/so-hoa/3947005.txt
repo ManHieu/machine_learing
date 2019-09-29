@@ -1,0 +1,13 @@
+TITLE: Mỹ cảnh báo về cuộc tấn công mạng qua Outlook - VnExpress Số Hóa
+
+KEY WORDS: Outlook, bảo mật, tấn công mạng, APT33, Iran
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Tin tặc khai thác lỗ hổng trên Outlook để chạy mã độc. Ảnh: ZDNet
+Bộ tư lệnh Không gian mạng Mỹ thông báo rằng một nhóm hacker do một chính phủ hậu thuẫn đang tích cực sử dụng lỗ hổng trên Outlook phiên bản 2017. Khai thác lỗi này, tin tặc có thể vượt cơ chế sandbox để kích hoạt mã độc. Lỗ hổng đã được Microsoft vá từ 10/2017 nhưng vẫn còn nhiều thiết bị chưa được cập nhật.
+Trang ZDNet cho biết, nhóm hacker APT33 của Iran đã sử dụng lỗ hổng tương tự vào 12/2018. Công ty bảo mật Chronicle Security cũng phát hiện các mã độc mà Bộ tư lệnh Không gian mạng Mỹ đề cập có liên quan đến phần mềm độc hại của APT33. Symantec cũng cảnh báo các hoạt động gia tăng của nhóm này những tháng gần đây.
+Theo CNet, căng thẳng giữa Mỹ và Iran leo thang thời gian qua có thể đang dịch chuyển sang lĩnh vực không gian mạng. Mỹ được cho là đã đánh sập hệ thống máy tính dùng để điều khiển tên lửa của Iran ngày 20/6. Chiến dịch tấn công Mỹ thông qua lỗ hổng Outlook có thể là vụ trả đũa của Iran.
+APT33 được cho là nhóm tin tặc được nhà nước Iran hậu thuẫn, đã tấn công nhiều công ty Saudi Arabia và Mỹ trong những năm qua. Một số công ty đại chúng, phái đoàn của các tổ chức ngoại giao cũng có thể là mục tiêu của APT33. Nhóm này đã được các công ty bảo mật đưa vào tầm ngắm từ 2013.
+Bảo Anh

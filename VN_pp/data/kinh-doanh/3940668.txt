@@ -1,0 +1,28 @@
+TITLE: 'Cơn địa chấn' tiền điện tử của Facebook - VnExpress Kinh Doanh
+
+KEY WORDS: Libra, tiền kỹ thuật số, Facebook, rào cản, tài chính
+
+TOPIC: kinh doanh, quốc tế
+
+CONTENT: 
+Facebook, ngày hôm qua (18/6), cho biết sẽ phát hành đồng tiền điện tử Libra, dự kiến giao dịch chính thức từ đầu năm 2020. Được mô tả là cơ sở hạ tầng tài chính - tiền tệ mang tính toàn cầu, Libra được lãnh đạo Facebook khẳng định "không tạo ra với mục đích thay thế các ngân hàng trung ương lớn". Tuy nhiên, đồng tiền này được giới phân tích đánh giá có thể tạo nên cơn địa chấn toàn cầu trong ngành tài chính.
+Với hơn 2,4 tỷ người dùng Facebook mỗi tháng, Libra có khả năng thay đổi cục diện thị trường tài chính, theo bình luận của tờ The Guardian. Còn Bloomberg trong bài viết mới đây thì cho rằng nếu thành công, Libra có thể biến Facebook trở thành 'một người chơi lớn' trong ngành tài chính.
+Những đối tác tham gia Libra Association. Ảnh: TechCrunch
+So với phần còn lại của thị trường tiền số xây dựng trên công nghệ blockchain, Libra có hai đặc điểm khác biệt là cách thức quản lý và vận hành. 
+Khác với những đồng tiền ảo khác cũng dựa trên Blockchain, Libra không được tạo ra bằng cách "đào", mà đồng tiền này được phát hành dựa trên một lượng tài sản đảm bảo thực. Nói đơn giản hơn, đồng tiền kỹ thuật số này được tạo ra cũng giống như cách các ngân hàng trung ương trên thế giới phát hành tiền giấy. 
+Trong White Paper mới công bố, Facebook khẳng định Libra là một "đồng tiền ổn định", do có giá trị gắn với tài sản thực. Về cơ bản, chỉ có một cách tăng số lượng Libra đang lưu hành là người dùng sử dụng các loại tiền tệ khác, như đôla Mỹ, euro, nhân dân tệ hay yen để mua Libra và số tiền này được coi là "tài sản đảm bảo" cho lượng Libra mà người này sở hữu.
+"Facebook giới thiệu Libra vào lúc này như một bước ngoặt cho hoạt động của công ty và cả thị trường tiền số", Mark Mahaney, chuyên gia phân tích tại RBC Capital Markets, cho biết. "Về quy mô và tầm quan trọng, chúng tôi tin rằng nền tảng tài chính mới này có thể tương tự như lần Apple giới thiệu hệ điều hành IOS cho các nhà phát triển hơn một thập kỷ trước".
+Lượng tài sản đảm bảo của đồng Libra sẽ được để trong ngân hàng hoặc đầu tư vào các tài sản sinh lãi có rủi ro thấp, như trái phiếu chính phủ Mỹ, nhưng phần lợi nhuận không được phân phát cho người sở hữu Libra mà sử dụng cho việc hoạt động của tổ chức quản lý loại tiền tệ này, ví dụ như tài trợ cho hoạt động nghiên cứu hoặc hoạt động xã hội.
+Hệ thống tiền số này cũng được quản lý bởi một tổ chức có tên Libra Association - một tổ chức độc lập, phi lợi nhuận có trụ sở tại Geneva, Thụy Sĩ. Tổ chức này có hai chức năng chính là xác thực những giao dịch dùng Blockchain Libra và quản lý lượng Libra liên quan đến các mục đích xã hội. 
+Các công ty đóng góp tối thiểu 10 triệu USD được coi là thành viên sáng lập của Libra Association, và hiện đã có 27 công ty công nghệ xác nhận là đối tác tham gia cùng với Facebook, gồm một số cái tên lớn như Paypal, Ebay, Spotify, Uber, Lyft, Visa, Mastercard...
+Facebook muốn đưa Libra tới tay người tiêu dùng vào đầu năm 2020. Ảnh: AP
+Tuy nhiên, với tầm ảnh hưởng của mạng xã hội 2,4 tỷ người dùng, Facebook có thể phải đối mặt với nhiều rào cản trước khi đưa Libra đến tay người tiêu dùng.
+Theo Bloomberg, thông báo mới phát đi từ Facebook ngay lập tức vấp phải sự phản đối tại châu Âu, với lời kêu gọi áp dụng những quy định chặt chẽ hơn.
+Bộ trưởng Tài chính Pháp Bruno Le Maire cho rằng không nên coi Libra là sự thay thế cho các loại tiền tệ truyền thống. Đồng thời, người đứng đầu cơ quan tài chính Pháp kêu gọi nhóm 7 thống đốc ngân hàng trung ương chuẩn bị báo cáo về dự án này ngay trong cuộc họp tháng 7.
+"Không còn nghi ngờ gì nữa, Libra đã trở thành một loại tiền tệ hợp pháp", Le Maire nói trong một cuộc phỏng vấn với đài Europe 1."Đây là một vấn đề không thể và không được xảy ra".
+Trong bối cảnh Facebook đang phải hứng chịu vô số chỉ trích về vi phạm quyền riêng tư, bước đi mới trong lĩnh vực tài chính cũng thu hút sự chú ý từ các cơ quan quản lý và những người ủng hộ quyền riêng tư trên toàn thế giới. Theo The Guardian, các nhà chức trách Mỹ và Anh đã bày tỏ lo ngại trước kế hoạch lấn sân sang mảng tài chính của Facebook. 
+Vào tháng 5, các thành viên của Ủy ban Thượng viện Mỹ về Ngân hàng, Nhà ở và Các vấn đề đô thị đã viết thư cho CEO Facebook Mark Zuckerberg yêu cầu trả lời các câu hỏi liên quan đến quyền riêng tư và các quy định tài chính.
+"Điều quan trọng là hiểu được làm thế nào các nền tảng xã hội lớn sử dụng dữ liệu có sẵn theo những cách có ảnh hưởng tới đời sống tài chính của người tiêu dùng", nội dung thư viết. "Quan trọng hơn nữa là hiểu được cách các nền tảng xã hội lớn sử dụng dữ liệu tài chính để lập hồ sơ và chọn khách hàng mục tiêu".
+Ngay sau thông báo của Facebook, nữ nghị sĩ kiêm Chủ tịch Ủy ban Dịch vụ Tài chính Hạ viện, Maxine Waters, kêu gọi mạng xã hội này dừng dự án Libra cho đến khi Quốc hội và các nhà quản lý xem xét. Bà cũng kêu gọi Giám đốc điều hành Facebook điều trần trước ủy ban.
+"Facebook có dữ liệu về hàng tỷ người dùng và đã nhiều lần thể hiện sự coi thường trong việc bảo vệ và sử dụng cẩn thận nguồn dữ liệu này", Waters nói trong một tuyên bố. "Với thông báo mới đây về kế hoạch tạo ra một loại tiền điện tử, Facebook đang tiếp tục mở rộng sự không kiểm soát và phạm vi tiếp cận với cuộc sống của người dùng".
+Minh Sơn	

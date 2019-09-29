@@ -1,0 +1,14 @@
+TITLE: Công ty Mỹ bị lộ dữ liệu hơn 100 triệu khách hàng - VnExpress Kinh Doanh
+
+KEY WORDS: Capital One, lộ dữ liệu, hacker, Mỹ
+
+TOPIC: kinh doanh, quốc tế
+
+CONTENT: 
+Tập đoàn Tài chính Capital One hôm qua cho biết một hacker đã tiếp cận được thông tin cá nhân gồm tên, địa chỉ, số điện thoại và điểm tín dụng của khoảng 100 triệu khách hàng tại Mỹ và 6 triệu ở Canada.
+Người này không lấy được số thẻ tín dụng. Tuy nhiên, khoảng 140.000 số an sinh xã hội và 80.000 số tài khoản ngân hàng liên quan đã bị lộ, Capital One cho biết. Khoảng 1 triệu số an sinh xã hội của các khách hàng Canada cũng bị ảnh hưởng.
+Logo và mã niêm yết của Capital One trên Sàn Chứng khoán New York. Ảnh: Reuters
+Hãng phát hành thẻ tín dụng này đã phát hiện vụ đột nhập ngày 19/7. Cục Điều tra Liên bang Mỹ (FBI) cũng đã bắt giữ hacker đứng sau việc này.
+Hacker đã tận dụng một lỗ hổng trong hệ thống của công ty. Lỗ hổng này do một nhà nghiên cứu bên ngoài phát hiện và báo với Capital One.
+Sự cố có thể khiến công ty này thiệt hại 100 – 150 triệu USD năm 2019, chủ yếu do chi phí thông báo cho khách hàng, giám sát tín dụng và hỗ trợ pháp lý. Capital One cho biết đã sửa chữa lỗ hổng và khẳng định "số thông tin trên không thể dùng cho mục đích lừa đảo hay phát tán". Dù vậy, họ vẫn đang điều tra.
+Hà Thu (theo CNN)	

@@ -1,0 +1,14 @@
+TITLE: Công ty Trung Quốc dùng AI để tìm chó lạc - VnExpress Số Hóa
+
+KEY WORDS: Trung Quốc, AI, tìm chó lạc, nhận dạng khuôn mặt, quét mũi, sinh trắc học
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Megvii, công ty khởi nghiệp được biết đến là nhà cung cấp phần mềm nhận diện khuôn mặt cho chính phủ Trung Quốc, đang nghiên cứu một dự án sinh trắc học cho động vật. Thay vì quét toàn bộ đầu của một con chó, công ty chỉ tập trung vào mũi của nó.
+Giao diện của ứng dụng Megvii. Ảnh: Abacusnews
+Mũi là một trong những đặc điểm sinh học riêng của mỗi con chó, được ví như sinh trắc học vân tay đối với con người. Ứng dụng của Megvii sẽ kích hoạt camera để quét mũi của con vật với các góc độ khác nhau, từ đó xây dựng hồ sơ thông tin của từng con chó.
+Công ty cho biết phương pháp này có độ chính xác lên đến 95%. Dựa trên cơ sở dữ liệu, hệ thống cũng có thể xác định danh tính của người chủ vật nuôi. Theo người sáng lập Megvii, hơn 15.000 thú cưng đã tìm được chủ nhân sau khi bị thất lạc nhờ ứng dụng này.
+Ngoài việc tìm chó lạc, ứng dụng còn có thể áp dụng để quản lý việc nuôi chó, trong đó mỗi con vật sẽ được gắn danh tính với một người chủ. Các nhà chức trách có thể xử phạt người nuôi không tuân thủ các quy định như dắt chó đi dạo mà không có xích, không được rọ mõm hay đưa chó vào nơi cấm.
+Nhận dạng vật nuôi là một trong những hướng đi được giới công nghệ quan tâm trong những năm gần đây. Các nhà nghiên cứu đã đề xuất quản lý động vật hoang dã bằng công nghệ sinh trắc học thay vì gắn chip. Tại Mỹ, ứng dụng Finding Rover cũng sử dụng nhận dạng khuôn mặt để xác định chó, mèo bị báo mất.
+Bảo Anh (theo Verge)

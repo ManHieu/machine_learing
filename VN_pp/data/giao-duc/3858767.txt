@@ -1,0 +1,13 @@
+TITLE: Nhầm lẫn ngày tháng trong bài toán tiểu học Hong Kong 2005 - VnExpress
+
+KEY WORDS: bài toán, tiểu học, Hong Kong, ngày tháng, nhầm lẫn, toán tiểu học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Dưới đây là bài toán với chủ đề "Lịch" trong kỳ thi học sinh giỏi khối Tiểu học của Hong Kong năm 2005.
+Ảnh: Bloomberg
+Topic 19: Calendar
+Problem: Some people in Hong Kong express 2/8 as 8th February and others express 2/8 as 2nd August. This can be confusing because when we see 2/8, we don’t know whether it is 8th February or 2nd August. However, it is easy to understand 9/22 or 22/9 as 22nd September, because there are only 12 months in a year. How many dates in a year can cause this confusion?
+Dịch đề: Một số người Hong Kong viết 2/8 để chỉ ngày mùng 8 tháng 2, trong khi những người khác viết 2/8 để chỉ ngày mùng 2 tháng 8. Điều này sẽ gây nhầm lẫn vì khi nhìn các số 2/8, ta sẽ không biết đó là ngày mùng 8 tháng 2 hay ngày mùng 2 tháng 8.
+Tuy nhiên, đối với các số 9/22 hoặc 22/9, ta có thể hiểu ngay đó là ngày 22 tháng 9 vì một năm chỉ có 12 tháng. Hỏi trong một năm có bao nhiêu ngày có thể gây ra sự nhầm lẫn như trên? 

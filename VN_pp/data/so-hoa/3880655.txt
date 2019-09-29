@@ -1,0 +1,13 @@
+TITLE: 500px bị hack, 15 triệu tài khoản của người dùng bị lộ email, mật khẩu - VnExpress Số Hóa
+
+KEY WORDS: 500px, chia sẻ ảnh
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Cnet, cộng đồng chia sẻ ảnh 500px thừa nhận bị vi phạm hệ thống khiến dữ liệu cá nhân của toàn bộ thành viên bị lộ. Vụ tấn công diễn ra ngày 5/7/2018 nhưng mới được các kỹ sư phát hiện vào 8/2/2019. Ước tính 14,8 triệu người bị ảnh hưởng.
+Tất cả thành viên trên 500px đều bị lộ tài khoản. Ảnh: Milos Lukic
+Các dữ liệu bị xâm phạm là họ tên, tài khoản 500px, địa chỉ email và mật khẩu dưới dạng mã hóa. Nếu thành viên cung cấp dữ liệu về ngày sinh, khu vực sinh sống hay giới tính thì thông tin này cũng có thể bị lộ.
+500px cho biết đã mở cuộc điều tra và không có bằng chứng cho thấy dữ liệu thẻ tín dụng bị truy cập trái phép. Tuy nhiên, dịch vụ này vẫn khuyến cáo thành viên đổi tất cả tài khoản có chung mật khẩu. Email thông báo về sự cố và hướng dẫn tăng cường bảo mật đã được gửi tới người dùng.
+500px là dịch vụ hướng tới cộng đồng nhiếp ảnh gia chuyên nghiệp, được sáng lập năm 2009, trụ sở tại Toronto (Canada). Ảnh tải lên sẽ được hệ thống chấm điểm và liên tục đưa ra trang chủ để chia sẻ với cộng đồng. 
+Đình Nam

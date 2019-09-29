@@ -1,0 +1,15 @@
+TITLE: Dịch vụ đám mây đa khu vực FPT HI GIO Cloud - VnExpress Số Hóa
+
+KEY WORDS: FPT, FPT HI GIO Cloud, đám mây đa khu vực
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+FPT HI GIO Cloud là một trong những dịch vụ hỗ trợ chuyển đổi số cho doanh nghiệp và là giải pháp lưu trữ đang được sử dụng tại nhiều công ty hoạt động trong lĩnh vực tài chính, ngân hàng, thương mại điện tử, phát triển phần mềm, trò chơi trực tuyến, bán lẻ, bất động sản, dệt may, nội thất, y tế, nghiên cứu khoa học... Hệ thống này được triển khai từ tháng 4/2017 tại TP HCM và bắt đầu từ tháng 4/2019 sẽ trở thành dịch vụ đám mây đa khu vực.
+Người dùng có thể chọn địa điểm xây dựng hệ thống để tối đa hóa hiệu suất, tính sẵn sàng và khả năng dự phòng ở mức cao. Thay vì lựa chọn Hà Nội hoặc TP HCM, họ có thể triển khai dịch vụ trên cả hai địa điểm. Ngoài ra, dịch vụ sao lưu và khôi phục dữ liệu (BaaS) giúp tùy chọn khu vực lưu trữ dữ liệu sao lưu, nhanh chóng khôi phục khi có yêu cầu phát sinh.
+Ông Nguyễn Văn Khoa, Tổng Giám đốc FPT, giới thiệu dịch vụ HI GIO Cloud tại Hà Nội ngày 9/4.
+Thay vì đầu tư cho các thiết bị vật lý, mất khoảng 8-10 tuần cho việc đặt mua và triển khai như trước, doanh nghiệp có thể khởi tạo toàn bộ hệ thống máy chủ ảo chỉ trong vòng 15 phút, đồng thời giảm chi phí đầu tư ban đầu tới 40-60%. HI GIO Cloud sử dụng hạ tầng của trung tâm dữ liệu FPT Telecom, đạt các chứng chỉ quốc tế Uptime Institute Tier 3, ISO 9001, ISO 50001 và ISO 27001.
+Ông Nguyễn Văn Khoa, Tổng Giám đốc FPT, cho biết đầu tuần này, Cổng dịch vụ công quốc gia - một trong những thành phần rất quan trọng của chính phủ điện tử - đã hoàn thành triển khai bước đầu trên hệ thống HI GIO Cloud. FPT đã tạo ra hệ thống khoảng 700 máy ảo, 4 TB RAM và 200 TB ổ cứng trong một buổi sáng. Thông thường, để triển khai theo cách truyền thống, cơ quan nhà nước sẽ mất khoảng 6 tháng, còn doanh nghiệp là khoảng 4 tháng kể cả thời gian nhập hàng.
+Hình thức thanh toán linh hoạt cũng cho phép người dùng kiểm soát chi phí hiệu quả, chi trả đúng lượng tài nguyên thực tế sử dụng. Họ có thể lựa chọn tính phí theo sử dụng thực tế hoặc cước phí cố định và tăng giảm quy mô hệ thống theo nhu cầu sử dụng thực tiễn.
+FPT Telecom và IIJ bắt đầu hợp tác từ tháng 10/2016 để cung cấp dịch vụ điện toán đám mây toàn diện và linh hoạt cho thị trường Việt Nam. Dịch vụ GIO Cloud của IIJ đã được triển khai tại 22 quốc gia và dẫn đầu thị trường Nhật Bản nhiều năm qua. 
+Châu An

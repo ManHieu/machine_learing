@@ -1,0 +1,14 @@
+TITLE: Phần mềm diệt virus cho smartphone Android có tác dụng không - VnExpress Số Hóa
+
+KEY WORDS: phần mềm diệt virus, phần mềm diệt virus cho Android, smartphone Android
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo nghiên cứu được thực hiện bởi AV-Comparatives, một công ty chuyên thử nghiệm phần mềm chống virus trụ sở tại Áo, tỷ lệ ứng dụng có chức năng ngăn chặn mã độc trên cửa hàng Google Play rất thấp. "Đa số phần mềm diệt virus trên cửa hàng Play của Google không có tác dụng như quảng cáo", đại diện AV-Comparatives cho biết.
+Khá ít ứng dụng diệt virus trên Google Play có tác dụng 100%. Ảnh: Gadget Hacks.
+Cụ thể, AV-Comparatives đã thử nghiệm 250 phần mềm diệt virus phổ biến cho thiết bị Android đang có mặt trên Play Store. Chúng sẽ "đối đầu" với 2.000 file *.apk nhiễm độc và 100 file *.apk "sạch", thông qua Samsung Galaxy S9 chạy Android 8.0.
+Kết quả, chỉ 23 trong số sản phẩm thử nghiệm phát hiện 100% mẫu phần mềm độc hại, hơn 2/3 không đạt tỷ lệ chặn 30%, chưa tới 1/10 trong đó bảo vệ smartphone đúng nghĩa trước mã độc. Thậm chí, chúng còn chặn nhầm cả những phần mềm không dính virus.
+Theo AV-Comparatives, chỉ một số sản phẩm đến từ các hãng bảo mật danh tiếng như Norton, Avira, AVG hay Avast mới có tác dụng thực sự. Trong khi đó, phần còn lại chủ yếu chiếm dụng bộ nhớ điện thoại, hiển thị quảng cáo để kiếm tiền, dụ dỗ người dùng tải ứng dụng khác hay thậm chí là phát tán mã độc.
+Từ kết quả này, đại diện AV-Comparatives khuyến cáo người dùng nên sử dụng các phần mềm diệt virus từ thương hiệu uy tín, đã khẳng định tên tuổi, đồng thời hạn chế dùng sản phẩm lạ, có điểm đánh giá thấp.
+Như Phúc (theo BGR)

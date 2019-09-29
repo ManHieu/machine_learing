@@ -1,0 +1,19 @@
+TITLE: Samsung Galaxy S10 bán tại Việt Nam bị lỗi nhanh hết pin, Samsung thừa nhận và sẽ khắc phục - VnExpress Số Hóa
+
+KEY WORDS: Samsung, Galaxy S10, Galaxy S10+
+
+TOPIC: số hóa, samsung galaxy s10
+
+CONTENT: 
+Bộ xử lý Exynos do Samsung tự sản xuất không được đánh giá cao về hiệu quả sử dụng năng lượng và điều này tiếp tục tồn tại với Galaxy S10. Trong bài kiểm tra tiêu chuẩn của PhoneArena, thiết bị dùng chip Snapdragon 855 không chỉ nhỉnh hơn về hiệu năng mà thời lượng pin cũng lâu hơn bản Exynos gần một giờ.
+Ngoài ra, người dùng Galaxy S10 còn phàn nàn về lỗi ngốn pin khi thực hiện cuộc gọi VoIP (đàm thoại qua IP), tuy nhiên, điều này chỉ xảy ra với bản dùng chip Exynos. Các ứng dụng VoIP như WhatsApp, Viber, Facebook Messenger... ngăn thiết bị của Samsung chuyển sang trạng thái "ngủ sâu" (deep sleep) trong chế độ chờ (standby).
+Không chỉ vậy, Galaxy S10 còn dính lỗi liên quan tới cảm biến tiệm cận, khiến điện thoại bật sáng màn hình dù đang để trong túi quần áo hay túi xách. Để khắc phục tạm thời, người dùng cần tắt tính năng "Lift to Wake" và "Tap to Wake" do điện thoại không phân biệt được các chuyển động hay lần chạm vô tình của người dùng.
+Thành viên diễn đàn XDA dùng phần mềm CPU Spy để xác định lỗi với ứng dụng VoIP khiến Galaxy S10 không chuyển trạng thái deep sleep, làm máy nhanh hết pin.
+Lỗi trên cũng được cho là do vấn đề của cảm biến tiệm cận, khiến Galaxy S10 không thể vào trạng thái "ngủ sâu"cho đến khi máy được khởi động lại. Điều này khiến CPU hoạt động ở mức cao hơn cần thiết, ngay cả khi máy không hoạt động gì, dẫn tới tốn pin. Khi thực hiện cuộc gọi VoIP khác, kể cả với tin nhắn thoại, lỗi trên sẽ bị kích hoạt lại.
+Giải pháp tạm thời cho sự cố nhanh hết pin là khởi động lại Galaxy S10 mỗi khi thực hiện VoIP.
+Tại Việt Nam, một số người dùng Galaxy S10 cũng phàn nàn về tình trạng hao pin. "Máy để không từ 1h đến 6h thì pin mất gần 20%, trước đó tôi đã tắt các ứng dụng chạy ngầm, không mở Wi-Fi, 4G", thành viên Trung Đức bình luận trong một nhóm thảo luận về Galaxy S10 trên Facebook.
+"Trước khi đi ngủ, tôi gọi điện cho bạn gái bằng Viber, sáng hôm sau dậy thấy pin mất 20-25%", người dùng Hoangky thảo luận trên một diễn đàn tại Việt Nam. "Tôi đã thử khởi động lại máy sau khi gọi điện thì thấy ổn, nhưng cứ gọi Viber thì máy lại nhanh hết pin".  
+Đại diện Samsung Việt Nam cho hay hãng đã phát hành phần mềm tối ưu pin cho người dùng trên toàn cầu và tùy từng khu vực sẽ được tải về. Người dùng Galaxy S10 tại Việt Nam nên thường xuyên kiểm tra cập nhật thông qua máy tính hoặc trực tiếp trên điện thoại để được tải về và cài đặt sớm.
+Dòng Galaxy S10 được Samsung tung ra với hai phiên bản vi xử lý. Tại thị trường Mỹ, máy dùng chip Snapdragon, trong khi đó bản bán ở Việt Nam và các khu vực khác là Exynos.
+Mở bán trong nước từ 8/3, Galaxy S10+ có giá khởi điểm 23 triệu đồng, Galaxy S10 từ 21 triệu đồng. Mẫu điện thoại này có lượng đặt trước đạt kỷ lục của dòng Galaxy S và có doanh số gấp đôi Galaxy S9, tính đến 22/3. 
+Đình Nam

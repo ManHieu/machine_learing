@@ -1,0 +1,17 @@
+TITLE: Xe điện của Xiaomi dễ bị hack, cướp quyền điều khiển - VnExpress Số Hóa
+
+KEY WORDS: Xiaomi, xe điện, Xiaomi M365
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Cnet, nhóm nghiên cứu Zimperium đã phát hiện lỗ hổng cho phép hacker toàn quyền điều khiển chiếc M365, một mẫu xe điện của Xiaomi. Trong video thử nghiệm, các chuyên gia sử dụng một ứng dụng để quét và vô hiệu hóa các xe trong bán kính 100 mét dựa trên tính năng chống trộm của nhà sản xuất.
+Xe điện Xiaomi có thể bị hack. 
+"Trong quá trình nghiên cứu, chúng tôi xác định rằng quy trình xác thực mật khẩu với xe thông qua kết nối Bluetooth bị lỗi, khiến xe có thể được thực thi các lệnh mà không cần mật khẩu", thông báo viết. "Mật khẩu chỉ xác thực ở phía ứng dụng còn bản thân chiếc xe thì không".
+Từ lỗ hổng trên, các chuyên gia nêu kịch bản tấn công có thể xảy ra với mẫu xe gồm: tấn công từ chối dịch vụ, khóa bất kỳ xe nào, cài phần mềm độc hại kiểm soát hoàn toàn xe, tấn công chủ phương tiện thông qua việc tăng tốc hoặc phanh đột ngột. Zimperium cho biết đã thông báo với Xiaomi về lỗ hổng trên nhưng công ty Trung Quốc chưa đưa ra bình luận.
+ 
+ 
+Xe điện của Xiaomi dễ bị hack, cướp quyền điều khiển
+Khóa xe Xiaomi M365 từ xa, không cần mật khẩu. Video: Zimperium
+Phát hiện mới làm tăng thêm những lo ngại xung quanh xe điện vốn ngày càng phổ biến. Tại Mỹ, nhiều dịch vụ cho thuê xe điện xuất hiện tại các thành phố lớn như một giải pháp vận chuyển mới, nhất là tại những khu vực đông đúc. Tuy nhiên, tính an toàn trong quá trình sử dụng cũng được đặt ra. 
+Đình Nam

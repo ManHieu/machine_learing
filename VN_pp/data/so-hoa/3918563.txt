@@ -1,0 +1,13 @@
+TITLE: Video ' sản sinh người mẫu' cho thấy sự đáng sợ của AI - VnExpress Số Hóa
+
+KEY WORDS: trí tuệ nhân tạo, AI, Deep fake
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+ 
+ 
+Công nghệ AI phô diễn khả năng tạo 'người giả'
+Công ty DataGrid, một start up thuộc Đại học Kyoto (Nhật) đã chia sẻ video 44 giây cho thấy thuật toán AI có thể nhanh chóng tạo hàng loạt ảnh người mẫu tạo dáng với các trang phục trông như thật dù những người này không hề tồn tại. 
+Theo Digital Trends, video được thực hiện bằng cách sử dụng thuật toán Generative Adversarial Network (GAN), trong đó một mạng lưới liên tục tạo những hình ảnh mới, còn mạng thứ hai cố gắng phân biệt ảnh nào là thực và ảnh nào do máy tính tạo ra. Nếu mạng thứ hai phát hiện ảnh giả, mạng đầu tiên sẽ lập tức chỉnh sửa thuật toán cho tới khi ra được ảnh trở nên hợp lý và thực nhất. Quá trình này diễn ra hoàn toàn tự động, không có sự can thiệp của con người.
+Công nghệ trên có thể bước đầu được ứng dụng trong việc in catalog cho các nhãn hàng thời trang. Tuy nhiên, về lâu dài, nó có thể bị lợi dụng, khiến vấn nạn tin giả trở nên nghiêm trọng hơn, do việc tạo dựng hình ảnh người như thật đã trở nên dễ dàng. Các chuyên gia công nghệ vẫn luôn lo ngại AI sẽ tạo ra xu hướng "deep fake" - tình trạng video dễ bị can thiệp bằng những công cụ mới, được tăng cường sức mạnh nhờ trí tuệ nhân tạo và lan truyền trên Internet, làm mờ đi ranh giới giữa sự thật và dối trá.	

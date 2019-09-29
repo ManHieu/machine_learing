@@ -1,0 +1,14 @@
+TITLE: Cáp quang biển AAG gặp sự cố - VnExpress Số Hóa
+
+KEY WORDS: Cáp quang biển, Cáp AAG, Sự cố, Internet
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Sáng nay (23/8), đại diện của một nhà cung cấp dịch vụ Internet lớn (ISP) tại Việt Nam xác nhận tuyến cáp quang biển AAG (Asia - America Gateway) đang gặp sự cố, xảy ra trên phân đoạn S1H tại vị trí cách trạm cập bờ Vũng Tàu khoảng 125 km. Nguyên nhân ban đầu là do "lỗi dò nguồn" (shunt fault). 
+Dự kiến, tàu sửa cáp sẽ đến vị trí cáp lỗi vào sáng 29/8 và dự kiến hoàn thành vào ngày 3/9. 
+Trước đó, một số người dùng Internet tại Việt Nam đã phản ánh về mạng Internet không ổn định, đặc biệt khi truy cập một số dịch vụ như Netflix, YouTube, Facebook. Một đại diện ISP không nêu con số cụ thể số người dùng bị ảnh hưởng nhưng cho biết số lượng này rất nhỏ và mức độ ảnh hưởng không đáng kể. 
+Vài năm trở lại đây, các ISP tại Việt Nam đã có nhiều phương án thay thế cho AAG khi tuyến cáp này liên tục gặp sự cố.
+AAG là một hệ thống cáp truyền thông ngầm dưới biển dài 20.000 km, nối từ Đông Nam Á, đi qua Malaysia, Singapore, Thái Lan, Việt Nam (điểm cập bờ tại Vũng Tàu), Brunei, Hong Kong, Philippines và Mỹ. Tuyến cáp này được đưa vào sử dụng từ tháng 11/2009, có lưu lượng thiết kế ban đầu là 2 Tb/giây và liên tục được nâng cấp theo thời gian. Tuy nhiên, đây cũng là tuyến cáp bị đánh giá là "yếu", thường xuyên bị gián đoạn do sự cố.
+Từ đầu 2019, liên tiếp các tuyến cáp quốc tế mà nhiều nhà mạng Việt Nam khai thác gặp sự cố. Đầu tháng 1, hệ thống IA bị lỗi nguồn ở Singapore và được khắc phục trong tháng. Tiếp theo, cáp AAE-1 bị đứt ngày 13/2 và tới 6/3 sửa xong. Cuối tháng 2, tuyến APG gặp trục trặc trên các nhánh S1.9, S1.8 và S3, sau đó đã được khôi phục lần lượt vào các ngày 7/3, 11/3 và 17/4. Cáp APG tiếp tục lỗi vào cuối tháng 5 và đến đầu tháng 6 mới khắc phục xong.
+Lưu Quý

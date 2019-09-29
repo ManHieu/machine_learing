@@ -1,0 +1,21 @@
+TITLE: 6 điểm yếu cần cải thiện của smartphone màn hình gập - VnExpress Số Hóa
+
+KEY WORDS: smartphone màn hình gập, Samsung Galaxy Fold, Huawei Mate X
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Nếp nhăn
+Trên Huawei Mate X khi mở ra, người dùng có thể thấy rõ nếp gập hằn lên tấm nền. Còn với Samsung Galaxy Fold, nếp nhăn khó quan sát hơn nhưng vẫn có thể phát hiện nếu ở khoảng cách gần. Các công ty công nghệ hiện chưa có bất kỳ giải pháp nào để giải quyết vấn đề này. Giống như nếp gấp khi gập một mảnh giấy, nếp nhăn trên màn hình điện thoại là lời nhắc nhở việc người dùng đang sử dụng một phiên bản nguyên mẫu chưa thực sự hoàn thiện.
+Độ bền
+Dù hai mẫu smartphone màn hình gập của Samsung và Huawei đều cố gắng tạo ra phần màn hình đẹp nhất có thể trên bản lề nối hai màn hình, nhiều chuyên gia vẫn nghi ngờ về số lần có thể đóng mở của bộ phận này. Màn hình sẽ có độ bền bao lâu nếu người dùng mở ra đóng vào hàng trăm lần một ngày, liệu có tạo nên những điểm chết trên màn hình. Ngoài ra, thiết kế của ốp lưng dành riêng cho điện thoại gập cũng là một khía cạnh cần quan tâm.
+Phần mềm
+Các phần mềm vẫn chưa sẵn sàng. Google đã cố gắng hỗ trợ hệ điều hành Android trên các thiết bị có thể gập lại, nhưng vẫn thiếu sự góp mặt của các nhà phát triển bên thứ ba. Việc yêu cầu các nhà phát triển tối ưu hóa ứng dụng của họ để có tỷ lệ khung hình phù hợp với điện thoại gập sẽ là một thách thức lớn bởi việc thiết kế ứng dụng để tương thích với đủ loại kích cỡ và tỷ lệ khung hình của vô số điện thoại Android đã là một công việc không đơn giản. Với điện thoại thông thường, chúng sử dụng các tỷ lệ khung hình đã được cộng đồng chấp nhận. Với thiết bị gập, các tỷ lệ này hoàn toàn mới mẻ. Ví dụ Galaxy Fold có màn hình khi gập vào là 21:9 và mở ra là 4.2: 3. Huawei sử dụng tỷ lệ 8:7,1, gần như hình vuông. Các smartphone gập sau này của Xiaomi, Oppo có thể cũng có các tỷ lệ hoàn toàn mới.
+Trên thực tế, nhiều nhà phát triển không mặn mà cập nhật để ứng dụng tương thích với thiết bị có kích cỡ màn hình khác nhau. Như Instagram ra mắt gần 9 năm vẫn chưa có ứng dụng dành riêng cho máy tính bảng.
+Thời lượng pin
+Qua nhiều năm, smartphone mới có dung lượng pin đủ lớn để người dùng có thể thoải mái sử dụng trong hai ngày. Việc đánh đổi thời lượng pin để lấy màn hình rộng hơn trên thiết bị gập có thể là lựa chọn khó khăn với nhiều người dùng. Dung lượng pin 4.380 mAh có vẻ nhiều đối với một điện thoại thông thường, nhưng với Galaxy Fold 7,3 inch thì con số này chưa đủ. Để so sánh, Galaxy Tab S5e của Samsung có màn hình 10,5 inch và cần tới pin 7.040 mAh. Động tác gập vào mở ra cũng khiến thiết bị tiêu tốn pin nhanh hơn. Trong khi đó, tăng dung lượng pin lại có thể khiến dòng smartphone này thêm dày hơn.
+Độ dày
+Samsung không tiết lộ kích thước của Galaxy Fold nhưng qua các hình ảnh được công bố, không quá khó nhận ra thiết bị này dày tới mức nào. Một số chuyên gia ước tính thân máy dày 6,9 mm khi mở và 17 mm khi gập lại. Smartphone dày có thể chấp nhận được nếu có pin 16.000 mAh, cho phép dùng 5 ngày không cần sạc. Nếu không, rất khó thuyết phục mọi người mang theo một "viên gạch" như vậy trong túi quần. Các mẫu điện thoại gập cần mỏng hơn nhiều nữa trước khi chúng đáng để sở hữu.
+Mức giá
+Galaxy Fold của Samsung có giá 1.980 USD (khoảng 46 triệu đồng) khi ra mắt ngày 26/4, còn Huawei Mate X là 2.299 euro (khoảng 60,7 triệu đồng) - cao vượt trội so với giá smartphone trung bình hiện nay. Oppo và Xiaomi có thể sẽ không ngại làm điều tương tự, bởi dòng sản phẩm này đang được quảng bá là mang tới những trải nghiệm xa xỉ. Tuy nhiên, điều này đồng nghĩa người dùng sẽ có ít cơ hội để mua được chúng trong tương lai.
+(theo Mashable)	

@@ -1,0 +1,12 @@
+TITLE: Google dừng kết nối kho lưu trữ Photos với Drive - VnExpress Số Hóa
+
+KEY WORDS: Google Photos, Google Drive
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Photos là dịch vụ lưu trữ ảnh online của Goole, ra mắt từ tháng 5/2015. 
+Trên Blog chính thức của Google sáng nay, Dan Schlosser và Jason Gupta, hai giám đốc sản phẩm của Drive và Photos, đã viết: "Chúng tôi nhận được phàn nàn rằng việc kết nối giữa Google Photos và Google Drive rắc rối. Vì vậy, tháng sau chúng tôi sẽ thực hiện một vài thay đổi để đơn giản hóa hoạt động của hai dịch vụ này". Thay đổi mà hai vị giám đốc nhắc tới là dừng kết nối giữa 2 dịch vụ. Cùng lúc, bộ phận G Suite cũng gửi thông báo tới người dùng vì quyết định này gần như tác động tới mọi khách hàng của Google. 
+Khi thay đổi có hiệu lực vào tháng 7, ảnh và video người dùng tải lên Drive sẽ không tự động hiển thị trên Photos và ngược lại. Ngoài ra, việc xóa dữ liệu trên các dịch vụ sẽ không ảnh hưởng tới nhau. "Thay đổi này nhằm hạn chế xóa nhầm dữ liệu giữa 2 kho lưu trữ", Schlosser và Gupta viết.
+Trong thông báo, Google nhấn mạnh sẽ không có nội dung nào bị xóa tự động khi tách 2 dịch vụ. "Ảnh và video bạn upload vào phần Drive trong Photos sẽ vẫn ở Photos. Ngược lại, dữ liệu từ Google Photos trong Drive sẽ vẫn ở nguyên trong Drive. Tuy nhiên, 2 dịch vụ này không được update tự động", thông báo viết.
+Đức Thanh (theo The Verge)

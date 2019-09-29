@@ -1,0 +1,15 @@
+TITLE: Đáp án bài toán hình thang trong đề thi BIMC 2018 - VnExpress
+
+KEY WORDS: đáp án, bài toán, hình thang, đề thi, BIMC 2018, kỳ thi quốc tế, học toán tiếng Anh
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 15: Pythagoras’ Theorem
+Problem: In quadrilateral ABCD, AB is parallel to CD, and the diagonals AC and BD are perpendicular and intersect at point O. If AO = p cm, CO = q cm, BO = r cm,
+DO = s cm, AB = 7 cm and CD = 3cm, what is the value of pq + rs?
+Dịch đề: Trong tứ giác ABCD có AB song song với CD, hai đường chéo AC và BD vuông góc với nhau và cắt nhau tại điểm O. Biết AO = p cm, CO = q cm, BO = r cm, DO = s cm, AB = 7 cm and CD = 3cm, tính giá trị của pq + rs.
+Solution
+Sau đây chúng tôi sẽ trình bày 2 cách giải cho bài toán này:
+Ký hiệu các độ dài trong hình vẽ và đường phụ DK trong cách 2
+ 

@@ -1,0 +1,17 @@
+TITLE: Tấn công mạng có chủ đích tăng mạnh tại Việt Nam - VnExpress Số Hóa
+
+KEY WORDS: virus, mã độc, tấn công có chủ đích, ATP
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Nguyễn Hiếu, Phó giám đốc một công ty tại Hà Nội, nhận được email với nội dung mời tham dự hội nghị ở nước ngoài. "Công việc của tôi cũng hay nhận được lời mời tương tự, đặc biệt trong email này nêu đích danh tên mình", anh cho biết. "Tuy nhiên email không giới thiệu người gửi từ đâu, nội dung thiếu rõ ràng nên tôi nghi ngờ".
+Email có link tới virus.
+Trong email trên, phần "Thu moi 2019" được trình bày như dạng tập tin đính kèm, "ngụy trang" thêm dung lượng file (181 KB). Tuy nhiên thực tế, nó gắn đường link mà khi bấm vào sẽ tải về file có tên "Thu moi 2019.rar" được lưu trữ trên dịch vụ Dropbox.
+Theo phân tích của Bkav, khi giải nén tập tin trên máy tính sẽ bị nhiễm virus có khả năng chiếm quyền điều khiển máy tính. Nó đồng thời kết nối tới máy chủ có địa chỉ mx349.dran...eu để tải các mã độc khác. Tại thời điểm kiểm tra, mã độc tải thêm là file "wwlib.dll", giả mạo thư viện chuẩn của Microsoft Office, là mã độc dạng downloader, có nhiệm vụ tiếp tục tải các mã độc khác để tấn công phá hoại.
+Sau khi các mã độc mới được tải thêm, máy tính của nạn nhân sẽ nằm trong sự kiểm soát của hacker, các thao tác trên thiết bị được virus ghi lại và sẽ bị gửi ra ngoài. "Nếu bất cẩn bấn vào link trong email thì người dùng đã trở thành nạn nhân của hình thức tấn công có chủ đích và máy tính hoàn toàn bị hacker kiểm soát", ông Ngô Tuấn Anh, Phó chủ tịch phụ trách An ninh mạng của Bkav cho biết.
+"Bấm vào link chứa mã độc, trình duyệt Chrome phiên bản mới sẽ cảnh báo nguy hiểm cho người dùng. Tuy nhiên một số chương trình chưa được cập nhật có thể không phát hiện virus", Nguyễn Thanh Lâm, một chuyên gia bảo mật cho biết. "Khi máy tính dính virus, thiết bị có thể chạy chậm hơn do có thêm chương trình chạy ngầm, giảm tốc độ truy cập mạng nhưng mức độ khác biệt có thể tuỳ thuộc cấu hình của thiết bị".
+Theo ông Lâm, dòng virus này khi nhiễm sẽ chiếm toàn quyền điều khiển máy tính của người dùng. Trong đó, các thao tác gõ bàn phím, di chuyển chuột có thể bị ghi lại, quay phim hay chụp ảnh màn hình. Sau đó thông tin này sẽ được gửi về máy chủ của kẻ tấn công. Thậm chí, hacker có thể điều khiển các thao tác trên máy tính từ xa, đánh chặn các email gửi đi, gửi đến.
+Trường hợp của anh Hiếu nằm trong số chiến dịch tấn công có chủ đích lớn đang nhắm vào cơ quan, tổ chức tại Việt Nam được Trung tâm Giám sát an toàn không gian mạng quốc gia (NCSC) thuộc Cục An toàn thông tin cảnh báo. Kịch bản là nạn nhân nhận được email chứa link hoặc tập tin đính kèm mà khi mở ra máy tính sẽ dính mã độc có khả năng theo dõi, thu thập thông tin, đồng thời làm bàn đạp cho các cuộc tấn công vào hệ thống khác.
+Cục An toàn thông tin khuyến cáo người dùng, công ty và các tổ chức không mở và tải về email lạ, không rõ nguồn gốc. Máy tính và hệ thống thông tin cần được cập nhật các bản vá lỗi. Với các máy tính sử dụng chương trình WinRAR, nâng cấp lên phiên bản mới nhất do bản cũ chứa lỗ hổng được lợi dụng để phát tán mã độc. Theo cục, trong thời gian tới tình hình an ninh mạng sẽ có nhiều diễn biến phức tạp, nhiều sự việc bị lợi dụng để phát tán mã độc nên các cá nhân, tổ chức cần nâng cao cảnh giác. 
+Đình Nam

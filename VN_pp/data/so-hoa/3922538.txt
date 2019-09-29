@@ -1,0 +1,14 @@
+TITLE: Hàng triệu máy tính dùng Windows cũ có thể nhiễm mã độc tương tự WannaCry - VnExpress Số Hóa
+
+KEY WORDS: WannaCry, mã độc tống tiền, ransomware, lỗ hổng, bảo mật
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Microsoft cảnh báo Internet có thể diễn ra cuộc tấn công tương tự WannaCry hai năm trước, khiến hàng trăm nghìn máy tính tại hơn 150 quốc gia bị mã hóa trong vài giờ vào năm 2017. Đó là lần đầu tiên một ransomware, phần mềm độc hại mã hóa các tập tin trên thiết bị của người dùng và đòi tiền chuộc, lan rộng khắp thế giới giống như một cuộc tấn công mạng có tổ chức.
+Mã độc tống tiền WannaCry đã lây lan tại 150 quốc gia.
+Nhà sản xuất phần mềm Mỹ đã phải tung bản vá bất thường cho Windows XP và Server 2003, vốn đã bị ngừng hỗ trợ hơn bốn năm qua. Ngoài ra, các hệ điều hành Windows 7, Server 2008 R2 và các bản phát hành cũ hơn cũng có nguy cơ bị khai thác lỗ hổng Remote Desktop Services (còn được biết với tên Terminal Services) nếu không được cập nhật bản vá.
+Microsoft nói rằng không thấy tin tặc khai thác lỗ hổng trước khi bản cập nhật được tung ra nhưng rất có khả năng hacker sẽ viết phần mềm độc hại dựa trên nó. Các nhà nghiên cứu ước tính có hàng triệu máy tính cũ chưa được vá lỗ hổng, gây nguy cơ bùng phát cuộc tấn công tương tự WannaCry trước đây. Tuy nhiên, người dùng Windows 8 và Windows 10 không bị ảnh hưởng.
+Cách đây hai năm, các bệnh viện trên khắp nước Anh tuyên bố gặp sự cố lớn sau khi nhiều thiết bị mất khả năng truy cập do WannaCry. Hệ thống chính phủ, mạng lưới đường sắt và các công ty tư nhân trên toàn cầu cũng bị tấn công. Mã độc này gây ảnh hưởng tới 10.000 tổ chức, 200.000 cá nhân trong khoảng 150 quốc gia trên thế giới chỉ sau hơn 2 ngày xuất hiện.
+Dữ liệu của Kaspersky cho biết Việt Nam là một trong 20 quốc gia bị thiệt hại năng nhất bởi WannaCry. Ông Triệu Trần Đức, Tổng giám đốc CMC InfoSec, nhận định rằng Việt Nam có thể tiếp tục thành "điểm nóng" của mã độc tống tiền mới thời gian tới. Đầu tháng 5, một số máy tính của cơ quan ở Cà Mau đã bị mã hóa và đòi tiền chuộc.
+Bảo Anh (theo Engadget)

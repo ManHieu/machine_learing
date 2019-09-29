@@ -1,0 +1,13 @@
+TITLE: Mac Pro mới có giá từ 6.000 USD - VnExpress Số Hóa
+
+KEY WORDS: Mac Pro 2019, Mac Pro
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Ngoài phần mềm, WWDC 2019 diễn ra tại San Jose (Mỹ) hôm nay còn có sự xuất hiện của Mac Pro mới. Mẫu máy tính có hình khối tương tự các case phổ thông nhưng được làm từ thép không gỉ, cho phép tháo vỏ để nâng cấp, thay thế các linh kiện bên trong.
+Mac Pro mới.
+Phần cứng là điểm đáng chú ý nhất trên Mac Pro mới, trong đó phiên bản cao cấp sẽ dùng bộ xử lý Intel Xeon với tối đa 28 lõi, 64 làn PCI Express. Máy sử dụng RAM ECC 2933 MHz, cho phép nâng cấp lên 1,5TB thông qua 12 khe cắm.
+Model mới đưa trở lại cổng PCI-E, có hai Thunderbolt 3, hai cổng USB-A và một giắc âm thanh 3,5mm, card đồ họa tiêu chuẩn là Radeon Pro Vega II. Mac Pro mới có giá từ 6.000 USD (khoảng 139,5 triệu đồng) nhưng hãng chưa thông báo thời gian lên kệ.
+Bên cạnh máy tính, Apple còn công bố màn hình Pro Display XDR mới với giá 5.000 USD (khoảng 116,3 triệu đồng). Thiết bị nhỏ hơn 40% so với iMac 5K, có lớp phủ chống phản chiếu, độ sáng 1.000 nit. Chân đế hỗ trợ xoay dọc, xoay ngang màn hình để phù hợp với từng điều kiện sử dụng.
+Bảo Anh (theo Apple Insider)

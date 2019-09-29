@@ -1,0 +1,19 @@
+TITLE: Bộ Giáo dục và Đào tạo lần đầu có cơ sở dữ liệu hoàn chỉnh về giáo viên - VnExpress
+
+KEY WORDS: Bộ Giáo dục và Đào tạo, cơ sở dữ liệu, đội ngũ giáo viên, giáo viên
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Chiều 5/7, Bộ trưởng Giáo dục và Đào tạo Phùng Xuân Nhạ tổ chức cuộc họp nghiệm thu cơ sở dữ liệu đội ngũ nhà giáo và cán bộ quản lý giáo dục. Đây là lần đầu tiên cơ sở dữ liệu hoàn chỉnh về đội ngũ giáo viên được xây dựng và đưa vào sử dụng.
+Ông Nguyễn Sơn Hải, Cục trưởng Công nghệ thông tin (Bộ Giáo dục và Đào tạo) cho biết cơ sở dữ liệu này lưu trữ đầy đủ thông tin của đội ngũ giáo viên, nhân viên và cán bộ quản lý các cơ sở giáo dục mầm non, phổ thông và giáo dục thường xuyên.
+Đến nay, cơ sở dữ liệu đã được triển khai tại 63 Sở, 710 Phòng Giáo dục và Đào tạo với 52.900 cơ sở giáo dục mầm non và phổ thông. Mỗi đơn vị được cấp một tài khoản quản trị để quản lý và sử dụng hệ thống. Dữ liệu đội ngũ được cập nhật từ các trường, Phòng Giáo dục và Đào tạo sẽ thẩm tra và duyệt dữ liệu từ các nhà trường, Sở thẩm tra và duyệt dữ liệu của Phòng, Bộ duyệt của các địa phương.
+Cô giáo Lê Thu Lan ở trường Tiểu học Nghĩa Đô (Cầu Giấy, Hà Nội).
+Theo ông Hải, với dữ liệu hiện tại, các cấp quản lý có thể tra cứu, khai thác được thông tin về số lượng giáo viên của từng cấp học theo từng tỉnh/thành phố, quận/huyện và nhà trường; theo chuyên ngành đào tạo, trình độ chuyên môn nghiệp vụ, giới tính, dân tộc, đảng viên, trình độ ngoại ngữ, tin học.
+"Cơ sở dữ liệu này cũng cho phép thống kê kết quả đánh giá theo chuẩn đến từng tiêu chí và tra cứu hồ sơ chi tiết của từng nhân sự. Đặc biệt, hệ thống chỉ ra được thực trạng thừa - thiếu giáo viên theo định mức, theo môn học của từng trường học, địa phương", ông Hải cho hay.
+Ông Hoàng Đức Minh, Cục trưởng Nhà giáo và Cán bộ quản lý giáo dục, cho biết mặc dù đang tiếp tục hoàn thiện, cơ sở dữ liệu đã phục vụ rất tốt một số nhiệm vụ phối hợp giữa Bộ Giáo dục và Đào tạo với bộ, ngành khác trong thời gian qua như thiết kế bảng lương mới cho đội ngũ nhà giáo; thu thập dữ liệu về bình đẳng giới; thống kế số lượng đảng viên.
+Khi chưa có cơ sở dữ liệu, hoạt động thống kê đội ngũ giáo viên và cán bộ quản lý giáo dục được thực hiện thông qua niên giám hàng năm, thường cuối năm sau mới có số liệu thống kê của năm trước, gây khó khăn cho công tác quản lý. "Bức tranh dữ liệu ngành được xây dựng sẽ giúp các cơ quan quản lý ra quyết định quản lý chính xác và kịp thời", ông Minh nói.
+Dựa trên cơ sở dữ liệu đội ngũ, Bộ trưởng Phùng Xuân Nhạ đang giao Cục Nhà giáo và Cán bộ quản lý giáo dục xây dựng báo cáo thực trạng giáo viên của từng địa phương để gửi Bộ Nội vụ, các địa phương và báo cáo Chính phủ trước năm học mới để đề nghị ngành Nội vụ có kế hoạch tuyển dụng sát với yêu cầu thực tế và ban hành, tham mưu các chính sách phù hợp.
+Ông Nhạ cho rằng cần khai thác có hiệu quả để không chỉ giải quyết bài toán thừa - thiếu giáo viên ở từng địa phương mà còn phục vụ cho công tác bồi dưỡng, đào tạo đội ngũ, điều chỉnh chỉ tiêu đào tạo ngành sư phạm. Việc kê khai theo từng trường như hiện nay mới là bước một của cơ sở dữ liệu đội ngũ. Tới đây, mỗi giáo viên phải có mã số định danh riêng để chính giáo viên sẽ là người kê khai, bổ sung thông tin cần thiết hay thay đổi nếu có.
+"Cố gắng trong năm 2019 cơ sở dữ liệu đội ngũ giáo viên và cán bộ quản lý giáo dục vận hành thông suốt, được khai thác có hiệu quả, góp phần khắc phục một số bật cập hiện nay, đồng thời hỗ trợ hiệu quả việc xây dựng chính sách cho nhà giáo", Bộ trưởng nhấn mạnh.
+Xuân Hoa 

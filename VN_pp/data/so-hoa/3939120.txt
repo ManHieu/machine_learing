@@ -1,0 +1,14 @@
+TITLE: Công ty Israel nói có thể mở khóa tất cả iPhone, iPad - VnExpress Số Hóa
+
+KEY WORDS: Cellebrite, Israel, mở khóa iPhone, bẻ khóa iPhone, UFED, GrayKey, Grayshift
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Trên website, Cellebrite cho biết giải pháp UFED của mình là cách duy nhất để các cơ quan thực thi pháp luật có thể mở khóa và trích xuất dữ liệu từ tất cả các mẫu điện thoại chạy Android hay iOS. Với sản phẩm của Apple, công cụ tương thích mọi mẫu iPhone, iPad chạy iOS 7 đến iOS 12.3.
+Minh họa một bộ công cụ mở khóa các mẫu smartphone của Cellebrite.
+"Vượt qua cơ chế bảo mật của Apple, cơ quan chức năng có thể trích xuất đầy đủ các tệp từ bất kỳ thiết bị iOS nào để có được những dữ liệu quan trọng, bao gồm ứng dụng của bên thứ ba, các cuộc trò chuyện, email đã tải xuống hay tệp đính kèm email, thậm chỉ cả những nội dung đã xóa", Cellebrite mô tả giải pháp.
+UFED của Cellebrite được bán dưới dạng "on-premise", trong đó người sử dụng phải trả một khoản tiền ban đầu để mua thiết bị phần cứng, các khoản phí khác trong quá trình sử dụng và tự vận hành khi cần. Một trong những hạn chế của on-premise là khó bảo vệ công nghệ. Đầu năm nay, một số thiết bị UFED vốn có giá 5.000-15.000 USD đã được rao bán giá 100 USD trên eBay.
+Apple liên tục tìm cách nâng cấp iOS để chặn các công cụ mở khóa iPhone, iPad như giải pháp của Cellebrite hay Grayshift. Tháng 10/2018, công cụ GrayKey của Grayshift đã bị vô hiệu hóa với các thiết bị chạy iOS 12 do được Apple tăng cường bảo mật.
+Bên cạnh giải pháp mới của Cellebrite, Grayshift cũng được cho là đã phát triển thành công công cụ cho phép mở khóa một số phiên bản iOS 12 nhất định. Cục Điều tra Liên bang Mỹ (FBI) là một trong những khách hàng của hai công ty này với khoản chi lên đến hàng tỷ USD nhằm mở khóa iPhone của nghi phạm.
+Bảo Anh (theo 9to5mac)

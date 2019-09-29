@@ -1,0 +1,46 @@
+TITLE: Đáp án bài toán thảm 4 màu của kỳ thi BIMC 2018 - VnExpress
+
+KEY WORDS: bài toán, đáp án, kỳ thi, BIMC 2018, giải toán
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 21.2: Graph colouring 
+Problem: The diagram below shows a hexagonal room. Its floor is covered with 19 numbered rugs of four different colors. Two rugs with a common segment along their borders must have different colors. Only two colors are used in the middle layer, and at most one rug in the outer layer has the same color as the central rug. Two coloring patterns are different if the color of at least one rug has changed. How many different coloring patterns are there?
+Dịch đề: Hình vẽ dưới đây biểu diễn một căn phòng hình lục giác. Trên sàn trải 19 tấm thảm đã được đánh số, gồm 4 màu khác nhau. Hai tấm thảm có chung cạnh biên thì phải khác màu. Chỉ có 2 màu được sử dụng trong lớp thảm trung gian, và trong lớp thảm ngoài cùng, có nhiều nhất một tấm thảm có cùng màu với tấm thảm nằm ở trung tâm phòng. Hai cách trải thảm được coi là khác nhau nếu có ít nhất một tấm thảm đã đổi màu. Hỏi có bao nhiêu cách trải thảm khác nhau?
+Hướng dẫn giải
+Bước 1: Có 4 cách chọn màu cho tấm thảm trung tâm số 19.
+Bước 2: Chọn màu cho 6 tấm thảm ở lớp thảm trung gian.
+Do chỉ có 2 màu được sử dụng ở lớp thảm trung gian nên các tấm thảm (16, 18, 14) có cùng 1 màu và (15, 17, 13) cũng có cùng 1 màu nhưng khác màu của (16, 18, 14).
+Có 3 cách chọn màu cho các tấm thảm (16, 18, 14) và khác màu với thảm 19.
+Có 2 cách chọn màu cho các tấm thảm (15, 17, 13) khác màu với (16, 18, 14) và 19.
+Vậy có 3 × 2 = 6 (cách) chọn màu cho 6 tấm thảm ở lớp thảm trung gian.
+Bước 3: Chọn màu cho 12 tấm thảm ở lớp bên ngoài.
+Theo yêu cầu đề bài trong lớp thảm bên ngoài, có nhiều nhất một tấm thảm có cùng màu với tấm thảm nằm ở trung tâm phòng nên xét 2 khả năng sau:
+a) Lớp thảm bên ngoài, không có tấm thảm nào có cùng màu với tấm thảm số 19.
+Khi đó chỉ có có 2 cách chọn màu cho 12 tấm thảm ở lớp bên ngoài sao cho 2 tấm thảm có chung cạnh thì phải khác màu.
+b) Lớp thảm bên ngoài, có 1 tấm thảm có cùng màu với tấm thảm số 19.
+Có 12 cách chọn 1 tấm thảm ở lớp bên ngoài có cùng màu với tấm thảm số 19.
+Với mỗi cách chọn tấm thảm ở lớp bên ngoài cùng màu với tấm thảm số 19, luôn có 7 cách chọn màu cho 11 tấm thảm còn lại ở lớp bên ngoài.
+Từ đó suy ra có 12 × 7 = 84 (cách) chọn màu cho 12 tấm thảm ở lớp bên ngoài.
+Từ a) và b) suy ra có 2 + 84 = 86 cách chọn màu cho 12 tấm thảm ở lớp bên ngoài.
+Kết luận: Từ 3 bước trên suy ra số cách trải thảm bằng số cách chọn màu và bằng
+4 × 6 × 86 = 2064 (cách).
+Solution
+Step 1: There are 4 ways to choose the color for the central rug 19.
+Step 2: Choose the color for the 6 rugs in the middle layer.
+Since only two colors are used in the middle layer, one is for rugs (16, 18, 14) and the other is for rugs (15, 17, 13).
+There are 3 ways to choose the color for rugs (16, 18, 14) to be different from rug 19.
+There are 2 ways to choose the color for rugs (15, 17, 13) to be different from rug 19 and rugs (16, 18, 14).
+Thus, there are 3 × 2 = 6 ways to choose the color for the 6 rugs in the middle layer.
+Step 3: Choose the color for the 12 rugs in the outer layer.
+Since at most one rug in the outer layer has the same color as rug 19, we consider the two following possibilities:
+a) No rug in the outer layer has the same color as rug 19:
+Then there are only 2 ways to choose the color for these 12 rugs such that any two rugs with a common segment along their borders have different colors.
+b) 1 rug in the outer layer has the same color as rug 19:
+There are 12 ways to choose the rug that has the same color as rug 19.
+For each of these 12 ways, there are always 7 ways to choose the color for the 11 remaining rugs in the outer layer.
+Thus, in this case, there are 12 × 7 = 84 ways to choose the color for the 12 rugs in the outer layer.
+From a) and b) it follows that there are 2 + 84 = 86 ways to choose the color for the 12 rugs in the outer layer.
+Conclusion: From the 3 steps above, the total number of coloring patterns is:
+4 × 6 × 86 = 2064 (patterns). 

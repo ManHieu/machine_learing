@@ -1,0 +1,14 @@
+TITLE: Apple ra iOS 12.1.4 sửa lỗi nghe lén trên FaceTime - VnExpress Số Hóa
+
+KEY WORDS: Apple, iOS, cập nhật, lỗi FaceTime
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo Verge, Apple đã phát hành bản cập nhật iOS 12.1.4 ngày 7/2 để khắc phục lỗ hổng bảo mật trong tính năng Group FaceTime. Được phát hiện vào tuần trước, lỗi này cho phép bất cứ ai gọi FaceTime bằng điện thoại hoặc máy Mac có thể nghe âm thanh ở đầu bên kia trước khi người kia bắt máy.
+Apple đã cho phép người dùng thêm chính bản thân vào cuộc gọi để hệ thống không còn bị đánh lừa và coi đó là một cuộc gọi bình thường đang được thực hiện. Hãng trước đó cũng đã vô hiệu hóa tính năng Group FaceTime từ máy chủ để ngăn lỗ hổng bị khai thác sau khi thông tin được công khai.
+Ngoài ra, trong ghi chú phát hành của bản cập nhật iOS, Apple cho biết đã trao thưởng cho gia đình cậu bé 14 tuổi Grant Thompson - người đầu tiên phát hiện ra lỗi trên tính năng FaceTime của iPhone và đã cố liên lạc với Apple để cảnh báo. Một người khác là Daven Morris cũng được ghi nhận. Tuy nhiên, chi tiết số tiền thưởng không được công bố.
+Người dùng đã có thể cập nhật phiên bản iOS mới nhất.
+Một số nguồn tin nói Apple đã được cảnh báo về lỗ hổng FaceTime từ vài tuần trước, nhưng công ty đã phản hồi chậm chạp. Hiện chưa rõ lỗi đã tồn tại bao lâu, do Group FaceTime được giới thiệu từ ba tháng trước với bản cập nhật iOS 12.1.
+Apple hứa sẽ phát hành bản sửa lỗi trong tuần trước, tuy nhiên việc này bị trì hoãn cho tới hôm qua. Công ty cam kết cải thiện cách thức xử lý các báo cáo lỗi trong tương lai, để tránh các tình huống chúng có thể bị bỏ qua. Trong bản cập nhật mới, lỗi hiển thị thông tin mạng 5G giả của AT&T cũng được loại bỏ. 
+Bảo Nam

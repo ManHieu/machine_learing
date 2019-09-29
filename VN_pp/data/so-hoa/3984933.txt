@@ -1,0 +1,14 @@
+TITLE: Mate 30 Pro dùng dịch vụ Huawei Mobile Service - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Mate 30, Mate 30 Pro
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+"Chúng tôi không thể sử dụng hệ thống Google Mobile Service, thay vào đó là Huawei Mobile Service", Richard Yu, Giám đốc điều hành mảng sản phẩm tiêu dùng của Huawei xác nhận với trang công nghệ Verge.
+Lệnh cấm vận của chính phủ Mỹ khiến các smartphone mới của Huawei không thể cài các gói dịch vụ của Google, mà phải dùng phần mềm và dịch vụ tự phát triển. Điều này có thể gây ảnh hưởng không nhỏ đến việc kinh doanh của bộ đôi Mate 30 và Mate 30 Pro tại thị trường châu Âu và quốc tế, nơi dịch vụ Google rất thông dụng. Thậm chí, sản phẩm còn không có kho ứng dụng CH Play của Android mà dùng kho riêng của Huawei cung cấp có tên AppGallery.
+Mate 30 Pro chạy Android 10 nhưng không được cài đặt các dịch vụ của Google.
+Huawei đã chi một tỷ USD để đầu tư phát triển hệ thống dịch vụ Huawei Mobile Service. Trong đó, kho ứng dụng trực tuyến AppGallery đang được cung cấp tới hơn 170 thị trường và có 180 tỷ lượt tải ứng dụng về trong năm ngoái. Công ty Trung Quốc tiết lộ đã có hơn 45.000 ứng dụng tích hợp trong hệ thống dịch vụ của mình.
+Dù có giải pháp thay thế, việc thiếu dịch vụ Google vẫn sẽ gây khó khăn rất lớn cho người dùng điện thoại Huawei. Rất nhiều ứng dụng bên thứ ba hiện cần đến Google Mobile Service. Chúng có thể được tải về từ Internet hay AppGallery và cài đặt bình thường, nhưng không có dịch vụ Google thì không thể đăng nhập, lấy dữ liệu và hoạt động bình thường.
+Bộ đôi Mate 30 và Mate 30 Pro là hai smartphone cao cấp được Huawei giới thiệu tại Đức ngày 19/9. Sản phẩm sử dụng hệ điều hành mới nhất Android 10 với giao diện được Huawei tùy biến riêng mang tên EMIUI.
+Mỹ Anh

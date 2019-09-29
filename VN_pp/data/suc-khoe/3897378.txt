@@ -1,0 +1,16 @@
+TITLE: Bồn cầu thông minh giúp phát hiện bệnh tim - VnExpress Sức Khỏe
+
+KEY WORDS: bồn cầu thông minh, bồn cầu đo nhịp tim, phòng ngừa bệnh tim, bệnh tim, huyết áp, thiết bị hỗ trợ sức khỏe
+
+TOPIC: sức khỏe, tư vấn
+
+CONTENT: 
+Các nhà nghiên cứu tại Học viện công nghệ Rochester, Mỹ, vừa phát triển một chiếc bồn cầu thông minh tích hợp nhiều cảm biến giúp đo sức khỏe tim mạch của người dùng khi họ ngồi lên, theo RIT.
+Cảm biến gồm điện tâm đồ ECG đo hoạt động điện của tim, PPG đo lượng oxy trong máu, BCG đo nhịp tim và các lực cơ học liên quan đến chu kỳ tim. Số đo được tính bằng cách đo sóng áp lực trên động mạch khi có máu đi qua.
+Các cảm biến được đặt dưới bệ ngồi của bồn cầu. Ảnh: Albilad
+Nicholas Conn, thành viên nhóm nghiên cứu, cho biết hệ thống hoạt động không dây, tích hợp pin và dễ dàng lau rửa. Bảng số liệu sẽ đưa lên các dịch vụ đám mây. Từ đó, người dùng có thể phát hiện nhanh chóng dấu hiệu của bệnh và bác sĩ cũng dễ dàng theo dõi các chỉ số tại nhà riêng của bệnh nhân.
+Nicholas Conn và nhóm của ông đang chuẩn bị đưa sản phẩm lên FDA phê duyệt và triển khai nó trên toàn quốc. Ảnh: RIT
+Để xác định tính chính xác những số đo, các nhà nghiên cứu sử dụng dụng cụ tiêu chuẩn từ bệnh viện. Họ thử nghiệm với 38 tình nguyện viên khỏe mạnh và 111 bệnh nhân tim. Kết quả, bồn cầu đạt hiệu quả như tiêu chuẩn của các thiết bị đo tim sử dụng trong bệnh viện.
+Các kỹ sư cho biết người dùng chỉ có thể đo chính xác số đo tim mạch khi ngồi yên và không đi vệ sinh. 
+"Chúng tôi cần thời gian thử nghiệm và nâng cấp sản phẩm, nhất là để so sánh với phương pháp đo MRI", Conn nói. 
+Cẩm Anh

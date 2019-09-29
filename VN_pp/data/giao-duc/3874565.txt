@@ -1,0 +1,16 @@
+TITLE: Ba câu đố đòi hỏi tư duy logic - VnExpress
+
+KEY WORDS: câu đố, tư duy, logic, đố vui, toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Câu 1: Đồng hồ cát
+Có hai chiếc đồng hồ cát trước mặt bạn. Một chiếc đo được 7 phút, chiếc còn lại đo được 4 phút. Bạn làm thế nào để tính được 9 phút với hai chiếc đồng hồ này? 
+>>Xem đáp án
+Câu 2: Cam và táo
+Bạn có ba thùng hoa quả. Một thùng đựng cam, một thùng đựng táo và một thùng đựng cả cam lẫn táo. Thùng 1 được dán nhãn "Táo", thùng 2 dán nhãn "Cam", thùng 3 dán nhãn "Táo và Cam". Tuy nhiên, cả ba nhãn dán đều không chính xác và nhiệm vụ của bạn là tráo nhãn để chúng chỉ đúng loại quả bên trong. 
+Bạn không thể nhìn vào bên trong thùng, nhưng được phép lấy một quả từ bất kỳ thùng nào để kiểm tra. Số quả ít nhất mà bạn phải lấy ra để xác định đúng vị trí của cả ba nhãn dán là bao nhiêu? 
+>>Xem đáp án
+Câu 3: Hãy điền số còn thiếu vào dấu chấm hỏi. 
+>>Xem đáp án 

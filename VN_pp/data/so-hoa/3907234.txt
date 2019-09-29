@@ -1,0 +1,15 @@
+TITLE: Bé ba tuổi nhập sai mật khẩu, iPad bị khóa 48 năm - VnExpress Số Hóa
+
+KEY WORDS: Apple, iPad, Evan Osnos
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Evan Osnos chia sẻ hình ảnh chiếc iPad bị khóa 48 năm trên Twitter. 
+"Điều này có vẻ không thực tế, nhưng than ôi, đây là chiếc iPad sau khi bị đứa bé ba tuổi mở khóa (liên tục)", Evan Osnos - cây viết của tờ The New Yorker đăng trên Twitter kèm hình ảnh chiếc iPad bị khóa và hiển thị thông điệp: "Hãy mở lại sau 25.536.442 phút". 
+Thời gian chiếc tablet của Apple thông báo tương đương 48 năm và nếu làm đúng như gợi ý, Osnos có thể mở khóa máy vào năm 2067. "Anh ấy sẽ được sử dụng chiếc iPad của mình khi về hưu. Đó chẳng phải điều tuyệt vời sao?", trang CNN bình luận dí dỏm. 
+Tự khóa là tính năng bảo mật của các thiết bị Apple. Nó kích hoạt khi bị nhập sai mật khẩu liên tục. Càng nhập sai nhiều lần, thời gian khóa sẽ càng tăng. Tuy nhiên, Apple có thể chưa tính tới các trường hợp máy bị mở khóa bởi những những đứa trẻ mới chỉ tập nói, tập đi như trường hợp của Osnos.
+"Hãy đặt nó vào trong thùng gạo và nhớ mở ra sau 48 năm nữa", một bình luận nhận được nhiều lượt yêu thích bên dưới dòng tweet của Osnos. "Anh có lẽ sẽ cần cỗ máy du hành thời gian để mở iPad", một người dùng khác nói. Tuy nhiên, cũng có những góp ý nghiêm túc khuyên Osnos kết nối với iTunes để đồng bộ lại với máy tính để mở máy. 
+"Nó đã giảm vài trăm phút so với hôm qua, nhưng có vẻ như chúng ta vẫn cần phải chờ thêm 25 triệu phút nữa", Osnos trả lời phỏng vấn trên New York Daily News. "Tôi đang sử dụng một phiên bản iOS cũ và nó dường như không cho phép tôi khởi động lại iPad khi kết nối với iTunes của máy tính", anh tiếp tục chia sẻ về việc đã làm theo hướng dẫn nhưng không thành công.  
+Cuối cùng, sau khi được các chuyên gia gợi ý, Osnos đã thử đưa iPad về chế độ DFU (Device Firmware Update) và khôi phục lại cài đặt ban đầu của máy. Điều này cũng đồng nghĩa với việc máy tính bảng bị mất tất cả dữ liệu bên trong. 
+Hoài Anh (theo CNN)

@@ -1,0 +1,29 @@
+TITLE: Đáp án bài toán điền số trong kỳ thi BIMC 2018 - VnExpress
+
+KEY WORDS: bài toán điền số, bài toán, đáp án, kỳ thi BIMC 2018
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 24: Điền số
+Problem: The eight empty circles in the diagram below are to be filled in, using each of the integers 3, 4, 5, 6, 7, 9, 10 and 11 exactly once, to make the sums of the four numbers at the corners of each square the same. Find the number inside the circle marked with a "?".
+Dịch đề: Điền các số nguyên 3, 4, 5, 6, 7, 9, 10 và 11 vào 8 vòng tròn dưới đây, mỗi số sử dụng đúng 1 lần, sao cho tổng của các số điền ở 4 góc của mỗi hình vuông đều bằng nhau. Tìm số điền trong vòng tròn chứa dấu hỏi chấm.
+Hướng dẫn giải
+Tổng các số đã xuất hiện với các số cần điền vào các ô trống là
+0 + 1 + 2 + 3 + 4 + 5 + 6 +7 + 8 + 9 + 10 + 11 = 66
+Giả sử ta điền được các số thỏa mãn điều kiện tổng các số ở 4 góc của mỗi hình vuông đều bằng nhau. Xét 3 hình vuông không chung đỉnh gồm 1 hình vuông ở phía trên, 1 hình vuông bên trái và 1 hình vuông ở phía dưới. Do tổng các số điền ở 4 góc của mỗi hình vuông đều bằng nhau nên mỗi tổng này cùng bằng 66 : 3 = 22.
+Gọi 4 số chưa biết từ trái sang phải của 3 hình vuông ở hàng giữa là (m, n, p, q).
+Từ hình vẽ ta có m + n = 20; n + p = 21; p + q = 14 với Max(m, n, p, q) ≤ 11.
+Dễ dàng suy ra (m, n, p, q) = (9, 11, 10, 3).
+Vậy số cần điền trong vòng tròn chứa dấu hỏi chấm là 3.
+Bình luận: Do đã sử dụng các số (2, 0, 1, 8) và (9, 11, 10, 3), đồng thời tổng các số điền ở 4 góc của mỗi hình vuông đều bằng 22, nên 2 số ở hàng trên cùng là (6,7) hoặc (7, 6) còn 2 số ở hàng dưới cùng là (4, 5) hoặc (5, 4). Theo quy tắc nhân suy ra: có tất cả có 4 cách điền số thỏa mãn yêu cầu bài toán.
+Solution
+The sum of all the numbers already-filled and to-be-filled in the circles is:
+0 + 1 + 2 + 3 + 4 + 5 + 6 +7 + 8 + 9 + 10 + 11 = 66
+Suppose that we can fill in the numbers to make the sums of the four numbers at the corners of each square the same. Consider the three squares with no common vertices: the uppermost, leftmost and lowermost ones. Since the sums of the four numbers at the corners of each square are equal, each of these three sums is 66 : 3 = 22.
+Let the 4 unknown numbers at the corner of the three squares in the middle row be (m, n, p, q) from left to right.
+From the figure, we have: m + n = 20; n + p = 21; p + q = 14 with Max(m, n, p, q) ≤ 11.
+It follows that (m, n, p, q) = (9, 11, 10, 3).
+Thus, the number inside the circle marked with a "?" is 3.
+Comment: Since the numbers (2, 0, 1, 8) and (9, 11, 10, 3) have already been used, and the sum of the four numbers at the corners of each square is 22, the 2 numbers in the topmost row must be (6, 7) or (7, 6) and the 2 numbers in the bottommost row must be (4, 5) or (5, 4). According to the multiplication principle, there are a total of 4 ways to fill in the number as required.
+Trần Phương - Minh Phương 

@@ -1,0 +1,18 @@
+TITLE: Khóa cửa thông minh có thể bị hack để mở từ xa - VnExpress Số Hóa
+
+KEY WORDS: khóa thông minh, nhà thông minh, smarthome
+
+TOPIC: số hóa, điện tử gia dụng, nhà thông minh
+
+CONTENT: 
+Hai nhà nghiên cứu bảo mật Chase Dardaman và Jason Wheeler đã phát hiện ba lỗ hổng trên bộ điều khiển smarthome của Zipato mà khi kết hợp chúng với nhau có thể mở được khóa cửa thông minh. Bộ đôi chuyên gia đã thông báo với nhà sản xuất về lỗi trên từ tháng 3 nhưng sau khi Zipato tiến hành sửa lỗi mới thông báo rộng rãi.
+ 
+ 
+Khóa cửa thông minh có thể bị hack để mở từ xa
+Bộ điều khiển trung tâm của Zipato có thể bị can thiệp để mở khóa mà không cần mật khẩu.
+Lỗ hổng tồn tại trên ZipaMicro, một bộ điều khiển trung tâm dùng để ghép nối, quản lý các thiết bị thông minh khác trong nhà, chẳng hạn khóa cửa, đèn, bộ điều khiển điều hòa... Dardaman và Wheeler đã tìm ra cách chiếm quyền truy cập ở cấp độ cao nhất (root) trên ZipaMicro, cho phép điều khiển các thiết bị thông minh khác mà không cần mật khẩu.
+Nghiêm trọng hơn, nhóm nghiên cứu nói rằng bất kỳ tòa nhà chung cư hay khách sạn nào sử dụng tài khoản master chung cho tất cả các phòng với thiết bị của Zipato thì đều có nguy cơ mất an toàn.
+Để thực hiện can thiệp, hacker phải kết nối cùng tới mạng Wi-Fi của bộ ZipaMicro. Tuy nhiên, Dardaman nói rằng bất kỳ bộ điều khiển trung tâm nào có kết nối với Internet đều có nguy cơ bị tấn công từ xa. Các nhà nghiên cứu đã tìm thấy năm thiết bị dễ bị xâm nhập như vậy thông qua công cụ Shodan.
+Zipato cho biết họ đang có 112.000 thiết bị thông minh được sử dụng tại 20.000 hộ gia đình, nhưng không công bố số lượng bộ điều khiển trung tâm có nguy cơ bị tấn công. Công ty đã vá lỗ hổng vài tuần sau khi nhận được thông tin từ nhóm nghiên cứu đồng thời ngừng bán ZipaMicro trên các bộ smarthome mới.
+Nhà thông minh đang là xu hướng thịnh hành trên toàn cầu với mức tăng trưởng hai chữ số trong 5 năm tới. Công ty nghiên cứu thị trường IDC ước tính hơn 832 triệu thiết bị smarthome sẽ được bán trong năm nay và sẽ đạt 1,6 tỷ thiết bị vào 2023. Bên cạnh sự tiện lợi đem lại cho người dùng, nhà thông minh cũng đặt ra thách thức trước các nguy cơ bị tấn công bảo mật.
+Bảo Anh (theo TechCrunch)

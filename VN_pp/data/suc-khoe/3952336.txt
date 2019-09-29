@@ -1,0 +1,17 @@
+TITLE: Vắcxin đầu tiên được bào chế bằng trí tuệ nhân tạo - VnExpress Sức Khỏe
+
+KEY WORDS: vắcxin, trí tuệ nhân tạo, Al, đầu tiên trên thế giới
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Theo giáo sư Nikolai Petrovsky, Nga, trưởng nhóm nghiên cứu, đầu tiên nhóm tạo ra một chương trình tên SAM. Chương trình được lập trình để phân biệt nhóm hợp chất có thể kích hoạt hệ miễn dịch của con người và nhóm hợp chất không có khả năng kích hoạt.
+Tiếp đến, một chương trình khác được lập trình nhằm tổng hợp hàng nghìn tỷ hợp chất hóa học khác nhau. Công nghệ trí tuệ nhân tao (AI) sử dụng cả hai chương trình này để tổng hợp, so sánh, phân tích và đưa ra những loại thuốc tốt nhất đối với hệ miễn dịch của con người.
+Những loại thuốc tốt nhất mà SAM đưa ra được các nhà nghiên cứu phân tích, tổng hợp, và thử nghiệm trên tế bào máu người tại phòng thí nghiệm.
+"Điều này khẳng định SAM không những xác định được những loại thuốc tốt, trên thực tế loại vắcxin mà SAM tìm ra còn tốt hơn những loại vắcxin hiện hành," vị giáo sư chia sẻ.
+Những loại thuốc này cũng được thử nghiệm trên động vật. "Kết quả cho thấy loại vắcxin mới này có sức đề kháng rất cao với virus cúm, tốt hơn nhiều lần những loại vắcxin đang hiện hành. Hiện, chúng ta chỉ cần chứng minh hiệu quả này trên cơ thể người," trưởng nhóm nghiên cứu nói.
+Ảnh: Businessinsider
+Nếu vắcxin tổng hợp từ SAM hiệu quả trên cơ thể người, rất có thể giới y học sẽ rút ngắn hàng thập kỷ trong việc tìm kiếm và phát triển thuốc, cũng như tiết kiệm hàng trăm triệu USD. Loại vắcxin mới này đang được thử nghiệm tại Flinders và sẽ được mở rộng trên quy mô toàn cầu. Nghiên cứu đã bước vào giai đoạn thử nghiệm kéo dài 12 tháng trên toàn nước Mỹ.
+Petrovsky hy vọng loại vắcxin mới do SAM tạo ra sẽ chứng minh sự hiệu quả vượt bậc của mình, tiếp tục bổ sung hoặc thay thế các loại vắcxin hiện có.
+Ông bổ sung: "Nếu thành công, chúng ta có thể áp dụng công nghệ SAM để cải thiện hoặc tạo ra nhiều loại vắcxin khác ngoài vắcxin cúm."
+Lê Hằng (Theo Sciencealert) 

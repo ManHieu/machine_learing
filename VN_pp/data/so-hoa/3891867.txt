@@ -1,0 +1,13 @@
+TITLE: Apple có thể ra mắt kính AR cuối năm nay - VnExpress Số Hóa
+
+KEY WORDS: Apple, kính AR, thực tế tăng cường
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo The Verge, nhà phân tích Ming-Chi Kuo cho biết Apple có thể bắt đầu sản xuất kính thực tế tăng cường vào cuối năm nay. Các dự đoán được đưa ra trong một báo cáo được xuất bản bởi Economic Daily News, trong đó Kuo dự đoán chiếc kính này có thể được phát hành dưới dạng phụ kiện iPhone và sẽ chứa màn hình riêng. Đi kèm là các phần mềm tương thích, hỗ trợ theo dõi vị trí và kết nối mạng thông qua smartphone.
+Năm 2017, Apple đã phát hành phần mềm thực tế tăng cường đầu tiên mang tên ARKit. Tuy nhiên, công ty chưa sản xuất bất kỳ phần cứng AR chuyên dụng nào. Thay vào đó, Apple chú trọng vào cải thiện phần mềm cho các thiết bị hiện có, cải thiện trải nghiệm khi sử dụng trên màn hình điện thoại hoặc máy tính bảng. Năm ngoái, công ty đã phát hành ARKit 2.0, bổ sung tính năng hỗ trợ cho AR nhiều người cùng lúc và giới thiệu một định dạng tệp dành riêng cho AR mới có tên USDZ.
+Tin đồn về việc Apple chuẩn bị phát hành phần cứng AR của riêng mình đã xuất hiện từ năm 2017, khi Bloomberg dự đoán thiết bị sẽ ra mắt đầu năm 2019. Một báo cáo khác từ CNET năm ngoái tuyên bố kính AR có thể được phát hành vào năm 2020 và sẽ cung cấp một trải nghiệm kết hợp cả AR và VR.
+Trước Apple, LG đã ra mắt thiết bị VR đi kèm mẫu flagship G5 vào năm 2016. Công ty North, được sự hậu thuẫn của Amazon, mới đây cũng ra mắt kính thông minh Focals có khả năng kết nối qua Bluetooth. Còn tháng trước, nhà sản xuất chip Qualcomm đã công bố một nền tảng chuyên dụng để giúp các nhà sản xuất sản xuất kính AR hoặc VR kết nối thiết bị với điện thoại.
+Doanh số iPhone đã chậm lại trong những năm gần đây, dẫn đến các suy đoán Apple sẽ cần phải tìm hướng đi khác để tăng trưởng doanh thu trong tương lai. Một lĩnh vực phù hợp nhận được nhiều đồn đoán là phụ kiện, với doanh thu bán hàng đã tăng 33% ngay cả khi doanh số điện thoại đã giảm 15%. Kính AR có thể là phụ kiện hữu ích cho Apple, cung cấp nguồn doanh thu mới bất chấp việc người dùng không cảm thấy cần phải nâng cấp smartphone. 
+Bảo Nam

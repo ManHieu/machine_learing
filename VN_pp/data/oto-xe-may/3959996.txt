@@ -1,0 +1,50 @@
+TITLE: Vì sao xe cơ bắp Mỹ không dùng tăng áp mà dùng siêu nạp?
+
+KEY WORDS: xe cơ bắp Mỹ, xe hiệu suất cao, động cơ siêu nạp
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Những mẫu xe đầu bảng thuộc dòng cơ bắp hiệu suất cao như Ford Mustang Shelby GT500, Chevrolet Corvette ZR1, Corvette Z06, Dodge Challenger và Charger Hellcat, Challenger Demon và Chevrolet Camaro ZL1 đều sử dụng động cơ siêu nạp cung cấp sức mạnh vượt trội. Có một lý do của đặc điểm chung này.
+Ford Mustang Shelby GT500.
+Có nhiều cách để tạo nên sức mạnh động cơ, một trong số đó là tăng thể tích xi-lanh. Trước đây, đó là cách duy nhất.
+Sau này, công nghệ tăng áp xuất hiện, nhưng khá hiếm gặp (như Saab và Porsche), khi việc thu nhỏ dung tích xi-lanh chưa quá phổ biện như hiện nay. Rồi công nghệ hybrid xuất hiện và là một cách áp dụng để tăng công suất động cơ trên những siêu xe như Honda/Acura NSX hay Ferrari LaFerrari. Ngoài ra là công nghệ siêu nạp. 
+Với động cơ siêu nạp, một máy nén khí sẽ ép nhiều không khí hơn vào buồng đốt làm tăng áp suất. Không khí được nạp vào nhiều hơn có nghĩa nhiên liệu sẽ được đốt cháy nhiều hơn và sản sinh công suất lớn hơn. Các hệ thống siêu nạp được vận hành bằng cách sử dụng một dây đai hoặc dây xích kết nối trực tiếp với trục khuỷu.
+Ở động cơ tăng áp, hệ thống cũng nén không khí nhiều hơn vào buồng đốt, nhưng vận hành thông qua một turbin sử dụng khí xả từ động cơ. Vì cần thời gian để dòng khí từ động cơ thoát ra mới kích hoạt tuabin thông qua van, nên động cơ tăng áp luôn có độ trễ (turbo lag).
+Điều quan trọng là đối với động cơ siêu nạp, không có độ trễ nhưng phải nhờ tới cơ cấu kết nối với trục khuỷu để vận hành nên gây ra thất thoát năng lượng. Với động cơ tăng áp, hiệu quả sử dụng nhiên liệu sẽ tốt hơn bởi tận dụng được luồng khí thải từ động cơ nhưng đi kèm là độ trễ.
+Ford
+Động cơ siêu nạp trên GT500.
+Theo Ford, các kỹ sư của họ sử dụng một hệ thống siêu nạp cho mẫu xe GT500 để cung cấp phản hồi chân ga tức thì và duy trì mức vòng tua máy cao. Những thế hệ trước đây của GT500 cũng hoàn toàn sử dụng công nghệ siêu nạp, điều này có vẻ thích hợp nên không cần thay đổi.
+Khi thế hệ Gen X (sinh ra trong khoảng 1966-1980) và những tay đua đường phố gia nhập phe ủng hộ công nghệ tăng áp (thứ âm thanh đanh gọn và vút cao họ thường nghe thấy từ một chiếc xe đua đường trường), thì luôn có một đám đông đứng tuổi hơn lựa chọn những chiếc thể thao cơ bắp Mỹ. Họ cho rằng tiếng gầm thuần chất của hệ thống siêu nạp mới là tiếng gọi thực sự của cuộc đua tốc độ. Khi mường tượng về một hệ thống siêu nạp đồ sộ gắn ngay trên nắp ca-pô, hãy nhớ tới bộ phim Mad Max. 
+Với Ford, động cơ siêu nạp trên chiếc GT500 đời 2020 cung cấp sức mạnh 760 mã lực và mô-men xoắn cực đại 625 Nm. 
+GM
+Động cơ LT5.
+Dành riêng cho xe Chevrolet và Corvette, những hệ thống siêu nạp cho phép thay đổi cách lắp đặt phù hợp hơn với thiết kế nắp ca-pô thấp. 
+"Ở động cơ V8, hệ thống siêu nạp có thể được đặt rất gọn gàng phía dưới của động cơ nhưng đối với hệ thống tăng áp, đó là một thử thách khó khăn. Có rất ít không gian và nó nhanh chóng trở nên phức tạp," Jordan Lee, kỹ sư trưởng toàn cầu mảng động cơ nhỏ của GM giải thích. 
+Jordan cho biết thêm, phản ứng chân ga tức thì chính là đặc trưng tuyệt vời của hệ thống siêu nạp, khi đường cong biểu thị mô-men xoắn sẽ định nghĩa phẩm chất của động cơ. 
+Đối với GM, thực sự không có sự khác biệt quá lớn trong chi phí giữa hệ thống siêu nạp và tăng áp. "Cả hai biện pháp tăng công suất này đều có giá thành tương đương nhau đối với động cơ V8 khi tính toán tới các chi tiết phụ trợ như hệ thống đường ống dẫn khí, giải nhiệt khí nạp...", Lee cho biết.
+"Tuy nhiên, trên những động cơ 4 xi-lanh nhỏ hơn, công nghệ tăng áp tuabin có thể phù hợp hơn vì đơn giản, không có nhiều hệ thống siêu nạp cỡ nhỏ được phát triển dành cho chúng".
+Hiện nay, mẫu xe mạnh nhất được sản xuất hàng loạt của GM là Chevrolet Corvette ZR1. Động cơ LT5 sản sinh 755 mã lực, chưa kể hệ thống siêu nạp đã tiêu tốn khoảng 100 mã lực ở chế độ nén tối đa. "Như vậy, động cơ của chúng tôi thực sự đã tạo nên 855 mã lực khi khởi động, bởi 100 mã lực dành cho việc vận hành hệ thống siêu nạp", Lee khẳng định.
+Fiat Chrysler (FCA)
+Chris Cowland, giám đốc hệ thống truyền động của FCA giải thích ba yếu tố thúc đẩy khi công ty bắt đầu chương trình phát triển động cơ Hellcat. Đầu tiên là phản ứng chân ga liên tục. Tiếp đến là vẻ ngoài nổi trội. Khi mở nắp ca-pô của động cơ Hellcat, bạn sẽ bị cuốn hút ngay lập tức bởi khối siêu nạp với vô vàn chi tiết đặt phía trên động cơ. Và cuối cùng, họ muốn tạo nên một tiếng động cơ đặc trưng. 
+"Chiếc Apache sử dụng động cơ dung tích 6,4 lít hút khí tự nhiên có tiếng ống xả đặc trưng rất dễ nhận biết", Cowland nói. "Nếu chúng tôi trang bị hệ thống tăng áp cho nó, tuabin sẽ làm mất đi phần nào thứ âm thanh đã làm nên biểu tượng của động cơ V8 kiểu Mỹ. Chúng tôi không muốn điều đó xảy ra".
+Siêu nạp trên động cơ HEMI.
+Bộ tăng áp có thể cướp đi thứ âm thanh nguyên bản của động cơ truyền thống, dù cho nó được gắn ngay ở giữa cửa xả. Bạn sẽ cảm nhận thứ âm thanh tăng áp mới và phấn khích, nhưng đương nhiên bạn sẽ mất đi phần nào đó thứ âm thanh thuần khiết ban đầu. 
+"Và một điều tuyệt vời là, hệ thống siêu nạp cũng tạo ra thứ âm thanh gầm gừ đầy kích thích. Chúng tôi muốn chế tạo một động cơ như vậy. Nhiều người nghĩ rằng đó là tiếng ồn từ dây đai, nhưng không phải. Nó xuất phát từ bánh răng quay và những rung động từ hệ thống nạp khí thoát ra phía trước mũi xe. Đó là lý do vì sao khi chiếc xe gầm lên tới gần bạn, và khi nó đi qua, bạn lại thấy giống âm thanh của một động cơ V8".  
+Với FCA, những cỗ máy siêu nạp thường sẽ đắt hơn đáng kể so với tăng áp tuabin. Cowland tiết lộ rằng một hệ thống siêu nạp có thế đắt gấp 3 lần so với một cặp tăng áp, để rồi sau đó bạn vẫn phải bổ sung thêm hệ thống truyền động phía trước. Ông giải thích đây là lý do tại sao nhiều dòng xe chính của FCA được trang bị tăng áp tuabin. Chúng hiệu quả và rẻ hơn nhiều.
+FCA đã có thể trang bị hệ thống tăng áp cho những động cơ Hemi. Tuy vậy về cơ bản, các kỹ sư đã tạo ra công suất cao hơn mà không sử dụng các bộ tăng áp, và không có thất thoát truyền động. Và hiện tại, vận hành hệ thống siêu nạp trên động cơ Demon sẽ tiêu tốn 100 mã lực ở nước ga tối đa. Con số này là 85 đối với động cơ Hellcat.
+Nhưng những động cơ này sẽ không còn là nguyên bản nếu được trang bị tăng áp. Việc tăng tốc sẽ cho cảm giác lềnh bềnh của trọng lực nằm ngang.
+"Động cơ Demon sở hữu bộ siêu nạp dung tích lớn nhất từng được sản xuất hàng loạt - 2,7 lít. Cowland bật mí, "nó đã được gia tăng từ con số 2,38 lít của động cơ Hellcat gốc. Để cung cấp đủ không khí cho động cơ Demon, chúng tôi buộc phải tăng kích thước cho bộ siêu nạp".
+Những bộ siêu nạp hoạt động ở nhiệt độ rất cao. Trong động cơ Demon được trang bị một máy giải nhiệt nguồn sử dụng hệ thống điều hòa trên xe và tuần hoàn dung môi lạnh có khả năng kéo nhiệt độ động cơ giảm đi đáng kể. Bạn không thể sử dụng điều hòa trên xe trong lúc hệ thống giải nhiệt động cơ đang hoạt động. Do vậy, có 2 lựa chọn. Hoặc là bạn có sự thoải mái trong cabin, hoặc là chiếc xe có thể lao đi nhanh nhất có thể. Đó chính là cách động cơ Demon hoạt động. 
+Điều thú vị là ba hãng xe Mỹ vẫn duy trì động cơ siêu nạp để tăng sức mạnh cho những chiếc xe cơ bắp của họ trong khi gần như những mẫu hiệu năng cao khác lại áp dụng hệ thống hybrid hoặc tăng áp. Ford, GM, FCA có lý do của họ bởi thực sự không gì có thể thay thế được thứ âm thanh gầm gừ đặc trưng của động cơ siêu nạp, nhưng mặt khác, những chiếc thể thao cơ bắp của Mỹ không hẳn là bán chạy. 
+Cây viết của Jalopnik nhận định, nếu quả nhiên một hệ thống siêu nạp tiêu tốn chi phí đắt đỏ hơn, thì sự hợp lý nằm ở chỗ những chiếc xe đặc biệt sẽ sử dụng siêu nạp và nhóm còn lại là những cỗ máy tăng áp bình thường. Có lẽ điều đó cũng khiến những chủ sở hữu cảm thấy mình trở nên khác biệt. 
+Giờ thì cùng ra khỏi nước Mỹ để xem các nhà sản xuất xe hơi khác đã làm gì với công nghệ siêu nạp trong những năm qua. 
+Hoàn toàn ngược lại, tất cả họ đều đang tập trung vào tăng áp, thậm chí ngay cả Mercedes vốn nổi tiếng trước đây với loạt động cơ siêu nạp trong những năm 2000 (loại dung tích 1.8, 3.2 và 5.4). Công nghệ siêu nạp thời đó của hãng xe Đức được biết đến với tên thương mại Kompressor – dòng chữ kim loại bóng loáng thường được dập nổi phía sau xe. 
+Kompressor - thương hiệu nổi tiếng của Mercedes.
+Giám đốc cấp cao mảng động cơ, thiết kế và cơ khí của Mercedes, Ralph Illengerger cho biết: "Về cơ bản, ưu thế của hệ thống siêu nạp là khả năng phản ứng chân ga tốt hơn so với tăng áp. Nhưng công nghệ đã thay đổi trong vài năm qua, yếu điểm độ trễ của hệ thống tăng áp gần như đã bị xóa bỏ".
+Ông lấy ví dụ về việc sử dụng công nghệ xoáy kép hoặc những vòng bi đặc biệt cho bộ nạp khí, như cách Mercedes đang làm với động cơ 4.0 V8 cũng như các động cơ 4 xi-lanh thế hệ mới hiện nay. Bên cạnh việc tăng phản ứng chân ga, một trong những lý do chính là bởi hệ thống tăng áp sẽ cải thiện hiệu suất tiêu thụ nhiên liệu.
+Để vận hành hệ thống siêu nạp, cần tới một dây đai truyền động dẫn tới việc tiêu tốn thêm năng lượng khi động cơ khởi động. Hệ thống tăng áp chỉ sử dụng năng lương thoát ra trong kỳ cuối của giai đoạn xả nên sẽ hiệu quả hơn bằng việc cho ra công suất lớn trên dải vòng tua rộng.
+Tuy vậy, một phát ngôn viên của Mercedes cũng chỉ ra rằng động cơ 6 xi-lanh thẳng hàng, dung tích 3 lít được lắp đặt trên những mẫu AMG 53 của hãng sử dụng một bộ siêu nạp bằng điện để hỗ trợ cho hệ thống tăng áp nhỏ gọn. 
+Hệ thống siêu nạp rõ ràng rất tuyệt vời. Thứ âm thanh gầm gừ chúng tạo ra thật khó tin, đi kèm đó là khả năng tăng tốc siêu việt khiến chúng không bao giờ làm chiếc xe trở nên tĩnh lặng một cách nhạt nhẽo. 
+Nhưng dù cho có yêu thích chúng bao nhiêu chăng nữa, "tôi vẫn cho rằng động cơ siêu nạp sẽ sớm biến mất theo số phận mà những động cơ hút khí tự nhiên đang trải qua. Chúng thực sự không hiệu quả để giữ lại, ngoại trừ dành cho một số ít những mẫu xe rất rất đặc biệt", Jalopnik nhận xét. 
+Thái Hoàng (theo Jalopnik) 

@@ -1,0 +1,18 @@
+TITLE: Hai em bé Trung Quốc được chỉnh sửa gene có nguy cơ chết sớm - VnExpress Sức Khỏe
+
+KEY WORDS: chỉnh sửa gene, đột biến gene, Trung Quốc
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Trên Nature Medicine ngày 3/6, Rasmus Nielsen, giáo sư sinh học tích hợp Đại học California (Mỹ) khẳng định đột biến gene CCR5 tác động đến nguy cơ tử vong. Trước đây, các nghiên cứu cũng chỉ ra đột biến gene làm tăng khả năng nhiễm virus West Nile cũng như rủi ro tử vong do bệnh cúm.
+"Chúng ta cần xem xét mọi tác động có thể của đột biến gene", ông Nielsen khuyến cáo. "Một đột biến không có nghĩa là một tác động".
+Công trình của giáo sư Nielsen được xuất bản hơn 6 tháng sau khi nhà khoa học Hạ Kiến Khuê từ Đại học Khoa học và Công nghệ Hoa Nam (Trung Quốc) tuyên bố đã tạo ra cặp song sinh gái miễn nhiễm HIV nhờ sử dụng kỹ thuật chỉnh sửa gene CRISPR, khiến hai bản sao của gene CCR5 bị đột biến. 
+Để trả lời câu hỏi liệu đột biến gene có thực sự tốt cho nhân loại, giáo sư Nielsen cùng đồng nghiệp Xinzhu Wei đã phân tích gene và tỷ lệ tử vong của hơn 400.000 người Anh. Họ phát hiện người sở hữu hai bản sao đột biến của gene CCR5 có nguy cơ tử vong trước tuổi 76 cao hơn 21% so với người chỉ có một hoặc không bản sao đột biến.
+Nhà khoa học Hạ Kiến Khuê làm dấy lên cuộc tranh cãi toàn cầu về chỉnh sửa gene người. Ảnh: Mark Schiefelbein/AP.
+Bộ gene con người chứa hai bản sao của gene CCR5. Từ lâu, khoa học đã chỉ ra những cá nhân mang hai bản sao đột biến của gene này có khả năng kháng HIV cao. Nguyên nhân vì protein được gene CCR5 sản xuất đóng vai trò miễn dịch quan trọng. Khi gene này bị đột biến, protein do nó sản xuất cũng thay đổi, khiến virus HIV không thể sử dụng để xâm nhập vào tế bào.
+Tiến sĩ Hans-Peter Kiem, giáo sư y học và bệnh học tại Đại học Washington nhận định nghiên cứu của giáo sư Nielsen cho thấy mọi thay đổi nào về di truyền "đều là vô trách nhiệm và không nên được thực hiện vì những hậu quả có thể xảy ra mà con người chưa biết".
+Ông Kiem nói thêm nguy cơ tử vong chủ yếu bị tăng ở những cá nhân mang cả hai bản sao đột biến của gene CCR5. Trong khi đó, người chỉ mang một bản sao đột biến sẽ được lợi nhiều nhất vì vừa có khả năng kháng HIV tốt hơn bình thường, vừa duy trì được tuổi thọ. 
+Lori P. Knowles, trợ lý giáo sư từ Đại học Alberta cho biết công trình trên chưa đưa ra kết luận chắc chắn về việc mang hai bản sao đột biến gene làm tăng nguy cơ tử vong nhưng góp phần mở ra các hướng nghiên cứu tiếp theo.
+"Những công cụ chỉnh sửa gene như CRISPR có thể không đem tới sức khỏe tốt hơn", bà Knowles nói. "Chúng ta cũng cần nhớ rằng rất bệnh tật hiếm khi liên quan đến một gene đơn lẻ mà hầu hết do tác động của cả di truyền lẫn môi trường".
+Minh Nguyên (Theo CNN) 

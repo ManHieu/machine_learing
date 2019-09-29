@@ -1,0 +1,20 @@
+TITLE: Jane Manchun Wong - người chuyên công khai bí mật các nền tảng xã hội - VnExpress Số Hóa
+
+KEY WORDS: Jane Manchun Wong, phát hiện, bí mật, lỗi, Facebook, Instagram, Twitter, Airbnb, Pinterest, LinkedIn
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Lớn lên ở Hong Kong, Jane Manchun Wong nhớ lại rằng mình bị cha cấm truy cập Internet sau khi vượt qua chức năng quản lý trẻ em trên trình duyệt Internet Explorer. "Khi cha tôi cài đặt kiểm soát trẻ em dành cho phụ huynh, tôi đã tìm cách vượt qua nó nhằm chứng minh quan điểm của mình, rằng tính năng này có thể bị phá vỡ", Wong kể lại.
+Jane Manchun Wong. ẢNh: CNN.
+Giờ đây, khi đã 24 tuổi, cô gái này dành nhiều thời gian rảnh để tìm lỗi bảo mật, hoặc tính năng chưa được phát hành công khai của các nền tảng phổ biến, như Facebook, Instagram, Twitter, Airbnb, Pinterest, LinkedIn... Wong làm điều đó thông qua những đoạn mã ẩn trong ứng dụng, sau đó đăng lên tài khoản Twitter (hiện có hơn 16.000 người theo dõi).
+"Tôi xem vấn đề là những câu đố và đi tìm lời giải", Wong nói. "Tôi phân tích ứng dụng để tìm tính năng ẩn và sau đó dùng thử. Nó giống tách rời điện thoại di động hoặc xe hơi đời mới để tìm các bộ phận thú vị bên trong vậy".
+Wong tốt nghiệp chuyên ngành khoa học máy tính tại Đại học Massachusetts Dartmouth (Mỹ) năm ngoái. Nhưng từ năm 2017, cô đã có phát hiện đầu tiên liên quan đến ứng dụng lịch của Facebook, cho phép người dùng chia sẻ kinh nghiệm làm việc của họ với bạn bè tương tự LinkedIn.
+Kể từ đó, cô liên tục khám phá bí mật của nhiều nền tảng khác, như bảng điều khiển của Instagram cho biết thời gian cho ứng dụng của người dùng, hay công cụ Twitter cho phép đăng ký cuộc hội thoại, cũng như ẩn trả lời tweet.
+Một tính năng mới chưa phát hành của Twitter được Wong phát hiện và đăng tải trên chính Twitter.
+Tài khoản Twitter của Wong cũng đã trở thành một nguồn thông tin thường xuyên cho các phóng viên công nghệ. Cô là người đầu tiên phát hiện ra Facebook Messenger đang thử nghiệm chức năng thu hồi tin nhắn đã gửi, Instagram nghiên cứu cách cho phép người dùng định vị bài viết và stories theo vị trí, Facebook trên Android quét và gửi thông tin tháp di động gần đó cũng như mạng Wi-Fi có sẵn trong khu vực về máy chủ...
+Trên Twitter, nhiều tờ báo công nghệ được cho là đề xuất trả tiền để Wong cung cấp thông tin riêng cho họ nhưng bị cô từ chối. "Đây hoàn toàn là mối quan tâm riêng. Tôi tránh và cũng không có ý định biến sở thích thành nghề nghiệp bởi đó là hai vấn đề khác nhau", Wong chia sẻ.
+Các công ty bị Wong làm lộ bí mật dường như không quan tâm lắm đến sở thích của cô gái này. Theo phát ngôn viên của Twitter, mạng xã hội xem những người như Wong là một phần của quá trình phát triển và các khám phá như vậy giúp họ phát hiện ra nhiều vấn đề.
+Tuy nhiên, trong một số trường hợp, Wong vẫn gửi báo cáo vấn đề về bảo mật và quyền riêng tư thông qua chương trình báo lỗi để nhận tiền thưởng. "Khi thấy lỗi, mục tiêu của tôi là ngăn chặn các vi phạm dữ liệu tiềm năng", Wong giải thích. Cô cũng tiết lộ đã nhận thưởng 4 lần từ Facebook, hai trong đó trên 500 USD.
+Hiện Wong vẫn săn lùng lỗ hổng bảo mật cũng như tính năng ẩn giấu trên các nền tảng phổ biến như là một sở thích hàng ngày.
+Bảo Lâm (theo CNN)

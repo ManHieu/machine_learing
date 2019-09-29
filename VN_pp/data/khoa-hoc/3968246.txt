@@ -1,0 +1,29 @@
+TITLE: Việt Nam có thể cảnh báo sớm ung thư gan nhờ công nghệ AI - VnExpress
+
+KEY WORDS: Trí tuệ nhân tạo, AI, Đại học Bách khoa Hà Nội, ung thư gan
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Chiều 15/8, tại Ngày hội Trí tuệ nhân tạo (AI) Việt Nam, PGS Vũ Duy Hải, giám đốc Trung tâm điện tử y sinh (Đại học Bách khoa Hà Nội), cho biết đơn vị này đang nghiên cứu hệ thống hỗ trợ chẩn đoán ung thư gan nguyên phát (ung thư xuất phát từ gan) dựa trên dữ liệu lớn (big data) về hình ảnh siêu âm và giải trình gene. 
+Nghiên cứu ứng dụng công nghệ AI để chẩn đoán ung thư gan sớm được thực hiện từ năm 2018, dựa trên dữ liệu hình ảnh siêu âm của 10.000 bệnh nhân ung thư gan nguyên phát. Những hình ảnh này sẽ được thu thập từ các bệnh viện trung ương và địa phương của tất cả các vùng sinh thái trong cả nước. Trong đó, 200 hồ sơ bệnh nhân sẽ được dùng để giải trình tự gene nhằm nâng cao độ chính xác khi chẩn đoán. 
+Dữ liệu cơ sở bệnh án từ các bệnh viện sau khi chuyển về trung tâm nghiên cứu sẽ được chuẩn hoá, gắn nhãn trước khi lưu trữ. Đến nay, nhóm đã thu thập được hơn 6.000 hình ảnh siêu âm. 
+PGS Vũ Duy Hải. Ảnh: VT
+Sau khi thu thập đủ số lượng hình ảnh, Đại học Bách khoa Hà Nội sẽ phát triển công cụ chẩn đoán sớm ung thư gan nguyên phát có thể chạy trên nhiều thiết bị như máy tính, di động. Ứng dụng có thể tích hợp vào hệ thống siêu âm của nhiều đơn vị từ cơ sở y tế địa phương, bệnh viện huyện, tỉnh, trung ương, các phòng khám. 
+"Ứng dụng được tích hợp trong các phần mềm có thể chẩn đoán, sàng lọc ung thư gan nguyên phát sớm với độ chính xác khoảng 90%", ông Hải chia sẻ. 
+Ung thư gan là một trong những loại bệnh có tỉ lệ mắc mới và tử vong rất cao ở Việt Nam. Ung thư gan nguyên phát chiếm 40% số bệnh nhân ung thư gan. Nếu nghiên cứu thành công sẽ mang lại cơ hội cho nhiều người bệnh.
+Tuy nhiên, bác sĩ Đào Việt Hằng (Bệnh viện Đại học Y Hà Nội) băn khoăn, siêu âm không phải là phương pháp để chẩn đoán ung thư gan chính xác. Bởi muốn xác định ung thư gan phải sinh thiết hoặc chụp cắt lớp, cộng hưởng từ. "Siêu âm hình ảnh phát hiện khối u cũng chưa thể khẳng định đó là ung thư gan. Nên ứng dụng trên chỉ nên dùng để sàng lọc cảnh báo ung thư gan sớm", bác sĩ Hằng nói và cho rằng, cần có sự kết hợp giữa các chuyên gia y tế và AI thì dự án mới khả thi.
+Là đơn vị đang triển khai ứng dụng AI vào chẩn đoán bệnh phổi qua hình ảnh X quang, TS Trần Quý Hà (Viện nghiên cứu dữ liệu lớn, tập đoàn Vingroup) phân tích, hiện nay, cùng một hình ảnh nhưng các bác sĩ có thể đưa ra những kết luận khác nhau về tình trạng bệnh. Thậm chí, cùng một hình ảnh do một bác sĩ kết luận nhưng mấy tháng sau đã có sự khác nhau trong kết quả chẩn đoán.
+Vì vậy, trong tương lai, việc kết hợp giữa hội đồng bác sĩ và ứng dụng AI sẽ đưa ra những chẩn đoán có độ chính xác cao nhất. Tuy nhiên, ông cho rằng, việc ứng dụng AI trong chẩn đoán hình ảnh y tế phải bao gồm cả quy trình thay vì ứng dựng trong từng cấu phần nhỏ.
+Tiến sĩ Trần Quý Hà. Ảnh: VT
+"Thách thức nữa là những hình ảnh thu thập được phải được hội đồng bác sĩ chú giải, gắn nhãn. Từng hình ảnh phải được bác sĩ chẩn đoán là bệnh gì, nguyên nhân do đâu, phương pháp điều trị ra sao", ông Hà nói. 
+Viện nghiên cứu dữ liệu lớn đang xây dựng các cơ sở dữ liệu chẩn đoán hình ảnh trong y tế giúp các bác sĩ có thêm cơ sở đưa ra kết luận tình trạng bệnh. Đồng thời, Vingroup cũng hướng đến việc giải mã gene của 1.000 người khoẻ mạnh, tìm ra những biến dị di truyền để xây dựng cơ sở dữ liệu di truyền của người Việt. Những cơ sở dữ liệu này khi hoàn thành sẽ được chia sẻ miễn phí cho các bệnh viện, cộng đồng để phục vụ chẩn đoán, điều trị bệnh. 
+Tiến sĩ Trần Quốc Long (Đại học Quốc gia Hà Nội) cho biết, đơn vị này cũng đang thu thập dữ liệu để xây dựng ứng dụng AI trong giải trình hình ảnh siêu âm tim. 
+Hiện nay, để xác định hình ảnh tim, bác sĩ phải đặt 15 đầu dò xung quanh, từ đó phán đoán tình trạng bệnh. "Dù cùng một hình ảnh siêu âm tim nhưng các bác sĩ đánh giá tình trạng bệnh có sự chênh lệch lớn", ông Long chia sẻ.
+Theo ông Long, trên thế giới đã có nhiều nước ứng dụng AI trong chẩn đoán hình ảnh siêu âm tim, nhưng giá thành về Việt Nam quá đắt, khoảng 3 - 5 tỉ đồng. Vì vậy, Đại học Quốc gia Hà Nội đang thu thập hình ảnh siêu âm tim từ các bệnh viện để xây dựng ứng dụng AI trong phân tích, giải trình. Ứng dụng có thể đo được tình trạng tim, phân vùng cấu trúc tâm thất, tâm nhĩ, cảnh báo nhồi máu cơ tim... 
+Tuy nhiên, việc này đang gặp nhiều khó khăn, nhất là việc gắn nhãn hình ảnh. Bởi mỗi hồ sơ bệnh án có khoảng 14 video, mỗi video có 60 - 90 hình ảnh. Bác sĩ phải nghiên cứu tất cả hình ảnh đó để gắn nhãn, lưu trữ trong cơ sở dữ liệu. 
+Chia sẻ khó khăn với những dự án trên, PGS Trần Quý Tường (Cục trưởng Công nghệ thông tin, Bộ Y tế) khẳng định, đơn vị này đang rất nỗ lực để xây dựng hệ thống y tế thông minh bằng nhiều văn bản quy phạm pháp luật. 
+Nhưng ông thừa nhận, nhận thức từ lãnh đạo các bệnh viện đang là rào cản lớn để ứng dụng công nghệ thông tin trong khám, chữa bệnh. "Để ứng dụng AI trong các bệnh viện đòi hỏi giám đốc phải quyết liệt, chấp nhận sự công khai, minh bạch", ông Tường nói.
+Chương trình Ngày hội Trí tuệ nhân tạo (AI4VN) diễn ra tại trường Đại học Bách Khoa Hà Nội, số 1 Đại Cồ Việt, quận Hai Bà Trưng, Hà Nội từ 15 - 16/8. Sự kiện được tổ chức bởi Bộ Khoa học và Công nghệ, Bộ Kế hoạch và Đầu tư, trường Đại học Bách khoa Hà Nội cùng báo điện tử VnExpress.
+Ngày hội Trí tuệ nhân tạo Việt Nam có sự đồng hành của FPT, Viettel, VietinBank, VNPT, VIB, VinGroup, VNPost, BKAV. Ngoài ra, chương trình cũng nhận được sự phối hợp từ các đơn vị Five9, Misa, SmartOCR, dinogo, FastGo, Topica, Kambria, VietAI, BKHoldings, Netnam.
+ 

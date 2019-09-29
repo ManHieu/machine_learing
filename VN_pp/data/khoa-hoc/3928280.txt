@@ -1,0 +1,15 @@
+TITLE: Chó robot gồng mình kéo máy bay nặng ba tấn
+
+KEY WORDS: chó robot, chó robot kéo máy bay nặng ba tấn, chó robot HyQReal
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+ 
+ 
+Chó robot gồng mình kéo máy bay nặng ba tấn
+Các nhà nghiên cứu ở Viện Công nghệ Italy (IIT) thử nghiệm sức mạnh của mẫu chó robot mang tên HyQReal. HyQReal kéo máy bay chở khách Piaggio P180 Avanti nặng ba tấn qua quãng đường 10 mét vào tuần trước ở sân bay Genova tại Italy.
+Robot HyQReal có kích thước khá lớn so với robot Mini Cheetah hình dáng tương tự của Viện Công nghệ Massachusetts, Mỹ. HyQReal dài 1,3 mét và cao gần 90 cm. Nó nặng khoảng 130 kg.
+"Thử thách kéo máy bay cho phép chúng tôi thể hiện sức mạnh, khả năng và thiết kế tối ưu của con robot", Claudio Semini, trưởng nhóm dự án ở phòng thí nghiệm Dynamic Legged Systems của IIT, chia sẻ. "Chúng tôi muốn đạt được thành tựu chưa từng có trước đây, và chúng tôi đã thành công vào tuần trước".
+Nhóm nghiên cứu ở viện IIT hy vọng có thể cải tiến thiết kế để HyQReal trở nên bền bỉ hơn, có thể dùng được trong nhiều tình huống như đối phó thiên tai, nông nghiệp và giám sát. "Chúng tôi hướng tới hỗ trợ sau thảm họa, đưa cảm biến tới các khu vực không an toàn, điều khiển và di chuyển đồ vật, mở cửa,...", Semini nói. Ông cho biết cải tiến ở phần cứng và phần mềm sẽ giúp robot sớm đi vào hoạt động hơn.
+An Khang (Theo Cnet) 

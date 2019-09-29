@@ -1,0 +1,16 @@
+TITLE: Phát hiện stress sau sang chấn bằng phân tích giọng nói - VnExpress Sức Khỏe
+
+KEY WORDS: rối loạn căng thẳng sau chấn thương, PTSD, cựu chiến binh, phân tích giọng nói, phần mềm
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Từ lâu, các bác sĩ nhận thấy những người bị rối loạn tâm thần có giọng nói khác biệt so với những người bình thường khác. Từ đó, họ nghiên cứu ra phần mềm phân tích giọng nói, giúp phát hiện những rối loạn căng thẳng sau sang chấn ở các cựu chiến binh, độ chính xác đến 90%.
+Charles Marmar, chủ tịch khoa tâm thần học tại Trường Y khoa NYU ở New York, cùng với các nhà nghiên cứu đã sử dụng một chương trình trí tuệ nhân tạo về giáo dục, học cách phân loại lời nói cá nhân.
+Đầu tiên, họ dành hàng giờ để thực hiện các cuộc phỏng vấn với 53 cựu chiến binh Iraq và Afghanistan có liên quan đến chứng rối loạn căng thẳng sau sang chấn (PTSD) và 78 cựu chiến binh không mắc bệnh này. Những câu hỏi các bác sĩ đưa ra là câu thường gặp để chẩn đoán PTSD ở một người. Họ ghi âm lại các cuộc phỏng vấn đó.
+Sau đó, các nhà nghiên cứu đưa các bản ghi âm vào phần mềm phân tích giọng nói. Phần mềm này được phát triển bởi Viện nghiên cứu Stanford (SRI) International, có tổng cộng 40.526 tính năng dựa trên giọng nói được ghi lại trong các cuộc nói chuyện ngắn.
+Kết quả phân tích cho thấy những người bị rối loạn stress sau chấn thương, hoặc có dấu hiệu trầm cảm, sẽ nói chậm hơn (chuyển động lưỡi chậm hơn). Nội dung nói đơn điệu, ít tiếng phát ra và thường có dấu hiệu vô cảm với những gì họ nói.
+Cựu chiến binh thường bị rối loạn căng thẳng. Ảnh: Foxnews
+Tuy nhiên, nghiên cứu không khám phá được các cơ chế gây bệnh đằng sau chứng rối loạn căng thẳng sau sang chấn. Họ cho rằng, nguyên nhân có thể do sự việc gây chấn thương làm thay đổi mạch máu não xử lý cảm xúc, từ đó ảnh hưởng đến giọng nói của một người. PTSD cũng được chứng minh trực tiếp gây ra những thay đổi trong các mẫu giọng hát.
+Trong tương lai không xa, các nhà nghiên cứu hy vọng có một công cụ không chỉ phát hiện mà còn đánh giá được mức độ rối loạn căng thẳng sau sang chấn, đồng thời cảnh báo sớm để thúc đẩy sàng lọc kỹ hơn và can thiệp sớm hơn.
+Thúy Quỳnh (Theo Fox News) 

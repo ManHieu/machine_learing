@@ -1,0 +1,12 @@
+TITLE: Apple chặn tính năng theo dõi tình trạng pin không chính hãng trên iPhone - VnExpress Số Hóa
+
+KEY WORDS: Apple, iPhone, thay pin
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Apple muốn người dùng thay pin chính hãng cho iPhone thay vì bên thứ ba. Ảnh: Gadgetstest.
+"Chúng tôi rất coi trọng sự an toàn của khách hàng và muốn đảm bảo mọi sự thay thế pin đều được thực hiện đúng cách. Mọi người có quyền được sửa chữa thiết bị của mình với chất lượng tốt nhất", Apple nói với iMore. "Cảnh báo thay pin không chính hãng là cách để bảo vệ khách hàng của chúng tôi khỏi pin bị hỏng, kém chất lượng hoặc đã sử dụng - những yếu tố có thể dẫn đến các vấn đề về an toàn hoặc hiệu suất".
+Cũng theo công ty có trụ sở tại Cupertino (Mỹ), thông báo này không ảnh hưởng đến hiệu suất và trải nghiệm của khách hàng sau khi thay pin từ bên thứ ba. Tuy nhiên, hãng khuyến cáo người dùng nên đến hệ thống do Apple ủy nhiệm để tránh các rủi ro về sau.
+Trước đó, iFixit - website chuyên "mổ xẻ" các thiết bị điện tử - phát hiện nếu iPhone bị thay pin từ bên thứ ba, phần Battery Health của máy xuất hiện cảnh báo "Không thể xác minh iPhone này dùng pin chính hãng của Apple . Thông tin sức khỏe không có sẵn cho pin này". Chỉ có một số model nhận được thông báo, chủ yếu là iPhone XS , iPhone XS Max và iPhone XR chạy iOS 12 và iOS 13 beta tại Mỹ.
+Bảo Lâm (theo 9to5mac)

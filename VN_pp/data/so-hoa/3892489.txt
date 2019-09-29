@@ -1,0 +1,17 @@
+TITLE: Apple iPhone XS, iPhone XS Max gặp lỗi độ trễ trên màn hình - VnExpress Số Hóa
+
+KEY WORDS: Apple iPhone XS, Apple iPhone XS Max, lỗi iPhone, iPhone bị lỗi, lỗi giật lag
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo Phonearena, một số người dùng iPhone XS và XS Max phàn nàn trên website hỗ trợ của Apple về việc thiết bị của họ gặp tình trạng không hoạt động trong khoảng thời gian mười giây hoặc lâu hơn. Khi đó, hiệu ứng chuyển cảnh (animation) sẽ xuất hiện tình trạng lag, giật nhẹ khi cuộn hoặc vuốt màn hình từ dưới lên.
+ 
+ 
+iPhone XS, XS Max bị phàn nàn vì lỗi giật, lag
+Hiệu ứng chuyển cảnh sụt giảm khung hình (drop frame) khi mở ứng dụng lịch. Video: 9to5mac.
+Vấn đề được phát hiện từ tháng 10 năm ngoái và Apple cũng đã triển khai đổi máy mới cho những ai gặp sự cố. Tuy nhiên, một số người cho biết thiết bị sau khi đổi vẫn gặp tình trạng khó chịu, thậm chí có người bị tới hai lần. Lỗi chưa xuất hiện trên iPhone XR, X hay các thế hệ cũ.
+Vẫn chưa rõ nguyên nhân iPhone XS, XS Max gặp sự cố. Một số nghi vấn tập trung vào Apple A12 Bionic, cho rằng chip xử lý này không nhận tác động đầu vào do cơ chế tạm ngừng trong khoảng thời gian nhất định nếu điện thoại không hoạt động.
+9to5mac nhận định, vấn đề độ trễ trên bộ đôi iPhone đời mới có thể không quá lớn, nhưng nó khiến người dùng cảm thấy rất khó chịu bởi iOS vẫn nổi tiếng về độ mượt mà. Bên cạnh đó, việc bỏ ra cả nghìn USD để đổi lại một trải nghiệm kém hoàn hảo khiến một số người chưa thực sự hài lòng.
+Apple cho biết đang điều tra nguyên nhân.
+Bảo Lâm

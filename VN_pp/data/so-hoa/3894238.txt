@@ -1,0 +1,20 @@
+TITLE: Facebook, Instagram, WhatsApp gặp sự cố không thể truy cập - VnExpress Số Hóa
+
+KEY WORDS: Facebook sập, Instagram, mạng xã hội
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Trong khi người dùng vẫn có thể mở các nền tảng này và thực hiện một số thao tác, nhìn chung họ gặp khó khăn khi gửi tin nhắn Messenger, WhatsApp hay đăng thông tin, bình luận, nhất là không thể chia sẻ ảnh, video... lên Facebook, Instagram... Thậm chí cả dịch vụ thực tế ảo Oculus VR cũng gặp trục trặc.
+Theo công cụ DownDetector, hiện tượng bắt đầu diễn ra từ 23h ngày 13/3 ở nhiều nơi trên thế giới từ châu Mỹ, châu Âu tới châu Á. 
+Đến 14h30, Facebook tại Việt Nam gần như được khôi phục, Mỹ còn rải rác trong khi châu Âu và Nhật  vẫn bị ảnh hưởng nghiêm trọng. Mức độ ảnh hưởng từ ít đến nhiều thể hiện qua các màu vàng nhạt - vàng - cam - đỏ. Nguồn: DownDetector.
+Sự cố lần này được đánh giá là kéo dài nhất và trên diện rộng nhất, khi đã hơn 14 giờ trôi qua nhưng nhiều người than phiền không thể sử dụng Facebook. Theo BBC, lần gần nhất Facebook bị "sập" với quy mô rộng toàn cầu và lâu như thế này đã là từ năm 2008, nhưng khi đó họ chỉ có 150 triệu thành viên, còn hiện số người dùng Facebook hàng tháng lên tới 2,3 tỷ.
+Chỉ khoảng một giờ sau khi người dùng phản ánh, Facebook đã lên tiếng thông qua Twitter, khẳng định "vấn đề không liên quan tới tấn công từ chối dịch vụ DDoS" và đang nỗ lực khắc phục sớm nhất có thể.
+Facebook thừa nhận sự cố và cho biết đang khắc phục.
+Trong khi đó, khi người dùng đăng nhập vào mạng xã hội sẽ nhận được thông báo Facebook đang bảo trì và nâng cấp cơ sở dữ liệu. Với lượng người dùng khổng lồ, lên đến 2,5 tỷ, Facebook không thể tiến hành nâng cấp trên toàn bộ các tài khoản cùng lúc, nên có thể người này khó truy cập nhưng những thành viên khác vẫn sử dụng mạng xã hội bình thường.
+Tới 21h hôm nay (14/3) - gần 22 tiếng sau khi Facebook gặp sự cố, mạng xã hội này vẫn chưa được khôi phục hoàn toàn ở một số địa phương. Hiện phía nam nước Anh, miền Đông nước Mỹ là những nơi vẫn đang bị ảnh hưởng nhiều nhất. Người đứng đầu Facebook - Mark Zuckerberg - vẫn chưa lên tiếng về vấn đề này.
+Trong thời gian Facebook trục trặc, Telegram đã có thêm 3 triệu đăng ký. 
+Thông báo bảo trì trên trang đăng nhập Facebook.
+Trong năm 2018, Facebook gặp không ít sự cố, như giữa tháng 11 khi nhiều người không thể vào tài khoản của mình. Website hiển thị thông báo "Sorry, something went wrong" trên cả Messenger, WhatsApp và Instagram. Tháng 9/2018, hàng chục triệu tài khoản Facebook tự thoát và phải đăng nhập lại. Đại diện mạng xã hội này sau đó cho biết một cuộc tấn công tinh vi vào mạng xã hội đã diễn ra và phải đăng xuất gần 90 triệu tài khoản. Cuối tháng 2 năm ngoái, Facebook và cả Instagram đều không thể truy cập và tình trạng này kéo dài tới 30 phút.
+Hôm qua (13/3), hàng nghìn người cũng phàn nàn trên mạng xã hội khi không thể mở Gmail và Google Drive. Google cho biết Gmail và Google Drive bị "gián đoạn dịch vụ", người dùng có thể truy cập nhưng sẽ thấy thông báo lỗi, độ trễ cao và họ đang xem xét vấn đề. 
+Châu An

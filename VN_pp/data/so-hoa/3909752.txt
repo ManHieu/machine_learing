@@ -1,0 +1,24 @@
+TITLE: Google lấy dữ liệu người dùng trên iPhone giao cho cảnh sát - VnExpress Số Hóa
+
+KEY WORDS: Google, Apple, Tim Cook
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Tuần trước, một báo cáo điều tra của New York Times đã miêu tả chi tiết cách Google sử dụng cơ sở dữ liệu nội bộ của mình, được gọi là Sensorvault, để hợp tác với cơ quan thực thi pháp luật.
+Cụ thể, Google có thể cung cấp cho cảnh sát dữ liệu của một chiếc điện thoại dựa trên yêu cầu về thời gian và địa điểm cụ thể. Bằng cách gửi lệnh "geofence", cảnh sát có thể xem xét những chiếc điện thoại nào đang ở gần với tội phạm. Theo một nhân viên của Google, công ty đã từng nhận tới 180 yêu cầu như vậy trong một tuần.
+Dữ liệu được đính kèm trên mỗi điện thoại ban đầu là ẩn danh, sau đó khi cảnh sát đã giảm số lượng thiết bị nghi ngờ, Google sẽ cung cấp cho họ tên của những người mà mỗi thiết bị được liên kết.
+Công nghệ này đã được ca ngợi như một công cụ hữu ích cho việc thực thi pháp luật. Nhưng một câu hỏi được đặt ra là liệu sức mạnh của nó có quá lớn hay không, đặc biệt là trong trường hợp dữ liệu đó của người dùng vô tội.
+Google sẽ cung cấp dữ liệu người dùng smartphone cho cảnh sát khi có yêu cầu.
+Đặc biệt, iPhone có thể tìm thấy trong cơ sở dữ liệu của Google. Một nhà phân tích tình báo, người đã tự kiểm tra dữ liệu từ hàng trăm điện thoại, chia sẻ việc phạm vi tìm kiếm không giới hạn ở người dùng Android. Ông cho biết "hầu hết các thiết bị Android" và "một số iPhone" cũng có trong hệ thống dữ liệu.
+Chưa rõ bằng cách nào Google có thể cung cấp cho nhà chức trách các dữ liệu của người dùng iPhone, tuy nhiên một số người nghi ngờ công ty sử dụng các dịch vụ Google đã cài đặt, như Google Maps. Apple không đưa ra bình luận gì về thông tin này.
+Trong quá khứ, Apple luôn tự hào về mức độ bảo mật và sự tôn trọng quyền riêng tư của người dùng. Công ty từng từ chối giúp FBI đột nhập vào điện thoại của Syed Rizwan Farook, thủ phạm vụ nổ súng tại San Bernardino năm 2015 khiến 14 người thiệt mạng, sau khi tên này bị cảnh sát bắn chết.
+Giám đốc điều hành Apple Tim Cook cũng từng viết một bức thư ngỏ vào năm 2016, nói rằng yêu cầu của FBI về việc đòi hỏi công ty phải xây dựng một "cửa hậu" trên hệ điều hành iOS sẽ đặt ra "tiền lệ nguy hiểm", bên cạnh việc tạo ra một điểm yếu cho tin tặc có thể khai thác.
+"Chính phủ có thể mở rộng sự vi phạm quyền riêng tư này và yêu cầu Apple xây dựng phần mềm giám sát để chặn tin nhắn của người dùng, truy cập hồ sơ sức khỏe hoặc dữ liệu tài chính, theo dõi vị trí hoặc thậm chí truy cập micro hay máy ảnh mà bạn không biết", Cook viết.
+Quyền riêng tư cũng là một trong những yếu tố tiếp thị lớn của Apple, trước các đối thủ như Google. Tại sự kiện CES đầu năm nay, Apple đã chế giễu Google bằng một tấm áp phích khổng lồ có nội dung: "Điều gì xảy ra trên iPhone của bạn, vẫn ở trên iPhone của bạn". Tháng trước, công ty phát hành một video quảng cáo với khẩu hiệu: "Nếu vấn đề riêng tư quan trọng trong cuộc sống, nó sẽ quan trọng với điện thoại của bạn".
+Các ứng dụng như Google Maps cài trên iPhone có thể được Google sử dụng để lấy dữ liệu người dùng.
+Theo báo cáo của New York Times, việc hợp tác của Google với cơ quan thực thi pháp luật yêu cầu khá chặt chẽ. Nó đòi hỏi phải có lệnh và Google sẽ loại bỏ các tìm kiếm mà họ cho là quá rộng.
+"Chúng tôi bảo vệ mạnh mẽ quyền riêng tư của người dùng trong khi hỗ trợ việc thực thi pháp luật trong tình huống quan trọng", giám đốc bộ phận thực thi pháp luật và bảo mật thông tin của Google, Richard Salgado, cho biết.
+"Chúng tôi đã tạo ra một quy trình mới cho các yêu cầu cụ thể này, được thiết kế để tôn trọng nghĩa vụ pháp lý của công ty đồng thời thu hẹp phạm vi dữ liệu được tiết lộ. Thông tin chỉ xác định người dùng cụ thể khi cần thiết về mặt pháp lý".
+Tương tự, Apple không phải lúc nào cũng từ chối yêu cầu từ nhà chức trách đối với dữ liệu người dùng. "Khi FBI yêu cầu dữ liệu thuộc quyền sở hữu của chúng tôi, chúng tôi đã cung cấp nó", Cook viết trong bức thư năm 2016 của mình.
+Bảo Nam (theo Business Insider)

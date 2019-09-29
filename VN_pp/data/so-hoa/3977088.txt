@@ -1,0 +1,13 @@
+TITLE: Facebook dừng nhận dạng khuôn mặt tự động - VnExpress Số Hóa
+
+KEY WORDS: Facebook, nhận diện khuôn mặt, nhận dạng khuôn mặt, tính năng
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Người dùng có thể xem mình đang bật hay tắt tính năng Nhận dạng khuôn mặt (Face Recognition) bằng cách vào Cài đặt > Quyền riêng tư > Nhận dạng khuôn mặt. Trong mục này, sẽ xuất hiện câu hỏi "Bạn có muốn Facebook có thể nhận dạng mình trong ảnh hoặc video hay không?", đi kèm tùy chọn có hoặc không.
+Tính năng Nhận dạng khuôn mặt trên ứng dụng Facebook. Ảnh: Bảo Lâm.
+Trước đây, tính năng Nhận dạng khuôn mặt được mặc định là có, nhằm giúp Facebook có thể tìm ra người dùng trong hình ảnh và tự động gắn thẻ (Tag) họ. Giờ đây, Facebook sẽ tắt nó, đồng thời hiển thị thông báo trong News Feed nếu người dùng muốn bật.
+Với việc nhận dạng khuôn mặt không còn được bật tự động, người dùng cũng không còn thấy Đề xuất thẻ (Tag Suggestions) - tính năng cho phép Facebook tự động đề xuất gắn thẻ bạn bè có trong ảnh khi tải lên. Lúc này, họ buộc phải gắn thẻ từng người bằng tay.
+Nhận dạng khuôn mặt được Facebook giới thiệu lần đầu vào tháng 12/2017. Tuy nhiên, tính năng này vấp phải những ý kiến trái chiều, trong đó cho rằng mạng xã hội lớn nhất thế giới tự động thu thập dữ liệu sinh trắc học mà không xin phép người dùng. Thậm chí, công ty còn bị kiện vào tháng 8 vừa qua vì đã vi phạm Đạo luật bảo mật thông tin sinh trắc học (BIPA) của bang Illinois (Mỹ) và đối mặt với án phạt hàng tỷ USD nếu thua kiện.
+Bảo Lâm (theo The Verge)

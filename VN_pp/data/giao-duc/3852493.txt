@@ -1,0 +1,15 @@
+TITLE: Đáp án bài toán Quang Hải trong vòng vây cầu thủ - VnExpress
+
+KEY WORDS: Nguyễn Quang Hải, Quang Hải, đáp án, bài toán, cầu thủ, vòng vây cầu thủ, giải bài toán, bài toán hình học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Ảnh: Lâm Thỏa
+Đề bài
+Bức ảnh trên đây là hình ảnh Quang Hải trong vòng vây 4 cầu thủ Philippines cùng với trái bóng. Giả sử SABCD là một hình chóp với trái bóng là đỉnh S còn đáy ABCD là hình bình hành chứa tất cả 5 cầu thủ, trong đó 4 đỉnh A, B, C, D là chân của 2 cầu thủ Philippines ở ngoài cùng bên trái và bên phải. Gọi M và N lần lượt là các điểm tiếp đất chân phải của Quang Hải và chân phải cầu thủ Philippines đối diện với Quang Hải.
+Biết AD = BC = 2,4 m; AB = CD = 0, 9 m; SA = SD = 2,0 m; SB = SC = 1,5m; còn M và N là trung điểm AD và BC.
+1. Tính góc tạo bởi (SM; SN).
+2. Tính khoảng cách từ trái bóng đến mặt phẳng (ABCD).
+Lời giải
+ 

@@ -1,0 +1,15 @@
+TITLE: Một số mẫu Nokia 7 Plus gửi dữ liệu người dùng về máy chủ Trung Quốc - VnExpress Số Hóa
+
+KEY WORDS: Nokia 7 Plus, dữ liệu cá nhân, Trung Quốc
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Reuters, đài truyền hình NRK (Na Uy) đưa tin hôm qua 21/3 cho biết một số điện thoại thông minh Nokia 7 Plus đã truyền thông tin người dùng không được mã hóa sang máy chủ ở Trung Quốc. Các dữ liệu bao gồm thông tin GPS, số sê-ri thiết bị và thậm chí cả số điện thoại của người dùng.
+Máy chủ nhận dữ liệu được đặt dưới tên miền "vnet.cn" và quản lý bởi nhà mạng China Telecom. Mỗi khi người dùng khởi động thiết bị, dữ liệu sẽ được chuyển ngay đến máy chủ. Thậm chí một số hành vi như mở khóa hoặc bật màn hình cũng kích hoạt việc chuyển dữ liệu.
+Tuy nhiên, sự cố này chỉ xảy ra với một số mẫu Nokia 7 Plus chứ không phải toàn bộ dòng sản phẩm này. Các chuyên gia dự đoán những chiếc điện thoại thông minh này ban đầu được thiết kế cho thị trường Trung Quốc, nhưng vì lý do nào đó chúng đã tới tay người tiêu dùng châu Âu.
+Thanh tra viên Reijo Aarnio của cơ quan quản lý và bảo vệ dữ liệu Phần Lan cho biết sẽ điều tra sự việc xem liệu có vi phạm nào liên quan đến thông tin cá nhân hay không.
+HMD Global, công ty Phần Lan chịu trách nhiệm phát triển điện thoại thương hiệu Nokia đã thừa nhận một số lượng điện thoại Nokia 7 Plus không xác định đã gửi dữ liệu đến máy chủ Trung Quốc. Tuy nhiên, đơn vị này khẳng định không có dữ liệu cá nhân nào được chia sẻ với bên thứ ba. Ngoài ra, đại diện công ty cũng cho biết trong một email về sự tồn tại một lỗi dữ liệu trong quy trình đóng gói phần mềm của một lô sản phẩm smartphone, tuy nhiên nó đã được sửa hồi tháng 2. Còn phía Nokia từ chối đưa ra bình luận.
+Nokia từng là nhà sản xuất điện thoại di động lớn nhất thế giới. Tuy nhiên, do không theo kịp sự thay đổi của xu hướng smartphone, hãng đã phải bán đi mảng kinh doanh thiết bị cầm tay và hiện tập trung vào phát triển thiết bị mạng viễn thông.
+HMD Global, được thành lập tháng 5/2016 bởi các cựu giám đốc của Nokia, đã mua lại quyền sử dụng thương hiệu "Nokia" cho tới năm 2024, cùng với một thỏa thuận cấp phép. Hoạt động chính của công ty là phát triển các điện thoại thông minh và máy tính bảng trên nền tảng Android. Công đoạn sản xuất và phân phối được đảm nhiệm bởi FIH Mobile, công ty con của Foxconn. FIH Mobile cũng phát triển các điện thoại phổ thông mang thương hiệu "Nokia" dưới một thoả thuận cấp phép và sử dụng bằng sáng chế với HMD Global. 
+Bảo Nam

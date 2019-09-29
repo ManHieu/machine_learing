@@ -1,0 +1,15 @@
+TITLE: Microsoft âm thầm xóa MS Celeb - sơ sở dữ liệu chứa 10 triệu hình ảnh khuôn mặt - VnExpress Số Hóa
+
+KEY WORDS: MS Celeb, Microsoft, nhận dạng khuôn mặt
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo FT.com, nhà nghiên cứu bảo mật Đức Adam Harvey đã phát hiện hàng triệu bức ảnh trên MS Celeb của Microsoft đang bị loại bỏ một cách âm thầm mà không hề có thông báo nào. Trong số dữ liệu bị xóa, có cả hình ảnh một số nhà báo và nhà nghiên cứu bảo mật.
+MS Celeb tập trung hình ảnh của hàng nghìn người, trong đó có nhiều nhân vật nổi tiếng. Ảnh: Microsoft.
+Động thái của Microsoft diễn ra không lâu sau khi FT.com có loạt bài viết điều tra chuyên sâu về công nghệ nhận dạng khuôn mặt trên MS Celeb và vai trò của công ty phần mềm Mỹ trong đó. 
+Phía Microsoft sau đó lên tiếng giải thích, cho rằng việc hình ảnh bị xóa chỉ đơn giản liên quan đến vấn đề kỹ thuật, gây ra bởi một nhân viên đã nghỉ việc. Tuy nhiên, hãng khẳng định điều này tuân thủ luật pháp về các quyền riêng tư cá nhân.
+Dù bị xóa, Harvey cho rằng những hình ảnh đã bị tải về bởi hàng triệu người trên thế giới. "Các dữ liệu không thể biến mất hoàn toàn sau khi đăng nó lên Internet. Chắc chắn sẽ có người tải xuống và lưu trữ", Harvey nói.
+Năm ngoái, Brad Smith, chủ tịch Microsoft, đã gửi thư lên Quốc hội Mỹ, mong muốn "điều chỉnh hợp lý" hệ thống nhận dạng khuôn mặt của họ. Ông cho rằng MS Celeb gây nên "sự phân nhánh, phân tầng lớp trong xã hội" và có nguy cơ "bị lạm dụng một cách rộng rãi". Bên cạnh đó, ông cũng từ chối bán công nghệ của mình cho cảnh sát California (Mỹ).
+MS Celeb là dự án ra mắt năm 2016, chứa hơn 10 triệu hình ảnh của khoảng 100.000 người, được Microsoft mô tả là "cơ sở dữ liệu khuôn mặt công khai lớn nhất trên thế giới". Nó được dùng để huấn luyện các hệ thống nhận dạng khuôn mặt của những công ty lớn trên toàn cầu, cũng như phục vụ nghiên cứu quân sự. Hình ảnh khuôn mặt thu thập được đều đã có sự đồng ý của chủ sở hữu chúng, hoặc lấy từ Internet theo giấy phép Creative Commons (giấy phép truy cập mở, cho phép người sử dụng sao chép, chỉnh sửa, chia sẻ tác phẩm với mục đích phi lợi nhuận lẫn thương mại, nhưng phải theo yêu cầu của người tạo ra chúng).
+Như Phúc (theo Engadget)

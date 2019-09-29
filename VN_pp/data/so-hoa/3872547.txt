@@ -1,0 +1,12 @@
+TITLE: Apple ra bản sửa lỗi phần mềm cho iPhone, iPad - VnExpress Số Hóa
+
+KEY WORDS: iOS 12.1.3, macOS 10.14.3, watchOS 5.1.3, tvOS 12.1.2, Apple, cập nhật, phần mềm, sửa lỗi
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Apple tung cập nhật phần mềm để sửa lỗi, không thêm tính năng mới. Ảnh: PhoneArena.
+Với iPhone, iPad, nhà sản xuất tung iOS 12.1.3 để sửa lỗi liên quan đến tin nhắn, méo tiếng và sự cố xung quanh hệ thống CarPlay. Đồng hồ thông minh Apple Watch, máy tính Mac, Apple TV và loa HomePod cũng có phần mềm mới.
+Việc cài đặt có thể thực hiện trực tiếp trên thiết bị bằng cách vào Cài đặt > Cài đặt chung > Cập nhật phần mềm. Cách khác là nâng cấp thông qua máy tính với chương trình iTunes.
+Trên iPhone, một số người dùng phàn nàn về vấn đề kết nối mạng di động và Wi-Fi. Tuy nhiên iOS 12.1.3 không đề cập tới việc khắc phục lỗi này. PhoneArena cho rằng người dùng điện thoại của Apple có thể phải chờ các bản cập nhật tiếp theo để được sửa. 
+Đình Nam

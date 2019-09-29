@@ -1,0 +1,18 @@
+TITLE: Cáp Lightning cấy sẵn chip độc hại để hack máy tính - VnExpress Số Hóa
+
+KEY WORDS: cáp Lightning, Apple, tấn công từ xa
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+"Tôi cắm cáp Lightning vào iPod, sau đó kết nối với MacBook. iPod của tôi bắt đầu sạc, iTunes bật lên và hỏi rằng đây có phải là thiết bị đáng tin cậy không. Tôi nhấp 'Yes'. Các hành vi này đúng như dự kiến", nhà nghiên cứu bảo mật có tên MG bắt đầu mô tả về quá trình tấn công chiếc máy tính bằng sợi cáp Lightning gắn chip độc hại có tên O.MG.
+ 
+ 
+Cáp Lightning cấy sẵn chip độc hại để hack máy tính
+Quá trình tấn công máy tính từ xa bằng cáp O.MG.
+Nhìn bên ngoài, O.MG giống hệt cáp Lightning do Apple sản xuất. Tuy nhiên, nó đã được MG cấy chip cho phép truy cập máy tính từ xa. Khi cắm vào máy tính mục tiêu, sợi cáp bắt đầu truyền tín hiệu về máy chủ từ xa, cho phép một thiết bị cách đó khoảng 100 mét điều khiển mọi thao tác, kể cả việc đánh cắp mật khẩu.
+"Về cơ bản, nó giống như việc bạn đang ngồi trước máy tính nạn nhân để điều khiển chuột và bàn phím"', MG giải thích.
+O.MG lần đầu tiên được trình diễn tại Hội nghị bảo mật Defcon diễn ra thường niên tại Mỹ.
+Trong thử nghiệm với Motherboard, MG dùng một chiếc MacBook và kết nối với smartphone bằng O.MG, sau đó lấy thông tin dễ dàng thông qua một smartphone khác. Dù vẫn là 100 mét, chuyên gia này cho biết hệ thống có thể được cấu hình lại để tấn công ở khoảng cách không giới hạn, miễn là nơi đó có Internet.
+Với ngoại hình y hệt Lightning thông thường, MG cho rằng kẻ xấu có thể lợi dụng O.MG cho mục đích mờ ám bằng cách tặng sợi cáp chứa chip độc hại cho mục tiêu tấn công. Tuy nhiên, chính người này cũng đang hợp tác với một công ty sản xuất phụ kiện và bán nó hợp pháp với giá 200 USD.
+Bảo Lâm (theo Macrumors)

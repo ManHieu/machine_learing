@@ -1,0 +1,16 @@
+TITLE: Intel, Qualcomm và Broadcom dừng cung cấp chip cho Huawei - VnExpress Số Hóa
+
+KEY WORDS: Huawei
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Bloomberg, các nhà sản xuất chip xử lý hàng đầu thế giới là Intel, Qualcomm, Xilinx và Broadcom đã nói với nhân viên của mình rằng họ sẽ không cung cấp linh kiện cho Huawei đến khi có thông báo mới hơn. Động thái này đến gần như cùng lúc với Google - công ty vừa ra thông báo ngừng cấp phép sử dụng hệ điều hành Android với Huawei. 
+Diễn biến mới được dự đoán từ trước, khi các công ty Mỹ đồng loạt đưa ra các quyết định bất lợi về kinh doanh với Huawei - hãng cung cấp thiết bị mạng và điện thoại thông minh lớn thứ hai thế giới. Chính quyền của ông Trump đã liệt kê Huawei vào danh sách đen - nơi họ cáo buộc công ty được sự hỗ trợ của chính quyền Bắc kinh trong hoạt động gián điệp. 
+Các công ty chip xử lý Mỹ đồng loạt ngừng cung cấp cho Huawei. 
+Việc chặn bán cho Huawei các linh kiện quan trọng cũng có thể phá vỡ hoạt động kinh doanh của các đại gia chip xử lý tại Mỹ như Micro Technology và trì hoãn việc triển khai mạng không dây 5G trên toàn thế giới, bao gồm ở cả Trung Quốc và Mỹ. 
+Nếu lệnh cấm được thực hiện nghiêm ngặt, hành động của chính quyền Mỹ sẽ đem lại những thay đổi lớn đến ngành công nghiệp bán dẫn trên toàn cầu. Intel hiện là nhà cung cấp chip máy chủ chính trong khi Qualcomm cung cấp bộ xử lý và modem mạng cho nhiều thiết bị thông minh của Huawei. Trong khi đó, Xilinx bán chip lập trình được sử dụng trong mạng lưới và Broadcom là nhà cung cấp chip chuyển đổi, một thành phần quan trọng khác trong một số loại máy móc về mạng. 
+Đại diện các nhà sản xuất chip từ chối bình luận về các thông tin trên. 
+Các nhà phân tích dự đoán Huawei đã dự trữ đủ chip và các thành phần linh kiện quan trọng khác để duy trì hoạt động kinh doanh của mình trong ít nhất ba tháng. Hãng đã dự báo cho tính huống xấu như hiện nay ít nhất là từ giữa năm 2018. Các giám đốc điều hành của Huawei tin tằng công ty của họ đã trở thành một con bài mặc cả trong các cuộc đàm phán thương mại Mỹ - Trung. Nếu thỏa thuận đạt được, họ sẽ tiếp tục mua được linh kiện từ các nhà sản xuất Mỹ. 
+Huawei là nhà sản xuất điện thoại thông minh lớn thứ hai thế giới, chỉ sau Samsung. Đây cũng là một trong số ít đối tác phần cứng toàn cầu được chọn để nhận quyền truy cập sớm vào các tính năng, phần mềm mới nhất từ Android. Ở thị trường ngoài Trung Quốc, mối quan hệ đó rất quan trọng với Huawei khi thúc đẩy kinh doanh của hãng tại các thị trường lớn, đặc biệt là tại châu Âu.  
+Tuấn Hưng

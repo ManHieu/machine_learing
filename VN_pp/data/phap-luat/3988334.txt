@@ -1,0 +1,13 @@
+TITLE: Người dân sẽ được cấp Mã định danh y tế để phục vụ cho việc khám chữa bệnh
+
+KEY WORDS: mã định danh y tế, khám chữa bệnh, sức khỏe, bảo hiểm xã hội, Bộ Y tế, công nghệ thông tin
+
+TOPIC: vnexpress, pháp luật, tư vấn
+
+CONTENT: 
+Tại Quyết định 4376/QĐ-BYT về quy chế xác lập, sử dụng và quản lý mã định danh y tế ban hành ngày 24/9, Bộ Y tế thông báo trên cơ sở mã số bảo hiểm xã hội và thông tin hành chính của người dân, hệ thống mã định danh y tế của Bộ Y tế sẽ tự động xác lập Mã định danh y tế của người dân (ID). Đây là nhóm dữ liệu được sử dụng để nhận biết một cá nhân tham gia dịch vụ chăm sóc sức khỏe. Mỗi người dân có một mã định danh y tế duy nhất và tồn tại suốt đời.
+Người dân khám bệnh tại bất kỳ cơ sở nào, ở bất cứ đâu khi cung cấp mã số này, cán bộ y tế sẽ tra cứu được thông tin sức khỏe, lịch sử khám bệnh, chữa bệnh. Mã định danh y tế có khả năng tạo liên kết các hồ sơ y tế trên các hệ thống khác nhau.
+Mã định danh y tế gồm có 21 ký tự, 10 ký tự đầu là số bảo hiểm xã hội của cá nhân tham gia bảo hiểm xã hội; ký tự 11 là dấu "."; 10 ký tự cuối được sinh ra theo một thuật toán cố định dựa trên những thông tin cơ bản như số bảo hiểm xã hội, họ và tên, năm sinh, giới tính, nơi sinh... và được làm mờ đi, chỉ được dùng để kiểm tra tính hợp lệ trên hệ thống cấp mã định danh y tế.
+Mỗi cơ sở y tế được cấp một tài khoản và mật khẩu dùng để truy xuất dữ liệu trên hệ thống mã định danh y tế quốc gia. Các cơ sở y tế sử dụng ID được cấp trong việc tạo lập, liên kết các hồ sơ y tế trên các hệ thống thông tin y tế.
+Mã định danh y tế được lưu trữ, quản lý tại hệ thống mã định danh y tế quốc gia đặt tại trung tâm dữ liệu y tế thuộc Cục Công nghệ thông tin, Bộ Y tế. Hệ thống mã định danh y tế quốc gia định kỳ đồng bộ dữ liệu với cơ sở dữ liệu hộ gia đình tham gia bảo hiểm xã hội của Bảo hiểm Xã hội Việt Nam.
+Ngọc Hỷ 

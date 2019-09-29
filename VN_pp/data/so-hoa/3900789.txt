@@ -1,0 +1,24 @@
+TITLE: Khả năng chụp ảnh trên Huawei P30 và P30 Pro như thế nào - VnExpress Số Hóa
+
+KEY WORDS: Huawei P30, Huawei P30 Pro, khả năng chụp ảnh, camera, camera smartphone
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Ra mắt tháng 3/2018, P20 Pro đứng đầu bảng xếp hạng camera smartphone tốt nhất của DxOMark trong thời gian dài, trước khi bị chính "người anh em" Mate 20 Pro soán ngôi với cùng số điểm 109. Hôm qua 27/3, đến lượt P30 Pro gây ấn tượng mạnh với 112 điểm, cao nhất từ trước đến nay trên điện thoại di động.
+Camera P30 Pro hứa hẹn cho khả năng chụp ảnh đẹp hơn bất cứ smartphone nào hiện nay. Ảnh: The Next Web.
+Huawei chỉ cần có một tinh chỉnh nhỏ về phần mềm là đã có thể giúp P30 Pro có điểm chụp ảnh cao hơn, qua đó để dành những bí mật về tính năng này cho thế hệ sau nữa. Tuy nhiên, hãng điện thoại Trung Quốc đã không làm thế, thay vào đó là nâng cấp toàn bộ.
+Có hai thay đổi lớn trên camera P30 Pro. Đầu tiên là ống kính dạng "kính tiềm vọng", cho phép zoom quang 5x mà không làm suy giảm độ sắc nét. Huawei không phải là hãng đầu tiên đề xuất ý tưởng này, nhưng đã hiện thực hóa nó đầu tiên.
+Thay vì xếp chồng ống kính như cách truyền thống, hệ thống máy ảnh của P30 Pro dùng thấu kính kết hợp gương nằm nghiêng như kính tiềm vọng. Điều này cho phép việc thu phóng lớn hơn nhiều so với camera thông thường mà không làm giảm hiệu suất.
+Chẳng hạn, thiết kế ống kính tele trên iPhone XS hay Galaxy S10 chỉ đủ khả năng zoom quang 2x. Dù gọi là ống kính tele, thực tế chúng không đủ điều kiện nếu dựa vào tiêu chuẩn của nhiếp ảnh truyền thống do độ dài tiêu cự tương đương của chúng xấp xỉ 52mm, nằm trong phạm vi bình thường. Trong khi đó, ống kính tele của P30 Pro có độ dài tiêu cự tương đương với ống kính 125mm. Đây có lẽ là ống kính tele đúng chuẩn đầu tiên trên điện thoại thông minh.
+Nhưng Huawei không dừng lại ở đó. Công ty tuyên bố việc sử dụng zoom 10x "hybrid" - công nghệ kết hợp giữa zoom quang và zoom kỹ thuật số. Nếu như người dùng chỉ cần quan tâm đến khả năng phóng lớn mà không cần để ý đến chất lượng hình ảnh, họ đang có trong tay máy ảnh zoom kỹ thuật số 50x. Nếu không tính góc siêu rộng (ultrawide), smartphone đến từ Trung Quốc giống như một chiếc DSLR mini chứa hầu hết ống kính cần thiết.
+Thay đổi thứ hai đến từ cảm biến camera chính với độ phân giải lên tới 40 megapixel, gọi là "SuperSpectrum". Nó đã được thiết kế lại để có thể thu nhiều ánh sáng hơn.
+Hình dung bộ lọc Bayer trên cảm biến máy ảnh. Ảnh: The Next Web.
+Hình ảnh trên đây, gọi là bộ lọc Bayer (Bayer filter), là cách để máy ảnh "nhìn thấy" màu sắc. Cảm biến máy ảnh về cơ bản chỉ thu ảnh đơn sắc, nhưng Bayer làm giảm lượng ánh sáng đến cảm biến tùy thuộc vào màu sắc của vật thể. Điều này, cộng với một số thuật toán phức tạp, cho phép các cảm biến đơn sắc tái tạo lại hình ảnh màu.
+Theo lý thuyết thì bộ lọc sẽ giới hạn ánh sáng chiếu vào cảm biến camera. Nhưng giải pháp của Huawei là tìm cách để bộ lọc thu sáng nhiều hơn. Cụ thể, công ty Trung Quốc đã thay đổi tất cả các điểm màu xanh lá cây vốn chiếm phần lớn bộ lọc Bayer thành màu vàng. Từ đó cảm biến mới có thể thu được ánh sáng nhiều hơn tới 40% so với thiết bị tiền nhiệm.
+Kết quả cuối cùng là chiếc P30 Pro có khả năng chụp ảnh thiếu sáng tốt hơn rất nhiều so với smartphone trước đây. Máy ảnh điện thoại thông minh trung bình hoạt động ở mức ISO 6.400. P20 Pro đạt 102.400 nhưng P30 Pro lên 409.600, chạm ngưỡng của một DSLR full-frame, cao hơn Canon 5D Mark IV (102.400) và tương đương Sony A7s II (409.600).
+Tất nhiên, thông số trên không có nghĩa là chất lượng ảnh của P30 Pro tương đương các DSLR kể trên, nhưng tiến bộ đáng kể so với hầu hết smartphone đang có mặt trên thị trường, đặc biệt là chụp thiếu sáng.
+P30 (bên trái) và P30 Pro (bên phải) đều được trang bị khả năng chụp ảnh hàng đầu. Ảnh: The Next Web.
+Ngoài ra, Huawei cũng nâng cấp nhiều tính năng khác, như mở rộng khẩu độ từ f/1.8 lên f/1.6, chống rung quang OIS, sử dụng AI để cải thiện hiệu suất HDR, chụp macro gần tối đa 2,5cm, chụp xóa phông hiệu quả hơn... Loạt yếu tố này hứa hẹn sẽ biến P30 Pro thành "quái vật smartphone chụp ảnh". 
+Trong khi đó, phiên bản P30 cũng có những nâng cấp nhất định, đảm bảo khả năng chụp ảnh tốt so với đa số smartphone hiện nay. Về cơ bản, máy có thông số tương tự P30 Pro ngoại trừ ống kính tele 3x, cảm biến chính khẩu độ f/1.8 và không có OIS. Tuy nhiên, Huawei vẫn khẳng định ảnh chụp từ P30 vẫn vượt trội so với P20 và P20 Pro năm ngoái.
+Bảo Lâm (theo The Next Web)

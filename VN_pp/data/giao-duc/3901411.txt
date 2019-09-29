@@ -1,0 +1,25 @@
+TITLE: Robot cứu hỏa 20 triệu đồng của hai nam sinh Quảng Ngãi - VnExpress
+
+KEY WORDS: robot cứu hỏa của học sinh quảng ngãi, robot cứu hỏa 20 triệu đồng, sáng chế của học sinh Quảng Ngãi, THPT Trần Quốc Tuấn, Robot cứu hỏa, Quảng Ngãi, Phạm Hồng Thái, Võ đặng Văn Thành, thi Sáng tạo khoa học kỹ thuật quốc gia
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Trở về sau Cuộc thi sáng tạo Khoa học Kỹ thuật Quốc gia dành cho học sinh trung học khu vực phía Nam tại TP HCM, Phạm Hồng Thái và Võ Đặng Văn Thành, học sinh lớp 12 trường THPT Trần Quốc Tuấn, TP Quảng Ngãi được nhiều thầy cô và bạn học chúc mừng với giải Nhì cho sáng chế Robot cứu hỏa.
+Thành (trái) và Thái bên Robot cứu hỏa. Ảnh: Phạm Linh.
+Thực nghiệm ở trụ sở của Phòng Cảnh sát PCCC và Cứu nạn cứu hộ, Công an tỉnh, robot cho thấy khả năng "tác chiến" hiệu quả.
+Phạm Hồng Thái là học sinh giỏi toàn diện, đặc biệt có đam mê với khoa học kỹ thuật. "Nhận thấy người lính cứu hỏa phải tác nghiệp trong môi trường khắc nghiệt, nhiều trang thiết bị, đồ cứu hộ phải nhập ngoại với giá thành cao, em đã lên ý tưởng chế tạo robot cứu hỏa với giá thành rẻ", cậu học trò chia sẻ. Nam sinh rủ bạn chung đam mê là Võ Đặng Văn Thành, học cùng khối tham gia.
+Thành nhớ lại, khi nghe Thái nói về ý tưởng, đã gợi ý bạn cùng làm để tham gia cuộc thi. "Đầu tiên chúng em tìm lài liệu, hội ý, thiết kế trong phần mềm SolidWork, sau đó tìm vật liệu, thiết bị", Thành nói. Ngoài các diễn đàn công nghệ trong nước, hai nam sinh tìm lài liệu tiếng Anh, cùng giáo viên hướng dẫn đưa ra phương án tối ưu.
+Để đạt được độ chính xác cao, một số chi tiết như bánh xích hai em phải nhờ thợ tiện. Vỏ thép của robot mua ở Quảng Ngãi, nhưng một số mạch điện phải mua ở các thành phố lớn, các xi-lanh điện đặt hàng từ nước ngoài.
+Với vỏ ngoài bằng thép dày 5 mm, các vị trí quan trọng bên trong đều được lắp vật liệu cách nhiệt amiăng, robot có khả năng chịu được nhiệt độ cao. Di chuyển bằng bánh xích, robot có thể vượt nhiều địa hình phức tạp, chướng ngại vật trong đám cháy.
+Khi "tác chiến", một xi-lanh giữa thân robot sẽ nâng, hạ vòi phun, thay đổi vị trí phun. Xi-lanh còn lại phía sau robot giúp leo trèo trên địa hình khó, và hỗ trợ nâng, hạ góc phun khi dập lửa ở cự ly gần. Ngoài ra, robot có camera truyền hình ảnh về giúp con người nắm được môi trường hoạt động của robot, từ đó đưa ra phương án điều khiển tốt nhất.
+Bên trong robot còn có sáu cảm biến nhiệt độ, chịu được nhiệt đô 300 độ C, có thể liên tục truyền tín hiệu nhiệt độ từ sáu vị trí quan trọng là hộp mạch điều khiển, mô-tơ, động cơ robot, các xi-lanh điện, thân vỏ, camera để người điều khiển quyết định để phương án tiếp tục chiến đấu hay quay về.
+Sử dụng sóng RF, tần số 2,4 GHz, robot được điều khiển từ khoảng cách xa 500 m, giúp chữa cháy trong phạm vi rộng.
+Robot được điều khiển từ xa bằng sóng RF. Ảnh: Phạm Linh.
+Theo Thành, thời gian từ hình thành ý tưởng đến hoàn thiện sản phẩm khoảng 6 tháng, tổng chi phí 20 triệu đồng.
+Cô Võ Thị Cẩm Hiền, giáo viên Vật lý, trường THPT Trần Quốc Tuấn, người hướng dẫn hai em cho hay trong quá trình chế tạo, cô và trò thường xuyên trao đổi trên lớp hoặc trên mạng để tháo gỡ khúc mắc. "Sản phẩm này một số nước như Trung Quốc đã sử dụng nhưng sản phẩm của các em có giá thành rẻ, so với giá khoảng vài trăm triệu đồng của nước ngoài", cô Hiền đánh giá.
+Thiếu tá Nguyễn Hợp - Phó phòng Cảnh sát PCCC, Công an tỉnh Quảng Ngãi sau khi chứng kiến robot diễn tập dập lửa đánh giá, robot rất hữu ích đối với việc thay cho chiến sĩ chữa cháy số một - người trực tiếp cầm lăng vòi xông vào đám cháy.
+"Đối với trường hợp cháy lớn, đám cháy trong hang, hầm sâu, con người khó tiếp cận thì sử dụng robot này để dập tắt đám cháy là khả thi", lãnh đạo Cảnh sát Phòng cháy nói.
+Theo Phạm Hồng Thái, ngoài giá rẻ, robot được thiết kế với nhiều vật dụng ở Việt Nam nên có thể làm chủ được gần hết, không phụ thuộc vào nước ngoài. "Khi có hỏng hóc xảy ra thì dễ sửa chữa", Thái nói. 
+Song tác giả robot tự nhìn nhận một số điểm cần cải tiến. Camera hiện tại có thể thay bằng cụm camera hồng ngoại để sử dụng trong môi trường ánh sáng yếu, nhận biết chỗ nóng. Lăng phun có thể thay thế bằng lăng phun đa năng, thay đổi tia nước khác nhau như một người lính thực thụ.
+"Chúng em sẽ tiếp tục hoàn thiện hơn nữa, hy vọng trong tương lai robot sẽ thay thế người lính cứu hỏa, sẵn sàng chiến đấu 24/24", nam sinh tâm huyết. 

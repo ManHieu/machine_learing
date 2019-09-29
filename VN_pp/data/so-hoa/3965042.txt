@@ -1,0 +1,14 @@
+TITLE: FaceID bị 'qua mặt' bằng kính mắt và băng dính - VnExpress Số Hóa
+
+KEY WORDS: Face ID, iPhone, nhận dạng khuôn mặt
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Chiếc kính có thể mở khóa FaceID trên iPhone.
+Theo ThreatPost, các nhà nghiên cứu bảo mật của Tencent phát hiện một sai sót nghiêm trọng của FaceID khiến nó không thể trích xuất thông tin 3D vùng mắt nếu người dùng sử dụng kính mắt.
+Để khởi động cuộc tấn công, họ dùng một cặp kính dán băng dính ở vùng mắt và lợi dụng tính năng Phát hiện chú ý (Attention Detection) của FaceID. Khi hoạt động, FaceID sẽ khởi động tính năng Phát hiện sinh động học (liveness detection), một phần của cơ chế xác thực sinh trắc học, giúp FaceID nhận biết người đối diện mở mắt hay nhắm mắt. Đây cũng là lý do iPhone không mở khóa khi người dùng nhắm mắt.
+Nhiệm vụ của mắt kính là đánh lừa FaceID bằng cách "làm nhiễu nền, méo phản hồi hoặc làm mờ tiêu cự". Từ đó, cảm biến TrueDepth nhận diện sai, khiến iPhone mở khóa.
+Bằng cơ chế này, việc mở khóa chỉ áp dụng với chính chủ nhân iPhone, không thể dùng cho người khác. Chuyên gia Tencent cho rằng, cuộc tấn công có thể thực hiện khi nạn nhân đang ngủ hoặc bất tỉnh.
+Đây không phải là lần đầu FaceID bị "qua mặt". Trước đó, tính năng bảo mật này bị đánh lừa bởi các cặp song sinh. Cuối 2017, Bkav cho biết đã chế tạo mặt nạ có thể mở khóa ngay cả khi reset iPhone X. Phía Apple cho biết, tỷ lệ vượt FaceID rất thấp, chỉ một phần triệu.
+Như Phúc (theo 9to5mac)

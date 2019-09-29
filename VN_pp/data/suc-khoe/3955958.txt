@@ -1,0 +1,21 @@
+TITLE: Đột quỵ: Bệnh viện Việt Nam đầu tiên dùng AI cứu người đột quỵ não
+
+KEY WORDS: trí tuệ nhân tạo, phần mềm rapid, đột quỵ, thời gian vàng
+
+TOPIC: sức khỏe, các bệnh
+
+CONTENT: 
+Bệnh nhân nam, 60 tuổi, ở Cẩm Khê, Phú Thọ, được đưa vào Bệnh viện Đa khoa tỉnh Phú Thọ ngày 8/7, trong tình trạng mất ý thức, cứng tứ chi, đã được bác sĩ bệnh viện tuyến dưới đặt ống nội khí quản. Bác sĩ xác định ông bị đột quỵ, chỉ định chụp cộng hưởng từ và sử dụng RAPID.
+Hình ảnh RAPID phát hiện gần như toàn bộ vùng thân não bệnh nhân bị tổn thương, thể tích lõi nhồi máu đến 10 ml. Với tổn thương này, RAPID nhận định không thể chỉ định can thiệp cho bệnh nhân mà phải tiếp tục theo dõi tại bệnh viện.
+Một nam bệnh nhân khác 62 tuổi, nhập viện đa khoa Phú Thọ ngày 13/6 do không đi lại được, yếu phần bên trái cơ thể, hỏi không đáp ứng. Ông được đưa vào viện sau 6 giờ kể từ khi có dấu hiệu đầu tiên bị đột quỵ.
+Bình thường, bệnh nhân vào viện, có kết quả chụp chiếu, các bác sĩ sẽ phải dựng mạch, chẩn đoán, toàn bộ quy trình hết khoảng 40 phút. Ứng dụng Rapid, sau có kết quả chụp chiếu, chỉ mất 2 phút để bác sĩ đưa ra chẩn đoán nhờ dựng ngay hình ảnh 3D hệ thống mạch, nhìn ở nhiều góc độ từ mạch tắc để thấy rõ tình trạng của bệnh nhân. Nhờ đó, bác sĩ quyết định không can thiệp lấy huyết khối bằng dụng cụ cơ học cho bệnh nhân mà chuyển sang hồi sức tích cực sớm, phục hồi chức năng. 
+Bệnh viện Đa khoa tỉnh Phú Thọ là bệnh viện tiên phong ứng dụng trí tuệ nhân tạo RAPID trong chẩn đoán và điều trị đột quỵ tại Việt Nam. Sau đó, Bệnh viện 115 ở TP HCM cũng triển khai phần mềm này. 
+Bác sĩ Nguyễn Quang Ân, Giám đốc Trung tâm Đột quỵ, Bệnh viện Đa khoa tỉnh Phú Thọ, cho biết công nghệ RAPID có thể kéo dài thời gian vàng điều trị người bị đột quỵ não đến 24 giờ kể từ khi có dấu hiệu đầu tiên, so với 6 giờ như thông thường. Kết quả chụp MRI não của người bệnh được đưa vào phần mềm RAPID giúp các bác sĩ xác định những vùng não bị tổn thương. Bác sĩ cũng thấy được vùng tranh tối tranh sáng, vùng nhu mô não sẽ chết trong những giờ tiếp theo vốn rất khó xác định bằng các phương pháp hình ảnh học thông thường. Từ đó, bác sĩ đưa ra hướng điều trị phù hợp với bệnh nhân.
+"Thông thường một ca can thiệp chi phí khoảng 80 triệu đồng. Nhờ RAPID đánh giá chính xác tình trạng bệnh lý, bác sĩ đưa ra chỉ định có can thiệp hay không để tiết kiệm chi phí, thời gian, mang lại cơ hội sống cho người bệnh", bác sĩ Hoàng Quốc Việt, Trung tâm Đột quỵ, Bệnh viện Đa khoa tỉnh Phú Thọ, nói.
+Gần 100 bệnh nhân đột quỵ tại Bệnh viện đa khoa tỉnh Phú Thọ được ứng dụng trí tuệ nhân tạo RAPID trong một tháng qua. Hiệu quả điều trị được các bác sĩ đánh giá khả quan. 
+RAPID được phát triển bởi Đại học Stanford (Mỹ), hiện được ứng dụng ở 1.200 bệnh viện tại 40 quốc gia. Kết quả ghi nhận trong 100 ứng dụng RAPID thì điều trị thành công 49 ca, so với không có phần mềm này chỉ 19 bệnh nhân điều trị thành công.
+Bệnh nhân đột quỵ đang được theo dõi tại Bệnh viện đa khoa tỉnh Phú Thọ. Ảnh: Lê Nga.
+Đột quỵ não tức tai biến mạch máu não, xảy ra khi việc cung cấp máu lên một phần bộ não bị đột ngột ngừng trệ. Phương pháp phổ biến trong điều trị hiện nay là tái thông mạch máu càng sớm càng tốt. Bác sĩ sử dụng liệu pháp tan cục máu đông (rTPA) cho người đến bệnh viện sớm trong giờ vàng (dưới 4,5 giờ sau khi bị đột quỵ); lấy huyết khối bằng dụng cụ cơ học nếu đến viện dưới 6 giờ sau khi bị đột quỵ. Các phương pháp này có nhược điểm là còn rất ít thời gian để cứu sống bệnh nhân.
+Theo giáo sư Nguyễn Văn Thông, Chủ tịch Hội Đột quỵ Việt Nam, số người bị đột quỵ không ngừng gia tăng với khoảng 200 nghìn ca mắc mới, 90% trong số đó có di chứng nếu được cứu sống. Người bệnh phải đối mặt với nguy cơ tái phát bệnh và tử vong. Bệnh xảy ra với tất cả mọi người và mọi lứa tuổi, đặc biệt bệnh nhân ngày càng trẻ, thậm chí chỉ mới 18-20 tuổi.
+Ứng dụng trí tuệ nhân tạo cho phép bác sĩ có thể làm việc từ xa. Hình ảnh chụp hệ thống mạch của bệnh nhân được gửi vào điện thoại, máy tính bảng, giúp bác sĩ xem và chỉ định mà không cần có mặt tại bệnh viện, gặp trực tiếp bệnh nhân. 
+Lê Nga

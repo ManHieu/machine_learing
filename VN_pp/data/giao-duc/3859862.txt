@@ -1,0 +1,21 @@
+TITLE: Đáp án bài toán tiểu học Hong Kong về nhầm lẫn ngày tháng - VnExpress
+
+KEY WORDS: bài toán, tiểu học, bài toán tiểu học, toán tiểu học, đáp án, Hong Kong, ngày tháng, lịch
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 19: Calendar
+Problem: Some people in Hong Kong express 2/8 as 8th February and others express 2/8 as 2nd August. This can be confusing because when we see 2/8, we don’t know whether it is 8th February or 2nd August. However, it is easy to understand 9/22 or 22/9 as 22nd September, because there are only 12 months in a year. How many dates in a year can cause this confusion?
+Dịch đề: Một số người Hong Kong viết 2/8 để chỉ ngày mùng 8 tháng 2, trong khi những người khác viết 2/8 để chỉ ngày mùng 2 tháng 8. Điều này sẽ gây nhầm lẫn vì khi nhìn các số 2/8, ta sẽ không biết đó là ngày mùng 8 tháng 2 hay ngày mùng 2 tháng 8. Tuy nhiên, đối với các số 9/22 hoặc 22/9, ta có thể hiểu ngay đó là ngày 22 tháng 9 vì một năm chỉ có 12 tháng. Hỏi trong một năm có bao nhiêu ngày có thể gây ra sự nhầm lẫn như trên?
+Ảnh: H&C Magazines
+Lời giải:
+Mỗi năm bất kỳ đều có 12 × 12 = 144 ngày mà trong đó cả ngày và tháng đều là các số không vượt quá 12.
+Mỗi một tháng thứ m đều có đúng một ngày thứ m nằm trong đoạn từ 1 đến 12. Như thế trong một năm hay trong 12 tháng luôn có đúng 12 ngày có số chỉ tháng và ngày giống nhau, ví dụ ngày 1 tháng 1, ngày 5 tháng 5, ..., ngày 12 tháng 12.
+Các ngày và tháng có số chỉ giống nhau không gây nhầm lẫn vì đảo lại vẫn là nó.
+Vậy trong một năm có 144 - 12 = 132 ngày có thể gây ra sự nhầm lẫn.
+Solution:
+In any year, there are 12 × 12 = 144 dates where the day and the month do not exceed 12.
+Every mth month has exactly one mth day (m lies between 1 and 12 inclusively). That means in a year, or 12 months, there are exactly 12 days where the day and the month are similar, such as 1st January, 5th May, ..., 12th December.
+These days do not cause confusion because the order of the day and the month does not matter.
+Thus, in a year, there are 144 - 12 = 132 dates that can cause confusion. 

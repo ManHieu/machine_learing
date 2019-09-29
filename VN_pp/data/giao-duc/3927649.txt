@@ -1,0 +1,12 @@
+TITLE: Bài toán cực trị trên bàn cờ vua trong kỳ thi IMAS 2017 - VnExpress
+
+KEY WORDS: bài toán, cực trị, bàn cờ vua, kỳ thi IMAS 2017, đố vui, toán học, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+IMAS là kỳ thi đánh giá năng lực tư duy Toán học quốc tế tại 10 quốc gia khu vực châu Á - Thái Bình Dương, được tổ chức theo 2 vòng. Sau đây là đề thi IMAS vòng 2 cấp độ Upper Primary cho học sinh lớp 5-6 năm 2017.
+Topic 39. CHESSBOARD PROBLEMS ON FINITE MAXIMA
+Problem: Some chess pieces are put on a 8 × 8 chess board, with at most 1 piece in each square. After taking all pieces on any chosen 4 rows and 4 columns, there is at least 1 piece left on the board. Find the least number of pieces originally on the board.
+Dịch đề: Người ta xếp một số quân cờ lên bàn cờ 8 × 8 sao cho mỗi ô vuông chỉ xếp tối đa một quân cờ. Khi lấy đi hết các quân cờ trên 4 hàng và 4 cột bất kỳ, thì bàn cờ luôn còn lại ít nhất một quân cờ. Hỏi ban đầu trên bàn cờ xếp ít nhất bao nhiêu quân cờ?
+ 

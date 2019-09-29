@@ -1,0 +1,15 @@
+TITLE: Ứng dụng câu đố trên Facebook lấy trộm dữ liệu người dùng - VnExpress Số Hóa
+
+KEY WORDS: Facebook, hacker, câu đố, tiện ích mở rộng
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo BBC, Facebook đang kiện hai người Ukraine là Andrey Gorbachov và Gleb Sluchevsky, từng làm việc cho một công ty có tên Web Sun Group. Cả hai đã đưa lên mạng xã hội Facebook các ứng dụng câu đố với tiêu đề như "Màu mắt của bạn nói gì về bạn?" hay "Mọi người có yêu bạn vì trí thông minh hay vẻ đẹp của bạn không?".
+Chúng được cấp quyền thông qua Login Facebook, hệ thống cho phép kết nối giữa các ứng dụng của bên thứ ba và hồ sơ mạng xã hội. Bất cứ ai muốn thực hiện các câu đố đều được yêu cầu cài đặt thêm tiện ích mở rộng của trình duyệt. Tiện ích độc hại này sau đó lấy cắp dữ liệu của người dùng từ tên và ảnh hồ sơ cho tới danh sách bạn bè riêng tư.
+Các ứng dụng câu đố yêu cầu người dùng cài đặt thêm tiện ích mở rộng của trình duyệt.
+Theo báo cáo, các tiện ích độc hại đã được cài đặt khoảng 63.000 lần trong khoảng thời gian từ năm 2016 đến tháng 10/2018. Nạn nhân được nhắm tới là những người dùng Facebook nói tiếng Nga.
+Theo các tài liệu gửi cho tòa án được The Daily Beast công bố, thiệt hại Facebook phải gánh chịu vào khoảng 75.000 USD. Theo cáo buộc, hai người đàn ông nói trên đã vi phạm luật pháp Mỹ về tấn công mạng cũng như vi phạm điều khoản sử dụng của Facebook.
+Theo Andrew Dwyer, một chuyên gia an ninh mạng tại Đại học Oxford, việc đề nghị người dùng cài đặt các tiện ích mở rộng trình duyệt đã "mở ra cánh cửa cho phép người lạ xâm nhập vào tài khoản Facebook của họ". Trong khi đó, quy trình xác minh hiện tại của Facebook rất khó để nhạn ra loại hành vi này.
+"Về cơ bản, điều này cho thấy thất bại của hệ sinh thái ứng dụng, nơi có rất ít xác minh về những gì ứng dụng đang làm", ông nói. "Hoạt động bị cáo buộc nằm ngoài ứng dụng, nên quá trình xem xét để xác minh các ứng dụng không thể phát hiện hành vi này". 
+Bảo Nam

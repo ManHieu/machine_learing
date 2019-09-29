@@ -1,0 +1,18 @@
+TITLE: Blockchain có thể đạt 1,3 tỷ giao dịch xuyên biên giới vào 2023 - VnExpress Kinh Doanh
+
+KEY WORDS: blockchain, công nghệ blockchain, tiềm năng blockchain
+
+TOPIC: kinh doanh, thương mại điện tử
+
+CONTENT: 
+Theo báo cáo gần đây từ hãng nghiên cứu Jupiter Research của Anh, số giao dịch blockchain xuyên biên giới sẽ đạt mốc kỷ lục 1,3 tỷ vào năm 2023, với chỉ số tăng trưởng kép hàng năm là 82% trong 4 năm tới. Giá trị của các giao dịch blockchain 3.400 tỷ USD với chỉ số tăng trưởng kép hàng năm là 87% trong 5 năm tới.
+Nghiên cứu có tên "Blockchain cho dịch vụ tài chính: Cơ hội, thách thức và dự đoán từ 2019-2030" cho rằng blockchain trở nên phổ biến với các tổ chức tài chính hướng đến cải thiện dịch vụ của mình. Jupiter Research kỳ vọng các ngân hàng tiết kiệm gần 27 tỷ USD mỗi năm thông qua ứng dụng blockchain vào 2030.
+Hãng nghiên cứu có trụ sở tại Anh cũng đánh giá 19 nhà cung cấp blockchain và chấm điểm về độ nhanh chóng, sự hiện diện, đổi mới, tính linh hoạt của các giải pháp và triển vọng trong lĩnh vực này. Kết quả cho thấy năm đơn vị dẫn đầu là IBM, Infosys Finacle, Interbit, Deloitte và Digital Asset.
+Trong đó, IBM vẫn đứng vị trí dẫn đầu trong việc thu hút nhiều khách hàng trong các tổ chức tài chính và phát triển các sản phẩm blockchain hoàn thiện, bao gồm nền tảng giao dịch tài chính và các công việc chuyên môn từ số hóa chứng khoán đến công cụ phái sinh. Trong khi đó, Infosys Finacle tiếp tục phát triển giải pháp blockchain giúp gia tăng sức mạnh của khách hàng qua ngân hàng.
+Theo nghiên cứu từ Jupiter Research, blockchain được kỳ vọng sẽ giúp các ngân hàng tiết kiệm gần 27 tỷ USD mỗi năm.
+Nghiên cứu cũng cho thấy hợp đồng thông minh là chìa khóa cho các tổ chức tài chính, đặc biệt trong bối cảnh ngày càng gia tăng tính minh bạch. Điều này được minh chứng với việc sử dụng hợp đồng thông minh của công ty đầu tư Morgan Chase trong cắt giảm chi phí tuân thủ thông qua nền tảng Quorum - mạng lưới giao dịch sổ cái được phân loại xây dựng từ ethereum.
+Được biết đến là một nền tảng phần mềm mở dựa trên công nghệ blockchain, ethereum cho phép các nhà phát triển xây dựng và triển khai những ứng dụng dựa trên hệ sinh thái phân tán. Cũng được xem là một loại tiền mã hóa như bitcoin nhưng ethereum còn được ứng dụng vào nhiều lĩnh vực khác thông qua hợp đồng thông minh dựa trên công nghệ blockchain.
+Hợp đồng truyền thống được tạo ra bởi các chuyên gia pháp lý và cần bên thứ ba làm trọng tài giám sát thực thi. Trong khi đó, hợp đồng thông minh được tạo ra bởi hệ thống máy tính bằng ngôn ngữ lập trình như C++, Go, Python hay Java. Trong đó nêu rõ các điều khoản và hình phạt tương đương với một hợp đồng truyền thống đưa ra. Toàn bộ đoạn mã của hợp đồng thông minh sẽ được thực hiện bởi hệ thống sổ cái phân tán blockchain để tự động kiểm tra quá trình thực hiện những cam kết nêu trong hợp đồng, do đó không cần đến sự can thiệp của con người trong khi vẫn đảm bảo việc thực thi hợp đồng công bằng và minh bạch.
+Nhằm hỗ trợ các doanh nghiệp, tổ chức hoặc cá nhân có thêm kiến thức về blockchain ứng dụng, VnExpresstổ chức khóa học "Blockchain - Nền tảng tỷ đô" trên ewiki.vnexpress.net. Khóa học do ông Cris D. Tran - Giám đốc quốc gia của công ty tư vấn, cung cấp giải pháp blockchain Infinity Blockchain Ventures (IBV) dẫn dắt.
+Khóa học gồm 12 bài giảng qua video và một tài liệu tổng hợp cuối khóa. Mỗi video kéo dài khoảng 5-10 phút, cập nhật những thông tin, kiến thức mới nhất về blockchain, các ứng dụng trên thực tế và cách thức vận dụng phù hợp nền tảng này vào hoạt động của doanh nghiệp. Ngoài ra, khóa học cũng cung cấp kiến thức chuyên sâu về ba nền tảng tiền mã hóa phổ biến nhất hiện nay, gồm bitcoin (BTC), ethereum (ETH) và cardano (ADA). Tìm hiểu thêm về khóa học tại đây.
+Trương Sanh	

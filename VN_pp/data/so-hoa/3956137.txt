@@ -1,0 +1,15 @@
+TITLE: Nhà thầu cho cơ quan tình báo Nga bị hacker tấn công - VnExpress Số Hóa
+
+KEY WORDS: hacker, tình báo, nhà thầu, tình báo Nga, tấn công mạng, Nga
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Zdnet, nhóm tin tặc có tên 0v1ru$ đã đột nhập vào hệ thống máy tính của SyTech và lấy đi khoảng hơn 7,5 TB dữ liệu, trong đó đa phần liên quan đến các dự án bí mật mà công ty này đang thực hiện cho FSB. Vụ tấn công được phát hiện hôm 13/7.
+0v1ru$ đã đăng tải ảnh chụp màn hình các tài liệu đánh cắp của SyTech lên Twitter.
+Ngày 18/7, hacker đã đăng tải ảnh chụp màn hình tài liệu có được lên Twitter, đồng thời chuyển phần lớn những gì đánh cắp cho một nhóm tin tặc khác lớn hơn có tên Digital Revolution - tổ chức từng tấn công một chi nhánh của FSB năm ngoái.
+Trong số dữ liệu bị rò rỉ, nổi bật có Nautilus-S. Đây là dự án giúp giải mã tính ẩn danh của Tor - một trình duyệt mã nguồn mở, cho phép truy cập vào Deep Web và Dark Web (hai nền tảng Internet ngầm thường được tội phạm sử dụng để liên lạc với nhau mà không bị phát hiện). Nautilus-S khởi động từ 2012, đã xác định được 25 máy chủ độc hại, 18 trong số đó được đặt tại Nga và chạy phiên bản Tor 0.2.2.37.
+Dữ liệu rò rỉ cũng hé lộ một loạt dự án khác mà SyTech đang thực hiện: Nautilus để thu thập thông tin người dùng trên mạng xã hội như Facebook, LinkedIn, Twitter; Hope với mục tiêu phân tích cấu trúc Internet Nga, tiến tới ngắt kết nối Internet của Nga với toàn cầu; Tax-3 liên quan đến mạng nội bộ, lưu trữ thông tin các nhân vật quan trọng như thẩm phán tòa án, quan chức địa phương; Mentor giám sát và tìm kiếm thông tin liên lạc qua email trên máy chủ tại Nga; hay Reward giúp xâm nhập vào mạng ngang hàng (P2P).
+SyTech được cho là đang triển khai những dự án trên dưới sự hợp tác với Đơn vị 71330, tổ chức thuộc Tổng cục 16 thuộc FSB, phụ trách tình báo thông tin. BBC Russia đánh giá, việc SyTech bị tấn công là "vụ rò rỉ dữ liệu lớn nhất trong lịch sử các dịch vụ tình báo Nga".
+Cả SyTech lẫn FSB đều chưa đưa ra bình luận.
+Bảo Lâm tổng hợp

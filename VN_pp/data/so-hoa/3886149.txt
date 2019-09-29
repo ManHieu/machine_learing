@@ -1,0 +1,25 @@
+TITLE: Những nhầm lẫn phổ biến về ngân hàng số ViettelPay - VnExpress Số Hóa
+
+KEY WORDS: ViettelPay, ứng dụng ViettelPay, ngân hàng số, thanh toán điện tử
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+ViettelPay là ví điện tử?
+Từ tháng 6/2018, "ông lớn" Viettel chính thức hâm nóng cuộc cạnh tranh trên thị trường thanh toán phi tiền mặt tại Việt Nam với ứng dụng ViettelPay. Dù là tân binh, ứng dụng này nhanh chóng phủ sóng trên toàn quốc, thu hút hàng triệu lượt đăng ký.
+Được định nghĩa là ngân hàng số, nhưng không ít người dùng vẫn nhầm lẫn ViettelPay với ví điện tử, hay ngân hàng điện tử (internet banking). Nguyên nhân chủ yếu bởi các tính năng tương đồng phổ biến như chuyển khoản, rút tiền, thanh toán dịch vụ...
+Tuy nhiên, đại diện ViettelPay khẳng định, ViettelPay là một ngân hàng số, tích hợp hệ sinh thái dịch vụ, giải trí đa dạng. Nếu như internet banking được các ngân hàng thêm vào để gia tăng tiện ích, thì ngân hàng số lại có đầy đủ tính năng tài chính cốt lõi, đồng bộ như một ngân hàng thực. 
+Theo đó, không chỉ giao dịch, thanh toán hóa đơn, qua một ứng dụng của ngân hàng số ViettelPay, người dùng có thể gửi tiết kiệm, mở thẻ, làm các thủ tục online, thanh toán tiền điện, nước, internet, mua sắm hàng hóa, dịch vụ như thẻ game Garena, thẻ điện thoại từ tất cả các nhà mạng, hoặc đặt phòng, mua vé tàu, vé xe, máy bay...
+ViettelPay được tích hợp nhiều tính năng như một ngân hàng.
+Chỉ mạng Viettel mới dùng được?
+Viettel là một trong những nhà mạng chiếm lĩnh thị phần dịch vụ viễn thông di động. Mức độ phủ sóng của nhà mạng này khiến nhiều người vẫn nghĩ ứng dụng chỉ phục vụ riêng cho người dùng Viettel. Tuy nhiên, hiện ViettelPay không phân biệt thuê bao nội hay ngoại mạng Viettel. Khách hàng mạng ngoài đều có thể đăng ký sử dụng bình thường như thuê bao Viettel.
+Chỉ smartphone mới dùng được?
+Hầu hết các ứng dụng cho di động thường dành cho người dùng smartphone. Tuy nhiên, ứng dụng ViettelPay có thể sử dụng ngay trên điện thoại thường hay khi không có kết nối mạng. Thông qua lệnh *998#, người dùng vẫn có thể kích hoạt, nạp tiền, rút tiền...dễ dàng.
+Giới chuyên gia đánh giá, điểm khác biệt này phù hợp với chiến lược "lấy nông thôn vây thành thị" mà Viettel từng làm với mảng viễn thông. Nếu như giới Fintech dồn sự tập trung đến tập khách hàng tại các thành phố lớn thì ViettelPay lại coi nông thôn là thị trường tiềm năng, nơi có số lượng dùng smartphone và kết nối internet còn khiêm tốn.
+Phải có tài khoản ngân hàng mới sử dụng được ViettelPay?
+Không giống các ứng dụng ví điện tử hay internet banking khác, ViettelPay không đòi hỏi người dùng phải có tài khoản ngân hàng. Khách hàng có thể nạp tiền trực tiếp vào tài khoản ViettelPay từ gần 200.000 điểm giao dịch, phủ khắp 63 tỉnh thành.
+Điểm giao dịch chính là khó khăn lớn nhất khiến các Fintech ngại mở rộng tại khi vực nông thôn. Trên thực tế, ngân hàng số ViettelPay đã phủ sóng trên toàn quốc nhờ khai thác lợi điểm từ hệ sinh thái trên 63 tỉnh thành của Viettel. Các cửa hàng, bưu cục, siêu thị Viettel và các đối tác liên kết...đều trở thành điểm giao dịch, hỗ trợ sử dụng ViettelPay như các cây ATM thông thường. Tại các điểm này đều có nhân viên túc trực, hỗ trợ sử dụng thiết bị. 
+Nông thôn, miền núi được xem là thị trường tiềm năng của ViettelPay.
+Ngoài giao dịch tại các điểm, ViettelPay còn có dịch vụ hỗ trợ chuyển tiền tới tận nhà trong 2 giờ để phục vụ các khách hàng không có thời gian đến điểm giao dịch.
+Ra mắt chính thức từ tháng 6/2018, tới nay, ngân hàng số ViettePay đã có hơn 3,7 triệu thuê bao và phủ mạng lưới tới tất cả các tỉnh thành. ViettelPay từng đạt nhiều giải thưởng như Giải pháp phần mềm xuất sắc năm 2018; giải Nhất hạng mục Tài chính - giải thưởng quốc tế APICTA, thuộc Liên minh các tổ chức Công nghệ thông tin và Viễn thông Châu Á Thái Bình Dương; đạt chứng nhận Bảo mật quốc tế PCI DSS (Payment Card Industry Data Security Standard)...
+Phong Vân

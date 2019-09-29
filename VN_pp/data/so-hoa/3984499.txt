@@ -1,0 +1,16 @@
+TITLE: AI không thể bảo vệ con người khỏi bị giả mạo - VnExpress Số Hóa
+
+KEY WORDS: AI, DeepFake
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Britt Paris và Joan Donovan, phóng viên của Data and Society, cho rằng mối quan hệ giữa truyền thông, công nghệ và thực tế chưa bao giờ "bình yên". Từ những năm 1950 khi việc chụp ảnh được cho phép tại toà án Mỹ, nhiều người bắt đầu không tin vào công nghệ, thay vào đó là lời kể trực tiếp từ nhân chứng cũng như hồ sơ văn bản liên quan. Hiện nay, việc thao túng thông tin trên các phương tiện truyền thông còn tinh vi hơn. Con người có thể sử dụng trí tuệ nhân tạo, hay các công cụ có khả năng học hỏi để tạo ra những hình ảnh, video mà mắt người không thể phân biệt được là giả mạo hay thật. Vấn nạn này được gọi là DeepFake.
+Bất kỳ ai công khai hồ sơ cá nhân lên mạng xã hội đều có nguy cơ bị giả mạo. Một khi tin không đúng sự thật về những người này bị tung ra, chúng sẽ lan ra nhanh chóng trên các nền tảng trực tuyến chỉ sau vài giây.
+Ảnh: MIT.
+AI bị lợi dụng để tạo ra DeepFake, vậy AI có thể được dùng để ngăn chặn DeepFake hay không? Để giải quyết vấn nạn giả mạo, Facebook công bố cuộc thi Deepfake Detection Challenge (Nhận diện DeepFake) nhằm phát triển những công cụ có thể phân biệt ảnh, video giả mạo được tạo ra bởi các thuật toán. Một số công ty startup như TruePic, chuyên sử dụng AI và Blockchain để phát hiện ảnh giả, cũng tham gia cuộc chơi. Cơ quan chỉ đạo các Dự án Nghiên cứu Quốc phòng Tiên tiến Mỹ (DARPA) đã đầu tư vào một hệ thống mang tên Medifor, được cho là có khả năng nhận diện video bị chỉnh sửa thế nào chính xác đến từng pixel.
+Tuy vậy, đa số các giải pháp dừng lại ở mức độ nhận diện được nội dung nào đã qua chỉnh sửa và giải quyết khúc mắc về việc hình ảnh hoặc video khi bấm nút ghi hình có bị thao túng, biên tập hay không. Trong khi đó, DeepFake phải được giải quyết bằng cả về mặt kỹ thuật lẫn xã hội.
+Một số chuyên gia cho rằng DeepFake cũng có mặt tích cực, như khi tạo ra các video giễu nhại, bình luận chính trị hay giúp ẩn danh những người cần bảo vệ danh tính. "Nếu có luật về DeepFake, cần có các điều khoản liên quan đến tự do ngôn luận", David Greene, đứng đầu Hiệp hội bảo vệ nội dung số Electronic Frontier Foundation, nói. Tuy nhiên, ông cũng nhấn mạnh, nếu dùng DeepFake thực hiện các hoạt động phi pháp như tống tiền thì cần bị truy tố.
+Nhiều người lo ngại nếu luật cho phép DeepFake tồn tại sẽ phát sinh nguy cơ các công ty thoải mái thu thập hình ảnh rồi tạo ra một kho dữ liệu trực tuyến để trục lợi. Bobby Chesney, Giáo sư luật tại Đại học Luật Texas, cho rằng việc thu thập này không đáng lo ngại, nhưng cần có thêm các giải pháp kỹ thuật cùng với hệ thống pháp lý để truy tố những người sử dụng DeepFake vào mục đích xấu.
+"AI không thể bảo vệ con người khỏi nguy cơ giả mạo. Chúng ta cần bàn về các biện pháp nhằm hạn chế tác hại của DeepFake, chứ không phải giải quyết triệt để bởi nó sẽ không bao giờ biến mất hoàn toàn", ông nói.
+Đức Trí

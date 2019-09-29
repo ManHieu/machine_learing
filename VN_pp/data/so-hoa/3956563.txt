@@ -1,0 +1,13 @@
+TITLE: Apple đàm phán mua bộ phận chip mạng của Intel - VnExpress Số Hóa
+
+KEY WORDS: modem, Apple, Intel, Qualcomm, modem 5G
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo WSJ, Apple sẽ trả ít nhất một tỷ USD (khoảng 23,3 nghìn tỷ đồng) cho các bằng sáng chế và khoảng 1.200 nhân viên của Intel trong mảng kinh doanh modem trên điện thoại thông minh. Thỏa thuận có thể đạt được trong tuần tới nhưng giới phân tích cũng không loại trừ khả năng đàm phán không thành công.
+Apple có thể mua lại mảng modem trên smartphone của Intel với giá một tỷ USD. Ảnh: 9to5mac
+Báo cáo nói Apple và Intel đã thảo luận với nhau, trước khi Apple giải quyết tranh chấp pháp lý với Qualcomm, nhưng không đạt được kết quả. Intel sau đó đã đưa ra lời đề nghị mua lại bộ phận modem với các công ty khác nhưng cuối cùng nối lại đàm phán với Apple vì cho rằng đây là khách hàng tiềm năng nhất.
+Sau khi Apple và Qualcomm đạt được thỏa thuận, Intel tuyên bố sẽ rút khỏi mảng kinh doanh modem 5G trên điện thoại thông minh. Công ty nói không tìm thấy con đường dẫn đến lợi nhuận trong ngành này nên muốn tập trung vào các mảng cơ sở hạ tầng dữ liệu vốn có lợi nhuận cao hơn.
+Apple đang phát triển modem của riêng mình để ít bị phụ thuộc vào Qualcomm hơn. Các nhà phân tích dự đoán nhà sản xuất iPhone sẽ sử dụng modem 5G của Qualcomm và Samsung vào năm 2020. Việc mua lại mảng modem của Intel sẽ cho phép Apple tiếp cận với các kỹ thuật và nhân sự chất lượng từ Intel, giúp công ty rút ngắn được nhiều năm nghiên cứu.
+Bảo Anh (theo WSJ)

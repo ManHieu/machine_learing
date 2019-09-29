@@ -1,0 +1,21 @@
+TITLE: 'Mỏ dầu' cần bảo vệ trong chuyển đổi số của doanh nghiệp - VnExpress Kinh Doanh
+
+KEY WORDS: chuyển đổi số, 4.0, dữ liệu, Big Data, an toàn thông tin, an ninh mạng
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Trong khảo sát mới nhất về An toàn Thông tin Toàn cầu do Ernst & Young thực hiện, ba thứ mà tội phạm an ninh mạng quan tâm nhất khi tấn công doanh nghiệp, theo thứ tự, gồm thông tin khách hàng, thông tin tài chính và thông tin về kế hoạch - chiến lược kinh doanh. Trong đó, Việt Nam cũng không nằm ngoài mục tiêu của các tội phạm tin học.
+"Thông tin bây giờ về bản chất là nguồn lực vô cùng quan trọng, xứng đáng được bảo vệ cao nhất trong doanh nghiệp", ông Hoàng Mạnh Thắng - Phó tổng giám đốc Phát triển kinh doanh của EY Việt Nam bình luận.
+Ở phạm vi chung, khảo sát cho biết đa phần công ty được hỏi đều phản hồi gia tăng ngân sách cho an toàn thông tin. Tuy nhiên, tại Việt Nam, theo nhận định của ông Thắng, nhiều doanh nghiệp trong nước chưa xác định được ngân sách phù hợp cho hoạt động này.
+Đồng tình với ông Thắng, nhiều chuyên gia ví von dữ liệu ngày nay xứng đáng được xem là một mỏ vàng hay loại dầu mỏ mới. The Economist tuyên bố, dữ liệu chứ không phải dầu mỏ đã trở thành nguồn tài nguyên giá trị nhất thế giới.
+Bức vẽ ví dữ liệu như nguồn dầu mỏ giúp các đại gia công nghệ làm giàu đăng trên The Economist.
+Trong chuyển đổi số, dữ liệu là nền tảng để áp dụng các công nghệ mới như Big Data, AI, Data Analytics... nhằm tối ưu hóa doanh thu. Với những ngành và dịch vụ như thương mại điện tử, quảng cáo trực tuyến, ví điện tử, các dịch vụ trực tuyến tức thì kiểu gọi xe, gọi thức ăn..., thì dữ liệu là huyết mạch sống còn.
+"Dữ liệu là phần rất giá trị của doanh nghiệp và 3 năm nay chúng tôi đã tập trung xây dựng cơ sở dữ liệu Big Data", Phó chủ tịch HĐQT MoMo - Nguyễn Mạnh Tường chia sẻ gần đây. Ông Hồ Trung Dũng - Phó giám đốc Trung tâm Công nghệ thông tin của công ty này nói rằng, đầu tư vào Big Data để có cơ sở đưa ra những hiệu chỉnh về dịch vụ và lập chiến lược kinh doanh một cách khoa học, không phụ thuộc nhiều vào cảm tính như trước.
+Theo quan sát của ông Hoàng Mạnh Thắng, một số khách hàng lớn mà công ty ông tiếp cận vẫn có tỷ lệ chi tiêu cho an toàn thông tin tương đối thấp. Chịu chi hàng đầu hiện là các đơn vị ngành tài chính. Trong khi đó, khối bán lẻ, thương mại điện tử mới quan tâm chứ chưa sâu sắc.
+Khảo sát năm 2018 của Chi hội An toàn thông tin VNISA phía Nam cho hay, các giải pháp phổ biến mà doanh nghiệp đang dùng để bảo vệ dữ liệu gồm mã hóa, sao lưu dự phòng, dùng chữ ký số và giải pháp chống thất thoát dữ liệu.
+"An toàn thông tin của chúng ta chưa thật sự là tốt. Có vài vụ khá lớn về doanh nghiệp bị rò rỉ dữ liệu vào năm ngoái mà ai cũng biết. Ngoài ra, còn có những doanh nghiệp rất lớn khác có nguy cơ bị rò rỉ bất cứ lúc nào", Tiến sĩ Võ Văn Khang - Phó chủ tịch VNISA phía Nam cảnh báo.
+Theo Gartner, để định giá dữ liệu, doanh nghiệp có thể đặt 3 câu hỏi như: Tốn bao nhiêu để thay thế dữ liệu đó? Nó đóng góp bao nhiêu vào doanh thu của tổ chức? Công ty có thể kiếm được bao nhiêu bằng cách cho thuê hoặc bán nó. Việc đánh giá đúng dự liệu sẽ giúp đưa ra con số đầu tư xứng đáng để bảo vệ nó.
+"Thất bại trong việc định lượng chính xác giá trị dữ liệu có thể dẫn đến đánh giá thấp tầm quan trọng của các khoản đầu tư cho an ninh mạng, cũng như xác định giá trị cho các bảo hiểm an ninh mạng, hai chuyên gia Dante Disparte và Daniel Wagner cảnh báo trên Tạp chí Harvard Business Review.
+Các chuyên gia khuyến nghị, điểm "hớ hênh" thường bị xem nhẹ yếu tố con người. Ông Thắng cho rằng, dường như nhiều doanh nghiệp thích đầu tư cho phần cứng hơn, trong khi việc đào tạo còn khá sơ sài. Ông Ngô Việt Khôi - Chuyên gia an toàn thông tin, nguyên giám đốc Trend Micro Vietnam nói, điểm yếu nhất trong các yếu tố về an minh mạng hiện là con người.
+Viễn Thông	

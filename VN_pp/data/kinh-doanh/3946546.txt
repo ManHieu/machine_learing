@@ -1,0 +1,28 @@
+TITLE: Giải pháp bảo mật trong thanh toán điện tử của VietinBank - VnExpress Kinh Doanh
+
+KEY WORDS: Vietinbank, bảo mật thanh toán điện tử, lừa đảo chiếm đoạt tài sản
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Nhiều chiêu lừa đảo ngân hàng điện tử
+Tình trạng tội phạm công nghệ cao đang trở nên tinh vi và phổ biến, đặc biệt trong lĩnh vực ngân hàng điện tử tại các nước trên thế giới cũng như Việt Nam. Theo TechCrunch, nghiên cứu mới từ công ty an ninh mạng di động Zimperium cho thấy, hầu hết các ứng dụng ngân hàng hàng đầu tại Mỹ đều có lỗ hổng về bảo mật, tiềm ẩn nguy cơ gây mất dữ liệu cho người dùng. 
+Tại Việt Nam, hiện tượng này được một số ngân hàng và chuyên gia bảo mật khuyến cáo, song vẫn liên tục xảy ra các vụ lừa đảo, tội phạm lấy cắp thông tin cá nhân và chiếm đoạt tiền trong tài khoản khách hàng.
+"Các chiêu thức lừa đảo phổ biến là thông báo trúng thưởng lừa khách hàng cung cấp thông tin tài khoản và truy cập vào website giả mạo; giả danh người thân, bạn bè nhờ nhận tiền từ nước ngoài; truy cập website giả mạo hoặc tải ứng dụng độc hại dẫn đến bị mất cắp thông tin bảo mật như tên truy cập, mật khẩu đăng nhập, mã xác thực giao dịch (OTP )...", đại diện Ngân hàng TMCP Công Thương Việt Nam (VietinBank) cho biết. 
+Theo đại diện ngân hàng, đối tượng lừa đảo cũng có thể tạo màn hình ứng dụng, màn hình đăng nhập có giao diện tương tự website hoặc ứng dụng thật bằng cách gửi email mạo danh ngân hàng, trong đó chứa đường link giả lừa khách hàng đăng nhập, từ đó chiếm đoạt thông tin.
+Để phòng tránh rủi ro, người dùng cần lưu ý bảo vệ thông tin tài khoản như tên đăng nhập, mật khẩu truy cập, thông tin cá nhân... "Khách hàng tuyệt đối không cung cấp thông tin cá nhân cho bất kỳ ai. Đồng thời chủ động bảo vệ các thiết bị điện tử cá nhân như điện thoại, máy tính... có sử dụng dịch vụ ngân hàng điện tử, thường xuyên thay đổi mật khẩu truy cập, không lưu lại mật khẩu và luôn thoát khỏi hệ thống sau mỗi lần sử dụng", đại diện VietinBank nói.
+Người dùng nên chủ động bảo vệ các thiết bị điện tử cá nhân như điện thoại, máy tính...
+Giải pháp bảo mật từ các ngân hàng
+Trong bối cảnh thanh toán không dùng tiền mặt đang trở nên phổ biến, việc đảm bảo an toàn trong hoạt động thanh toán đang được cơ quan quản lý và các ngân hàng ưu tiên. 
+Nhiều ngân hàng đã đầu tư mạnh cho các công nghệ mới trong thanh toán điện tử như: công nghệ nhận diện khuôn mặt, xác thực vân tay, sinh trắc học (biometrics), mã phản hồi nhanh (QR code), mã hóa thông tin thẻ (tokenization), thanh toán phi tiếp xúc, áp dụng công nghệ xác thực giao dịch mới Token key... Xu hướng này đảm bảo tính an toàn khi thanh toán và phù hợp xu thế phát triển trên thế giới và hành vi người tiêu dùng.
+Ngân hàng Nhà nước đã đẩy mạnh truyền thông nhằm nâng cao nhận thức và thay đổi cách thức thanh toán tiêu dùng của người dân, nâng cao khả năng tiếp cận sản phẩm dịch vụ ngân hàng... đồng thời đưa ra các quy định cụ thể với ngân hàng về việc tăng cường bảo mật với các giao dịch điện tử.
+Theo quy định mới của Ngân hàng Nhà nước, nhằm tăng cường an ninh cho các dịch vụ ngân hàng trực tuyến, các giao dịch trực tuyến từ 100 triệu đồng trở lên sẽ không được sử dụng qua hình thức xác thực SMS OTP (mã xác thực gửi về qua tin nhắn điện thoại) và phải áp dụng các biện pháp xác thực khác qua Token key, chữ ký số hoặc mã OTP bằng ứng dụng.
+Đại diện VietinBank cho biết, nhà băng luôn đặt an toàn trong từng giao dịch của khách hàng là trọng tâm trong việc cung cấp các sản phẩm dịch vụ công nghệ cao.
+Cụ thể, từ 21/6, ngân hàng chính thức cung cấp giải pháp xác thực mới Soft OTP cho các khách hàng sử dụng ứng dụng iPay Mobile. Soft OTP là giải pháp tiện dụng giúp phòng tránh các giao dịch lừa đảo dẫn tới mất tiền của khách hàng.
+Soft OTP được điền trực tiếp trên ứng dụng VietinBank iPay Mobile
+Khác với hình thức xác thực giao dịch thông thường, Soft OTP được hệ thống sinh ra và điền trực tiếp trên ứng dụng.
+"Khách hàng có thể giao dịch tài chính qua iPay Mobile mọi lúc, mọi nơi, không cần mang theo thiết bị xác thực RSA hay chờ mã OTP gửi về tin nhắn, không cài đặt thêm ứng dụng xác thực mới, hạn mức giao dịch tối đa 5 tỷ đồng", đại diện Vietinbank cho biết. 
+Cơ chế sinh và xác thực OTP dựa trên các khóa bảo mật riêng tương ứng từng khách hàng, từng thông tin giao dịch khi thực hiện. Ngoài ra, thuật toán sinh OTP còn dựa trên thời gian thực (TOTP) đáp ứng tiêu chuẩn quốc tế.
+Theo đại diện ngân hàng, với lợi thế không phụ thuộc sóng điện thoại của mạng viễn thông, hình thức xác thực Soft OTP thuận tiện cho các khách hàng đi du lịch, công tác nước ngoài không sử dụng chế độ roaming (chuyển vùng quốc tế) mà vẫn muốn thực hiện giao dịch nhanh chóng.
+Ngoài ra, những điểm cộng của hình thức xác thực này là giao diện thân thiện, đơn giản, hiệu quả và miễn phí.  
+Hoài Phong	

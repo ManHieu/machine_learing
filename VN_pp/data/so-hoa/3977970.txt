@@ -1,0 +1,24 @@
+TITLE: IFA 2019: Laptop mới của Asus, Acer - VnExpress Số Hóa
+
+KEY WORDS: Acer, Asus, IFA 2019, laptop chơi game, laptop mỏng nhẹ
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Acer Predator Triton 300
+Predator Triton 300 là sự bổ sung mới nhất cho dòng laptop chơi game mỏng nhẹ Triton của Acer. Máy có thiết kế nhôm nguyên khối, nặng 2,3 kg, màn hình viền mỏng 15,6 inch Full HD, tần số quét 144 Hz và thời gian phản hồi 3 ms tương tự một số model khác gần đây, chẳng hạn Nitro 7. Laptop của Acer có cấu hình khá mạnh, với vi xử lý Intel Core i7 thế hệ thứ 9, RAM 16 GB, card đồ họa Nvidia GeForce GTX 1650, bộ nhớ 1TB SSD và 2 TB HDD. Predator Triton 300 đi kèm bàn phím có đèn nền RGB, hệ thống phím chức năng để tăng tốc máy tính và các công nghệ về tản nhiệt. Máy có giá 1.441 USD.
+Acer Predator Triton 500
+Điểm nhấn của laptop này là màn hình có tần số quét 300 Hz, là một trong những máy tính có tần số quét màn hình cao nhất hiện nay trên thị trường. Thông số này cộng thêm công nghệ Nvidia G-Sync giúp game thủ trải nghiệm các trò chơi mượt mà hơn, đặc biệt là game có tiết tấu nhanh. Predator Triton 500 có thiết kế mỏng nhẹ đối với một thiết bị chơi game, với độ mỏng chỉ 17,9 mm và nặng 2,1 kg. Acer không cung cấp nhiều thông số về sản phẩm này, ngoại trừ được trang bị màn hình 15,6 inch Full HD, Intel Core i7 thế hệ thứ 9. Máy có giá 2.800 USD.
+Asus ROG Zephyrus S GX701
+Tương tự Predator Triton 500, Zephyrus S GX701 cũng có màn hình với tần số quét 300 Hz. Máy có hai phiên bản màn hình là 15 inch và 17 inch, cùng độ phân giải Full HD. Về cấu hình, thiết bị chạy chip Intel Core i7 thế hệ 9, đồ họa Nvidia GeForce RTX 2080, RAM 32GB và SSD 1 TB. Máy được Asus bán ra vào tháng 10, chưa rõ giá bán.
+Asus AsusPro B9
+Pro B9 được xem là laptop 14 inch nhẹ nhất thế giới với cân nặng chỉ 0,86 kg, nhẹ hơn model Acer Swift 5 Air Edition trước đó (940 gram). Máy cũng có thiết kế màn hình viền mỏng (tỷ lệ màn hình so với thân máy lên đến 94%) và trackpad cảm ứng ScreenPad 2.0. Bên cạnh đó, laptop này còn được trang bị chip xử lý Intel Core thế hệ thứ 10 mới nhất (chưa rõ model), hai ổ SSD 1 TB, hỗ trợ kết nối Wi-Fi 6, camera hồng ngoại và nhiều tính năng khác.
+Asus ProArt StudioBook One
+Model của Asus được xem là laptop mạnh nhất thế giới, với bộ xử lý Intel Core i9-9980HK thế hệ thứ 9, đồ họa Nvidia Quadro RTX 6000, ổ SSD NVMe 1TB và RAM 32 GB. Máy cũng có màn hình 16,6 inch độ phân giải 4K và tần số quét 120 Hz, thiết kế viền siêu mỏng. Một phiên bản khác cấu hình thấp hơn của dòng ProArt StudioBook là ProArt StudioBook X cũng được Asus giới thiệu trước thềm IFA 2019. Máy có màn hình 17 inch độ phân giải 1.920 x 1.200 pixel, chạy chip xử lý Intel Xeon (E-2276M) hoặc Core i7 (9750H), đồ họa Quadro RTX 5000 và RAM 16 GB.
+Dell XPS 13
+Dell cũng vừa làm mới dòng máy tính XPS bằng model XPS 13, chạy chip Intel Comet Lake thế hệ thứ 10. Phiên bản thấp nhất dùng Intel Core i3-10110U và có giá 899 USD, trong khi model cao cấp nhất sử dụng Intel Core i7-10710U và bán ra tháng 10 (chưa rõ giá bán). XPS 13 thế hệ mới chỉ dùng SDRAM kênh đôi LPDDR3 thay vì LPDDR4x tốc độ cao hơn. Toàn bộ sản phẩm đạt chứng nhận Project Athena với thời lượng pin được đảm bảo hơn 9 giờ.
+Razer Blade Stealth 13
+Phiên bản máy tính xách tay chơi game thế hệ mới của Razer được trang bị chip Intel Core i7-1065G7 thế hệ thứ 10, card đồ họa Nvidia GeForce GTX 1650, RAM 16 GB. Máy cũng có màn hình 13 inch độ phân giải Full HD và nguồn pin 53,1Wh. Blade Stealth 13 có giá khởi điểm 2.000 USD.
+Lenovo IdeaPad S540
+Laptop mới của Lenovo cũng có thiết kế nhôm, màn hình 13 inch viền mỏng tương tự Dell XPS 13. IdeaPad S540 có cấu hình mạnh mẽ với chip Intel Comet Lake thế hệ thứ 10, đồ họa Nvidia GeForce MX250. Ngoài ra, máy cũng được tích hợp camera hồng ngoại để mở khóa bằng gương mặt Windows Hello.
+Bảo Lâm tổng hợp	

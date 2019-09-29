@@ -1,0 +1,24 @@
+TITLE: Smartphone 5G khác gì điện thoại thông thường - VnExpress Số Hóa
+
+KEY WORDS: mạng 5G, smartphone 5G, điện thoại 5G, thách thức
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trong nửa đầu 2019, một số nhà sản xuất đã trình làng điện thoại 5G, tách riêng thành một phiên bản đặc biệt. Chẳng hạn ngoài Galaxy S10, S10+ thì Samsung có Galaxy S10 5G, hay Xiaomi có Mi Mix 3 5G bên cạnh phiên bản tiêu chuẩn. Những thiết bị này càng làm người dùng rối bời thêm bởi trước đó đã bị "hoa mắt" bởi các hậu tố như Plus, Max hay Pro.
+Tại sao phải tách riêng bản 5G
+Trên smartphone, các module quan trọng được đóng gói thành một vi mạch gọi là SoC (system-on-a-chip, hệ thống trên chip), bao gồm CPU, GPU, ISP, modem di động... Những thành phần này đảm bảo sự hoạt động cho smartphone như cách mà chúng ta đang thấy hiện nay.
+Modem 5G Qualcomm X50 (dưới), antenna đặt cạnh một đồng xu.
+Mạng 5G bổ sung một kết nối mới với tốc độ siêu nhanh, hoạt động song song chứ không phải thay thế 4G. Mạng thế hệ mới sử dụng tần số khác, đòi hỏi phải có thêm một modem 5G riêng biệt, dẫn đến bảng mạch trên điện thoại phải thiết kế khác. Cũng vì tần số khác mà antenna cũng phải thiết kế mới.
+Không gian bên trong điện thoại không phải vấn đề duy nhất khi bổ sung kết nối 5G. Nhiệt độ cao khi hoạt động đòi hỏi những thiết bị phải tản nhiệt tốt hơn, tiêu hao nhiều năng lượng nên cần tăng dung lượng pin để bù lại. Hàng loạt yếu tố này kéo theo việc phải điều chỉnh thiết kế, cân bằng giữa các yếu tố hiệu năng.
+Kết quả là Galaxy S10 5G có màn hình 6,7 inch, pin 4.500 mAh, to hơn hẳn so với Galaxy S10+ màn hình 6,4 inch, pin 4.100 mAh. Tương tự vậy, phụ kiện gắn ngoài 5G Mod Moto sẽ biến chiếc Moto Z3 hoặc Z4 thành một chiếc điện thoại hoàn toàn khác. Ngay cả OnePlus 7 Pro với kết nối 5G cũng phải thiết kế lại bên trong so với phiên bản chỉ 4G.
+Sự phân mảnh về người dùng
+Galaxy S10 5G có thiết kế khác hoàn toàn so với S10+.
+Điện thoại 5G còn trở nên khác biệt bởi mỗi quốc gia, mỗi nhà mạng lại triển khai khác nhau. Một vài nước bắt đầu khai thác 5G, số khác đang triển khai và cũng có quốc gia chưa lên kế hoạch xây dựng mạng thế hệ mới trong 2-3 năm nữa. Vì thế, smartphone 5G phân mảnh theo quốc gia, theo nhà mạng nhất định.
+Giá bán cũng khiến smartphone 5G "tách tốp", vượt trên cả những mẫu điện thoại cao cấp đầu bảng. Ví dụ, Galaxy S10 5G có giá 1.299 USD, trong khi Galaxy S10+ là 999 USD, chênh tới 300 USD. Không phủ nhận những khác biệt giữa hai model này ngoài kết nối, nhưng rõ ràng mạng di động mới làm cho thị trường thêm phân mảnh và khiến smartphone ngày càng đắt đỏ.
+Những năm trước, dòng Galaxy S của Samsung có phiên bản tiêu chuẩn và bản Plus với màn hình lớn hơn. Sự xuất hiện của mạng 5G khiến nhà sản xuất Hàn Quốc phải bổ sung một phiên bản nữa. Galaxy Note9 chỉ có một model (nếu không tính tới dung lượng) nhưng tin đồn nói rằng Note10 có tới bốn phiên bản và hai trong số đó hỗ trợ 5G.
+Khi nào 5G trở nên phổ cập
+Nhìn lại lịch sử của các mạng di động trước đây, các chuyên gia cho rằng sẽ tới một ngày chiếc điện thoại giá 100 USD cũng có kết nối 5G. Tuy nhiên ngày đó còn khá xa khi các nhà sản xuất cần thêm thời gian để tối ưu hiệu suất, thu nhỏ kích thước linh kiện cũng như giảm giá thành.
+Điều này có nghĩa sự phân mảnh của smartphone 5G sẽ kéo dài ít nhất một năm nữa, khi Qualcomm trình làng bộ xử lý Snapdragon 865 tách riêng với modem 5G X55. Ngoài mốc 2020, Qualcomm có thể đưa 5G xuống một số sản phẩm tầm trung, cận cao cấp. Apple, công ty có ảnh hưởng lớn với ngành smartphone, dự kiến tung ra iPhone 5G vào năm sau.
+Cuối 2020, đầu 2021, vùng phủ sóng 5G ước tính sẽ mở rộng lên nhiều và các nhà sản xuất có thể tận dụng điều này để smartphone 5G trở nên phổ cập. Đây mới chỉ là những dự đoán ban đầu bởi sự đón nhận của người dùng vẫn là yếu tố quan trọng trong việc thúc đẩy mạng di động thế hệ mới.
+Bảo Anh (theo PhoneArena)

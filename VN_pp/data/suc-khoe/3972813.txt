@@ -1,0 +1,17 @@
+TITLE: Robot y tá hỗ trợ người già mặc quần áo - VnExpress Sức Khỏe
+
+KEY WORDS: robot y tá, hỗ trợ người già, mặc quần áo, người khuyết tật
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Robot y tá Baxter đang được nhóm giáo sư, sinh viên Trường Đại học Hoàng Gia London, Anh, thử nghiệm giúp người già, người khuyết tật mặc quần áo. Đây là phiên bản nâng cấp của robot Baxter do Mỹ chế tạo năm 2011, được các trường đại học sử dụng giảng dạy cho sinh viên. Baxter cũng hỗ trợ công nhân tại châu Phi làm việc trong các dây chuyền sản xuất ở nhà máy. 
+Phiên bản nâng cấp có tính năng phân tích, đọc hiểu hành động con người, tích hợp các kỹ năng được cài đặt sẵn giúp một người thay quần áo. Ví dụ, một người gặp khó khăn khi mặc áo, Baxter tự động thay đổi tư thế phù hợp, dùng các ngón tay in 3D khéo léo mặc áo cho chủ nhân.  
+Baxter luôn theo dõi, quan sát, phân tích, ghi nhớ, tổng hợp hành động của chủ nhân, tạo dữ liệu hỗ trợ bác sĩ điều trị cho bệnh nhân.
+Robot chăm sóc người già và người khuyết tật ở Anh. Ảnh: SCMP.
+Ông Yiannis Demiris, giám đốc phòng thí nghiệm robot Đại học Hoàng gia London cho biết: "Nhờ có trí tuệ nhân tạo, Baxter có thể phân tích hành vi, sở thích của chủ nhân dễ dàng, từ đó tối ưu hóa sự trợ giúp, mang đến mỗi người một trải nghiệm khác nhau".
+Các nhà khoa học nhận rõ sự cần thiết của Baxter trong bối cảnh số điều dưỡng viên trên thế giới thiếu hụt, dân số đang già hóa.
+Nhật Bản đã ứng dụng robot trong chăm sóc người già. Robot giống người tên Pepper do tập đoàn SoftBank Robotics chế tạo đã được sử dụng tại Viện dưỡng lão Silver Wing, Tokyo. Quốc gia này đang đối mặt với tình trạng giảm tỷ lệ sinh, tuổi thọ dân số cao. Theo Cục Thống kê Nhật Bản, hơn 27% dân số trên 65 tuổi.
+Công ty Intuition Robotics, California, Mỹ, cũng mới cho ra đời ElliQ, robot đồng hành, bầu bạn cùng người già để họ bớt cô đơn.
+Robot Baxter vẫn đang trong giai đoạn nghiên cứu và chưa có thử nghiệm thương mại nào được thỏa thuận. Ông Yiannis cho biết một robot nguyên mẫu đang được thử nghiệm để chắc chắn không gây ra nguy hiểm cho con người. Các kỹ sư cũng đang phát triển ngón tay in 3D cho Baxter để có thể thực hiện được những nhiệm vụ phức tạp một cách tốt nhất.
+Lê Hằng (Theo SCMP) 

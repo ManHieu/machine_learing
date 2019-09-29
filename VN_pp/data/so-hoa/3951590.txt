@@ -1,0 +1,13 @@
+TITLE: Một số Samsung Galaxy S10 và Samsung Galaxy S10+ dính lỗi sau khi cập nhật phần mềm định kỳ - VnExpress Số Hóa
+
+KEY WORDS: Samsung Galaxy S10, Samsung Galaxy S10+, cập nhật, phần mềm định kỳ, dính lỗi
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trên diễn đàn hỗ trợ của Samsung và Reddit, người dùng Galaxy S10 và Galaxy S10+ tại Mỹ cho biết thiết bị của họ yêu cầu khởi động lại, đồng thời yêu cầu mã PIN (kể cả khi không được thiết lập) sau khi nâng cấp phần mềm định kỳ. Sau khi nhập mã, máy khởi động lại và tiếp tục yêu cầu mã PIN lần nữa.
+Một số Galaxy S10 và S10+ ảnh hưởng sau khi cập nhật phần mềm định kỳ. Ảnh: Sammobile.
+Cũng theo những người dùng gặp sự cố, vòng lặp khởi động lại và nhập mã PIN là vô hạn. Cách duy nhất để khắc phục là dùng tổ hợp phím cứng để xóa bộ nhớ cache hoặc khôi phục cài đặt gốc. Tuy nhiên, điều này đồng nghĩa với khả năng mất dữ liệu trên máy cao do chưa được sao lưu.
+Theo Androidauthority, vấn đề gặp phải cả trên Galaxy S10 và Galaxy S10+, sau khi Samsung tung bản cập nhật định kỳ vào ngày 8/7. Phạm vi ảnh hưởng chủ yếu tại Mỹ, trên thiết bị của Verizon và AT&T.
+Zdnet khuyến cáo, những ai đang sử dụng bộ đôi Galaxy S10/S10+ nên tạm hoãn cập nhật phần mềm để đợi phiên bản ổn định hơn. Trong khi đó, phía Samsung chưa đưa ra bình luận nào.
+Như Phúc (theo Zdnet)

@@ -1,0 +1,31 @@
+TITLE: Nữ sinh Hà Nội xây dựng mô hình Toán tương tác cho học sinh - VnExpress
+
+KEY WORDS: nữ sinh Hà Nội, mô hình Toán tương tác, Toán tương tác, Nguyễn Nga Nhi, cô bé vàng Toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đang bận rộn ôn luyện cho kỳ thi học sinh giỏi Toán quốc gia, Nguyễn Nga Nhi, lớp 12 trường THPT chuyên Hà Nội - Amsterdam, vẫn dành thời gian hàng tuần dựng các bài Toán tương tác, dạy học lập trình cho các em tiểu học, mỗi tháng một buổi nói chuyện về mô hình, cách học Toán. Với Nhi, dự án Toán tương tác là đứa con tinh thần em sẽ tiếp tục phát triển trong tương lai.
+Ý tưởng về mô hình Toán tương tác
+Được tiếp xúc với Toán từ hồi mẫu giáo qua những cuốn sách bố mua cho, Nhi dần yêu thích môn học này bởi tính logic của nó. Lớn lên, Nhi lại càng mê Toán vì những ứng dụng quan trọng trong đời sống. 
+Nguyễn Nga Nhi - tác giả mô hình Toán tương tác. Ảnh: NVCC
+Hết lớp 6, Nhi tham gia cuộc thi Olympic Toán châu Á - Thái Bình Dương (APMOPS). Ngay từ lần đầu thi quốc tế, em đã xếp thứ 4 vòng chung kết và là thí sinh Việt Nam đầu tiên trong lịch sử lọt vào top 10 cuộc thi này. Kết quả đó giúp Nhi tự tin tham gia nhiều hơn các kỳ thi Toán. Em từng giành huy chương vàng Toán học trẻ quốc tế KIMC tại Hàn Quốc và huy chương bạc CIMC tại Trung Quốc cùng nhiều giải thưởng về Toán và Khoa học.
+"Ở các kỳ thi quốc tế, em được tiếp xúc nhiều với bài toán thiên về tư duy logic. Em cũng được gặp gỡ các bạn với nhiều hướng tiếp cận Toán học mà không cùng theo bất kỳ khuôn mẫu nào. Đó là một trong những lý do khiến em có ý tưởng về công cụ giúp học sinh thử nhiều cách tiếp cận bài toán chứ không đơn thuần theo một hướng duy nhất thầy cô đưa ra", Nhi nói.
+Nhi nhiều lần tổ chức các buổi nói chuyện truyền cảm hứng với mong muốn học sinh cũng yêu và học tốt môn Toán. Giống như những buổi nói chuyện thông thường, Nhi sử dụng phần mềm trình chiếu Powerpoint để thuyết trình và đưa ra các ví dụ về Toán học, vì đây là phần mềm tích hợp nhiều định dạng như văn bản, hình ảnh, âm thanh, video...
+Tuy nhiên, Nhi cho rằng về cơ bản việc trình diễn với Powerpoint vẫn dựa vào một kịch bản sư phạm. "Đó là nhược điểm mang tính cốt lõi của công cụ này mà em muốn khắc phục", Nhi nhận định.
+Từ thực tế đó cùng những gì trải nghiệm khi thi quốc tế, em cho đời dự án Toán tương tác - Flash for Math. Các bài toán được chuyển từ chữ viết thành mô hình trực quan. Thông qua tương tác trực tiếp trên mô hình như thao tác nhấp chuột, kéo thả hay nhấn bàn phím máy tính, giao diện sẽ đổi màu, chuyển trạng thái giúp học sinh có thể xem xét bài toán trên nhiều phương diện để dần dần đi đến kết quả cuối cùng, thay vì lặp lại các bước giải do giáo viên chỉ dẫn.
+ 
+ 
+Nữ sinh Hà Nội xây dựng mô hình Toán tương tác cho học sinh
+Kho bài toán tương tác của Nga Nhi. 
+Từ không được tin tưởng đến gần 200 bài toán tương tác được đón nhận
+Có ý tưởng từ năm lớp 8 nhưng phải lên cấp 3, Nhi mới xây dựng được dự án của riêng mình và phát triển mạnh mẽ trong khoảng một năm nay. Không được học bài bản về lập trình, em phải tự mày mò nghiên cứu trên mạng. Càng tìm hiểu, em càng đam mê. Từ đó, việc làm Toán tương tác trở thành công việc thú vị với cô gái sinh năm 2001.
+Hiện Nhi có gần 200 bài toán tương tác, hầu hết dành cho học sinh tiểu học. Tất cả đều có thể hoạt động độc lập hay nhúng vào các phần mềm trình chiếu như Powerpoint. Khi thiết kế kịch bản sư phạm cho mỗi mô hình, Nhi tính toán trước các cách tiếp cận của học sinh để ai cũng có thể tìm lối đi riêng ở từng bài toán.
+Nhi chia sẻ khi mới giới thiệu công cụ này, nhiều người không tin tưởng để thử nghiệm. Em đã nghĩ đến việc thực hiện các cuộc nói chuyện về mô hình của mình ở các trường học và đưa bài toán lên báo điện tử, nhưng một số trường và cơ quan báo chí không mấy hào hứng với ý tưởng của em.
+Nhi tìm đến các thầy cô để xin góp ý cho mô hình Toán tương tác. Được thầy cô đánh giá cao và giới thiệu, Nhi có thể đến các trường và trung tâm thực hiện những cuộc nói chuyện truyền cảm hứng Toán học với tần suất mỗi tháng một lần. Đều đặn mỗi tuần, một bài toán tương tác của em xuất hiện trên một trang báo điện tử.
+Ngoài ra, trong dự án Toán tương tác, Nhi còn mở lớp học dạy lập trình với nội dung tập trung vào các kỹ năng cần thiết để phát triển sản phẩm giống như những gì Nhi đã làm. Hiện lớp học của em có 10 học viên, duy trì một buổi mỗi tuần. Mục tiêu cuối cùng của Nhi là giúp các bạn tiếp cận tất cả môn học một cách tự nhiên nhất, không chỉ riêng Toán học và lập trình.
+GS Cedric Villani, giải thưởng Fields năm 2010, góp ý cho dự án Toán tương tác của Nguyễn Nga Nhi tối 3/11 nhân chuyến tháp tùng Thủ tướng Pháp sang thăm Việt Nam. Ảnh: NVCC
+Thời gian tới, Nga Nhi còn có ý định nâng cấp mô hình. "Hiện mọi người chỉ tương tác được bài toán trên máy tính trong khi việc sử dụng các thiết bị cảm ứng cầm tay dần trở nên thông dụng hơn. Vì vậy, em sẽ nghiên cứu để đưa ra mô hình có thể tương tác trên điện thoại hay máy tính bảng nhằm tiếp cận được nhiều người hơn", Nhi chia sẻ.
+Mới đây, dự án Toán tương tác của Nhi đã vượt qua hơn 400 công trình, sáng kiến để lọt vào top 15 chương trình "Tri thức trẻ vì giáo dục 2018" do Trung ương Đoàn và Bộ Giáo dục và Giáo dục triển khai.
+Thầy giáo Trần Phương, Phó giám đốc Trung tâm hỗ trợ phát triển tài năng, người từng góp ý cho mô hình Toán tương tác của Nhi, nhận định đây là công cụ khá mới ở Việt Nam, đặc biệt lại do nữ sinh từng được mệnh danh là "cô bé vàng Toán học trẻ Việt Nam" làm ra.
+"Điều quan trọng mà Nhi làm được là tìm ra các dạng bài phù hợp để làm toán tương tác, có kịch bản sư phạm tinh tế và các mô tả tường minh. Với mô hình giống như trò chơi này, học sinh sẽ được truyền cảm hứng", thầy Phương nói và cho biết Nhi từng đưa ra mô hình trong những lần cùng thầy trợ giảng và nhận được sự thích thú của học sinh. 

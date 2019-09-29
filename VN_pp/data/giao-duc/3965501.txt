@@ -1,0 +1,27 @@
+TITLE: Đáp án bài toán tiếng Anh về sạc pin điện thoại - VnExpress
+
+KEY WORDS: đáp án, bài toán, tiếng Anh, sạc pin điện thoại, đố vui toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 47. MOBILE PHONES
+Problem: Linda’s smartphone is fully charged. If Linda does not use her phone at all, the smartphone will run out of battery after 96 hours. If Linda constantly stays on her phone, thesmartphone will run out of battery after 8 hours. Linda has not used her phone at all for 36 hours; after that, she has been staying on her phone for 90 minutes. How many more minutes can Linda stay on her phone before it runs out of battery?
+Dịch đề: Điện thoại smartphone của Linda đã được sạc đầy pin. Nếu Linda không sử dụng điện thoại thì sau 96 tiếng smartphone mới hết pin. Còn nếu Linda gọi điện thoại liên tục thì sau 8 tiếng, smartphone sẽ hết pin. Biết Linda đã để nguyên không sử dụng smartphone trong suốt 36 tiếng. Sau đó, Linda thực hiện một cuộc gọi dài 90 phút. Hỏi Linda còn gọi được bao nhiêu phút liên tục nữa thì smartphone sẽ hết pin?
+Lời giải: 
+Coi tổng thời lượng pin điện thoại ban đầu là 1.
+Nếu Linda không sử dụng điện thoại thì sau 96 tiếng smartphone mới hết pin. Suy ra sau mỗi tiếng không sử dụng, thời lượng pin sẽ giảm đi 1/96.
+Nếu Linda gọi điện thoại liên tục thì sau 8 tiếng, smartphone sẽ hết pin. Suy ra sau mỗi tiếng gọi điện, thời lượng pin sẽ giảm đi 1/8.
+Sau khi Linda không sử dụng điện thoại trong suốt 36 tiếng, thời lượng pin giảm đi 36/96 tức 3/8. Thời lượng pin còn lại là: 1 - 3/8 = 5/8.
+Sau khi Linda gọi điện thoại liên tục trong 90 phút, tức 3/2 tiếng, thời lượng pin tiếp tục giảm đi: 1/8 × 3/2 = 3/16. Thời lượng pin còn lại là: 5/8 – 3/16 = 7/16.
+Vậy trước khi điện thoại hết pin, Linda còn gọi liên tục trong vòng: 7/16 ÷ 1/8 = 7/2 tiếng nữa. Đổi thành phút: 7/2 × 60 = 210 phút.
+Đáp số: 210 phút
+Solution:
+Let the original battery life of Linda’s smartphone be 1.
+If Linda does not use her phone at all, the smartphone will run out of battery after 96 hours. Thus, after every hour unused, the battery life will decrease by 1/96.
+If Linda constantly stays on her phone, the smartphone will run out of battery after 8 hours. Thus, after every hour Linda stays on her phone, the battery life will decrease by 1/8.
+After Linda left her phone unused for 36 hours, the battery life has decreased by 36/96, or 3/8. The remaining battery life is: 1 – 3/8 = 5/8.
+After Linda stays on her phone for 90 minutes, or 3/2 hours, the battery life continues to decrease by: 1/8 × 3/2 = 3/16. The remaining battery life is: 5/8 – 3/16 = 7/16.
+Therefore, before her phone runs out of battery, Linda can keep staying on her phone for: 7/16 ÷ 1/8 = 7/2 hours = 210 minutes.
+The answer is 210 minutes.
+Minh Phương 

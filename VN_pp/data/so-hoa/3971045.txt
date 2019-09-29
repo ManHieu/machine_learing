@@ -1,0 +1,20 @@
+TITLE: Nguy cơ cháy nổ từ pin trong laptop - VnExpress Số Hóa
+
+KEY WORDS: MacBook Pro 2015, cấm bay, Apple, pin laptop
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Lithium-ion (Li-ion) là pin phổ biến nhất hiện nay trên sản phẩm di động, trong đó có laptop, nhờ ưu điểm ít chiếm diện tích, có thể nạp điện nhiều lần, độ bền cao, tốc độ sạc nhanh hơn nhiều so với các loại pin đời cũ hơn như NiCad, NiMH...
+Một chiếc MacBook Pro 15 inch bị cháy do pin. Ảnh: PetaPixel.
+Về cấu tạo, Li-ion là loại pin chứa các phân tử lithium di chuyển giữa điện cực âm và dương. Để đảm bảo các phân tử lithium-ion có thể di chuyển dễ dàng giữa hai điện cực, các hợp chất (đặc tính dễ cháy và dễ bay hơi) được nén bên trong viên pin. Khi sạc, pin sản sinh nhiệt và nếu lượng nhiệt này không được kiểm soát một cách hợp lý, nó có thể khiến hợp chất bên trong bắt lửa, thậm chí phát nổ. Những hợp chất này cũng trở nên bất ổn nếu có gì đó tác động vào viên pin.
+Đối với thiết bị cỡ nhỏ như smartphone, tablet hay smartwatch, tình trạng cháy nổ dễ xảy ra hơn, do toàn bộ viên pin bị "nhồi nhét" vào một không gian chật hẹp. Sự cố thường xuất hiện khi sạc pin hoặc hoạt động nhiều, bởi lúc này viên pin sinh nhiệt và nở ra, gặp phải khung máy và bị "ép" trở lại gây nổ. 
+Với laptop và các sản phẩm kích cỡ lớn như xe điện, pin sẽ có dung lượng cao hơn do cần nhiều năng lượng khi hoạt động. Các loại pin laptop thường là một khối (cell), hoặc nhiều khối ghép lại với nhau. Tuy nhiên, hầu hết thiết bị dạng này đều dùng pin rời thay vì tích hợp hẳn bên trong máy.
+Đối với những laptop đời mới, như MacBook Pro 15 inch, các nhà sản xuất đã đưa vào công nghệ cải tiến mang tên lithium-polymer (Li-Po). Thiết bị dùng pin dạng này thường gắn sẵn bên trong máy, không thể tháo rời.
+Về cơ bản, Li-ion và Li-Po được tạo từ các thành phần hóa học chính tương tự nhau. Tuy nhiên, thay vì chất lỏng như Li-ion, pin Li-Po dùng một trong ba hình thức: chất rắn khô (đời cũ), hợp chất hóa học xốp hoặc chất điện phân giống như gel. Trong số này, phổ biến nhất là Li-Po dùng gel, thường sử dụng cho pin laptop, xe điện...
+Hai loại pin này cũng có ưu, nhược điểm riêng. Li-ion mật độ năng lượng cao, không bị tình trạng khó nạp năng lượng theo thời gian và chi phí thấp, nhưng lại rất dễ cháy, nhanh lão hóa và có khả năng gây nguy hiểm nếu dùng không đúng cách, nhất là những viên pin kém chất lượng, không rõ nguồn gốc.
+Trong khi đó, pin Li-Po lại khá mạnh mẽ và linh hoạt, trọng lượng nhẹ và có ít cơ hội bị ăn mòn chất điện phân. Tuy nhiên, chi phí cho nó cũng đắt hơn đáng kể so với Li-ion, lại có mật độ lưu trữ năng lượng và tuổi thọ thấp hơn.
+Thế nhưng, yếu tố an toàn cho pin không chỉ là thành phần cấu tạo, bởi nó buộc phải được quản lý bởi một vi mạch điều khiển với nhiệm vụ điều tiết nạp, xả và điều chỉnh điện áp cho các linh kiện bên trong một cách hợp lý. Điều này nhằm tránh tình trạng đưa nguồn quá cao hoặc quá thấp, làm cho máy hoạt động không ổn định, thậm chí khiến pin nóng, phồng lên gây cháy nổ.
+Cả pin Li-ion hay Li-Po đều không an toàn. Trong quá khứ, không ít trường hợp cháy nổ do loại pin này gây ra, chẳng hạn sự cố Samsung Galaxy Note7 cách đây ba năm, hay MacBook Pro 15 inch vừa bị cấm bay. Năm 2013, dòng 787 Dreamliner của Boeing phải ngừng hoạt động sau khi một máy bay bốc cháy ở Boston (Mỹ). Nguyên nhân là do một trong tám viên Li-ion bị đoản mạch, dẫn tới sự cố tăng nhiệt không thể kiểm soát và truyền nhiệt sang viên pin nằm cạnh đó.
+Dù tồn tại nhiều nguy cơ, các nhà sản xuất thiết bị điện tử vẫn phải sử dụng pin Li-ion, Li-Po do chưa có phương án thay thế. Trong khi chờ đợi công nghệ mới hơn, các sản phẩm di động hiện tại vẫn phải tận dụng những gì đang có. Tất nhiên, không thể phủ nhận loại pin này vẫn nằm trong ngưỡng an toàn và số vụ cháy nổ thực tế chiếm tỷ lệ thấp nếu so sánh với lượng thiết bị di động xuất xưởng mỗi năm.
+Bảo Lâm tổng hợp

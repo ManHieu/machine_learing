@@ -1,0 +1,15 @@
+TITLE: Chuẩn USB4 (USB 4.0) trình làng với tốc độ 40 Gb/s - VnExpress Số Hóa
+
+KEY WORDS: USB4, Thunderbolt 3, USB-IF
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Diễn đàn triển khai USB (USB-IF) hôm nay công bố chuẩn USB4, phiên bản thay thế cho chuẩn USB 3.2 trước đó. Tuy nhiên, các thông số kỹ thuật mới chỉ là dạng dự thảo trước khi chính thức có mặt trên các thiết bị phần cứng vào cuối năm nay. Cách thức viết tiêu chuẩn mới cũng được tổ chức này viết liền USB4 thay vì USB 4.0 giống các tiêu chuẩn trước đó (USB 3.0, USB 3.2...)
+USB4 sẽ có tốc độ truyền tải dữ liệu tối đa lên tới 40 Gb/giây (tương đương 5 GB/giây) gấp đôi so với chuẩn USB 3.2 trước đó. Đây cũng chính là tốc độ của chuẩn kết nối Thunderbolt 3 ra mắt vào năm 2015 nhưng đã được Intel hứa hẹn cung cấp rộng rãi đặc tính kỹ thuật vào năm 2017. Với sự xuất hiện của USB4, Intel đã "giữ lời" khi chia sẻ với chuẩn kết nối phổ biến nhất thế giới. 
+USB 4 sẽ hoạt động chính trên kết nối vật lý USB-C. 
+Ngoài tốc độ truyền tải dữ liệu lớn, chuẩn USB4 cũng cung cấp điện năng lên tới 100W đi kèm. Với thông lượng dữ liệu này, kết nối mới đủ sử dụng cho card đồ họa gắn ngoài và cấp nguồn cho hai màn hình 4K hoặc một màn hình 5K. Tuy nhiên, người dùng cũng cần nâng cấp các loại cáp nối hiện tại để đáp ứng được lưu lượng 40 Gb/giây. 
+Chuẩn USB4 mới sẽ sử dụng chính trên cổng kết nối vật lý USB Type-C (Apple gọi là USB-C) đang dần phổ biến hiện nay. Nhưng thay vì có màu để nhận biết chuẩn kết nối (như màu xanh dương để chỉ USB 3.0 đến 3.2) thì USB4 vẫn chưa có màu sắc đại diện. 
+Có đặc tả kỹ thuật khá giống nhau, tiêu chuẩn USB4 và Thunderbolt 3 vẫn sẽ cùng tồn tại. Trong khi USB4 là chuẩn mở, có thể thay đổi một số chi tiết kỹ thuật tùy vào nhà sản xuất thì Thunderbolt 3 đòi hòi chứng nhận từ Intel. 
+Theo USB-IF, bộ thông số kỹ thuật đầy đủ của USB4 dự kiến sẽ có vào cuối năm nay. Sau thời điểm đó, tổ chức này hy vọng các thiết bị sử dụng chuẩn kết nối sẽ phổ biến khoảng hơn một năm sau đó.  
+Tuấn Hưng

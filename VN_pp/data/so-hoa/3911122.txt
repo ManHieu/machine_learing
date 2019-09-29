@@ -1,0 +1,14 @@
+TITLE: Facebook yêu cầu người dùng cung cấp mật khẩu và thu thập danh bạ 1,5 triệu email khi chưa được phép - VnExpress Số Hóa
+
+KEY WORDS: Facebook, danh bạ, email, thu thập dữ liệu trái phép
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Business Insider, Facebook đã thu thập danh sách liên lạc của 1,5 triệu người dùng mới khi họ tham gia mạng xã hội kể từ tháng 5/2016. Vấn đề được đưa ra ánh sáng sau khi một nhà nghiên cứu bảo mật nhận thấy khi đăng ký thành viên mới, sau khi nhập email và xác minh danh tính, Facebook còn yêu cầu mật khẩu email đó.
+Giao diện yêu cầu nhập mật khẩu (ảnh trên) và quá trình quét danh bạ email (ảnh dưới). Ảnh: Business Insider.
+Không những thế, sau khi nhập mật khẩu thành công, trên màn hình xuất hiện một cửa sổ bật lên thông báo đang "nhập danh bạ". Điều này cho thấy việc thu thập những liên lạc bên trong email đó đang diễn ra dù người dùng không cho phép.
+Động thái của mạng xã hội lớn nhất thế giới bị nhiều chuyên gia bảo mật lên án vì vi phạm nghiêm trọng quyền riêng tư cũng như khiến người dùng đối mặt với những rủi ro khi tham gia vào các hoạt động trực tuyến. Thông thường, mọi người đều được khuyên không bao giờ chia sẻ mật khẩu của mình hoặc nhập chúng vào bất kỳ nơi nào ngoài dịch vụ mà họ dự định sử dụng nhằm tránh nguy cơ "tấn công bằng cách lừa đảo", khiến thông tin cá nhân bị đánh cắp.
+Trong khi đó, phía Facebook cho biết việc thu thập những dữ liệu của 1,5 triệu người dùng chỉ nhằm giúp đề xuất bạn bè, cũng như tăng tính tương tác xã hội. "Chúng tôi đã ngừng cung cấp tính năng xác nhận bằng mật khẩu email khi người dùng lần đầu tiên tham gia đăng ký. Ở một số bước xác minh tài khoản, chúng tôi thấy rằng trong một số trường hợp, danh bạ email vô tình tải lên Facebook", phát ngôn viên của Facebook giải thích. "Sự cố cơ bản đã được khắc phục. Danh bạ email chưa bị phát tán ra ngoài, chưa chia sẻ với bất kỳ ai và chúng tôi đang xóa chúng. Những ai trong số 1,5 triệu tài khoản bị ảnh hưởng sẽ nhận được thông báo cụ thể".
+Là mạng xã hội lớn nhất thế giới, Facebook kiểm soát thông tin cá nhân của hơn hai tỷ thành viên. Tuy nhiên, các hoạt động xử lý dữ liệu của công ty bị nghi ngờ sau vụ bê bối Cambridge Analytica khiến thông tin cá nhân của tới 87 triệu người dùng bị ảnh hưởng. Số dữ liệu này được cho là đã tác động đến cuộc bầu cử Tổng thống Mỹ năm 2016.
+Bảo Lâm (theo Cnet)

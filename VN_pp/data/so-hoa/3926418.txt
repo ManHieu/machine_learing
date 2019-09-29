@@ -1,0 +1,19 @@
+TITLE: Huawei phụ thuộc vào công nghệ Mỹ như thế nào - VnExpress Số Hóa
+
+KEY WORDS: Huawei, smartphone, điện thoại
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Các hãng Qualcomm, Xilinx, Intel, Broadcom đã quyết định ngừng cung cấp chip cho Huawei trong lúc chờ những động thái tiếp theo. Câu chuyện tương tự đã diễn ra năm ngoái khi ZTE suýt sụp đổ vì bị cấm mua linh kiện từ Mỹ sau khi bị cáo buộc làm ăn với Iran và Triều Tiên. Tổng thống Mỹ Donald Trump sau đó đảo ngược quyết định, nhưng ZTE phải nộp phạt một tỷ USD và chấp nhận sự giám sát của Bộ Thương mại Mỹ.
+Huawei đã biết trước lệnh cấm sớm muộn cũng xảy ra với họ. Họ được cho là đã tích trữ đủ chip và những thành phần linh kiện quan trọng khác trong ít nhất ba tháng - không quá dài nhưng đủ để duy trì hoạt động kinh doanh trong khi tính toán những bước đi mới.
+HiSilicon, thuộc Huawei, cũng đang thiết kế những dòng chip riêng, trong đó có bộ vi xử lý Kirin và chip mạng Balong. Teresa He Tingbo, Chủ tịch HiSilicon, khẳng định: "Chúng tôi đã biết trước ngày này nhiều năm rồi, và chúng tôi đã có kế hoạch dự phòng".
+Con đường đến tương lai tốt đẹp của Huawei đang gặp nhiều chông gai. Ảnh: PhoneArena.
+Tuy nhiên, giới phân tích tỏ ra nghi ngờ. Năm ngoái, Huawei chi 70 tỷ USD để mua linh kiện và công nghệ từ hàng nghìn công ty, trong đó có 11 tỷ USD cho các doanh nghiệp Mỹ. Reuters cho biết, Huawei khó có thể tìm được các nhà cung ứng ở Trung Quốc có khả năng thay thế nhà cung ứng Mỹ trong ít nhất vài năm tới.
+"Tôi sẽ rất ngạc nhiên nếu HiSilicon có thể đạt được thành công mà không cần nhà cung ứng Mỹ", Linda Sui, chuyên gia phân tích của Strategy Analytics, nói.
+Dù HiSilicon tự xây dựng chip, Mike Demler, chuyên gia phân tích của Linley, cho biết hãng Trung Quốc thậm chí vẫn sử dụng phần mềm thiết kế chip từ Cadence Design Systems và Synopsys. Phần mềm của hai công ty Mỹ này giúp HiSilicon kiểm tra thiết kế chip trước khi thử nghiệm trên silicon.
+Trong khi đó, theo PhoneArena, quyết định ngừng cấp phép sử dụng Android đối với Huawei của Google cũng làm thay đổi thị trường smartphone toàn cầu. Huawei đang phát triển mạnh mẽ, đe dọa ngôi đầu về điện thoại thông minh của Samsung trong vòng hai năm tới. Nhưng giờ, tham vọng đó trở nên xa xôi. Thậm chí, giới công nghệ còn băn khoăn liệu mẫu Mate 30, dự kiến ra mắt cuối năm nay, sẽ chạy Android hay một hệ điều hành riêng của Huawei. Trang công nghệ Ars Technica nhận định Huawei sẽ gặp rất nhiều khó khăn trên thị trường smartphone thời gian tới khi họ không có lựa chọn nào khả thi để thay thế cho hệ sinh thái Android.
+Ngày 15/5, Bộ thương mại Mỹ đưa Huawei và khoảng 68 chi nhánh vào danh sách cấm mua các bộ phận và linh kiện từ công ty Mỹ, nếu không có sự chấp thuận của chính phủ Mỹ. Nhiều năm qua, luôn tồn tại tin đồn thiết bị Huawei có chứa "cổng hậu", sẵn sàng gửi thông tin về cho chính phủ Trung Quốc, trong khi Huawei luôn phủ nhận.
+Theo Bloomberg, chiến tranh lạnh trong làng công nghệ đã bắt đầu. Trung Quốc không còn lựa chọn nào ngoài việc theo đuổi sự độc lập về công nghệ và họ sẽ "đốt tiền" để đạt được điều đó. Họ sẽ nỗ lực cho ra đời một hệ điều hành smartphone riêng, công nghệ bán dẫn riêng và những chuẩn công nghệ riêng. Tiền không giải quyết được mọi vấn đề. Nhưng theo thời gian, sự hỗ trợ của chính phủ sẽ đủ tạo ra những giải pháp công nghệ thay thế cho Trung Quốc. Trong cuộc chiến ấy, kẻ thắng không phải là kẻ giỏi nhất, mà là kẻ có khả năng chịu đau, chịu thua lỗ kéo dài tốt hơn.
+Tuy vậy, các lãnh đạo Huawei vẫn tin họ chỉ là quân bài trong đàm phán thương mại Mỹ - Trung. Nếu hai nước đạt thỏa thuận, họ sẽ lại được mua hàng từ Mỹ. 
+Minh Minh

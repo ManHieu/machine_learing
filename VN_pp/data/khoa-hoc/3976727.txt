@@ -1,0 +1,15 @@
+TITLE: Vệ tinh SpaceX suýt va chạm với vệ tinh châu Âu
+
+KEY WORDS: vệ tinh, SpaceX, Cơ quan vũ trụ châu Âu, ESA, Starlink, vệ tinh va chạm
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Vệ tinh Aeolus và Starlink 44 có tỷ lệ va chạm là 1/1.000. Ảnh: ESA.
+Aeolus là vệ tinh quan sát Trái Đất nặng hơn 1.300 kg, phóng lên không gian ngày 22/8/2018. Starlink 44 nằm trong loạt 60 vệ tinh Internet được SpaceX phóng lên cuối tháng 5 năm nay. Hầu hết vệ tinh Starlink hoạt động ở quỹ đạo cao 440-550 km. Tuy nhiên, Starlink 44 hạ thấp xuống để thực hành một số kỹ thuật bay.
+Đường bay của hai vệ tinh giao nhau ở độ cao 320 km. Khả năng va chạm là 1/1.000, theo Holger Krag, người đứng đầu Văn phòng Rác Vũ trụ tại ESA. Tỷ lệ này cao gấp 10 lần ngưỡng nguy hiểm, đòi hỏi các kỹ sư phải điều khiển vệ tinh tránh va chạm. Họ sử dụng cách an toàn là cho Aeolus bay cao lên.
+Việc này rất hiếm xảy ra giữa các vệ tinh đang hoạt động. Thông thường, chúng chỉ cần tránh khỏi đường bay của những vệ tinh "chết" hoặc mảnh vỡ từ các vụ va chạm trước đó.
+Vệ tinh Aeolus hoạt động trên quỹ đạo. Ảnh: ESA.
+Sau khi thoát khỏi nguy hiểm, Aeolus trở lại đúng quỹ đạo. Vệ tinh này cũng liên lạc với Trái Đất và gửi về dữ liệu khoa học như bình thường.
+Việc các kỹ sư điều khiển vệ tinh tránh va chạm như vậy có thể bất khả thi trong tương lai, khi số lượng vệ tinh trở nên nhiều hơn và nguy cơ va chạm tăng. ESA lên kế hoạch tự động hóa quy trình này và sử dụng trí tuệ nhân tạo để giúp vệ tinh tránh gặp nguy hiểm.
+Thu Thảo (Theo Independent/Forbes) 

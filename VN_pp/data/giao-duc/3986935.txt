@@ -1,0 +1,11 @@
+TITLE: Bài toán lớp 5 của Hong Kong - VnExpress
+
+KEY WORDS: bài toán, lớp 5, Hong Kong, thi học sinh giỏi
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 53. DETERMINING WEIGHTS
+Problem: Five boxes have different weights, each less than 100 kilograms. The boxes are weighed in pairs for all possible combinations (which means each box is weighed with every other box). The weights of all possible pairs are 113, 116, 110, 117, 112, 118, 114, 121, 120, 115. What is the weight of the heaviest box?
+Dịch đề: Cho 5 chiếc hộp có khối lượng khác nhau và đều nhỏ hơn 100 kg. Người ta tiến hành cân hộp theo các cặp với tất cả trường hợp có thể (tức là mỗi hộp sẽ được cân với tất cả hộp còn lại) và có các thông số khối lượng sau: 113, 116, 110, 117, 112, 118, 114, 121, 120, 115. Tìm cân nặng của hộp nặng nhất.
+Minh Phương 

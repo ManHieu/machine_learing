@@ -1,0 +1,16 @@
+TITLE: Huawei đăng ký bản quyền HongMeng OS tại nhiều quốc gia - VnExpress Số Hóa
+
+KEY WORDS: Huawei, HongMeng OS, Ark OS
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Sau khi dính lệnh cấm từ Mỹ và bị Google ngừng hợp tác về Android, Huawei đang đẩy nhanh việc ra mắt hệ điều hành hoàn toàn mới do mình tự phát triển. Theo Giz China, hãng vừa nộp đơn đăng ký bản quyền sở hữu tên gọi HongMeng OS tại một loạt thị trường trên thế giới từ Bắc Mỹ, châu Âu cho tới châu Á. 
+HongMeng OS là hệ điều hành riêng được Huawei tự phát triển nhằm thay thế cho Android trên các sản phẩm sắp tới. Từ tháng 8 năm ngoái, hãng đã được Trung Quốc cấp bản quyền sở hữu trí tuệ với thương hiệu hệ điều hành này.
+HongMeng OS hay Ark OS là hệ điều hành do Huawei phát triển riêng, dựa trên mã nguồn mở Android.
+Trong hình ảnh rò rỉ trên Internet mới đây, HongMeng OS cho thấy giao diện được thiết kế khá giống với hệ điều hành iOS của Apple. Nó cũng có kho ứng dụng trực tuyến riêng để người dùng tải về thêm phần mềm. Tuy nhiên, một số chi tiết thể hiện HongMeng OS vẫn được xây dựng trên nền hệ điều hành Android. Ví dụ như phần quản lý ứng dụng vẫn có các chức năng giống trên Android như tắt nóng Force Stop hay quản lý về quyền truy cập, tin cậy...
+Trong phần giới thiệu về ứng dụng thời tiết, nó cũng được cho tương thích với Android Green Alliance, đây là một liên minh phát triển nền tảng dựa trên Android mã nguồn mở của 4 công ty Internet lớn nhất của Trung Quốc bao gồm Alibaba, Baidu, Tencent, NetEase. 
+Android là hệ điều hành mã nguồn mở của Google và được cung cấp miễn phí cho nhiều hãng và nhà phát triển. Tuy nhiên, để có thể sử dụng được nhiều dịch vụ và tính năng thông dụng trên hệ điều hành này như kho ứng dụng trực tuyến PlayStore, Gmail, YouTube hay nhận các bản vá lỗi bảo mật định kỳ hay nâng cấp phần mềm mới, các hãng cần phải hợp tác và trả phí cho Google. 
+Sau khi bị liệt vào danh sách cấm vận của chính phủ Mỹ hôm 17/5, Huawei đã bị Google tuyến bố dừng hợp tác về Android. Dù sau đó thời hạn thi hành cấm vận được nới dài ra thêm 90 ngày, Huawei vẫn chịu nhiều ảnh hưởng khi doanh số smartphone bị sụt giảm và nguy cơ không còn được sử dụng nhiều dịch vụ Android trong tương lai.
+HongMeng OS còn được gọi tên là Ark OS khi xuất hiện tại các thị trường bên ngoài Trung Quốc. Ngoài smartphone, hệ điều hành của Huawei còn được cho tương thích với cả tablet, smartwatch và laptop.
+Mỹ Anh (theo Gizchina)

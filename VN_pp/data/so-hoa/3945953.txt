@@ -1,0 +1,23 @@
+TITLE: Smartphone màn hình gập như Samsung Galaxy Fold, Huawei Mate X khó chế tạo thế nào - VnExpress Số Hóa
+
+KEY WORDS: Smartphone màn hình gập, Samsung Galaxy Fold, Huawei Mate X
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Smartphone màn hình gập được dự đoán là xu hướng tiếp theo. Samsung với Galaxy Fold, Huawei với Mate X đã trình làng, trong khi Apple, Oppo, Xiaomi... cũng dần hé lộ thiết bị của mình. Tuy vậy, thực tế là chưa có sản phẩm nào bán ra trên thị trường. Các chuyên gia cho rằng quá trình sản xuất khó khăn, đặc biệt là màn hình chính là nguyên nhân.
+Smartphone màn hình gập chưa thể phổ biến do các vấn đề về màn hình. Ảnh: Android PIT.
+Theo Ben Bajarin, một nhà phân tích tại Creative Strategies, màn hình có thể gập là thách thức thực sự đối với công nghệ di động hiện nay. "Chúng là một tập hợp rất nhiều vấn đề về khoa học vật liệu", Bajarin nói.
+Bajarin giải thích, màn hình gập cấu tạo bởi các đi-ốt phát sáng hữu cơ (OLED) nằm trên bề mặt cho phép uốn cong mà không làm suy giảm mật độ điểm ảnh (pixel), và bản lề không khiến smartphone bị bẻ đôi. Ngoài ra, vấn đề còn đến từ viên pin và liệu pin có nên uốn cong với màn hình hay không.
+Tuy vậy, thách thức lớn nhất vẫn là lớp bảo vệ tấm nền. Samsung và Huawei đều dùng chất liệu nhựa polymer. "Nhựa polimer có thể đủ linh hoạt để uốn cong, nhưng lại không bền như thủy tinh và dễ bị trầy xước. Đó là chưa kể chúng có hiện tượng phồng rộp, biến dạng, nhàu...", William LaCourse, giáo sư khoa học thủy tinh tại Đại học Alfred, giải thích.
+ 
+ 
+Smartphone màn hình gập khó chế tạo thế nào
+Samsung thử khả năng gập của Galaxy Fold.
+Một số chuyên gia cho rằng, nhựa polymer chỉ là giải pháp tạm thời, mục tiêu của tương lai vẫn là thủy tinh do có độ bền cao hơn. Thủy tinh chỉ có thể bị biến dạng vĩnh viễn ở nhiệt độ lớn hơn 600 độ C.
+"Sự kết hợp của kính siêu mỏng, với độ dày thấp hơn sợi tóc của con người và độ bền cao cho phép thủy tinh thế hệ mới có thể uốn, xoắn mà không bị gãy", LaCourse nói. "Thủy tinh không thể gấp phẳng phiu như một tờ tiền, nhưng có thể gấp quanh một thanh kim loại nhiều lần mà không hằn nếp".
+Cũng theo LaCourse, màn hình smartphone thông thường làm bằng kính, nhưng chúng được giữ nguyên ở trạng thái phẳng, có thể linh hoạt ở một mức độ nào đó nhưng chưa thể gập lại. Dựa trên công nghệ chế tạo thủy tinh hiện tại, ông dự đoán, một thiết bị có màn hình kính gập sẽ ra mắt trong một hoặc hai năm tới.
+Kính cường lực cho smartphone gập của Corning. Ảnh: Cnet.
+Một số hãng kính cường lực bắt đầu nghiên cứu chế tạo loại kính có thể gập. "Chúng tôi đang nghiên cứu tạo ra loại kính siêu mỏng, bền, có thể sử dụng như một phần của màn hình thiết bị gập. Nó có thể uốn cong hàng trăm nghìn lần mà không hư hại, vẫn duy trì độ phẳng", phát ngôn viên của Corning - công ty nổi tiếng với kính cường lực Gorilla Glass - cho biết.
+Thực tế, những sản phẩm đã trình làng từ lâu nhưng bán ra muộn như Galaxy Fold hay Mate X đều được cho là gặp vấn đề về tấm bảo vệ màn hình. Các chuyên gia dự đoán, smartphone cường lực bằng thủy tinh có thể ra mắt năm sau. Nhưng để đạt sự hoàn hảo, thời gian có thể lâu hơn rất nhiều.
+Bảo Lâm (theo CNN)

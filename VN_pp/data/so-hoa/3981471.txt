@@ -1,0 +1,14 @@
+TITLE: iPhone thế hệ tiếp có thể mở khóa bằng lòng bàn tay - VnExpress Số Hóa
+
+KEY WORDS: iPhone, quét tĩnh mạch, bảo mật, sáng chế
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Được cấp bởi Văn phòng Bằng sáng chế và Thương hiệu Mỹ (USPTO), sáng chế mới của Apple cho phép các thiết bị di động phát hiện chính xác tĩnh mạch trong lòng bàn tay người.
+Apple có thể áp dụng công nghệ quét tĩnh mạch cho các thiết bị nhỏ trước khi đưa lên iPhone.
+Về cơ chế hoạt động, Apple sẽ tích hợp camera hồng ngoại bên dưới màn hình, cho phép kết hợp với ánh sáng màn hình để quét tĩnh mạch. Người dùng chỉ cần giơ bàn tay (không cần đặt sát) để thiết bị quét, sau đó đối chiếu với dữ liệu gốc để quyết định mở khóa hay không.
+Dù có cấu trúc tương tự vân tay, hệ thống tĩnh mạch trong lòng bàn tay được đánh giá có tính bảo mật hơn bởi nó nằm sâu dưới cơ thể và không thể bị làm giả. Trong khi đó, bảo mật bằng vân tay hoặc khuôn mặt kém an toàn do có thể bị sao chép, hoặc mở khóa với anh em sinh đôi.
+Trong mô tả sáng chế, Apple sẽ ứng dụng quét tĩnh mạch lòng bàn tay cho thiết bị cỡ nhỏ, chẳng hạn Apple Watch. Tuy nhiên, Phonearena cho rằng Apple sẽ sớm đưa công nghệ này lên những sản phẩm khác trong tương lai, trong đó có iPhone.
+Công nghệ bảo mật quét tĩnh mạch không mới và từng xuất hiện trên model G8 ThinQ của LG ra mắt hồi đầu năm, gọi là HandID. Bên cạnh mở khoá, tính năng này còn có thể nhận diện các thao tác điều khiển bằng tay, không cần chạm màn hình để truy cập ứng dụng yêu thích, tăng, giảm âm lượng, tạm dừng hay tiếp tục chơi nhạc, video...
+Bảo Lâm (theo Phonearena)

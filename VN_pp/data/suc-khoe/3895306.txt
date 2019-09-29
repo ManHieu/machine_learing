@@ -1,0 +1,24 @@
+TITLE: 'Bác sĩ' ảo ở Bệnh viện Ung bướu TP HCM hỗ trợ chữa ung thư - VnExpress Sức Khỏe
+
+KEY WORDS: trí tuệ nhân tạo, trí tuệ nhân tạo trong ung thư, phác đồ ung thư, điều trị ung thư
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Trước màn hình máy tính, bác sĩ mở phần mềm trí tuệ nhân tạo "IBM Watson for Oncology". Sau khi đăng nhập, điền thông tin hồ sơ bệnh nhân gồm tên tuổi, giai đoạn bệnh, kết quả xét nghiệm, giải phẫu bệnh, loại tế bào ung thư..., hệ thống xử lý và đưa ra các phác đồ điều trị, lý giải vì sao nên chọn hướng đó. 
+Tiến sĩ Đặng Huy Quốc Thịnh, Phó giám đốc Bệnh viện Ung bướu TP HCM, cho biết ứng dụng trí tuệ nhân tạo trong chẩn đoán, điều trị ung thư thí điểm tại bệnh viện từ tháng 10/2018 trên 103 bệnh nhân ung thư vú và 126 người ung thư đại trực tràng. 
+Tỷ lệ tương đồng giữa phác đồ của bác sĩ bệnh viện định dùng và phác đồ của phần mềm đưa ra là trên 80%. Các trường hợp không tương đồng thường do phác đồ hướng dẫn những loại thuốc chỉ có ở nước ngoài mà chưa có tại Việt Nam. Bác sĩ phải cân nhắc dựa trên tình trạng bệnh, điều kiện kinh tế, chế độ bảo hiểm y tế... của bệnh nhân để điều chỉnh phác đồ linh hoạt.
+Trí tuệ nhân tạo trong điều trị ung thư là công nghệ tích hợp nhiều dữ liệu, nghiên cứu khoa học trên toàn cầu, của nhiều nước tiên tiến, từ đó gợi ý những phác đồ phù hợp cho từng trường hợp. Đây là kho dữ liệu khổng lồ giúp bác sĩ cập nhật thường xuyên các thử nghiệm lâm sàng trên thế giới để tự tin lựa chọn, đưa ra hướng điều trị tối ưu cho bệnh nhân.
+Trước đây các bác sĩ tự học hỏi, đọc sách, hội thảo cập nhật kiến thức, nghiên cứu tài liệu để đưa ra phác đồ. "Khi có phần mềm trí tuệ nhân tạo, bác sĩ cập nhật nhanh và nhiều hơn các dữ liệu khoa học toàn cầu, có chứng cứ vững chắc khi đưa ra phác đồ", bác sĩ Thịnh phân tích.
+Phần mềm này giúp ích lớn cho những trung tâm ung thư còn yếu về nhân lực, bác sĩ chưa được cập nhật kiến thức thường xuyên.
+Sau khi nhập dữ liệu bệnh, trí tuệ nhân tạo gợi ý cho bác sĩ kế hoạch điều trị cụ thể.
+Bác sĩ Thịnh nhấn mạnh, đây chỉ là công cụ trang bị cho bác sĩ những dữ liệu khoa học để đưa ra phác đồ tốt nhất, nó không thể thay thế con người. Việc sử dụng thuốc, truyền thuốc, cách phẫu thuật, xạ trị, chăm sóc bệnh nhân... như thế nào đạt hiệu quả phụ thuộc vào tay nghề của y bác sĩ.
+Điểm hạn chế là phần mềm chưa có phiên bản tiếng Việt, chưa có sự đánh giá dựa trên thực tiễn của Việt Nam, đặc thù của các bệnh viện như cơ sở vật chất, danh mục thuốc và quá tải, của người bệnh như địa lý, tài chính, chế độ bảo hiểm y tế...
+Sau khi kết thúc thử nghiệm, Bệnh viện Ung bướu TP HCM đang bàn bạc với đơn vị cung cấp phần mềm có thể ứng dụng trong những buổi hội chẩn liên chuyên khoa cũng như tìm hướng triển khai rộng rãi cho tất cả bệnh nhân trong tương lai. 
+Phần mềm trí tuệ nhân tạo "IBM Watson for Oncology" do tập đoàn IBM của Mỹ xây dựng dựa trên nền tảng dữ liệu lớn, hiện triển khai ở 230 bệnh viện của 13 nước trên thế giới như Mỹ, Trung Quốc, Ấn Độ, Hàn Quốc, Thái Lan...
+Hệ thống có khả năng cung cấp cho bác sĩ những tài liệu nghiên cứu mới nhất, những chỉ dẫn chi tiết từ các chuyên gia đầu ngành của Mỹ dựa trên cơ sở dữ liệu lớn gồm hơn 100 triệu hồ sơ bệnh án, 30 tỷ hình ảnh, 15 triệu trích dẫn y khoa và hơn 40 triệu tài liệu nghiên cứu khác.
+Ở Việt Nam, ba bệnh viện gồm Đa khoa tỉnh Phú Thọ, Bệnh viện K, Ung bướu TP HCM được Bộ Y tế chọn thử nghiệm từ năm 2018. 
+Đầu năm 2019, Cục Công nghệ thông tin của Bộ Y tế đánh giá hệ thống này bước đầu có kết quả khả quan. Trước đây bác sĩ mất 29 giờ để đưa ra phác đồ điều trị một bệnh nhân thì nay nhờ AI chỉ mất 2 phút, tiết kiệm nhiều thời gian và công sức. 
+Hội đồng khoa học Bộ Y tế đề nghị Bộ sớm xem xét xây dựng giá thành sử dụng trí tuệ nhân tạo trong tư vấn lựa chọn phác đồ điều trị ung thư và quy định được bảo hiểm y tế chi trả.
+Các chuyên gia đang nghiên cứu ứng dụng trí tuệ nhân tạo để khai thác bệnh án điện tử ở Việt Nam, như nhận dạng tiếng nói để tạo bệnh án điện tử, nghiên cứu sử dụng thuốc, gợi ý phác đồ điều trị cho bệnh nhân..., tạo bước tiến lớn trong ngành y. 
+Lê Phương

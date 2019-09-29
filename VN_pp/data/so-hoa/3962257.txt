@@ -1,0 +1,15 @@
+TITLE: Google Maps thêm tính năng theo dõi bão Wipha - VnExpress Số Hóa
+
+KEY WORDS: Google Maps, hiển thị bão Wipha
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Thông tin báo trên Google Maps này được một số người phát hiện từ 2 ngày trước, nhưng đến hôm nay, khi bão bắt đầu đổ bộ vào đất liền, tính năng này bắt đầu được nhiều người tại Việt Nam biết đến hơn. Nó giúp người dùng dễ dàng theo dõi vị trí, dự báo hành trình cũng như các thông tin liên quan đến cơn bão để có biện pháp đối phó.
+Giao diện Google Maps cảnh báo đậm về bão Wipha. Ảnh: Lưu Quý.
+Thông tin về bão Wipha được làm nổi bật ngay trên giao diện Google Maps ở cả ứng dụng và website. Ngoài ra, người dùng cũng có thể gửi nhanh thông tin vị trí của mình đến người thân trong trường hợp cần trợ giúp.
+Mặc dù là một tính năng mới nhằm hỗ trợ người dùng, khả năng theo dõi bão Wipha của Google Maps lại chưa được đánh giá cao về độ chính xác cũng như sự hữu dụng.
+Theo thông tin hiển thị trên ứng dụng, dữ liệu về cơn bão được lấy từ Cơ quan khí tượng của Nhật Bản. Tuy vậy, nó lại không được cập nhật theo thời gian thực. Khi so sánh với một ứng dụng về thời tiết khá nổi tiếng khác là Windy, thông tin về bão trên Google Maps lại có sự khác biệt khá nhiều. Lúc 12h ngày 3/8, theo Windy, tâm hoàn lưu bão đang ở Hà Nội, nhưng Google Maps vẫn hiển thị tại Quảng Ninh.
+Ngoài ra, tính năng mới của Google Maps còn bị đánh giá là sơ sài. "Nếu bổ sung thông tin về cường độ, mức nguy hiểm, cảnh báo nữa thì sẽ tuyệt hơn", anh Đinh Nam, một người dùng tại Hà Nội chia sẻ.
+Tính năng cảnh báo thiên tai được Google bắt đầu thử nghiệm từ hồi háng 6 năm nay. Cơn bão Wipha có thể coi là một trong những trường hợp đầu tiên được ứng dụng thực tế trên bản đồ. Trước đó, Google Maps cũng có khá nhiều tính năng hỗ trợ cho người dùng như cảnh báo đi sai đường, cảnh báo khu vực tắc đường...
+Lưu Quý

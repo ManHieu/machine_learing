@@ -1,0 +1,30 @@
+TITLE: FUNiX tư vấn trực tuyến ngành 'hot' công nghệ thông tin - VnExpress
+
+KEY WORDS: funix, tư vấn trực tuyến, công nghệ thông tin
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Mới đây, "Báo cáo Thị trường nhân lực ngành Công nghệ Thông tin năm 2019" do website tuyển dụng trực tuyến VietnamWorks thực hiện đã công bố mức thu nhập các nhà tuyển dụng sẵn sàng trả cho nhân lực ngành CNTT. Nhiều vị trí chuyên môn được trả lương trên 1000 USD một tháng. Lập trình viên Blockchain có thể nhận mức lương là 2.241 USD một tháng, nhóm phát triển phần mềm liên quan đến AI có mức lương 1.844 USD một tháng...
+Với thực tế thị trường nhân lực tiềm năng, nhiều bạn trẻ đặt câu hỏi nên lựa chọn ngành nghề nào để nắm cơ hội thành lập trình viên lương nghìn USD. Dự báo xu thế nhân lực CNTT trong giai đoạn tới...
+Trước thực tế này, Đại học trực tuyến FUNiX tổ chức chương trình tư vấn trực tuyến trên website nhà trường vào lúc 10h – 11h30 sáng thứ Tư ngày 20/3. Chương trình có sự tham gia của các khách mời đến từ những dự án công nghệ cao tại Việt Nam như Blockchain, Automotive... với nhiều kinh nghiệm trong tuyển dụng, đào tạo, giảng dạy.
+Độc giả quan tâm có thể đặt câu hỏi tại đây:
+Khách mời của chương trình
+Ông Nguyễn Thành Lâm - Trưởng dự án xSeries, Trường Đại học Trực tuyến FUNiX.
+Ông Lâm là cựu CEO của FPT Software, từng được đào tạo bài bản tại Cộng hòa Liên bang Đức trong cả hai lĩnh vực CNTT và kinh tế. Từ một lãnh đạo nổi danh trong làng phần mềm, quản lý hơn 10.000 nhân viên, ông Thành Lâm đột ngột nghỉ việc. Tháng 7/2017, tái xuất trong lĩnh vực giáo dục khi vừa làm mentor, vừa làm đại diện FUNiX ở TP HCM.
+Sau gần 3 năm thành lập (2015), hiện FUNiX có hơn 2.700 mentors và trên 3.000 sinh viên trải rộng 63 tỉnh thành, ở 23 quốc gia và vùng lãnh thổ. Đây là một mô hình giáo dục mới, mang đến cơ hội học tập lập nghiệp trong lĩnh vực CNTT cho tất cả mọi người. Hiện, FUNiX là một trong những trường đại học đầu tiên đào tạo về công nghệ Blockchain, Automotive...
+Ông Nguyễn Thành Lâm sẵn sàng giải đáp thắc mắc liên quan đến FUNiX, định hướng và mục tiêu các môn học trong chương trình xSeries như Blockchain, Tuyển sinh, Đào tạo để sinh viên có cái nhìn tổng quan, thiết thực trong quá trình học.
+Các khách mời tham gia chương trình tư vấn trực tuyến.
+Ông Đặng Minh Tuấn đang giữ chức Vụ trưởng phòng Lab Blockchain – mentor FUNiX – giảng viên thuộc Học viện Công nghệ Bưu chính Viễn thông. Ngoài ra ông còn là Trưởng tiểu ban chuẩn Quốc gia SC35/JTC1, Trưởng nhóm Vietkey và nguyên là Đại tá, Phó Giám đốc Phòng thí nghiệm trọng điểm Quốc gia về An toàn thông tin. Là Tiến sĩ chuyên ngành Toán và Mật mã, với 3 năm nghiên cứu chuyên sâu, ông Tuấn sở hữu nhiều kinh nghiệm về Blockchain thuộc nhiều lĩnh vực như Cryptography, Smart Contract, Consensus algorithms...,
+Ông Tuấn từng nhận định, Blockchain là công nghệ mới và đang có nhu cầu lớn nên lĩnh vực này chưa có nhiều cạnh tranh. Ông Tuấn cũng cho biết, các lập trình viên và đơn vị startup tiên phong trong lĩnh vực blockchain không chỉ có cơ hội ở Việt Nam mà còn có thể thành công trên bình diện toàn cầu.
+Tại buổi tư vấn, ông Tuấn sẵn sàng chia sẻ, giải đáp các vấn đề liên quan tới cơ hội nghề nghiệp, kinh nghiệm làm việc, lộ trình phát triển để trở thành một lập trình viên giỏi trong lĩnh vực Blockchain
+Ông Nguyễn Anh Tú – Trưởng nhóm Kỹ sư Blockchain – Tomochain
+Ông Nguyễn Anh Tú học thạc sĩ chuyên ngành Hệ thống phi tập trung tại Đại học Basel, Thụy Sĩ. Hiện ông là trưởng nhóm kỹ sư Blockchain của Tomochain – một startup của Việt Nam nghiên cứu về khả năng mở rộng của Ethereum và các mạng Blockchain khác, nổi tiếng vì đã gọi vốn thành công 8,5 triệu USD từ các nhà đầu tư thế giới.
+Là lập trình viên được ủy quyền của Apache Software Foundation (ASF) và Cloud Native Computing Foundation (CNCF), ông Tú cũng phụ trách nhiều dự án nguồn mở ASF và CNCF.
+Trong buổi tư vấn, ông Tú hứa hẹn chia sẻ về kinh nghiệp học tập, làm việc với lĩnh vực Blockchain, đánh giá các cơ hội về Blockchain trong thời gian tới.
+Ông Cáp Thanh Vương – Giám đốc thị trường châu Á Thái Bình Dương, đơn vị Automotive và Manufacturing – FPT Software
+Tốt nghiệp Thạc sĩ Business Information System tại trường đại học Việt Đức, 9/2013 ông Vương gia nhập FPT Software. Ông là người có đam mê về phát triển phần mềm nhúng, công nghệ trong lĩnh vực ô tô và mong muốn nâng cao năng lực kỹ thuật của kỹ sư Việt Nam.
+Ông Cáp Thanh Vương hiện giữ chức vụ  Giám đốc thị trường châu Á Thái Bình Dương, đơn vị Automotive và Manufacturing – FPT Software. Ông nằm trong danh sách Top 100 cá nhân tiêu biểu của tập đoàn FPT với chứng chỉ CCNA-Networking của Cisco và chứng chỉ Project Management Professional (PMP) của PMI.
+Ông Vương sẽ giải đáp các thắc mắc về nghề nghiệp của các lập trình viên theo hướng lập trình công nghệ cao, phân tích về xu thế nghề nghiệp tự động hóa, automotive tại Việt nam và trên thế giới...
+Xem thêm thông tin tại đây.
+Thanh Nga 

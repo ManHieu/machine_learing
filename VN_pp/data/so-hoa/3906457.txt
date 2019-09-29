@@ -1,0 +1,15 @@
+TITLE: Cha đẻ hệ điều hành Linux chê mạng xã hội là 'thứ rác rưởi' - VnExpress Số Hóa
+
+KEY WORDS: Linux, mạng xã hội, facebook, instagram, twitter
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Linus Torvalds là người tạo ra hệ điều hành miễn phí Linux, đối thủ cạnh tranh trực tiếp với MacOS của Apple và Windows của Microsoft mới đây đã bày tỏ quan điểm gay gắt về Facebook, Twitter và Instagram. Trong cuộc phỏng vấn hồi tuần trước với tạp chí Linux Journal, ông cho biết mặt trái của các mạng xã hội nói trên là một trong những vấn đề lớn nhất mà ngành công nghệ đang phải đối mặt hiện nay.
+"Tôi hoàn toàn ghét các phương tiện truyền thông xã hội hiện đại như Twitter, Facebook và Instagram. Đó là một căn bệnh. Nó dường như khuyến khích các hành vi xấu", ông chia sẻ.
+"Mô hình 'thích' và 'chia sẻ' chỉ là rác rưởi. Không có sự nỗ lực và không thể kiểm soát chất lượng. Trên thực tế, tất cả đều hướng đến sự đảo ngược của việc kiểm soát chất lượng, với các mục tiêu có mẫu số chung thấp, là mồi nhử để người dùng nhấp chuột. Mọi thứ được thiết kế để tạo ra một phản ứng cảm xúc, thường là một sự phẫn nộ về mặt đạo đức", nhà khoa học máy tính người Mỹ gốc Phần Lan này chia sẻ thêm.
+Linus Torvalds, cha đẻ của hệ điều hành Linux. Ảnh TED
+Torvalds, người phát hành Linux vào năm 1994, nổi tiếng trong cộng đồng công nghệ vì tính cách khá thô lỗ. Nhưng ông không phải là người duy nhất không hài lòng với các phương tiện truyền thông xã hội.
+Các cuộc khảo sát gần đây đều cho thấy sự tin tưởng của mọi người về mạng xã hội đã giảm đáng kể trong nhiều năm qua. Một phần do các vấn đề liên quan tới nạn quấy rối, các hành vi xấu và khủng bố đã làm lu mờ thành quả tích cực mà Facebook, Twitter và Instagram mang lại. Ngoài ra, một nguyên nhân sâu xa khác được Torvalds nhắc tới: Sự ẩn danh.
+"Khi bạn thậm chí không cần sử dụng tên thật của mình trên những thứ rác rưởi (nội dung người dùng chia sẻ hoặc thích), chúng thực sự vô dụng", ông nói. "Mọi người không nên chia sẻ hoặc thích mọi thứ mà không chứng minh trước được danh tính".
+Bảo Nam (theo Cnet)

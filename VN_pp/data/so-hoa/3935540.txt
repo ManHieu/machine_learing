@@ -1,0 +1,15 @@
+TITLE: Windows dính lỗi liên tiếp, ảnh hưởng hàng triệu máy - VnExpress Số Hóa
+
+KEY WORDS: BlueKepp, GoldBrute, Microsoft
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Lỗ hổng đầu tiên được gọi là BlueKeep, được Microsoft ước tính ảnh hưởng tới gần một triệu máy tính chạy các phiên bản hệ điều hành cũ bao gồm Windows 7, Windows XP, Windows Server 2003 và 2008. 
+Người dùng Windows cũ được khuyến cáo cập nhật bản vá mới nhất.
+Ngày 7/6, NSA kêu gọi người dùng sớm cập nhật bản vá Windows hoặc chuyển sang Windows 10 để tránh bị tấn công. Cơ quan an ninh này cho biết, BlueKeep, được phát hiện giữa tháng 5, có thể lây lan trên Internet mà không cần sự tác động của người dùng (như không cần bấm vào link chứa mã độc). Nó có nguy cơ gây ra cuộc khai thác tương tự WannaCry hai năm trước, từng khiến hàng trăm nghìn máy tính tại hơn 150 quốc gia dính mã độc tống tiền và nạn nhân bị yêu cầu trả tiền chuộc mới được cấp mã mở khoá.
+Lỗ hổng được đánh giá nguy hiểm đến mức Microsoft phải ra bản cập nhật cho Windows XP - hệ điều hành bị "khai tử" từ năm 2014. Hãng phần mềm Mỹ khẳng định chưa có dấu hiệu cho thấy tin tặc khai thác lỗ hổng trước khi bản cập nhật được phát hành, nhưng rất có khả năng hacker sẽ viết phần mềm độc hại dựa trên nó.
+Trong khi đó, theo ZDNet, bên cạnh BlueKeep, có một chiến dịch tấn công brute-force (hoạt động bằng cách thử tất cả các chuỗi mật khẩu có thể để tìm ra mật khẩu đúng) quy mô lớn mang tên GoldBrute đang diễn ra. Chiến dịch nhắm vào 1,5 triệu máy chủ Windows RDP trên toàn cầu chỉ trong vài ngày và con số này vẫn đang tăng lên.
+Chiến dịch GoldBrute ảnh hưởng tới cả những hệ thống Windows ở Việt Nam.
+Theo hãng bảo mật Morphus Labs, sau khi brute-force thành công một máy chủ, kẻ tấn công sẽ cài phần mềm độc hại trên đó để kiểm soát hệ thống từ xa, thiết lập lại các quyền điều khiển, cấy mã độc, ăn cắp thông tin và huy động những máy này tham gia mạng máy tính ma (botnet) để thực hiện các cuộc tấn công từ chối dịch vụ về sau. 
+Châu An

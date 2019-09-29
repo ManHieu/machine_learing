@@ -1,0 +1,15 @@
+TITLE: Một nửa thiết bị mạng của Huawei dính lỗ hổng bảo mật - VnExpress Số Hóa
+
+KEY WORDS: thiết bị mạng, thiết bị viễn thông, Huawei, bảo mật, cửa hậu, backdoor
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Finite State, công ty bảo mật của Mỹ, đã tiến hành phân tích các thiết bị mạng doanh nghiệp của Huawei. Phạm vi đánh giá được thực hiện với 10.000 firmware được tạo cho tổng cộng 558 sản phẩm, bao gồm bộ định tuyến, thiết bị chuyển mạch, thiết bị 4G, điện thoại IP...
+Công ty nghiên cứu của Mỹ cho rằng thiết bị mạng của Huawei chứa nhiều lỗ hổng bảo mật.
+Nghiên cứu cho thấy hơn một nửa trong số các firmware có chứa ít nhất một "cửa hậu" (backdoor) tiềm năng, tức lỗ hổng mà tin tặc có thể lợi dụng để tấn công. Trong đó, 29% thiết bị được kiểm tra sử dụng tên người dùng và mật khẩu mặc định. Finite State cũng tìm thấy 424 firmware có thể bị tấn công xen giữa (man-in-the-middle).
+Các nhà nghiên cứu cũng so sánh thiết bị mạng cao cấp của Huawei với sản phẩm tương đương của nhà cung cấp khác. Sản phẩm được đưa ra phân tích là Huawei CE12800, Arista 7280R và Juniper EX4650. Kết quả, thiết bị của Arista và Juniper đều có lỗ hổng nhưng ít nghiêm trọng hơn sản phẩm của Huawei.
+Finite State cũng thực hiện so sánh các bản firmware khác nhau để xem Huawei có tăng bảo mật theo thời gian không. Với thiết bị mạng CE6851, công ty nghiên cứu thấy rằng phiên bản mới hơn V200 lại bảo mật kém hơn so với bản V100 trước đó.
+Phản hồi về báo cáo trên, Huawei cho biết đang phân tích và xem xét thông tin. "Huawei coi trọng bảo mật và coi đó là ưu tiên hàng đầu. Chúng tôi không và sẽ không bao giờ cho phép đặt 'cửa hậu' trên thiết bị của mình", công ty viễn thông Trung Quốc tuyên bố.
+Mỹ và một số nước châu Âu lo ngại thiết bị của Huawei, bao gồm cả những sản phẩm cho mạng 5G trong tương lai, có thể chứa backdoor nhằm tạo điều kiện cho gián điệp Trung Quốc. Huawei bác cáo buộc này nhưng không ngăn được chính quyền tổng thống Trump ra lệnh cấm đối với công ty Trung Quốc.
+Bảo Anh (theo SecurityWeek)

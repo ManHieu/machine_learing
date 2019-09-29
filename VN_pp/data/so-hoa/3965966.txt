@@ -1,0 +1,16 @@
+TITLE: Huawei ra thiết bị đầu tiên chạy hệ điều hành Harmony - VnExpress Số Hóa
+
+KEY WORDS: Huawei Honor Vision, Harmony OS
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Honor Vision. 
+Được kỳ vọng sử dụng trên điện thoại thay thế hệ điều hành Android nhưng Huawei muốn thử nghiệm đầu tiên trên một dòng sản phẩm an toàn hơn là TV. Thiết bị ra mắt dưới thương hiệu "con" là Honor Vision chạy hệ điều hành Harmony với kích thước 55 inch, độ phân giải 4K và sử dụng tấm nền IPS. Sản phẩm hỗ trợ độ sáng cực đại 400 nit, góc nhìn 178 độ, độ phủ 87% dải màu NTSC và chứng nhận TUV Rheinland chống ánh sáng xanh. 
+Honor Vision có thiết kế khung kim loại, kích thước viền chỉ 6,9 mm cho tỷ lệ màn hình chiếm tới 94% so với diện tích mặt trước. Máy trang bị chip xử lý 8 lõi Honghu 818, chipset HiSilicon Hi1103, hỗ trợ băng tần kép 2,4 GHz và 5 GHz, băng thông 160 MHz cho tốc độ tải xuống tới 1,7 Gb/giây, hơn đáng kể so với các mẫu TV thông minh hiện nay. 
+Honor Vision chia làm hai phiên bản là bản thường và bản cao cấp Pro. Bản Pro có thêm camera AI thông minh tích hợp cho cuộc gọi video. Chipset NPU HiSilicon Hi3516DV300 trên máy cho phép camera nhận dạng chuyển động, theo dõi cơ thể và phát hiện các tư thế sử dụng của người dùng. 
+Thiết kế mặt sau lạ mắt của Honor Vision. 
+Máy chạy hệ điều hành Harmony mới phát triển của Huawei hỗ trợ các ngôn ngữ lập trình bao gồm C/C++, Java, JavaScript và Kotlin. Thậm chí, hệ điều hành còn linh hoạt khi cho phép điều chỉnh và tương thích nhanh với ứng dụng Android. 
+Cả hai mẫu TV Honor Vision mới đều đi kèm nhiều tính năng, trong đó có HiLink cho phép điều khiển nhà thông minh và hệ sinh thái của Huawei. Máy hỗ trợ kết nối DLNA, Miracast với độ trễ thấp theo quảng cáo là chỉ 100 ms, NFC. 
+Honor Vision và Honor Vision Pro bắt đầu bán từ ngày 15/8 tới với giá từ 3.799 tệ (tương đương 13,1 triệu đồng) và 4.799 tệ (tương đương 16,5 triệu đồng). Bản Pro có 6 loa thay vì 4 loa như bản thường và bộ nhớ trong cao hơn 32 GB thay vì 16 GB.  
+Tuấn Hưng

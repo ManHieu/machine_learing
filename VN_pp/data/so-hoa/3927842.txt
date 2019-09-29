@@ -1,0 +1,23 @@
+TITLE: Lệnh cấm của ARM nghiêm trọng với Huawei hơn Google ngừng cấp phép Android - VnExpress Số Hóa
+
+KEY WORDS: Huawei, ARM, lệnh cấm
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Sau khi bị Google ngừng cấp phép Android, làn sóng quay lưng của các công ty công nghệ đối với Huawei diễn ra mạnh mẽ. Có thể kể đến Intel, Qualcomm, Xilinx, Broadcom và mới nhất là ARM. Trong số này, Androidauthority cho rằng, việc ARM ngừng hợp tác là "cú đánh" đau nhất đối với hãng điện thoại Trung Quốc.
+Chip Kirin trên smartphone Huawei đang sử dụng kiến trúc ARM. Ảnh: Engadget.
+Mất đi một 'cánh tay'
+ARM là viết tắt của Advanced RISC Machine, là một kiến trúc dạng RISC cho chip xử lý máy tính và sau này là chip di động. RISC thường yêu cầu ít bóng bán dẫn hơn các bộ xử lý có kiến trúc điện toán tập lệnh phức tạp (CISC), chẳng hạn x86 đang có mặt trên hầu hết máy tính cá nhân. Công nghệ này được đánh giá là tiêu thụ điện năng thấp, tản nhiệt tốt và chi phí rẻ hơn.
+ARM được ví von là cánh tay đắc lực của những nhà sản xuất điện thoại (trong tiếng Anh, "arm" có nghĩa là "cánh tay"). Nó cũng được xem là "mạch máu" trong thiết bị di động, chịu trách nhiệm cho nhiều hoạt động của đại đa số smartphone hiện nay trên thị trường. Các tập lệnh và kiến trúc mà ARM tạo ra đều có trên hầu hết smartphone.
+Bên cạnh đó, ARM còn chịu trách nhiệm thiết kế CPU và GPU được sử dụng trong phần lớn điện thoại trên toàn thế giới. Ngoại trừ Apple, hầu như mọi nhà sản xuất chip di động đều dùng bản quyền của ARM cho sản phẩm của họ, kể cả Qualcomm, MediaTek, Samsung và tất nhiên là cả Huawei. Có thể nói, bất kỳ smartphone nào tồn tại trên thị trường đều có một phần công nghệ của ARM.
+Huawei có tùy chọn nào khác?
+Theo BBC, Huawei vẫn sẽ sử dụng kiến trúc ARM cho chip họ sản xuất, chẳng hạn Kirin 710 tầm trung hay Kirin 980 cao cấp. Bên cạnh đó, những sản phẩm đã phát triển xong như Kirin 985 cũng nằm ngoài phạm vi ảnh hưởng.
+Huawei khó có tùy chọn nào khác ngoài ARM. Ảnh: The Times.
+Khi Google ngừng cấp phép Android, Huawei có thể tự phát triển hệ điều hành riêng, hoặc dùng phiên bản mã nguồn mở (AOSP) để thay thế. Việc phát triển ứng dụng riêng có chức năng tương tự Gmail, Chrome, YouTube... dù khó thành công nhưng vẫn làm được. Tuy vậy, khi ARM rút giấy phép, công ty Trung Quốc khó có khả năng tự thiết kế chip cho mình.
+Có hai trường hợp xảy ra: mua chip từ các hãng khác như Samsung (Exynos) hoặc MediaTek, hoặc tự tạo cấu trúc CPU và GPU mới. Với trường hợp đầu tiên, khả năng cao ARM sẽ can thiệp mạnh mẽ đối với đối tác bán chip cho Huawei. Với trường hợp thứ hai, doanh nghiệp Trung Quốc có thể mất vài năm phát triển bởi việc nghiên cứu và sản xuất một chip xử lý trên kiến trúc mới cần rất nhiều thời gian, trừ khi hãng đã chuẩn bị những năm trước đó.
+Ngoài ra, Huawei có thể mua bản quyền kiến trúc x86 của Intel. Tuy vậy, điều này rất khó xảy ra khi họ đã ngừng sản xuất chip di động, cũng như tuyên bố "nghỉ chơi" với công ty Trung Quốc.
+Như vậy, việc ARM ngừng hợp tác được xem là "đòn đau" đối với Huawei hơn cả Google. Bởi, sau động thái này hãng điện tử Trung Quốc khó có thể tạo ra một chiếc điện thoại hoàn chỉnh.
+Kiến trúc ARM được phát triển bởi ARM Holdings - hãng thiết kế chip xử lý có trụ sở ở nước Anh và thuộc sở hữu của tập đoàn SoftBank (Nhật Bản). ARM Holdings thành lập bởi Hermann Hauser vào năm 1990.
+Không giống như các tập đoàn sản xuất chip xử lý khác như AMD, Intel, Motorola hay Hitachi, ARM chỉ thiết kế và bán chúng thay vì tạo ra vi mạch CPU, GPU hoàn chỉnh. Hiện kiến trúc ARM được rất nhiều công ty bán dẫn trên toàn thế giới mua bản quyền. Huawei cũng dựa vào ARM để thiết kế kiến trúc chip cho bộ xử lý Kirin.
+Bảo Lâm

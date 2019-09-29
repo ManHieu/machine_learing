@@ -1,0 +1,16 @@
+TITLE: Internet Explorer có lỗ hổng bảo mật nghiêm trọng - VnExpress Số Hóa
+
+KEY WORDS: Internet Explorer, trình duyệt web, lỗ hổng bảo mật
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Nhà nghiên cứu bảo mật John Page đã phát hiện ra một lỗ hổng bảo mật mới cho phép tin tặc đánh cắp dữ liệu của người dùng Windows nhờ Internet Explorer (IE). Nhưng điều gây ngạc nhiên nhất là lỗ hổng này vẫn có thể bị khai thác dù người dùng không cần mở trình duyệt web vốn đã rất lỗi thời này để sử dụng. Chỉ cần nó còn tồn tại trên máy tính, tin tặc đã có thể sử dụng nó để tấn công hệ thống.
+Về cơ bản, tin tặc lợi dụng lỗ hổng bằng cách sử dụng các tệp .MHT, một định dạng tệp được sử dụng bởi IE cho kho lưu trữ web của nó. Các trình duyệt web hiện tại không sử dụng định dạng .MHT, vì vậy khi người dùng máy tính cố gắng truy cập loại tệp này, hệ điều hành Windows sẽ mở IE theo mặc định.
+Trình duyệt web Internet Explorer có lỗ hổng bảo mật nghiêm trọng.
+Để tấn công hệ thống, tin tặc sẽ lừa người dùng mở tệp đính kèm qua email, trình nhắn tin hoặc các dịch vụ chuyển tệp khác. Người dùng chỉ cần thực hiện các thao tác mở hay nhấp chuột phải để vào lệnh "xem trước" hoặc "in" trên trang web cũng có thể tạo ra lỗ hổng. Kẻ tấn công sau đó có thể tiến hành theo dõi máy tính của nạn nhân từ xa thông qua các chương trình được cài đặt cục bộ.
+Theo John Page, thử nghiệm phát hiện lỗ hổng này tồn tại trên cả phiên bản cuối cùng của Internet Explorer là IE 11. Nó ảnh hưởng đến người dùng Windows 7, Windows 10 và Windows Server 2012 R2.
+Điều đáng lo ngại nhất, theo Page, là Microsoft đã nói với ông việc họ sẽ chỉ xem xét và khắc phục lỗi này ở một bản cập nhật trong tương lai. Nhà nghiên cứu bảo mật cho biết ông đã liên lạc với Microsoft vào tháng 3, trước khi công khai vấn đề.
+Theo ZDNet, IE chiếm chưa đến 10% thị phần về trình duyệt web. Tuy nhiên, hầu hết người dùng đều cài đặt trình duyệt này trên máy tính của họ và đây cũng là điều duy nhất tin tặc cần.
+Hồi đầu năm 2019, chuyên gia an ninh mạng của Microsoft là Chris Jackson đã kêu gọi bất cứ ai vẫn còn sử dụng IE thì nên từ bỏ nó. Công ty đã chính thức ngừng cập nhật các tính năng và hỗ trợ tiêu chuẩn cho trình duyệt web này từ năm 2015.
+Bảo Nam (theo Mashable)

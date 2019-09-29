@@ -1,0 +1,28 @@
+TITLE: Camera ToF iPhone 2020 chụp ảnh siêu đẹp - VnExpress Số Hóa
+
+KEY WORDS: iPhone 2020, iPhone
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trong khi iPhone 2019 vẫn chưa được công bố, những tin đồn về thế hệ sản phẩm tiếp theo của Apple đã xuất hiện. Chúng đến từ nhà phân tích Ming-Chi Kuo, một nguồn tin đồn đáng tin cậy nhất về Apple trong những năm vừa qua. Ở bản báo cáo mới nhất được bởi MacRumors, Ming-Chi Kuo tuyên bố sẽ có "hai mẫu iPhone 2020" được trang bị thêm cảm biến đo chiều sâu 3D ToF để hỗ trợ các tính năng thực tế ảo tăng cường và chụp ảnh chân dung tốt hơn.
+Đây không phải lần đầu tiên xuất hiện các thông tin về việc Apple sẽ sử dụng cảm biến camera ToF cho thế hệ iPhone 2020. Trước đó vào tháng 1, Bloomberg từng đăng tin đồn tương tự. Thậm chí, một số báo cáo từ năm 2017 đã nhắc tới hệ thống camera 3D cho iPhone. Trong quá khứ, Apple thường không phải là hãng khai sinh ra những công nghệ mới cho điện thoại thông minh, nhưng họ lại có khả năng tạo xu hướng, ảnh hưởng tới toàn bộ nền ngành công nghiệp. 
+Cảm biến ToF là gì và hoạt động thế nào
+Cơ chế hoạt động của cảm biến ToF. 
+ToF (Time-of-Flight) là thuật ngữ dành cho công nghệ đo khoảng cách giữa cảm biến và vật thể, dựa trên chênh lệch thời gian giữa phát xạ tín hiệu đi và trở về cảm biến, sau khi đã được phản xạ từ một đối tượng. Phép đo này có thể được thực hiện bằng tia laser, ánh sáng, âm thanh, chất lỏng hoặc hạt khí.
+Trong trường hợp ứng dụng cho máy ảnh, thiết lập sẽ bao gồm một cảm biến sử dụng tia laser nhỏ để phát ra chùm ánh sáng hồng ngoại, đi tới vật thể phía trước và phản xạ lại cảm biến. Khoảng thời gian ánh sáng này cần để phản xạ lại sẽ được tính toán (vì tốc độ ánh sáng trong một môi trường nhất định là một hằng số) và chuyển thành thông tin về khoảng cách, có thể được sử dụng để tạo bản đồ chiều sâu chi tiết về vật thể.
+Công nghệ này thường được ứng dụng trong máy ảnh của những thiết bị như máy bay không người lái và xe tự lái (để ngăn đâm vào các vật thể xung quanh). Tuy nhiên gần đây, ToF bắt đầu được ứng dụng cho máy ảnh trên điện thoại thông minh.
+Công nghệ này khác gì với Face ID
+Face ID (và các hệ thống IR tương tự khác) sử dụng máy chiếu hồng ngoại để tạo ra ánh sáng có cấu trúc với hàng nghìn điểm. Sau đó, điện thoại sẽ chụp ảnh 2D và sử dụng cấu trúc đó để tính toán bản đồ chiều sâu.
+Cảm biến ToF có cách thức hoạt động khác hoàn toàn, khi sử dụng các dữ liệu về khoảng cách thu được thông qua thời gian các tia laser phản xạ lại cảm biến để tạo ra bản đồ chiều sâu 3D chi tiết theo thời gian thực, thay vì bản đồ 2D với 3 thông số của Face ID (hình ảnh 2D, bản đồ chiều sâu và hình ảnh hồng ngoại 2D).
+Do vậy, hệ thống sử dụng cảm biến ToF sẽ cung cấp độ chính xác cao hơn và phạm vi hoạt động dài hơn so với hệ thống Face ID (chỉ hoạt động trong khoảng cách từ 25 - 50cm). Về lý thuyết, ToF cũng cho phép thu về các dữ liệu chính xác hơn so với những hệ thống IR khác. Một ví dụ điển hình là LG G8, sử dụng cảm biến ToF cho phép mở khóa và điều khiển cử chỉ bằng các ngón tay.
+Tại sao Apple muốn sử dụng ToF?
+Với camera ToF, iPhone có thể chụp ảnh chân dung tốt hơn. Ảnh: The Verge.
+Các báo cáo từ nhà phân tích Kuo và Bloomberg đều nói rằng Apple đang tìm cách thêm cảm biến ToF vào hệ thống camera sau trên iPhone 2020, chứ không phải thay thế hệ thống IR đang sử dụng cho Face ID.
+Rất có thể Apple muốn tập trung vào việc mở rộng trải nghiệm thực tế ảo tăng cường trên iPhone trong tương lai như mô phỏng các không gian và vật thể một cách chính xác dưới dạng 3D, tạo ra trải nghiệm chân thực hơn trong cách ứng dụng AR so với hiện tại.
+Thêm vào đó, cảm biến ToF cũng sẽ cho phép tạo ra bản đồ chiều sâu chính xác khi chụp ảnh ở chế độ chân dung, ví dụ Huawei P30 Pro. Bằng cách này, camera có thể ghi nhận và kiểm soát độ sâu trường ảnh tốt hơn, cung cấp ảnh chụp hoặc video có tiền cảnh và hậu cảnh phân biệt rõ ràng.
+Camera ToF đang được áp dụng trên điện thoại như thế nào
+Một số nhà sản xuất điện thoại thông minh đã trang bị cảm biến ToF trên thiết bị của họ. Như đã nói, LG hiện sử dụng một cảm biến này kết hợp với camera trước trên LG G8 để hỗ trợ các tính năng như Hand ID (mở khóa bằng ngón tay), Air Motion (điều khiển bằng cử chỉ ngón tay) và chụp ảnh chân dung selfie tốt hơn.
+Đối với Huawei P30 Pro, điện thoại cũng có một cảm biến ToF nằm trong hệ thống camera phía sau giúp cho việc tạo ra một bản đồ chiều sâu chính xác hơn khi chụp ảnh ở chế độ chân dung. Công ty cũng tuyên bố các tham vọng về AR, khi cung cấp cho chiếc điện thoại này khả năng đo chiều cao, độ sâu, âm lượng và diện tích của các vật thể trong thế giới thực với độ chính xác cao hơn 98,5%.
+Hồi đầu năm nay, Sony cho biết sẽ tăng cường năng lực sản xuất cảm biến ToF 3D vào mùa hè này. Đó là thời điểm hoàn hảo để Apple bắt đầu thử nghiệm đưa công nghệ máy ảnh mới lên iPhone 2020.
+Ngọc Bình (theo The Verge)

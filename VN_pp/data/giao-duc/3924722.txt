@@ -1,0 +1,27 @@
+TITLE: Blockchain và trí tuệ nhân tạo AI làm thay đổi giáo dục trực tuyến - VnExpress
+
+KEY WORDS: Blockchain, trí tuệ nhân tạo AI, TEN
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Sự bùng nổ của Internet và những công nghệ mới như chuỗi khối (Blockchain) và trí tuệ nhân tạo (AI) đã góp phần làm thay đổi nền giáo dục trên toàn thế giới, hình thành những nền tảng Online Learning với nhiều ưu thế.
+Mobile Learning dự báo là "Cuộc cách mạng tiếp theo" của giáo dục trực tuyến
+Theo nghiên cứu của Global Market Insights, thị trường giáo dục trực tuyến toàn cầu đang có tốc độ phát triển nhanh chưa từng thấy khi nền tảng hạ tầng Internet ngày càng hoàn thiện và phủ sóng rộng khắp. Giá trị các start-up về EdTech (Công ty công nghệ chuyên về giáo dục) toàn cầu được ước tính hơn 190 tỷ USD vào năm 2018 và dự kiến vượt hơn 300 tỷ USD vào năm 2025.
+Tổ chức này cũng dự báo xu hướng của giáo dục trực tuyến toàn cầu trong những năm tới là phương pháp học qua điện thoại (Mobile Learning). Hiện TENTech Group OU là một trong những StartUp tiên phong trong việc phát triển hệ sinh thái giáo dục của mình theo xu thế này.
+Theo báo cáo mới công bố của một tổ chức khác là World Advertising Research Center (WARC), vào năm 2025, khoảng 72,6% người dùng internet trên thế giới chỉ truy cập mạng qua thiết bị di động thông minh (smartphone), tương đương gần 3,7 tỷ người (theo CNBC). WARC cũng dự báo chỉ có hơn 1,3 tỷ người dùng truy cập internet qua cả smartphone và máy tính cá nhân vào năm 2025. Trong khi đó, chỉ còn 69 triệu người vào mạng bằng máy tính cá nhân. Vì vậy Mobile Learning là xu thế phát triển tất yếu, và được dự báo là "cuộc cách mạng tiếp theo" trong giáo dục.
+"Với nền tảng và chiến lược phát triển tập trung vào Mobile Learning, chúng tôi có thể đưa những giáo trình và phương pháp học tiên tiến, đến với hàng trăm triệu người học chỉ trong thời gian ngắn và hiệu quả cao. Việc học viên cần làm đơn giản là mở thiết bị di động lên", Laney Ho, CEO kiêm đồng sáng lập của tổ chức TENTech Group OU chia sẻ.
+Nền tảng giáo dục TEN
+TEN - (Transparent Enlightened Network) là dự án giáo dục trực tuyến ứng dụng công nghệ chuỗi khối (blockchain), hợp đồng thông minh và trí tuệ nhân tạo (AI). Dự án được xây dựng với tầm nhìn trở thành một nền tảng giáo dục trực tuyến toàn cầu phi tập trung áp dụng công nghệ blockchain được phát triển bởi tổ chức Tentech Group OU.
+Nền tảng hệ sinh thái TEN chú trọng đến giáo dục mang tính nhân văn và minh bạch, đảm bảo toàn vẹn dữ liệu. Nền tảng TEN thay đổi cách mọi người dạy và học bằng việc mở rộng phát triển hệ sinh thái cộng đồng, góp phần mở ra một thời đại mới cho giáo dục trực tuyến trên toàn thế giới.
+TEN - (Transparent Enlightened Network) là dự án giáo dục trực tuyến ứng dụng công nghệ chuỗi khối (blockchain), hợp đồng thông minh và trí tuệ nhân tạo (AI).
+Đội ngũ phát triển nền tảng TEN tự tin có thể mang lại bước phát triển mới trong lĩnh vực giáo dục trực tuyến nói chung và Mobile Learning nói riêng, đặc biệt trong việc cải thiện tỷ lệ hoàn thành khóa học cũng như hiệu quả ứng dụng thực tế.
+Dùng Blockchain để tăng tỷ lệ hoàn thành khóa học trực tuyến
+Thực tế, tỷ lệ hoàn thành các khóa học trực tuyến trên hầu hết nền tảng ngày càng thấp. Một startup về giáo dục trực tuyến từng chia sẻ, có tới 81% học viên đăng ký không thể hoàn thành khóa học, cho dù đã đăng ký và thanh toán toàn bộ các chi phí ngay từ đầu. Tỷ lệ này thậm chí còn gia tăng trong 2 năm gần đây.
+Một số nghiên cứu chỉ ra tỷ lệ hoàn thành thấp này đến từ việc thiếu hụt các khóa học chất lượng. Phần lớn khóa học trực tuyến đều thể hiện rất nhiều người đăng ký học và điểm rating cao nhằm thu hút thêm học viên mới. Điều này đến từ đặc tính cố hữu của việc ghi dữ liệu tập trung, khi dữ liệu hoàn toàn bị kiểm soát bởi một bên, dẫn tới những tiêu cực và thiếu minh bạch.
+Để giải quyết tồn tại trên, nền tảng giáo dục trực tuyến TEN đề cập đến việc ứng dụng công nghệ blockchain: khi người học ghi danh vào một khóa học, dữ liệu được ghi nhận vào nền tảng phi tập trung cho nhiều mục đích sau đó như xác nhận việc đăng ký, nền tảng để thanh toán học phí cũng như ghi nhận đánh giá từ người học một cách minh bạch và công khai. Từ đó gia tăng niềm tin và cho cộng đồng người học.
+Cá nhân hóa học tập bằng trí tuệ nhân tạo
+Với giáo dục trực tuyến và đặc biệt là Mobile Learning, người học sẽ cá nhân hóa việc học tập so với một khóa học tiếp nhận thụ động theo đám đông truyền thống. Đặc biệt, TEN chú trọng vào xây dựng hệ thống giáo trình tiên tiến, cải thiện tốc độ học tập và chiến lược hướng dẫn được tối ưu hóa cho nhu cầu của từng người học.
+Ngoài ra, với việc áp dụng công nghệ trí tuệ nhân tạo (AI) trên nền tảng của mình, TEN có thể cải thiện khả năng tương tác và giảng dạy với từng cá nhân cụ thể, từ đó gián tiếp giúp nền tảng cải tiến hệ thống giáo trình và tạo ra những nội dung mới tối ưu hơn trong chính quá trình tương tác của người học. Các giao thức hoạt động trên hoàn toàn tự động, phi tập trung và không có sự can thiệp của con người.
+Sau hơn hai năm thành lập, đội ngũ 23 thành viên ban đầu của TENTech Group OU đã hoàn thành quá trình nghiên cứu thử nghiệm nền tảng, dự kiến trong quý 3, những phiên bản đầu tiên của nền tảng TEN với những tính năng ưu việt sẽ công bố tới cộng đồng người dùng toàn cầu. Dự án được hơn 30 quỹ đầu tư mạo hiểm và nhà đầu tư thiên thần ký thỏa thuận và cam kết đầu tư. Thời gian tới, đội ngũ phát triển dự án cũng dự kiến huy động được hơn 3 triệu USD từ vòng gọi vốn cộng đồng tiếp theo của mình.
+Thế Đan 

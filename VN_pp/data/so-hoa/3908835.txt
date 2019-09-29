@@ -1,0 +1,17 @@
+TITLE: 8 đội thi vào chung kết cuộc thi Lập trình xe tự hành - VnExpress Số Hóa
+
+KEY WORDS: Cuộc đua số 2018-2019, Cuộc đua số, FPT
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cuộc đua số là cuộc thi về công nghệ tự hành tiên phong tại Đông Nam Á, góp phần đào tạo nguồn nhân lực số. Từ 16 đội thuộc 10 trường đại học, vòng bán kết cuộc thi với chủ đề "Lập trình Xe tự hành" do FPT và VTV đồng tổ chức đã chọn ra 8 đại diện xuất sắc vào chung kết, dự kiến diễn ra tháng 5/2019.
+Khác với vòng loại, ở vòng bán kết, đội thi lập trình thuật toán trên xe mô hình có tỷ lệ bằng 1/7 kích thước thật để giúp xe tự di chuyển trên sa hình với tốc độ cao nhất trong thời gian nhanh nhất cũng như xác định, tránh được vật cản xuất hiện trên đường; nhận dạng và đi đúng theo chỉ dẫn của biển báo. Đặc biệt, các biển báo rẽ tự động thay đổi ngẫu nhiên. Ban tổ chức cũng bổ sung các yếu tố như thay đổi điều kiện ánh sáng, hình dáng vật cản... để thử thách thí sinh.
+Ông Đào Ngọc Chiến, Phó Vụ trưởng Vụ Công nghệ cao - Bộ Khoa học Công nghệ, cho biết: "Trải qua ba mùa thi, chất lượng các đội thi ngày càng tăng lên. Việc ứng dụng các công nghệ mới, công nghệ cốt lõi của cuộc cách mạng 4.0 là một thách thức nhưng các đội thi về cơ bản đã kết hợp tốt. Tôi nghĩ với đội ngũ sinh viên đông đảo và ham học hỏi cái mới nếu có những chương trình đào tạo phù hợp như cuộc thi này thì không lâu nữa, đội ngũ nhân lực cho ngành công nghệ ôtô sẽ được đáp ứng".
+Với chiến thuật chỉnh góc quay của camera để nhìn làn đường rõ hơn, đội UET Fastest dẫn đầu về tốc độ xe chạy trong số bốn đội xuất sắc khu vực miền Bắc. Nguyễn Văn Tùng, thành viên của Đội UET Fastest, chia sẻ: "Khó khăn lớn nhất của vòng bán kết chính là làn đường rộng hơn nhưng góc nhìn của camera không thay đổi và hàng cây che mất làn đường, nên đội em đã có chiến thuật là chỉnh góc quay của camera".
+Một đội đang thi đấu tại vòng bán kết Cuộc đua số ngày 11/4 tại Hà Nội.
+Tám đội xuất sắc vào vào vòng chung kết gồm: UET Fastest (Đại học Công nghệ - Đại học Quốc gia Hà Nội); MTA_R4F (Học viện Kỹ thuật quân sự), Fast and Fiery (Học viện Công nghệ bưu chính viễn thông), PTIT Word.Exe (Học viện Công nghệ bưu chính viễn thông), SQ26 (Đại học Thông tin liên lạc), CDS-NTU2 (Đại học Nha Trang), Dateh IT (Đại học Khoa học Tự nhiên - Đại học Quốc gia TP HCM) và LHU The Walkers (Đại học Lạc Hồng).
+Tại vòng chung kết, các đội thi sẽ phải lập trình để xe có thể di chuyển trên cung đường không được biết trước với tốc độ cao nhất trong điều kiện ánh sáng thay đổi; phải di chuyển qua hầm, khoanh vùng, xác định và tránh được vật cản; tự định vị để tìm kiếm đường đi ngắn nhất.
+Đội vô địch sẽ nhận phần thưởng có giá trị khoảng 1,2 tỷ đồng, trong đó có một chuyến trải nghiệm, tìm hiểu về công nghệ mới tại Mỹ hoặc Nhật Bản, 15 triệu đồng tiền mặt và một suất học bổng Tiến sĩ về ngành Trí tuệ nhân tạo trị giá 700 triệu đồng cho thí sinh xuất sắc. 
+Cuộc đua số 2018-2019 diễn ra từ tháng 10/2018 đến tháng 5/2019 tại Hà Nội và TP HCM. Ông Lê Hồng Việt, Giám đốc Công nghệ FPT, cho biết mục đích của cuộc thi là sau khoảng 5 năm, sinh viên Việt Nam sẽ có đủ kiến thức và năng lực để tự lập trình xe tự hành chạy được trong các nhà máy hay khuôn viên các khu du lịch. 
+Châu An

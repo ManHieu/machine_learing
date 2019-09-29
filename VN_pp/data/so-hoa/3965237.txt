@@ -1,0 +1,16 @@
+TITLE: Huawei ra mắt hệ điều hành riêng HarmonyOS - VnExpress Số Hóa
+
+KEY WORDS: HarmonyOS, HongMeng OS, hệ điều hành, Huawei
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Hệ điều hành mới của Huawei có tên HarmonyOS ở thị trường quốc tế và HongMengOS ở Trung Quốc. Ông Richard Yu, Giám đốc điều hành mảng kinh doanh tiêu dùng của Huawei, cho biết nền tảng gọn, nhẹ, tốc độ cao và mạnh mẽ dựa trên kiến trúc phân tán, mang lại trải nghiệm đơn giản và liền mạch cho người dùng.
+HarmonyOS hỗ trợ đa thiết bị. Ảnh: Huawei.
+Hệ điều hành mới cũng hỗ trợ các nhà phát triển tạo và nâng cấp ứng dụng dễ dàng hơn. Trình biên dịch Huawei Ark cho phép chuyển đổi một loạt ngôn ngữ nâng cao thành mã máy trong một môi trường thống nhất, giảm thời gian chuyển đổi ngôn ngữ lập trình. Ứng dụng tạo ra sẽ tự điều chỉnh để tương thích nhiều loại thiết bị, tùy theo kích thước màn hình. Tuy nhiên, ông Yu chưa nhắc tới khả năng ứng dụng Android có thể tương thích với nền tảng mới ngay từ đầu hay không.
+Theo đại diện Huawei, HarmonyOS là hệ điều hành đầu tiên sử dụng phương thức xác minh ứng dụng an toàn thông qua Môi trường thực thi tin cậy (TEE), giúp cải thiện đáng kể về bảo mật. Nhân của nó có ít mã hơn (khoảng một phần nghìn lượng nhân Linux) nên khả năng bị tấn công giảm đi nhiều.
+Theo lộ trình, phiên bản 1.0 sẽ được cài đặt đầu tiên trên các sản phẩm màn hình thông minh, dự kiến ra mắt cuối năm. Trong ba năm tới, HarmonyOS được tối ưu hóa và dần áp dụng trên một loạt thiết bị thông minh khác, như thiết bị đeo, smartphone, xe hơi...
+"Chúng tôi đang bước vào kỷ nguyên mới, mục tiêu mới với HarmonyOS", ông Yu nói. "HarmonyOS có thể được sử dụng trên một loạt thiết bị, tương thích với mọi nền tảng. Đồng thời, nó còn đáp ứng nhu cầu của người tiêu dùng về độ trễ thấp và khả năng bảo mật mạnh mẽ".
+HarmonyOS được cho là "kế hoạch B" của Huawei nhằm thay thế Android của Google. Trước đó, thương hiệu này đã được đăng ký bản quyền tại châu Âu. Huawei đã phát triển hệ điều hành từ 7 năm trước, nhưng thông tin về nền tảng này chỉ xuất hiện sau khi Mỹ đưa công ty Trung Quốc vào danh sách cấm hồi giữa tháng 5.
+Huawei sẽ hết thời gian gia hạn sử dụng Android vào 19/8. Ngày 8/8, báo Bloomberg đưa tin Nhà Trắng đang trì hoãn quyết định cấp giấy phép Android sau khi Trung Quốc tạm dừng mua hàng nông sản của Mỹ.
+Bảo Lâm

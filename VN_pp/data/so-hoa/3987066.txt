@@ -1,0 +1,15 @@
+TITLE: Apple vội vã ra iOS 13.1 để sửa hàng chục lỗi - VnExpress Số Hóa
+
+KEY WORDS: Apple, iOS 13, iPad OS
+
+TOPIC: số hóa, sản phẩm, iphone 2019
+
+CONTENT: 
+iOS 13.1 được tung ra sáng 25/9, chủ yếu để sửa lỗi.
+Theo những gì Apple liệt kê, bản cập nhật iOS 13.1 sẽ khắc phục hơn 30 lỗi lớn cho iOS 13. Các thiết bị được sửa bao gồm bộ ba iPhone mới, 11, 11 Pro và 11 Pro Max, cũng như nhiều thiết bị đời trước như XS, XS Max hay XR. 
+Trước hết, bản cập nhật sẽ cải thiện các vấn đề như không nhận được thư điện tử, bàn phím ảo bị đơ, khó đăng nhập iCloud hay một số dịch vụ, cũng như trục trặc về sạc và pin trên iPhone. Trên iPhone X, bản cập nhật iOS 13.1 có dung lượng hơn 500 MB. 
+Ngoài sửa lỗi, iOS 13.1 còn bổ sung tính năng gửi AirDrop nhanh hơn trên iPhone 11 nhờ chip U1 mới, thêm tiện ích cho ứng dụng phím tắt (Shortcut) liên quan đến tự động hoá trong nhà thông minh. Ngoài ra, nó còn thêm tính năng quản lý hiệu năng cho iPhone XS, XS Max và XR để tránh tình trạng tắt nguồn đột ngột. 
+Cùng với bản cập nhật dành cho iPhone, Apple cũng tung ra phiên bản iPad OS chính thức đầu tiên cho máy tính bảng. Thực chất, đây là một phiên bản khác của iOS 13 nhưng được tuỳ biến riêng để tối ưu hoá cho iPad. Giao diện và một số tính năng đa nhiệm, quản lý File trên iPad OS khác biệt so với trên iOS này của iPhone. Kể từ phiên bản 13, hệ điều hành iOS được tách ra làm hai với một phiên bản dành riêng cho máy tính bảng và mang tên iPad OS.
+Trong trường hợp đang sử dụng các phiên bản iOS 13 và iPad OS thử nghiệm, iPhone và iPad có thể nâng cấp lên phiên bản chính thức bằng cách xoá Cấu hình (Profile) đã được cài vào trước đó trong phần Cài đặt chung (General Settings).
+Các lỗi lớn gặp phải trên iOS 13 
+Tuấn Anh

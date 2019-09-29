@@ -1,0 +1,16 @@
+TITLE: Học sinh Nghệ An giành giải nhất cuộc thi Think Eco - VnExpress
+
+KEY WORDS: học sinh, Nghệ An, giải nhất, cuộc thi, Think Eco, nghiên cứu khoa học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Vượt qua học sinh 19 trường THPT trên cả nước, nhóm học trò trường THPT Chuyên Phan Bội Châu (Nghệ An) giành giải nhất cuộc thi Think Eco trong khuôn khổ sự kiện STEME, do dự án Đại học VinUni tổ chức ngày 14/7. Dự án "Hệ thống tối ưu đèn giao thông tại ngã tư một chiều" của các em đã gây ấn tượng với Ban giám khảo bởi khả năng ứng dụng thực tế, tính hiệu quả.
+Giải thích lý do thực hiện dự án, đại diện nhóm học sinh cho rằng các hệ thống tín hiệu đèn hiện nay được cài đặt cố định và không thích nghi với những biến động giao thông. Đêm muộn, khi mật độ xe cộ giảm, đèn đỏ vẫn duy trì 50- 60 giây là quá nhiều. Ngược lại, những nút giao có nhiều xe cộ qua lại dù quá 23h hệ thống đèn lại tự động chuyển sang màu vàng nhấp nháy, xe cộ không còn được phân luồng.
+Điểm hạn chế khác là hệ thống đèn giao thông hiện tại chưa ưu tiên cho các luồng có lưu lượng xe lớn, gây ô nhiễm môi trường do thời gian dừng chờ đèn đỏ của xe cộ càng lâu thì lượng khí thải ra môi trường càng lớn. Việc này còn làm gia tăng ô nhiễm tiếng ồn tại các đô thị lớn.
+Thầy và trò trường THPT Chuyên Phan Bội Châu (Nghệ An) đã giành giải nhất cuộc thi. Ảnh: Thanh Hằng
+Trong mô hình của mình, nhóm học sinh sử dụng camera gửi dữ liệu hình ảnh về máy tính Raspbery được hỗ trợ vi xử lý hình ảnh để phân tích lưu lượng xe, sau đó gửi về hệ thống điều khiển. Hệ thống sẽ điều tiết xe cộ dựa trên tỷ lệ lưu lượng và tổng lưu lượng giữa các luồng xe thông qua thuật toán.
+"Điểm mạnh của sản phẩm là nhỏ gọn, có khả năng hoạt động độc lập với cơ chế điều khiển giao thông một cách hợp lý, có thể hỗ trợ được các hệ thống cũ. Ngoài ra, phương pháp học sâu có thể nhận diện những vật thể như ôtô, xe máy một cách chính xác và nhanh chóng", đại diện nhóm nghiên cứu nói. 
+Đồng hành với nhóm học sinh suốt 4 tháng để hoàn thiện dự án, giáo viên hướng dẫn Mai Văn Quyền (trường THPT chuyên Phan Bội Châu) chia sẻ: "Tôi vỡ òa sung sướng khi nhóm giành được giải thưởng cao nhất. Mừng cho học sinh đã thể hiện được mình, giải thưởng rất xứng đáng với các em".
+Thầy Quyền cho biết, hàm số và thuật toán của hệ thống còn sơ khai, để tối ưu cần nghiên cứu sâu hơn. Trong tương lai, thầy trò sẽ tiếp tục hoàn thiện dự án để có thể ứng dụng thực tế và có cơ hội khởi nghiệp bằng mô hình này.
+Thanh Hằng 

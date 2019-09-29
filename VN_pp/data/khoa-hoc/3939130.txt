@@ -1,0 +1,15 @@
+TITLE: Công nghệ laser tiêu diệt tế bào ung thư
+
+KEY WORDS: ung thư, ung thư hắc tố, công nghệ laser, tia laser tiêu diệt tế bào ung thư
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Công nghệ Cytophone thử nghiệm thành công trên người. Ảnh: Independent.
+Các nhà nghiên cứu từ Đại học Y khoa Arkansas, Mỹ (UAMS) hôm 12/6 cho biết đã phát triển và thử nghiệm thành công một loại laser mới có thể tìm và tiêu diệt những tế bào ung thư hắc tố ác tính (melanoma) mà không cần lấy mẫu xét nghiệm. Phương pháp có thể giúp phát hiện sớm các tế bào khối u và ngăn chúng lây lan sang các bộ phận khác trong cơ thể thông qua máu. 
+Công nghệ mới, được đặt tên là Cytophone, sử dụng các xung ánh sáng laser chiếu từ bên ngoài da để đốt nóng các tế bào bị bệnh. Tia laser này chỉ tác động lên các tế bào ung thư hắc tố ác tính mà không làm tổn thương những tế bào khỏe mạnh, vì chúng chứa nhiều hắc tố melanin có tính hấp thụ ánh sáng cao. Cytophone sau đó sử dụng kỹ thuật siêu âm để dò những sóng nhỏ phát ra từ hiệu ứng đốt nóng này, qua đó giúp phát hiện và tiêu diệt các tế bào bị bệnh. 
+Kỹ thuật Cytophone không gây hại cho da mặc dù các tế bào da cũng sản xuất melanin một cách tự nhiên. Điều này là do ánh sáng laser bị tán xạ trên một vùng da rộng lớn, vì vậy nó không tập trung đủ vào các tế bào da riêng lẻ để làm hỏng chúng, các chuyên gia giải thích.
+Nhóm nghiên cứu đã thử nghiệm công nghệ Cytophone bằng cách chiếu tia laser vào tay của 47 tình nguyện viên, trong đó có 19 người khỏe mạnh và 28 bệnh nhân có khối u ác tính. Kết quả cho thấy trong vòng 10 giây đến 60 phút, Cytophone có thể xác định các tế bào ung thư ở 27 trong số 28 bệnh nhân. Công nghệ laser cho thấy độ nhạy gấp 1.000 lần so với các phương pháp lấy mẫu máu xét nghiệm thông thường.
+Trước đây, để kiểm tra sự lây lan của ung thư, các bác sĩ thường phải lấy mẫu máu. Tuy nhiên, phương pháp này thường khó phát hiện các tế bào khối u, nhất là ở những bệnh nhân ung thư giai đoạn đầu. Những trường hợp kết quả xét nghiệm dương tính thường đồng nghĩa với nồng độ cao tế bào khối u lưu hành trong máu, khi đó, ung thư đã di căn sang các cơ quan khác và căn bệnh trở nên "quá muộn" để điều trị, tác giả chính của nghiên cứu, Vladimir Zharov từ UAMS cho biết.
+Nhóm nghiên cứu hy vọng có thể tiếp tục cải thiện công nghệ Cytophone, cho phép dò tìm những tế bào khối u gây ra bởi những căn bệnh ung thư khác ngoài ung thư hắc tố ác tính. Công trình của nhóm nghiên cứu đã được công bố trên tạp chí y học Science Translistic Medicine.
+Đoàn Dương (Theo Live Science) 

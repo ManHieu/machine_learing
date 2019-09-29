@@ -1,0 +1,25 @@
+TITLE: Nam sinh lớp 10 quyết tâm thành lập trình viên khi học hết phổ thông - VnExpress
+
+KEY WORDS: funix, funix way, lập trình viên
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+Có sở thích đặc biệt với lĩnh vực công nghệ, Nguyễn Đình Anh, sinh năm 2003 bắt đầu học lập trình từ sớm. Năm lớp 7, cậu đã tham gia khóa học Java tại một trung tâm tin học và tự học trực tuyến các ngôn ngữ lập trình. Lớp 8, cậu bắt đầu mày mò tự làm những ứng dụng đơn giản như phần mềm luyện tiếng Anh, cùng lập nhóm thực hiện chung một số ứng dụng... để thỏa mãn sở thích code.
+Năm 2018, vừa bước vào lớp 10, đam mê lập trình của Đình Anh trở nên rõ rệt, cậu học sinh 16 tuổi quyết tâm tìm một trung tâm với mục đích kiếm các chứng chỉ nghề CNTT để học đủ kỹ năng đi làm luôn khi tốt nghiệp cấp 3, không mất thêm 4 năm đại học.
+Tình cờ, Đình Anh biết đến mô hình học trực tuyến - vừa học vừa làm vẫn có bằng đại học tại FUNiX. Thấy chương trình và cách học hợp với mục tiêu, nam sinh lớp 10 đã đăng ký học ngay.
+Nguyễn Đình Anh nhận giải "Công dân FUNiX tích cực" tại xDay.
+"Hình thức đào tạo online giúp tôi chủ động về thời gian và rèn luyện kỹ năng tự học. Bản thân tôi thích tự học hơn nên phương pháp FUNiX Way không hề lạ lẫm", Nguyễn Đình Anh chia sẻ.
+Có mục tiêu rõ ràng và đam mê lập trình, dù mới vào học được vài tháng, nam sinh Hà Nội để lại nhiều ấn tượng. Đình Anh thể hiện sự chủ động học và hỏi khi là một gương mặt năng nổ chia sẻ trong cộng đồng xTer (sinh viên FUNiX). Từ những chia sẻ trong học tập, làm bài mà cậu tự nghiệm ra, đến việc tự mày mò code giúp việc học tập hiệu quả hơn. "Đây là cách để tôi vừa ôn lại kiến thức, vừa làm quen với các xTer khác", Đình Anh cho biết.
+Mới đây, cậu bạn "khoe" sản phẩm bài tập lớn của môn Xây dựng website đầu tiên (Chứng chỉ một - Công dân số), là một trang web về Hà Nội được đầu tư công phu về hình ảnh và thông tin. "Sinh ra và lớn lên tại Hà Nội, yêu thích phong cảnh, văn hóa, lịch sử Thủ đô nên tôi rất muốn làm một website riêng về địa danh này. Mỗi ngày tôi dành 30 phút đến một tiếng cho việc làm và chỉnh sửa website, tự mày mò tìm hiểu trên google, bí thì hỏi mentor. Mất khoảng hai tuần thì hoàn thiện", Đình Anh nói.
+Chương trình học ở trường phổ thông chiếm khá nhiều thời gian nên nam sinh dành thời gian nghỉ buổi tối để học FUNiX. Chia sẻ bí quyết học hiệu quả, Đình Anh nói: "Trước tiên, tôi xem bài giảng ở trên trang học trực tuyến của trường, sau đó bắt đầu kiếm các tài liệu bên ngoài để tìm hiểu thêm. Cuối cùng áp dụng với những bài tập thực hành lớn (Assignment -ASM) để củng cố lại kiến thức".
+Bài tập lớn "Xây dựng website đầu tiên" của xTer Nguyễn Đình Anh.
+Khá thành thạo với các nguồn tài liệu lập trình trên mạng, Đình Anh thường tự tìm tòi thêm kiến thức về ngôn ngữ lập trình ở một số trang như Document của ngôn ngữ đó, hoặc trên các trang chia sẻ kiến thức công nghệ như Stackoverflow, Viblo, Kpalog... Trong quá trình code, chỗ nào khó hiểu, cậu thường tự tra Google trước, khi nào bí quá thì hỏi mentor.
+"Hầu hết mentor giải thích cơ bản, sau đó chia sẻ cho tôi một số link để đọc chuyên sâu hơn. Mentor không làm giúp, chỉ dẫn hướng tôi tới những nguồn kiến thức đúng với mong muốn tìm hiểu của mình. Tôi thấy cách này rất hiệu quả vì vừa nâng cao tiếng Anh, vừa khiến tôi chủ động có thêm kiến thức", Đình Anh chia sẻ về cách học với mentor.
+Được cả bố và mẹ ủng hộ việc học lập trình trực tuyến song song với chương trình phổ thông, cuối tháng một, vừa xong học kỳ đầu lớp 10 cũng là lúc Đình Anh hoàn thành Chứng chỉ 1 - Chứng chỉ Công dân số tại FUNiX. Hiện, cậu theo học Chứng chỉ 2 – Lập trình viên Ứng dụng Mobile.
+Nam sinh gắng phân chia thời gian học cả trên lớp và tại FUNiX để đẩy nhanh tiến độ, đặt mục tiêu khi hoàn thành chương trình phổ thông sẽ trở thành Lập trình viên tại FPT Software. Sau đó tiếp tục theo đuổi việc học online để sở hữu bằng đại học Kỹ sư kỹ thuật phần mềm.
+"Tự học chắc chắn sẽ gặp nhiều vấn đề, vì vậy đừng bao giờ từ bỏ khi gặp khó khăn. Tôi tin rằng khi còn trẻ, còn sức thì hãy theo đuổi đam mê bằng nhiều cách khác nhau để sau này không phải hối tiếc", Đình Anh chia sẻ quyết tâm của mình.
+Thanh Nga
+Ra đời năm 2015, Đại học trực tuyến FUNiX thuộc hệ thống FPT Education hiện có hơn 2.000 sinh viên. Với phương thức học chủ động và ưu tiên hướng nghiệp, có sự dẫn dắt của đội ngũ mentor, FUNiX giúp các bạn trẻ đam mê công nghệ thông tin ở mọi lứa tuổi sớm trở thành lập trình viên. Nhiều sinh viên hiện là học sinh phổ thông, trẻ nhất là 12-13 tuổi. Sinh viên chỉ mất hai năm để lấy bằng đại học, nhiều người có việc làm sau hai học kỳ đầu.
+Tìm hiểu về chương trình tuyển sinh của FUNiX tại đây.
+ 

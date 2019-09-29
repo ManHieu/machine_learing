@@ -1,0 +1,24 @@
+TITLE: Bốn lý do nên sử dụng blockchain trong ngành bán lẻ - VnExpress Kinh Doanh
+
+KEY WORDS: blockchain, ứng dụng blockchain, tiềm năng blockchain
+
+TOPIC: kinh doanh, thương mại điện tử
+
+CONTENT: 
+Nhiều hãng bán lẻ trên thế giới đang thử nghiệm và ứng dụng blockchain vào hoạt động kinh doanh như Walmart, Amazon, Unilever hay Nestle. Bằng việc tích hợp blockchain vào quy trình vận hành hàng ngày, các công ty có thể tạo cơ hội mới cho chính doanh nghiệp, khách hàng, nhờ những lợi ích sau:
+Bảo mật thông tin khách hàng
+Với một doanh nghiệp, lỗ hỏng về dữ liệu đồng nghĩa thông tin khách hàng có thể bị xâm nhập, lấy cắp. Khi đó, uy tín thương hiệu gầy dựng cũng đứng trước nguy cơ sụp đổ. Trong ngành bán lẻ, khách hàng thường cung cấp dữ liệu cá nhân cho các công ty mà họ tương tác. Sau đó doanh nghiệp đưa dữ liệu vào hệ thống nền tảng của mình nhưng điều này cũng tạo nguy cơ tiềm tàng về tính an toàn trong bảo mật.
+Bằng việc sử dụng công nghệ blockchain, các nhà bán lẻ có thể lưu trữ thông tin quan trọng trong một thư mục phi tập trung, giúp dữ liệu luôn trong tình trạng không thể bị xâm nhập. Doanh nghiệp có thể giới hạn những người có thể truy cập tập tin với sự đồng thuận các bên.
+Cải thiện chương trình khách hàng thân thiết
+Thông thường, khách hàng quên số điểm mình đã tích lũy theo tháng hoặc năm từ các chương trình dành cho thành viên. Với công nghệ blockchain làm nền tảng, các nhà bán lẻ có thể đưa ra điểm tích lũy số hóa. Với khoản tiền điện tử này, khách hàng có thể dùng để đầu tư hay chi cho bất cứ món đồ nào họ muốn.
+Khách hàng thường sẽ quay lại nếu họ biết ví điện tử của mình có thể tăng thêm giá trị. Ngoài cải thiện trải nghiệm và khuyến khích người tiêu dùng quay lại, hệ thống blockchain cũng cho phép các nhà bán lẻ thu hút thế hệ người mua sắm trẻ - nhóm người rất hứng thú với tiền điện tử và các công nghệ blockchain.
+Các nhà bán lẻ có thể tận dụng công nghệ blockchain để rút ngắn khoảng cách với khách hàng. Ảnh: NYTimes.
+Thanh toán và thương mại điện tử
+Blockchain được biết đến nhiều nhất bởi hệ thống giao dịch tiền điện tử an toàn. Thông qua công nghệ này, các nhà bán lẻ có thể thực hiện quy trình thanh toán số, cho phép thanh toán xuyên biên giới và mở rộng các lựa chọn thanh toán thương mại điện tử để mang đến nhiều lựa chọn hơn cho khách hàng. Blockchain cũng cung cấp bản ghi nhớ điện tử để các quy trình diễn ra suôn sẻ, tức thời và hoàn trả tự động.
+Tầm nhìn chuỗi cung ứng
+Khách hàng ngày nay thường rất quan tâm đến nguồn gốc của sản phẩm và tác động của chúng với môi trường cũng như hệ sinh thái. Vì vậy, việc có thể biết được toàn bộ quy trình chuỗi cung ứng cho một sản phẩm cuối cùng trên tay khách hàng là yếu tố quan trọng. Với công nghệ blockchain, thông tin là không thể thay thế, toàn bộ quy trình được hiển thị trên hệ thống, nhờ đó đưa ra bức tranh toàn cảnh từng bước của một chuỗi quy trình. Vì vậy, khách hàng và nhà bán lẻ đều có thể theo dõi hàng hóa ở từng mắt xích trong một chuỗi cung ứng.
+Ví dụ một siêu thị sử dụng hệ thống blockchain có thể cho bạn biết ai đã làm món salad đóng gói bạn đang cầm trên tay và họ đã thực hiện nó ở đâu. Ngoài ra, công nghệ cũng cung cấp cho bạn thông tin cụ thể về nguồn gốc từng loại nguyên liệu để làm nên món salad đó. Việc này có thể giúp thắt chặt mối quan hệ giữa nhà bán lẻ và khách hàng cũng như giảm thiểu nguy cơ hàng giả với một số sản phẩm thuộc ngành hàng xa xỉ, dược phẩm hay đồ cổ.
+Trương Sanh (tổng hợp)
+Nhằm hỗ trợ các doanh nghiệp, tổ chức hoặc cá nhân có thêm kiến thức về blockchain ứng dụng, VnExpress tổ chức khóa học "Blockchain - Nền tảng tỷ đô" trênewiki.vnexpress.net. Khóa học do ông Cris D. Tran - Giám đốc quốc gia của công ty tư vấn, cung cấp giải pháp blockchain Infinity Blockchain Ventures (IBV) dẫn dắt.
+Khóa học gồm 12 bài giảng qua video và một tài liệu tổng hợp cuối khóa. Mỗi video kéo dài khoảng 5-10 phút, cập nhật những thông tin, kiến thức mới nhất về blockchain, các ứng dụng trên thực tế và cách thức vận dụng phù hợp nền tảng này vào hoạt động của doanh nghiệp. Ngoài ra, khóa học cũng cung cấp kiến thức chuyên sâu về ba nền tảng tiền mã hóa phổ biến nhất hiện nay, gồm bitcoin (BTC), ethereum (ETH) và cardano (ADA). Tìm hiểu thêm về khóa họctại đây.
+	

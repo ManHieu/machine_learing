@@ -1,0 +1,16 @@
+TITLE: Apple ra mắt thẻ tín dụng không số tài khoản, không mã CVV mang tên Apple Card - VnExpress Số Hóa
+
+KEY WORDS: Apple Card, thẻ tín dụng
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo The Verge, cùng với các dịch vụ đọc báo, truyền hình và chơi game được công bố đêm qua (25/3), Apple cũng giới thiệu thẻ tín dụng mới mang tên Apple Card để hỗ trợ người dùng thanh toán tại những nơi chưa hỗ trợ Apple Pay.
+Để có Apple Card, người dùng có thể đăng ký từ ứng dụng Apple Wallet trên iPhone. Qua ứng dụng này, người dùng cũng có thể theo dõi việc mua hàng, kiểm tra số dư và xem khi nào hóa đơn của mình đáo hạn ngay từ ứng dụng.
+Chỉ có tên chủ tài khoản được in trên Apple Card. Ảnh The Verge
+Đi kèm là một thẻ cứng bằng titan, với họ tên người dùng được khắc bên trên. Tuy nhiên, trên thẻ không có dãy số tài khoản, mã bảo mật CVV, ngày hết hạn hoặc chữ ký. Tất cả thông tin ủy quyền này được lưu trữ trực tiếp trong ứng dụng Apple Wallet. Chiếc thẻ vật lý này cũng được ghi nhận là sản phẩm vật lý mỏng và nhẹ nhất của Apple.
+Thay vì các chương trình tặng thưởng dựa trên điểm, Apple Card hoàn tiền mặt thẳng vào tài khoản người dùng. Cụ thể, mỗi khi sử dụng thẻ này để thanh toán qua Apple Pay, người dùng sẽ được hoàn trả 2% giá trị mua hàng bằng tiền vào tài khoản. Đối với các khoản mua hàng trực tiếp từ Apple, số tiền hoàn trả là 3%. Tuy nhiên, các giao dịch mua được thực hiện qua thẻ vật lý sẽ chỉ được hoàn trả 1% tiền mặt.
+Apple cam kết về bảo mật thông tin người dùng cả trên thẻ vật lý lẫn ứng dụng kỹ thuật số đi kèm. Ảnh The Verge
+Hai đối tác lớn cùng phối hợp phát hành thẻ tín dụng này với Apple là Goldman Sachs và Mastercard. Apple cũng hứa hẹn người dùng sẽ không phải trả phí hàng năm, phí thanh toán quốc tế cũng như phí trễ thanh toán. Tuy nhiên, công ty lưu ý các khoản thanh toán trễ hoặc thiếu sẽ dẫn đến việc tích lũy thêm tiền lãi phải trả của khách hàng.
+Giống như nhiều sản phẩm khác của Apple, sự riêng tư là yếu tố được nhà sản xuất cam kết một cách chắc chắn. Theo Jennifer Bailey, Phó chủ tịch Apple Pay, không một ai biết được những gì người dùng đã mua, mua ở đâu và phải trả bao nhiêu cho chúng. Bởi tất cả các thông tin này được lưu trữ trực tiếp trên thiết bị, không phải máy chủ Apple. Công ty cũng thay mặt Goldman Sachs hứa hẹn sẽ không bao giờ bán dữ liệu của người dùng cho các bên thứ ba để tiếp thị và quảng cáo. 
+Bảo Nam

@@ -1,0 +1,21 @@
+TITLE: Đáp án bài toán tìm số điện thoại của kỳ thi Kangaroo - VnExpress
+
+KEY WORDS: bài toán, tìm số điện thoại, kỳ thi kangaroo, kỳ thi toán lớn nhất thế giới, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 30: TELEPHONE NUMBER
+Problem: In my phone book, the telephone number of my friend Ekin has six digits, but it must be a seven-digit number as are all phone numbers in his area. I have no idea what digit I forgot to write down, or its position in the number. How many numbers do I have to dial to be certain that I will call Ekin's number? (Note that in Ekin's area phone numbers may start with any digit, including 0).
+Dịch đề: Trong danh bạ điện thoại của tôi, số điện thoại của bạn tôi Ekin là số có sáu chữ số. Tuy nhiên, đáng lẽ nó phải là số có bảy chữ số giống như các số điện thoại khác trong khu vực Ekin sống. Tôi không biết tôi đã quên viết chữ số nào và ở vị trí nào. Hỏi tôi phải thử gọi bao nhiêu số điện thoại thì mới chắc chắn tìm được số điện thoại của Ekin? (Lưu ý: trong khu vực Ekin sống, số điện thoại có thể bắt đầu bằng bất kỳ chữ số nào, kể cả số 0).
+Lời giải
+Gọi số điện thoại ghi trong danh bạ là abcdef. Khi đó, chữ số còn thiếu có thể nằm tại 1 trong 7 vị trí dấu cách trong chuỗi ký tự (- a - b - c - d - e - f -) và mỗi dấu gạch ngang có thể nhận 1 trong 10 giá trị từ 0 đến 9. Vì vậy, nếu thử gọi cho 7 × 10 = 70 số điện thoại, chắc chắn sẽ tìm được số điện thoại của Ekin. 
+Tuy nhiên, nếu vậy sẽ có một vài số điện thoại được gọi hai lần. Đó là các số có hai chữ số liền kề giống nhau: aabcdef, abbcdef, abccdef, abcddef, abcdeef và abcdeff. Ví dụ, số aabcdef sẽ được gọi lần đầu khi ta coi chữ số a đầu tiên là chữ số còn thiếu, và được gọi lần hai khi ta coi chữ số a thứ hai là chữ số còn thiếu.
+Suy ra mỗi số trong 6 số điện thoại nói trên đều sẽ được tính hai lần. Vậy số điện thoại của Ekin là một trong 70 – 6 = 64 số điện thoại khác nhau.
+Khi đó chỉ cần gọi tối đa 64 – 1 = 63 cuộc điện thoại là xác định được số của Ekin.
+Solution
+Let abcdef be the number in the phone book. There are 7 possible positions (- a - b - c - d - e - f -) and 10 possible values (from 0 to 9) for the missing digit. So if we try all of these 7 × 10 = 70 possibilities, we will definitely call Ekin.
+However, there are some numbers that we will dial more than once. Those are numbers that have two similar consecutive digits such as aabcdef, abbcdef, abccdef, abcddef, abcdeef and abcdeff. The reason is because, for example, aabcdef will be dial when either the first a is the missing digit or the second a is the missing digit. So each of these numbers will be counted twice.
+Then there will be 6 phone numbers, each of which is dialed twice.
+Thus, Ekin’s number will be one among 70 – 6 = 64 different telephone numbers.
+So the real necessary number of phone numbers that must be dialed is 64 – 1 = 63. 

@@ -1,0 +1,16 @@
+TITLE: iPhone 2019 có thể dùng cổng USB-C - VnExpress Số Hóa
+
+KEY WORDS: iPhone 11, iPhone 2019, iPhone XI, USB-C, Lightning
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Một số người dùng bản thử nghiệm iOS 13 khi khôi phục iPhone phát hiện Apple sử dụng hình minh họa là cáp USB-C. Thông tin này củng cố các tin rò rỉ trước đây rằng Apple sẽ dùng chuẩn này thay cho cổng Lightning vốn được công ty công nghệ Mỹ sử dụng độc quyền từ 2012 với mẫu iPhone 5.
+Phần restore trên iOS 13 được Apple minh họa bằng cáp USB-C.
+USB-C bắt đầu được Apple sử dụng từ 2015 với dòng MacBook, sau đó mở rộng ra các mẫu máy tính xách tay khác và riêng dòng iPad Pro. Với việc sẽ thay cổng Lightning bằng USB-C trên iPhone thế hệ mới, các thiết bị trong hệ sinh thái của Apple trở nên tương thích tốt hơn, không còn phụ thuộc nhiều vào cổng chuyển (adapter).
+Về phía người dùng, sự thay đổi này trước mắt có thể khiến các phụ kiện hiện tại dùng cổng Lightning trở nên vô dụng. Tuy nhiên về lâu dài, việc sử dụng chuẩn chung USB-C sẽ giúp mở rộng số lượng phụ kiện, tăng khả năng kết nối và giảm giá thành do không còn bị độc quyền như trước đây.
+Cáp Lightning xuất hiện trên iOS 12.
+USB Type-C không phải là một tiêu chuẩn USB mới giống như USB 1.1, USB 2.0, USB 3.0 hay mới nhất hơn USB 3.1. Các tiêu chuẩn trên tập trung vào cải tiến tốc độ và tính năng trong khi Type-C đơn thuần là về mặt thiết kế vật lý giống như hai chuẩn khá phổ biến với điện thoại di động là microUSB và miniUSB. Tuy nhiên, đây cũng chính là lý do mà loại kết nối này được ưa chuộng đến vậy.
+Phần kết nối của Type-C chỉ có kích thước tương đương với microUSB và nhỏ hơn khá nhiều với cổng thông dụng USB Type-A hoặc Micro B hiện nay. Đặc biệt, Type-C có thiết kế đối xứng khiến người dùng có thể cắm đầu cáp theo cả hai chiều thay vì phải để ý đầu trên hay đấu dưới như cũ. Điều này tương tự với cổng Lightning của Apple.
+Về mặt kết nối, Type-C cũng ưu việt hơn so với phần lớn kết nối trên thị trường hiện nay do sử dụng trên nền tảng USB 3.1. Các máy hay thiết bị tích hợp có thể truyền dữ liệu với tốc độ tối đa lên tới 1,25 GB/giây, gấp đôi so với USB 3.0. Ngoài ra, Type-C cũng có thể truyền tải điện với công suất cao nhất là 100 Watt, qua đó hỗ trợ sạc nhanh hơn.
+Bảo Anh (theo Sina)

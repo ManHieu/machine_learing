@@ -1,0 +1,12 @@
+TITLE: Hạ tầng và dịch vụ web Huawei chứa lỗ hổng nghiêm trọng - VnExpress Số Hóa
+
+KEY WORDS: Huawei, lỗ hổng bảo mật, hacker
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Cơ sở hạ tầng và ứng dụng web của Huawei có mặt tại nhiều quốc gia trên thế giới. Ảnh: Fortune.
+Theo BGR, lỗ hổng được tìm thấy bởi các nhà nghiên cứu thuộc công ty an ninh mạng Swascan của Italy. Với "cửa ngõ" này, kẻ xấu có thể lợi dụng để xâm nhập và đánh cắp thông tin cá nhân, hoạt động thường xuyên của người dùng dịch vụ cũng như dữ liệu nhạy cảm khác.
+Bên cạnh đó, lỗ hổng cũng cho phép kẻ tấn công có thể đọc được các thông tin trên bộ nhớ đệm, ghi đè thông tin, thu thập dữ liệu từ xa, hoặc gây ra sự cố không mong muốn. Swascan đã gửi cảnh báo cho Huawei trước khi công bố thông tin này.
+Trước đó, Finite State - công ty bảo mật của Mỹ - đã tiến hành phân tích thiết bị mạng doanh nghiệp của Huawei và nhận thấy hơn một nửa trong số các firmware có chứa ít nhất một "cửa hậu" (backdoor) tiềm năng, tức lỗ hổng mà hacker có thể lợi dụng để tấn công. Một báo cáo từ WSJ cũng cho thấy, thiết bị viễn thông của Huawei dễ bị tấn công hơn so với sản phẩm tương tự từ những công ty khác.
+Bảo Lâm (theo BGR)

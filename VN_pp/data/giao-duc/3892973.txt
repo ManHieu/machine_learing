@@ -1,0 +1,11 @@
+TITLE: Bài toán chuyển động ngược chiều trong đề APMOPS 2015 - VnExpress
+
+KEY WORDS: bài toán chuyển động ngược chiều, đề APMOPS 2015, đố vui, toán học, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 29: Opposite-direction Motion Problems
+Problem: Alan and Betty started running towards each other at the same instant, from cities A and B respectively. It is known that the ratio of Alan’s speed to Betty’s is 3:2. Given that station C is between the two cities, Alan and Betty reached C at 09h and 19h respectively. At what time did Alan and Betty meet? (Write your answer using the 4-digit format. For example, if your answer is 14:35, please write 1435).
+Ảnh: Executivestyle
+Dịch đề: Alan and Betty cùng lúc bắt đầu chạy về phía nhau từ thành phố A và B tương ứng. Tỷ lệ vận tốc của Alan và Betty là 3:2. Ga C nằm giữa hai thành phố, Alan và Betty đến C lần lượt vào lúc 09h và 19h. Hỏi Alan và Betty gặp nhau lúc mấy giờ? (Viết đáp án của bạn dưới dạng 4 chữ số, ví dụ nếu đáp án của bạn là 14:35, hãy viết 1435). 

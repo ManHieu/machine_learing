@@ -1,0 +1,13 @@
+TITLE: Việt Nam đứng thứ hai thế giới về số lượt bị tấn công mạng - VnExpress Số Hóa
+
+KEY WORDS: An ninh mạng, Kaspersky, tấn công mạng
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Bản đồ theo dõi an ninh mạng toàn cầu thời gian thực của Kaspersky ngày 23/1/2019.
+Theo bản đồ theo dõi an ninh mạng toàn cầu của Kaspersky, nếu tính số lượng lây nhiễm mã độc, trung bình mỗi ngày trong tháng 1/2019, Việt Nam đã hứng chịu tới hơn 800.000 lần. Riêng ngày 21/1, số lượng một ngày lên đến gần 900.000. Còn nếu tính theo tỷ lệ người dùng Internet, 21,5% người dùng ở Việt Nam phải đối mặt với các mối đe doạ tấn công mạng thời gian qua.
+Bên cạnh chịu tác động, Việt Nam cũng đang trở thành nguồn phát tán mối đe doạ bảo mật lớn trên thế giới. Trong quý IV/2018, đã có 992.952 cuộc tấn công trực tuyến xuất phát từ Việt Nam. 
+Nằm trong nỗ lực hỗ trợ Việt Nam trở thành đất nước an toàn khi tham gia không gian mạng, Kaspersky cho biết đã ký kết biên bản ghi nhớ hợp tác với Trung tâm an ninh mạng Quốc gia Việt Nam (NCSC).
+Hãng bảo mật này sẽ cho phép NCSC và các cơ quan liên quan khác xem xét mã nguồn, cập nhật và kiểm tra các thành phần khác trong các sản phẩm Kaspersky Lab thông qua Trung tâm minh bạch tại Zurich (Thuỵ Sỹ). Họ cũng chia sẻ thông tin và dữ liệu thông qua Trung tâm an ninh mạng Quốc gia Việt Nam, hỗ trợ lẫn nhau trong các cuộc điều tra tội phạm theo hướng dẫn và giám sát của NCSC và các cơ quan liên quan.  
+Tuấn Anh

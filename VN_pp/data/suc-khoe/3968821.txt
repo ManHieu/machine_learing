@@ -1,0 +1,14 @@
+TITLE: Đoán ý muốn trẻ sơ sinh qua tiếng khóc bằng trí tuệ nhân tạo - VnExpress Sức Khỏe
+
+KEY WORDS: trí tuệ nhân tạo, giải mã tiếng khóc, trẻ sơ sin, h tiếng khóc của trẻ sơ sinh, nhà nghiên cứu
+
+TOPIC: sức khỏe, tư vấn
+
+CONTENT: 
+Thuật toán trí tuệ nhân tạo này được nhóm nhà khoa học tại khoa Kỹ thuật Điện và Sinh học thuộc trường Đại học Northern Illinois (Mỹ) thiết kế để nhận biết nhu cầu của những đứa trẻ dựa trên tiếng khóc của chúng.
+Công nghệ này có thể phân biệt và ghi lại đặc điểm từng tiếng khóc khác nhau, sau đó phân tích tại sao trẻ khóc bao gồm thông báo ốm, cơ thể khó chịu, đói bụng hoặc cần ôm ấp. Các vấn đề y tế liên quan đến tiếng khóc bất thường như đau, nhiễm trùng, viêm phổi... cung cấp thông tin quan trọng cho cha mẹ và nhân viên y tế.
+Tiếng khóc có nhiều thông tin liên quan đến sức khỏe của trẻ. Ảnh: Shutterstock
+Tiến sĩ Lichuan Liu, một trong những tác giả nghiên cứu, cho biết giống như một ngôn ngữ đặc biệt, có rất nhiều thông tin liên quan đến sức khỏe trong âm thanh khóc của trẻ. Những khác biệt này được thể hiện bằng các tiếng kêu khác nhau. 
+"Thuật toán tập trung vào các đặc điểm như thời gian và tần suất khóc. Chúng tôi có thể giải mã tiếng khóc của trẻ ngay cả trong môi trường ồn ào", ông Liu nói.
+Các nhà khoa học cho biết mục tiêu của nghiên cứu giúp bé khỏe mạnh hơn, làm giảm áp lực cho phụ huynh và những người chăm sóc trẻ em, có ý nghĩa quan trọng đối với lĩnh vực y học và xã hội. Họ tiếp tục phát triển để hoàn thiện hệ thống và sớm có những thử nghiệm mới.
+Cẩm Anh (Theo NewsWeek) 

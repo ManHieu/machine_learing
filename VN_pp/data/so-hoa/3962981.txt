@@ -1,0 +1,16 @@
+TITLE: Phần lớn ứng dụng diệt virus trên Android vô dụng - VnExpress Số Hóa
+
+KEY WORDS: ứng dụng diệt virus
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Forbes, các chuyên gia về bảo mật đã thực hiện một thử nghiệm về khả năng bảo vệ điện thoại của những ứng dụng diệt virus có hơn 28 triệu lượt tải trên nền tảng Android. Kết quả nhận được thực sự bất ngờ, khi nguồn gốc của các vấn đề bảo mật của điện thoại Android lại đến từ những ứng dụng này.
+Một số ứng dụng diệt virus còn nhúng trình theo dõi người dùng. 
+Nghiên cứu được thử nghiệm riêng biệt trên 21 ứng dụng diệt virus của nền tảng Android. Gần một nửa (47%) trong số đó, thất bại trong thử nghiệm. Ngoài ra, 3 ứng dụng có chứa lỗi bảo mật nghiêm trọng làm lộ sổ địa chỉ của người dùng (ước tính gần một triệu liên hệ) và cho phép hacker "dễ dàng vô hiệu hóa thiết bị" từ xa. Ngoài việc không thể phát hiện ra virus, đa số các ứng dụng này đều bị nhúng trình theo dõi người dùng. 
+Khaled Sakr, một chuyên gia bảo mật và người chịu trách nhiệm thử nghiệm, cho biết, đã kiểm tra từng ứng dụng diệt virus và xem xét khả năng bảo vệ thực sự của chúng. Kết quả cho thấy, người dùng chỉ đơn giản là không nhận được những gì mô tả về ứng dụng trong CH Play từ các nhà phát triển. Bên cạnh đó, một số lỗi bảo mật nghiêm trọng đã được tìm thấy trong 3 ứng dụng diệt virus. Hiện tại, các chuyên gia cũng xác nhận các lỗ hổng này đã được sửa chữa bởi nhà phát triển ứng dụng, trước khi báo cáo được công bố chính thức.
+Một phần của vấn đề là thực sự không có đủ virus và phần mềm diệt virus di động để đáp ứng cho quy mô của thị trường di động. Điều này có thể thấy thông qua báo cáo của Kaspersky vào năm 2018. Công ty hàng đầu về bảo mật này cho biết, đã chặn hơn 116,5 triệu cuộc tấn công bằng phần mềm độc hại di động và phát hiện hơn 5 triệu gói cài đặt phần mềm độc hại, trên cả nền tảng Android và iOS.
+Những con số mà Kaspersky thống kê, cho thấy phần mềm độc hại trên di động là mối đe dọa thực sự đối với người dùng hiện nay. Nhiều bằng chứng nổi bật về các mối đe dọa khác như ransomware tấn công smartphone Android thông qua các tin nhắn văn bản SMS, hoặc 25 triệu điện thoại Android bị nhiễm phần mềm độc hại ẩn trong WhatsApp... Các chuyên gia vẫn khuyên người dùng Android nên cài đặt ứng dụng chống phần mềm độc hại từ những công ty bảo mật nổi tiếng.
+"Mọi lỗ hổng mà được tìm thấy đều liên quan đến các hệ thống quét virus trong thực tế", báo cáo nói. Cho nên, việc xuất hiện nhiều hơn các vấn đề bảo mật không thể chỉ đổ lỗi cho quy mô thị trường quá lớn, mà còn do các nhà phát triển chưa tập trung vào cải tiến tính năng trên ứng dụng diệt virus của họ.
+Chỉ riêng trong tháng 7, đã có hơn 201 ứng dụng độc hại được tải xuống từ cửa hàng CH Play với số lượt tải lên tới 32 triệu lần.
+Ngọc Bình (theo Forbes)

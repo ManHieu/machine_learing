@@ -1,0 +1,17 @@
+TITLE: Chuyên gia đánh giá Mac Pro giá 6.000 USD của Apple thế nào - VnExpress Số Hóa
+
+KEY WORDS: Apple Mac Pro, chuyên gia, đánh giá
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Mac Pro là máy tính mạnh nhất từ trước đến nay của Apple. Máy có giá khởi điểm 6.000 USD, phiên bản cấu hình cao nhất lên tới vài chục nghìn USD. Máy tính này không dành cho đại đa số người dùng, mà chỉ cho những studio lớn, các nhà sáng tạo như nghệ sĩ, nhà làm phim, đồ họa... Tuy vậy, không ít chuyên gia cho rằng nó chưa phải là sản phẩm tốt nhất.
+Apple Mac Pro có giá khởi điểm lên đến 6.000 USD. Ảnh: The Verge.
+Đối với những người thường xuyên làm việc với các hiệu ứng hình ảnh và 3D, việc Mac Pro không hỗ trợ card đồ họa Nvidia là nhược điểm. Patrick Longstreth, Giám sát viên VFX chương trình truyền hình Adam Ruins Everything và loạt phim hài Pen15 nổi tiếng của Mỹ, cho biết, PC mới của Apple không đủ thuyết phục anh chuyển từ thiết bị khác sang do không hỗ trợ đồ họa của Nvidia. "Tôi cần một thiết bị có khả năng xử lý hình ảnh 3D nặng và video độ phân giải cao. Tuy vậy, máy Mac mới thiếu hỗ trợ card đồ họa Nvidia là một sự thất vọng lớn. Tôi có lựa chọn khác tốt hơn với nửa giá mà Apple công bố", Longstreth nhận xét.
+Theo The Verge, Longstreth nhận xét hoàn toàn có cơ sở. Apple trong nhiều năm đã không dùng card đồ họa GeForce của Nvidia, thay vào đó là Radeon của AMD do chi phí rẻ hơn. Tuy nhiên, giá rẻ hơn cũng đi kèm với sức mạnh thấp hơn. Không những vậy, sản phẩm của AMD còn thiếu các trình hỗ trợ 3D cũng như các drive tăng tốc GPU khác.
+Tại WWDC 2019, Apple đã công bố danh sách đối tác cam kết hỗ trợ Mac Pro và API (giao diện lập trình ứng dụng) của nó. Trong số đó, nổi bật có Metal - công ty đứng sau các phần mềm 3D như Octane và Redshift. Hai ứng dụng này được xây dựng bằng card đồ họa của Nvidia, nhưng sẽ viết lại để tương thích với sản phẩm của AMD.
+Tuy nhiên, động thái của Apple vẫn bị nghi ngờ. Grayson Blackmon, biên tập viên mảng đồ họa của The Verge cho rằng sẽ rất khó để các nhà phát triển sử dụng những thứ công ty Mỹ sắp tung ra, đơn giản là chúng còn ở phiên bản đầu tiên và khả năng sẽ tồn đọng rất nhiều lỗi. "Khi làm việc với các dự án lớn, bạn không thể mạo hiểm, nhất là khi đã bỏ ra rất nhiều tiền", Blackmon chia sẻ.
+Một số chuyên gia cho rằng, Mac Pro thích hợp hơn đối với các studio chuyên về hình ảnh. Brad Watts, nhà làm phim kiêm đồng sáng lập Redd Pen Media, cho rằng cuối cùng Apple đã nghiêm túc với một thiết bị thực sự thay thế PC cho những ai trung thành với máy Mac.
+Watts đang sử dụng 2 chiếc Mac Pro 2013 cho công việc của mình và nhận thấy chúng có thể xử lý hầu hết các cảnh quay, bao gồm file RAW ở độ phân giải 4,6K. Tuy vậy, với độ phân giải cao hơn, hiệu suất lập tức giảm sút. "Mac Pro mới và màn hình 6K sẽ giải quyết các vấn đề về render video và xử lý hình ảnh độ phân giải cao", Watts đánh giá. "Mức giá khởi điểm của nó vượt tầm chi phí của nhiều người, nhưng các hãng phim và chuyên gia sẽ ngiêm túc với cỗ máy này".
+William Joel, một người làm trong mảng đồ họa, cho rằng các xưởng phim hoạt hình cỡ trung hoặc các nhà sản xuất hậu kỳ video có thể sử dụng sức mạnh Mac Pro mới, nhưng với điều kiện cỗ máy này phải được nâng cấu hình cao hơn mức cơ bản. Tuy vậy, Joel khuyên rằng các công ty startup nên thuê Mac Pro thay vì mua đứt để tiết kiệm chi phí.
+Bảo Lâm (theo The Verge)

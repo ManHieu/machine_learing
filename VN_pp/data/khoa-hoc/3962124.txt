@@ -1,0 +1,17 @@
+TITLE: Robot gián có thể chịu trọng lượng lớn gấp một triệu lần
+
+KEY WORDS: robot gián, tìm kiếm cứu nạn, robot siêu nhỏ
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+ 
+ 
+Robot gián có thể chịu trọng lượng lớn gấp một triệu lần
+Thử nghiệm khả năng chịu sức nặng của robot gián. Video: Science Magazine.
+Mẫu robot dài 3 cm và rộng 1,5 cm do nhóm nghiên cứu ở Mỹ thiết kế có thể bò thoăn thoắt trên sàn nhà giống hệt gián thật, hứa hẹn hỗ trợ đắc lực cho công tác tìm kiếm cứu nạn trong tương lai nhờ khả năng len lỏi vào những khe hở hẹp. Kết quả nghiên cứu được công bố trên tạp chí Scientific Robotics hôm 31/7.
+Robot gián được chế tạo bằng vật liệu thay đổi hình dáng dưới tác động của hiệu ứng áp điện. Để điều khiển phản ứng này, các nhà nghiên cứu bọc một lớp polymer đàn hồi bên ngoài nhựa PVDF, khiến vật liệu uốn cong thay vì nở ra hoặc co lại.
+Đặc tính giống côn trùng của robot được tăng cường khi thêm vào những "chiếc chân" giúp thiết bị tiến về phía trước. Con robot có thể vượt qua quãng đường dài gấp 20 lần cơ thể mỗi giây, được cho là nhanh nhất trong số những robot cỡ này. Dù rất nhẹ, nó có thể chịu trọng lượng lớn hơn một triệu lần.
+"Hầu hết robot nhỏ như vậy đều rất mỏng manh. Nếu bạn giẫm lên, con robot chắc chắn sẽ bị phá hủy nặng nề. Chúng tôi phát hiện nếu đè lên robot gián, nó vẫn hoạt động được", Liwei Lin, giáo sư kỹ thuật cơ khí ở Đại học California, Berkeley, cho biết.
+Theo Yichuan Wu, trợ lý giáo sư ở Đại học Khoa học Công nghệ Điện tử Trung Quốc, đồng tác giả nghiên cứu, giải thích nếu động đất xảy ra, những cỗ máy cồng kềnh hay chó to rất khó chui xuống dưới lớp gạch vỡ để tìm nạn nhân sống sót. Do đó, robot cỡ nhỏ thay thế cần hoạt động nhanh nhẹn và bền chắc.
+An Khang (Theo Science Magazine) 

@@ -1,0 +1,14 @@
+TITLE: Tạo oxy trên sao Hỏa
+
+KEY WORDS: tìm cách tạo oxy trên sao Hỏa, Nasa
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Do sao Hỏa ở cách xa Trái Đất nên việc tìm ra cách giúp duy trì khí oxy trên sao Hỏa sẽ giảm thiểu và tối ưu hóa chi phí. Một nhóm nghiên cứu đã phát hiện ra phương pháp tạo oxy mới này bằng cách tìm hiểu và nghiên cứu sao Chổi. Đa số những hành tinh giá lạnh (gọi là đám mây Oort) đều cách xa hệ mặt trời và quỹ đạo sao Hải Vương. Nếu một quỹ đạo của sao Chổi kéo đám mây Oort đến gần mặt trời, nhiệt độ của mặt trời sẽ khiến cho những lớp băng tan ra khỏi không gian kéo dài hàng nghìn mét.
+Nhóm nghiên cứu thuộc Viện công nghệ California (Caltech) ở Pasadena đã tìm ra nguyên lý của việc sao Chổi tạo ra phân tử oxy với hai nguyên tử oxy kết hợp với nhau tạo thành không khí đem lại sự sống cho sao Hỏa, nhóm nghiên cứu cho rằng không khí có thể tạo ra từ CO2.
+Tiến sĩ Yunxi Yao và giáo sư kỹ thuật hóa học viện Caltech đã mô phỏng nguyên lý này bằng cách cho CO2 tiếp xúc qua vàng lá. Bởi vì vàng không bị oxy hóa nên khi CO2 đi qua lá vàng với tốc độ cao, bề mặt lá vàng này sẽ tỏa ra O2 (không khí).
+Sơ đồ mô tả cách carbon dioxide chuyển đổi thành oxy phân tử bên trong một lò phản ứng.
+Trước đây một số nhà khoa học nghĩ rằng, nồng độ oxy trong khí quyển ở sao Hỏa chỉ được tạo ra sau khi tia cực tím từ mặt trời chiếu qua CO2. Tuy nhiên, một số nhà nghiên cứu khác lại cho rằng những hạt bụi di chuyển với tốc độ nhanh trong không gian cũng có thể tác động tới các phân tử CO2, tách oxy ra khỏi carbon, tạo ra không khí.
+Từ các phương án nghiên cứu này, NASA dự định chạy thử công nghệ tạo oxy trên sao Hỏa. Công nghệ có tên là MOXIE (Mars Oxygen In situ resource utilization Experiment), sẽ được phi hành gia phóng trên chiếc Rover-Mars 2020 (một phương tiện di chuyển trên bề mặt sao Hỏa). Công nghệ này sẽ được ra mắt vào mùa hè tới và dự định phóng lên sao Hỏa vào năm 2021.
+Nguyễn Xuân (Theo Space) 

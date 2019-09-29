@@ -1,0 +1,21 @@
+TITLE: 25 triệu máy Android nhiễm virus ẩn trong WhatsApp - VnExpress Số Hóa
+
+KEY WORDS: android, whatsapp, malware, ấn độ, mỹ, anh, virus, bảo mật, lừa đảo, tiền quảng cáo, hacker, tin tặc, trung quốc, Alibaba
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Các cơ quan an ninh mạng đã cảnh báo hôm 10/7 rằng có 25 triệu điện thoại Android bị tấn công. Phần mềm độc hại mang tên Agent Smith có thể tận dụng các điểm yếu của hệ điều hành Android, khi vào máy, nó sẽ thay thế các ứng dụng như Whatsapp bằng các phiên bản độc hại cài sẵn quảng cáo. 
+Phần mềm độc hại lây qua cửa hàng ứng dụng của bên thứ ba 9apps.com, thuộc sở hữu của tập đoàn Alibaba (Trung Quốc), chứ không phải từ Google Play. Thông thường, các cuộc tấn công không xuất phát từ Google Play thường hướng đến các quốc gia đang phát triển. Hiện tại, hầu hết nạn nhân nằm ở Ấn Độ, nơi có tới 15 triệu người bị ảnh hưởng. Con số này là 300.000 ở Mỹ và 137.000 ở Anh.
+Check Point cảnh báo: "Do phần mềm độc hại chạy ngầm và không xuất hiện trên giao diện điện thoại nên không thể kiểm soát được khả năng gây hại của nó". Các nhà nghiên cứu đã cảnh báo Google và các cơ quan có liên quan, nhưng chưa nhận được phản hồi nào. 
+Các tin tặc đang cố gắng thay thế các ứng dụng thực, như WhatsApp, bằng các phiên bản giả mạo chứa virus. Ảnh: Forbes.
+Một cuộc tấn công điển hình hoạt động như sau: Người dùng tải xuống một ứng dụng có chứa virus – thường là tiện ích chỉnh sửa ảnh, trò chơi hoặc ứng dụng người lớn. Ứng dụng này khi vào máy sẽ âm thầm cài phần mềm độc hại, được ngụy trang thành một công cụ cập nhật chính thức của Google. Không có biểu tượng nào xuất hiện trên giao diện Android, khiến việc phát hiện bất thường rất khó. Các ứng dụng hợp pháp sau đó sẽ được thay thế bằng một phiên bản giả mạo để hacker phát tán quảng cáo. Các nhà nghiên cứu cho biết bản thân quảng cáo không độc hại nhưng mỗi lần người dùng ấn vào quảng cáo là một lần gửi tiền cho tin tặc. 
+Check Point cho biết họ đã tìm thấy 11 ứng dụng Google Play chứa virus "đang chờ hoạt động". Google sau đó đã gỡ những ứng dụng này.
+Check Point còn cho rằng một công ty Trung Quốc giấu tên có trụ sở tại Quảng Châu đã xây dựng phần mềm độc hại trên, đồng thời vận hành tổ chức giúp các nhà phát triển ứng dụng Android ở Trung Quốc quảng bá sản phẩm của họ trên các nền tảng ở nước ngoài.
+Alibaba không trả lời về ứng dụng chứa virus trên nền tàng 9apps.com, sau khi được thông báo.
+Vậy những người sử dụng Android nên làm gì? 
+Aviran Hazum, trưởng bộ phận phân tích và phản hồi của Check Point, cho biết nếu người dùng phát hiện quảng cáo hiển thị vào những thời điểm lạ, chẳng hạn khi mở WhatsApp, họ nên nghi ngờ và làm những thao tác sau:
+- Vào phần cài đặt > Ứng dụng và thông báo > vào Danh sách thông tin ứng dụng và tìm kiếm các ứng dụng đáng ngờ có tên như Google Updater, Google Installer cho U, Google Powers và Google Installer. 
+- Bấm vào ứng dụng đáng ngờ và chọn gỡ cài đặt.
+Mặt khác, tránh xa các cửa hàng ứng dụng Android không chính thức sẽ giảm nguy cơ gặp phải những ứng dụng lừa đảo này.
+Hoàng Phong (theo Forbes)

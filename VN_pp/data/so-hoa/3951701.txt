@@ -1,0 +1,13 @@
+TITLE: Sau nhiều lần thất bại, Google vẫn tiếp tục làm mạng xã hội - VnExpress Số Hóa
+
+KEY WORDS: Google, mạng xã hội, Shoelace
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Gizmodo, Google chưa bao giờ thực sự thành công trong lĩnh vực mạng xã hội, nhưng không vì thế mà họ từ bỏ tham vọng. Lần này, họ bắt đầu triển khai mạng Shoelace (Dây giày).
+Google lại ra một mạng xã hội mới.
+Shoelace được xây dựng bởi nhóm phát triển sản phẩm thử nghiệm Area 120 của Google, hoạt động trên iOS và Android. Khác với Facebook hay Google+, mạng xã hội này hoạt động cục bộ với mục tiêu kết nối người dùng dựa trên sở thích, mối quan tâm chung tới những sự kiện cụ thể tại địa phương và trong các hoạt động cá nhân. Nói cách khác, nó khuyến khích mọi người ít dành thời gian trên điện thoại, thay vào đó là kết nối và cùng nhau thực hiện những hoạt động ngoài đời thực.
+Người sử dụng sẽ tạo ra các Loops, giống như các vòng khi bạn thắt dây giày, liệt kê các sự kiện, hoạt động tại địa phương để chia sẻ với người khác trên ứng dụng. Họ cũng có thể chọn sở thích của mình theo danh mục có sẵn và Shoelace sẽ đề xuất các hoạt động phù hợp.
+Shoelace hiện mới được triển khai giới hạn tại New York trước khi mở rộng ra các thành phố khác cũng như trên toàn cầu. Mạng xã hội này xuất hiện chỉ vài tháng sau khi Google đóng cửa Google+ từ tháng 4/2019. Ra đời năm 2010, Google+ là canh bạc lớn của Google vì việc xây dựng được một mạng xã hội với hàng trăm triệu thành viên có dữ liệu về tuổi và giới tính như Facebook sẽ có thể giúp họ thành công trong việc triển khai các hình thức quảng cáo cá nhân hóa. Tuy nhiên, sau hơn 8 năm, Google+ bị khai tử vì lỗ hổng bảo mật có nguy cơ làm lộ dữ liệu của 52 triệu người dùng. 
+Châu An

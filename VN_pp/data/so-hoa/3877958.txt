@@ -1,0 +1,12 @@
+TITLE: Nghe lén trên iPhone: Lỗ hổng của Group Facetime thành công cụ cho kẻ xấu - VnExpress Số Hóa
+
+KEY WORDS: iPhone, Apple, Facetime, bảo mật
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Tính năng gọi nhóm trên Facetime ra mắt năm 2018. Ảnh: Ars
+Theo 9to5Mac, tính năng gọi điện Facetime theo nhóm (Group Facetime) giữa các thiết bị Apple chạy iOS từ 12.1 trở lên đang gặp lỗi bảo mật nghiêm trọng. Theo đó, người gọi có thể kết nối và nghe âm thanh từ người nghe trước cả khi người đó chấp nhận hoặc từ chối. Lỗi bắt đầu xuất hiện từ ngày 28/1 và nhiều người dùng đã phản ánh vấn đề trên trang hỗ trợ của Apple. 
+"Thật nực cười khi chiếc điện thoại của tôi trở thành thiết bị nghe lén chính tôi", một người dùng chia sẻ bức xúc trên Reddit. Một số chủ nhân iPhone cho rằng việc Facetime tự kết nối trước khi người nghe đồng ý cũng có thể gây ra phiền phức cho cả người gọi. 
+Nhà sản xuất iPhone, iPad đã tắt tạm thời máy chủ dành cho tính năng gọi nhóm Facetime để ngăn kẻ xấu lợi dụng. Bản cập nhật iOS mới sẽ cho phép tải về sau khi lỗi được sửa chữa hoàn toàn. 
+Facetime cho phép các cuộc gọi video và âm thanh giữa người dùng iPhone, iPad, iPod Touch và máy tính Mac với nhau. Tính năng gọi nhóm Facetime được Apple ra mắt năm 2018. 

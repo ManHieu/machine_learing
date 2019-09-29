@@ -1,0 +1,13 @@
+TITLE: Bài toán tìm số điện thoại của kỳ thi Toán quốc tế Kangaroo - VnExpress
+
+KEY WORDS: bài toán Kangaroo, cuộc thi toán lớn nhất thế giới, tìm số điện thoại, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Kangaroo (IKMC) là kỳ thi học sinh giỏi Toán lớn nhất thế giới được tổ chức lần đầu tiên tại Pháp năm 1991. Sau vài năm kỳ thi lan rộng ra 20 quốc gia và cho đến nay là 70 quốc gia với hơn 6 triệu học sinh tham dự. 
+Việt nam tổ chức IKMC lần đầu vào năm 2016 với 6.000 học sinh và lần thứ tư ngày 17/3/2019 với hơn 24.000 em đến từ 870 trường.
+Sau đây là bài toán dành cho học sinh khối lớp 7-8 của kỳ thi KIMC 2015:
+Topic 30: TELEPHONE NUMBER
+Problem: In my phone book, the telephone number of my friend Ekin has six digits, but it must be a seven-digit number as are all phone numbers in his area. I have no idea what digit I forgot to write down, or its position in the number. How many numbers do I have to dial to be certain that I will call Ekin's number? (Note that in Ekin's area phone numbers may start with any digit, including 0).
+Dịch đề: Trong danh bạ điện thoại của tôi, số điện thoại của bạn tôi Ekin là số có sáu chữ số. Tuy nhiên, đáng lẽ nó phải là số có bảy chữ số giống như các số điện thoại khác trong khu vực Ekin sống. Tôi không biết đã quên viết chữ số nào và ở vị trí nào. Hỏi tôi phải thử gọi bao nhiêu số điện thoại thì mới chắc chắn tìm được số điện thoại của Ekin? (Lưu ý trong khu vực Ekin sống, số điện thoại có thể bắt đầu bằng bất kỳ chữ số nào, kể cả số 0). 

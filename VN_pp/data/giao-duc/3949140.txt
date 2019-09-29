@@ -1,0 +1,11 @@
+TITLE: Bài toán cực trị trong đề thi IMSO 2018 - VnExpress
+
+KEY WORDS: bài toán, cực trị, đề thi, IMSO 2018
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 44. ARITHMETIC MINIMA
+Problem: Sunny got three boxes from his father, which contained some number of marbles. His father said that the number of marbles inside the first, second and third boxes are three consecutive integers in increasing order and that they are divisible by 5, 7 and 9 respectively. What is the minimum total number of marbles inside the three boxes?
+Dịch đề: Sunny được bố cho 3 chiếc hộp đựng bi. Bố cậu nói rằng số bi trong 3 hộp này là 3 số nguyên liên tiếp theo thứ tự tăng dần và lần lượt chia hết cho 5, 7 và 9. Tính tổng số bi nhỏ nhất có thể trong cả 3 hộp.
+Minh Phương 

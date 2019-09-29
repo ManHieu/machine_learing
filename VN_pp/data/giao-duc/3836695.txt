@@ -1,0 +1,12 @@
+TITLE: Bài toán diện tích trong đề thi APMOPS 2013 - VnExpress
+
+KEY WORDS: bài toán, diện tích, đề thi, APMOPS 2013, giải toán, học Toán tiếng Anh, kỳ thi Toán quốc tế
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Bài toán diện tích luôn xuất hiện tại kỳ thi Toán quốc tế dành cho lứa tuổi 10-15. Các ý tưởng hay và mới về dạng toán này thường có trong Olympic Toán châu Á Thái Bình Dương (APMOPS) dành cho lứa tuổi 11-12.
+Sau đây là một trong những bài toán hay về diện tích của kỳ thi APMOPS 2013. Thời gian trung bình giải là 4 phút.
+Topic 16: Area
+Problem: A square ABCD of side length 18 cm is inscribed in a circle. Semi-circles arc constructed on its side, as shown in the diagram. Find the total area of the four shaded lunes in cm2.
+Dịch đề: Cho hình vuông ABCD cạnh 18 cm nội tiếp trong một đường tròn. Dựng các nửa đường tròn trên các cạnh hình vuông như hình vẽ. Tính tổng diện tích của bốn hình trăng lưỡi liềm bôi đen theo cm2. 

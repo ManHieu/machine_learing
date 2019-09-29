@@ -1,0 +1,15 @@
+TITLE: Thử sạc nhanh 45W với Galaxy Note 10+ - VnExpress Số Hóa
+
+KEY WORDS: Samsung, Galaxy Note 10, Galaxy Note 10+, sạc nhanh, sạc nhanh 45 W, sạc nhanh 25 W
+
+TOPIC: số hóa, samsung galaxy note10
+
+CONTENT: 
+Sạc nhanh Super Fast Charging 2.0 công suất 45W - tương đương sạc laptop - là tính năng chỉ có trên Galaxy Note 10+. Bộ sạc nhanh đi kèm Galaxy Note 10 và Note 10+ có công suất chỉ 25W. 
+Bộ sạc nhanh 45W của Samsung ở Việt Nam có giá 990.000 đồng, bao gồm một củ sạc chân tròn và cáp USB-C hai đầu riêng. So với bộ sạc của máy tính thông thường, bộ sạc nhanh 45W của Samsung được làm khá gọn nhẹ, vừa đủ trong bàn tay. 
+Ngoài kích thước, người dùng có thể phân biệt sạc nhanh 25W và 45W của Samsung bằng thông số kỹ thuật ở mặt sau. Sạc 45W to hơn, có nhiều dải điện áp hơn, có mức lên tới 21V trong khi sạc 25W tối đa là 11V.
+Cả hai đều sử dụng giắc cắm USB-C thay vì giắc USB-A như các sạc nhanh thế hệ trước của Samsung.
+Để sử dụng sạc và tính năng sạc 45W trên Galaxy Note 10+, người dùng phải sử dụng đúng cáp USB-C đi kèm với bộ sạc này. So với cáp kèm máy, sạc USB-C 45W lớn hơn và có dây dày, cứng hơn, trên vỏ nhựa có dòng chữ 5A. Trong khi đó, vỏ nhựa của cáp USB-C đi kèm máy không có ký hiệu này. Cả hai cáp USB-C này đều được sản xuất tại Việt Nam.
+Thử nghiệm thực tế trên cùng một chiếc Galaxy Note 10+ đã cạn hết pin, thời gian sạc của bộ phụ kiện 45W nhanh hơn bộ sạc 25W là 5 phút. Trong hình, từ 0% đến 100% và Note 10+ ở trạng thái tắt, bộ sạc 45W mất 60 phút còn bộ sạc 25W mất 65 phút để máy đầy pin.
+Sự chênh lệch lớn nằm ở thời gian sạc đầu. Trong 15 phút, sạc 45W đã nạp được 40% pin và mất 30 phút để có được 71% pin. Trong khi cùng thời gian, sạc 25W chỉ được 33% pin và 66% pin. Bắt đầu từ mức 90%, cả hai bộ sạc đều giảm tốc độ sạc nhanh để giúp pin ổn định và an toàn.
+Ngoài Note 10+, chưa có smartphone hay tablet nào khác hỗ trợ sạc pin 45W ở thị trường Việt Nam. Huawei P30 Pro mới hỗ trợ sạc nhanh ở 40W.

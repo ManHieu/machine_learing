@@ -1,0 +1,22 @@
+TITLE: Đáp án bài toán tung đồng xu trong đề thi InIMC 2017 - VnExpress
+
+KEY WORDS: đáp án, bài toán, tung đồng xu, đề thi InIMC 2017
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 35. COIN TOSSING
+Problem: Each of A and B, both starting with 50 dollars each, takes turns in tossing a coin. If the coin lands heads, the other player loses 4 dollars; if the coin lands tails, the other player wins 3 dollars. After each player has tossed the coin 10 times, A has 42 dollars more than B. If A got heads 6 times, how many times did B get heads?
+Dịch đề: A và B mỗi người có 50 đôla. Họ luân phiên tung đồng xu. Nếu đồng xu hiện mặt ngửa thì người còn lại bị mất 4 đôla; còn nếu đồng xu hiện mặt sấp thì người còn lại được nhận 3 đôla. Sau khi mỗi người đã tung đồng xu 10 lần, A có nhiều hơn B 42 đôla. Biết A tung đồng xu được 6 lần hiện mặt ngửa, hỏi B tung đồng xu được bao nhiêu lần hiện mặt ngửa?
+Lời giải:
+Sau khi chơi xong A có (100 + 42) ÷ 2= 71 (đôla); B có (100 – 42) ÷ 2 = 29 (đôla). Tức là A được thêm 21 đôla và B mất 21 đôla.
+Trong 10 lần tung xu, A có 6 lần tung mặt ngửa và 4 lần tung mặt sấp nên số tiền của A nhận được thêm là 6 × 4 – 4 × 3 = 12 đôla, còn B thua 12 đôla.
+Sau 10 lần tung xu của B thì A được thêm 9 đôla và B thua tiếp 9 đôla.
+Gọi a và b lần lượt là số lần mà B tung mặt ngửa và mặt sấp. Khi đó ta có a + b = 10 và 3b – 4a = 9. Giải hệ gồm 2 phương trình này ta được a = 3 và b = 7.
+Vậy B có 3 lần tung mặt ngửa.
+Solution
+At the end of the game, A has (100 + 42) ÷ 2= 71 dollars; B has (100 – 42) ÷ 2 = 29 dollars. This means A has won 21 dollars while B has lost 21 dollars.
+Among A’s ten coin tosses, there are 6 heads and 4 tails, so A wins 6 × 4 – 4 × 3 = 12 dollars and B loses 12 dollars.
+It follows that after B’s ten coin tosses, A wins 9 more dollars and B loses 9 more dollars.
+Let a and b be the number of heads and tails that B got respectively. Then a + b = 10 and 3b – 4a = 9. Solving this system of equations, we yield a = 3 and b = 7.
+The answer is B got heads 3 times. 

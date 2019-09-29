@@ -1,0 +1,15 @@
+TITLE: Vừa ra mắt, website của mạng di động ảo đầu tiên Việt Nam ITelecom 087 đã bị hack - VnExpress Số Hóa
+
+KEY WORDS: Đông Dương Telecom, ITelecom, website, mạng di động ảo
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Sáng 25/4, nhà cung cấp dịch vụ viễn thông Đông Dương Telecom (ITelecom) bắt đầu đi vào vận hành với đầu số 087. Chiều cùng ngày, một số người dùng cho biết website của công ty tại địa chỉ itelecom.vn đã bị hack, nội dung trên trang thay đổi thành "Hacked by X-Groups".
+Giao diện trang itelecom.vn khi bị hack. Ảnh: Vn-Zoom
+Đại diện ITelecom xác nhận trang web bị tấn công, chiếm quyền điều khiển. Tuy nhiên, website chỉ chứa nội dung giới thiệu về công ty, không có thông tin của khách hàng. "Hạ tầng viễn thông hoạt động cho đầu số 087 hoạt động độc lập với trang web trên nên dữ liệu khách hàng và chất lượng mạng lưới hoàn toàn không bị ảnh hưởng", ông Lưu Anh Sơn, Phó Tổng giám đốc Indochina Telecom nói.
+Theo ông Sơn, công ty đã triển khai các biện pháp kỹ thuật để ngăn chặn và khôi phục ngay sau khi phát hiện website bị hack. Trong ngày 25/4, trang itelecom.vn đã hoạt động bình thường trở lại.
+"Dấu hiệu mà hacker để lại cho thấy website của Indochina Telecom đã bị defact, dạng tấn công để thay đổi một phần hoặc toàn bộ giao diện", Vũ Thành Nam, một chuyên gia bảo mật độc lập đánh giá. "Tin tặc có thể đã chiếm được quyền điều khiển quản trị, khai thác lỗ hổng từ mã nguồn mở hoặc kịch bản tấn công khác là thông qua server".
+Khác với các đơn vị trước như Vinaphone, Viettel hay Mobifone..., ITelecom là mô hình mạng di động ảo MVNO (Mobile Virtual Network Operator) đầu tiên triển khai trong nước. Thay vì sử dụng hạ tầng và tần số vô tuyến riêng, nhà mạng di động ảo sử dụng chung hạ tầng với các nhà mạng có sẵn. Đông Dương Telecom cho biết trong thời gian đầu sẽ sử dụng chung hạ tầng với Vinaphone và có thể mở rộng thêm với các nhà mạng khác trong tương lai.
+Theo số liệu từ cục quản lý viễn thông, tính đến 2019, Việt Nam đã có hơn 120 triệu thuê bao sử dụng dịch vụ di động trong đó mới có 50% đăng ký sử dụng dịch vụ dữ liệu. Thị trường di động đang có sự cạnh tranh giữa sáu nhà cung cấp khác nhau gồm Vinaphone, Viettel, Mobifone, Vietnammobile, G-Tel và nhà mạng di động ảo MVNO đầu tiên ITelecom. 
+Đình Nam

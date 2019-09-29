@@ -1,0 +1,16 @@
+TITLE: Điện thoại cao cấp nhất của Huawei có bao nhiêu linh kiện từ Mỹ - VnExpress Số Hóa
+
+KEY WORDS: Huawei, P30 Pro, linh kiện, chiến tranh thương mại Mỹ - Trung
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Nikkei đã tiến hành mổ xẻ P30 Pro, điện thoại cao cấp nhất của Huawei hiện nay, để phân tích các thành phần bên trong. Nhật báo của Nhật cho biết hãng viễn thông Trung Quốc sử dụng 15 bộ phận do các nhà sản xuất Mỹ chế tạo, trong tổng số 1.631 chi tiết cấu thành nên sản phẩm này.
+P30 Pro là điện thoại cao cấp nhất hiện nay của Huawei. Ảnh: JerryRigEverything
+Cụ thể, DRAM trên P30 Pro do Micron sản xuất, chất bán dẫn truyền thông của Skyworks Solutions, kính cường lực cung cấp bởi Corning, chuyển mạch MIPI làm bởi Texas Instruments... đều là những công ty Mỹ. Số lượng linh kiện do Mỹ sản xuất chiếm tỷ trọng 0,9% nhưng giá trị của nó lại lớn, khoảng 59,36 USD trong tổng chi phí 363,83 USD tiền linh kiện, tương đương 16,3%.
+Số lượng linh kiện được sản xuất bởi công ty Nhật Bản chiếm tỉ trọng cao nhất trên P30 Pro (53,2%), tiếp đến là Hàn Quốc (34,4%), Đài Loan (5%) và từ Trung Quốc là 4,9%. Linh kiện nội địa ít nhưng giá trị của nó trên smartphone của Huawei lại cao nhất, 138,6 USD tương đương 38,1%.
+Số lượng và giá trị linh kiện trên Huawei P30 Pro tính theo các khu vực sản xuất.
+Chưa có thông tin về việc Huawei đổi sang nhà cung cấp khác sau khi chính quyền tổng thống Trump ra lệnh cấm các công ty Mỹ làm ăn với hãng viễn thông Trung Quốc. Tuy nhiên, Huawei được cho là đã dự trữ các thành phần đủ dùng trong một năm. Theo Reuters, Micron và Intel có thể đã kinh doanh trở lại với công ty Trung Quốc bất chấp lệnh cấm vận của chính phủ Mỹ.
+Nối lại bán hàng cho Huawei sẽ giúp công ty Trung Quốc có thể tiếp tục sản xuất smartphone, máy chủ, đồng thời cho thấy chính quyền Trump sẽ khó kiểm soát được các công ty mà họ coi là mối đe dọa an ninh quốc gia như Huawei. Nó cũng báo hiệu về những tác động lớn khi ngừng kinh doanh với Huawei, công ty mỗi năm chi 11 tỷ USD cho các công ty công nghệ Mỹ.
+Tháng 5, Bộ Thương mại Mỹ đưa Huawei vào danh sách thực thể, nhưng sau đó cho phép các công ty Mỹ tiếp tục bán công nghệ cho Huawei để sản xuất các sản phẩm hiện tại cho đến tháng 8. Chưa rõ các linh kiện, thiết bị mà các công ty Mỹ bán cho Huawei từ tháng 6 có được dùng để phát triển sản phẩm mới hay không.
+Bảo Anh (theo Nikkei)

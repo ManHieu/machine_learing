@@ -1,0 +1,19 @@
+TITLE: Cách Mate 30 Pro quay được video 'siêu slow-motion' - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Mate 30 Pro, chuyển động siêu chậm, video chuyển động chậm, slow motion
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Để có thông số ấn tượng này, Mate 30 Pro đầu tiên ghi lại khung cảnh chỉ diễn ra 0,12 giây, sau đó kéo dài thành 32 giây, tốc độ 30 fps (số khung hình mỗi giây). Toàn bộ đoạn video tương đương 945 khung hình được chụp ở độ phân giải HD (720p), theo tiết lộ của Giám đốc điều hành Huawei Bruce Lee.
+Ông Lee giải thích, Mate 30 Pro đã "huy động" toàn bộ chip xử lý có trên máy, gồm ISP (bộ xử lý tín hiệu hình ảnh), CPU (bộ xử lý trung tâm), GPU (bộ xử lý đồ họa) và NPU (bộ vi xử lý thần kinh chuyên dụng, đảm nhiệm xử lý các tác vụ có liên quan đến AI) để xử lý dữ liệu.
+Vì 0,12 giây là thời khắc rất nhanh, phản xạ của con người không thể chọn thời điểm nhanh như vậy. Do đó, NPU của Mate 30 Pro sẽ dùng AI để phân tích trong 1 giây video, sau đó chọn ra thời lượng 0,12 giây trong khoảnh khắc. Toàn bộ quá trình "ngốn" khoảng 2 GB RAM.
+ 
+ 
+Cách Mate 30 Pro quay được video 'siêu slow-motion'
+Video slow-motion 960 fps so sánh với 7.680 fps quay bằng Mate 30 Pro.
+ 
+ 
+Cách Mate 30 Pro quay được video 'siêu slow-motion'
+Cách Huawei tạo ra cảnh để quay slow-motion với Mate 30 Pro.
+Bảo Lâm (theo GSMArena)

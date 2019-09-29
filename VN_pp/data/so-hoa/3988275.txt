@@ -1,0 +1,14 @@
+TITLE: Facebook bắt đầu thử nghiệm ẩn số lượt Like - VnExpress Số Hóa
+
+KEY WORDS: Facebook, like, lượt thích, bộ đếm
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Người dùng sẽ vẫn thấy số lượt thích trên các bài viết của chính mình, nhưng những người khác chỉ có thể xem nội dung đó được phản hồi như thế nào thông qua các biểu tượng Reaction. Nếu muốn biết cụ thể số lượt, cách duy nhất là đếm thủ công.
+Bộ đếm lượt thích (bên trái) không còn xuất hiện (bên phải). Ảnh: TechCrunch.
+Đại diện Facebook xác nhận với TechCrunch việc đang thử nghiệm tính năng ẩn Like ở quy mô nhỏ. "Việc ẩn lượt thích, phản ứng và lượt xem video Facebook nhằm thăm dò phản hồi của người dùng, như họ có trải nghiệm tốt hơn không. Nếu phát triển theo hướng tích cực, chúng tôi sẽ áp dụng rộng rãi sang nhiều khu vực khác", Facebook cho biết.
+Một số chuyên gia đánh giá, việc tắt tính năng đếm like là điều nên làm. "Loại bỏ bộ đếm giúp giảm căng thẳng, lo lắng và nhiều cảm xúc tiêu cực khi sử dụng mạng xã hội, bởi không ít người thường đố kị nhau thông qua lượt thích bài viết", một chuyên gia cho biết. "Tắt bộ đếm cũng giúp người dùng tập trung vào nội dung bài viết nhiều hơn".
+Động thái này của Facebook lần đầu được phát hiện bởi nhà nghiên cứu ứng dụng Jane Manchun Won, thông qua đoạn mã trong ứng dụng Facebook trên Android. 
+Đầu năm nay, Instagram, mạng xã hội ảnh thuộc Facebook, cũng triển khai thử nghiệm tương tự. Đội ngũ phát triển có thể nhận được những phản hồi tích cực nên đã áp dụng đến các tài khoản ở nhiều quốc gia hơn vào tháng trước. Theo Verge, nhiều tài khoản người dùng nằm trong diện thử nghiệm cũng tỏ ra thích thú với việc không nhìn thấy số lượng "thả tim" trên Instagram.
+Bảo Lâm

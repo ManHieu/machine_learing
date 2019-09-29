@@ -1,0 +1,14 @@
+TITLE: iPhone 11 lộ điểm benchmark - VnExpress Số Hóa
+
+KEY WORDS: iPhone, Hiệu năng iPhone, Apple
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trong bảng điểm rò rỉ, thiết bị có tên "iPhone 12,1" - đây được cho là mã hiệu của chiếc iPhone 11, sản phẩm nâng cấp từ chiếc XR của năm 2018. Sản phẩm trong bài kiểm tra chạy hệ điều hành iOS 13.1 và có bộ nhớ RAM 4GB.
+Điểm số sức mạnh của thiết bị iPhone 12,1 trên Geekbench.
+Thiết bị có điểm hiệu năng đơn nhân đạt 5.415, cao hơn 12% so với iPhone XR. Tuy nhiên, trong bài kiểm tra hiệu năng đa nhân, 2 chiếc máy lại có điểm số tương đương vào khoảng 11.300 đến 11.400. Nếu so với các thiết bị Android, những điểm số này rất cao, thậm chí nhỉnh hơn những mẫu máy đầu bảng.
+Theo đánh giá của 9to5mac, sự gia tăng hiệu năng đơn nhân này có thể đến từ vi xử lý Apple A13. Mặc dù bảng điểm không hề tiết lộ bất cứ thông tin nào về vi xử lý này nhưng theo truyền thống, Apple sẽ vẫn trang bị cho chiếc máy này một vi xử lý mới nhất, đồng thời cũng là mạnh mẽ nhất trên thị trường. Trong năm nay, Apple vẫn sẽ tập trung vào gia tăng hiệu năng cho chip thay vì nhắm tới mục tiêu nâng thời lượng pin.
+Bảng điểm từ Geekbench đồng thời cũng tiết lộ sản phẩm mới của Apple sẽ có RAM 4GB, tăng 1GB so với iPhone XR và bằng iPhone XS/XS Max hiện tại. Nhiều khả năng, bản nâng cấp của bộ đôi iPhone XS/XS Max cũng sẽ được bổ sung về dung lượng RAM.
+3 mẫu iPhone mới của năm 2019 được dự đoán là iPhone 11 - nâng cấp của iPhone XR, iPhone 11/iPhone 11 Pro Max - nâng cấp của iPhone XS/XS Max. 3 sản phẩm này sẽ được giới thiệu vào ngày 10/9 tới.
+Lưu Quý

@@ -1,0 +1,20 @@
+TITLE: Hệ thống AI hỗ trợ phạt nguội
+
+KEY WORDS: hệ thống AI hỗ trợ phạt nguội
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Với mong muốn góp phần nâng cao ý thức của cộng đồng, giảm thiểu tai nạn giao thông, hướng tới phát triển thành phố thông minh, nhóm ReTraffic gồm Nguyễn Tường và Nguyễn Văn Phú, Đại học Bách khoa (Đại học Đà Nẵng) đã xây dựng hệ thống trí tuệ nhân tạo (AI) để theo dõi, tự nhận biết các vi phạm giao thông và lưu dữ liệu phục vụ cho việc phạt nguội của cảnh sát giao thông.
+Hệ thống trí tuệ nhân tạo sử dụng có tên Deep learning, có khả năng nhận biết phương tiện thông qua cơ sở dữ liệu với hàng triệu bức ảnh về phương tiện giao thông. Với các thuật toán hỗ trợ, hệ thống có thể nắm bắt được hướng di chuyển và xác định các phương tiện vi phạm giao thông dựa trên Luật giao thông đường bộ. Chẳng hạn, hệ thống quy định phương tiện vượt đèn đỏ là phương tiện vượt qua vạch dừng đèn đỏ, phương tiện đi ngược chiều không đúng chiều quy định trên các làn đường...
+ 
+ 
+Sinh viên phát triển hệ thống AI hỗ trợ phạt nguội
+Hệ thống AI hỗ trợ phạt nguội theo dõi tại ngã ba trên đường Trưng Nữ Vương, Đà Nẵng.
+Với mạng lưới camera giám sát giao thông đóng vai trò làm mắt giám sát, trên màn hình hiển thị, hệ thống sẽ bao quanh phương tiện giao thông bằng khung màu xanh nước, thể hiện dự đoán hướng chuyển động phương tiện bằng đường mũi tên màu đỏ và báo cáo vi phạm trên màn hình hiển thị trong thời điểm diễn ra vi phạm bằng dòng chữ đỏ chạy cùng phương tiện.
+Khi nhận thấy có vi phạm, hệ thống sẽ gửi thông tin bao gồm hình ảnh bằng chứng, thời gian, địa điểm vi phạm, biến số xe, loại phương tiện, loại vi phạm về website được cài đặt trước.
+Ngoài ra, dựa vào khả năng dự đoán hướng di chuyển của phương tiện, hệ thống có thể giúp cơ quan điều tra bắt giữ tội phạm đang chạy trốn dễ dàng hơn. 
+Hệ thống cũng có khả năng thống kê lưu lượng giao thông trên các tuyến đường, hỗ trợ việc phân làn, tối ưu hóa mạng lưới đèn tín hiệu và xây dựng cơ sở dữ liệu về hạ tầng giao thông phục vụ cho công tác xây mới, nâng cấp đường sá.
+Nguyễn Tường (phải) và Nguyễn Văn Phú (trái) - tác giả hệ thống. Ảnh: NVCC.
+Hiện hệ thống AI hỗ trợ phạt nguội ReTraffic đã được áp dụng thử nghiệm trên một số tuyến đường tại thành phố Đà Nẵng cho kết quả thử nghiệm ban đầu sẽ làm cơ sở phục vụ các nghiên cứu triển khai nhiều hệ thống cho thành phố.
+Tường cho biết, trong tương lai sẽ phát triển hệ thống cảnh báo đối với phương tiện có nguy cơ gây ra tai nạn giao thông và những phương tiện di chuyển trên cùng tuyến đường. Nhóm cũng dự định xây dựng một mạng xã hội về giao thông (social transport network) đa nền tảng cho phép người tham gia giao thông chia sẻ thông tin chuyến hành trình của mình để hệ thống trí tuệ nhân tạo phân tích và đưa ra đề xuất về tốc độ, hướng đi nhằm giảm nguy cơ ùn tắc. 

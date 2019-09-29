@@ -1,0 +1,12 @@
+TITLE: Bài toán xếp chỗ ngồi trong kỳ thi APMOPS - VnExpress
+
+KEY WORDS: bài toán, xếp chỗ ngồi, kỳ thi APMOPS, Olympic Toán châu Á - Thái Bình Dương
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 51. EXTREMAL PRINCIPLE
+Problem: There are 25 rows of seats in a hall, each row having 30 seats. If there are 680 people seated in the hall, at least how many rows have an equal number of people each?
+Dịch đề: Một hội trường có 25 hàng ghế, mỗi hàng có 30 chiếc. Nếu có 680 người ngồi trong hội trường thì có ít nhất bao nhiêu hàng ghế có cùng số người ngồi?
+Kỳ thi Olympic Toán châu Á Thái Bình Dương (APMOPS) dành cho học sinh lứa tuổi 11-12 được tổ chức theo hai vòng. Vòng 1 được tổ chức tại 13 quốc gia, học sinh được giải bạch kim vòng 1 dự thi vòng 2 tại học viện Hwa Chong, Singapore.
+Minh Phương 

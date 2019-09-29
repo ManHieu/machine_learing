@@ -1,0 +1,17 @@
+TITLE: Đài Loan cấm nhập chip cho đầu thu truyền hình kỹ thuật số từ Trung Quốc, trong đó có đối tác Huawei - VnExpress Số Hóa
+
+KEY WORDS: Đài Loan, Trung Quốc, Huawei
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo SCMP, Ủy ban Truyền thông Quốc gia Đài Loan (NCC) vừa ban hành chính sách mới, quy định các nhà cung cấp dịch vụ truyền hình trong nước không sử dụng chip và linh kiện bán dẫn nhập từ Trung Quốc cho các bộ giải mã và đầu thu kỹ thuật số của mình. Phát ngôn viên NCC sau đó xác nhận điều này.
+Sản xuất chip là một trong những lĩnh vực quan trọng của Huawei. Ảnh: SCMP.
+Đại diện NCC cho biết, lệnh cấm sẽ áp dụng cho cả các sản phẩm bán dẫn từ Trung Quốc, trong đó có HiSilicon - công ty con của Huawei - sản xuất. Thay vào đó, các nhà cung cấp dịch vụ truyền hình cáp Đài Loan buộc phải tìm kiếm nguồn cung mới từ Mỹ hoặc châu Âu, dù giá thành cao hơn.
+Một nguồn tin giấu tên tiết lộ, các nhà cung cấp dịch vụ truyền hình cáp Đài Loan đã được NCC thông báo về lệnh cấm từ tháng 3 đến tháng 4, trước cả khi chính phủ Mỹ đưa Huawei vào danh sách đen (15/5). "Trước đây, chúng tôi luôn sử dụng linh kiện cho các thiết bị giải mã do Trung Quốc sản xuất, trong đó từ đối tác HiSilicon. Nhưng với lệnh cấm mới nhất, chúng tôi sẽ phải tránh xa chúng", người này chia sẻ. "Chúng tôi không thể bị ràng buộc trước một lựa chọn có quá nhiều rủi ro chính trị".
+Một số chuyên gia đánh giá, việc Đài Loan "nghỉ chơi" với Huawei sẽ khiến mảng sản xuất linh kiện bán dẫn HiSilicon thêm phần khó khăn. Trước đó, nhà sản xuất chip ARM của Anh cũng tạm ngưng cấp giấy phép cho công ty này.
+Huawei chưa đưa ra bình luận nào.
+Đài Loan hiện có khoảng 57,6% trên tổng số 8,75 triệu hộ gia đình sử dụng đầu thu kỹ thuật số cho truyền hình cáp và dịch vụ băng thông rộng. Thị trường này chi phối bởi ba công ty tư nhân gồm China Network Systems, Kbro và Taiwan Broadband Communications.
+Lệnh cấm của NCC đưa ra trong bối cảnh Đạo luật An ninh mạng đã được Đài Loan thông qua vào tháng 5/2018. Đây là đạo luật nhằm xây dựng một môi trường thông tin mạng an toàn và bảo vệ an ninh quốc gia. Tháng 4/2019, bà Kolas Yotaka, phát ngôn viên của chính quyền Đài Loan cũng cho biết các cơ quan Đài Loan đang soạn thảo một danh sách công nghệ, trong đó liệt các nhà sản xuất và cung cấp linh kiện "gây rủi ro bảo mật", và trình lên cuối tháng 7.
+Theo số liệu của Frost & Sullivan, doanh thu ngành công nghiệp bán dẫn và thiết kế mạch tích hợp của Trung Quốc đạt 15,2 tỷ USD năm 2017 và dự kiến tăng lên 61,2 tỷ USD năm 2022.
+Bảo Lâm tổng hợp

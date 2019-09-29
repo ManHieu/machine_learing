@@ -1,0 +1,23 @@
+TITLE: Thêm hãng taxi hợp tác với VNPAY triển khai thanh toán bằng QR Code - VnExpress Kinh Doanh
+
+KEY WORDS: VNPAY-QR, QR Code, Taxi Mai Linh, VNPAY, Công ty CP Giải pháp thanh toán Việt Nam
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Công ty Cổ phần Tập đoàn Mai Linh (Taxi Mai Linh) vừa ký kết hợp tác với Công ty CP Giải pháp thanh toán Việt Nam (VNPAY) để triển khai giải pháp thanh toán qua mã VNPAY-QR trên hệ thống xe của hãng trên toàn quốc.
+Ông Lê Tánh - Tổng giám đốc VNPAY (bên phải) và ông Hồ Huy - Chủ tịch Tập đoàn Mai Linh (bên trái) tham gia ký kết hợp tác chính thức.
+Để sử dụng dịch vụ, khách hàng chỉ cần đăng nhập ứng dụng ngân hàng có trên điện thoại di động, chọn tính năng QR Pay, quét mã VNPAY-QR được cung cấp bởi tài xế, xác thực giao dịch bằng mật khẩu (hoặc mã OTP, vân tay hoặc nhận diện khuôn mặt) là quá trình thanh toán hoàn tất.
+Nhờ đó, việc trả tiền cước khi đi xe taxi được gói gọn trong một phút với một vài thao tác trên điện thoại di động, tiếp kiệm thời gian so với các hình thức thanh toán truyền thống bằng thẻ hoặc tiền mặt như trước đây.
+Mã VNPAY-QR của mỗi cuốc xe sẽ được tài xế cung cấp để khách hàng thực hiện thanh toán.
+Ưu điểm nổi bật của hình thức thanh toán này là khách hàng không cần tải thêm ứng dụng mới, tính năng quét mã QR Pay đã được tích hợp sẵn trong ứng dụng di động của các ngân hàng. Đồng thời, số tiền giao dịch sẽ được trừ trực tiếp từ tài khoản, khách hàng hoàn toàn làm chủ được quá trình thanh toán, đảm bảo an toàn và bảo mật thông tin của hành khách.
+Hiện, 19 ngân hàng, 3 tổ chức thẻ quốc tế triển khai giải pháp QR Pay, trong đó có BIDV, Vietcombank, Agribank, VietinBank, VPBank, MSB, TPBank, VIB, MB, SCB, tổ chức thẻ Visa, MasterCard, JCB...
+Ông Hồ Huy, Chủ tịch HĐQT Tập đoàn Mai Linh cho biết: "Ngành vận tải hành khách đang liên tục phát triển và đòi hỏi các hãng taxi phải luôn đổi mới, nắm bắt công nghệ để duy trì vị thế cạnh tranh trên thị trường. Việc bổ sung thêm một giải pháp thanh toán tiện lợi như VNPAY-QR sẽ giúp Mai Linh hoàn thiện hơn chất lượng dịch vụ, đáp ứng tốt hơn sở thích di chuyển và nhu cầu thanh toán đa dạng của khách hàng hiện nay".
+Tính năng quét mã QR Pay được tích hợp sẵn trên ứng dụng di động của hầu hết các ngân hàng hiện nay.
+Thanh toán QR Code đã phổ biến tại nhiều nước trên thế giới. Tại thị trường Việt Nam, VNPAY là một trong những đơn vị đi đầu trong phát triển hình thức thanh toán này. Sau hai năm phát triển, VNPAY-QR được ứng dụng trong nhiều lĩnh vực. Nhiều thương hiệu lớn cũng tích hợp giải pháp thanh toán này vào hệ thống như Vietnam Airlines, Vietjet Air, FPT Telecom, Mobifone, chuỗi siêu thị điện máy Phong Vũ, FPT Shop, chuỗi nhà hàng Redsun....
+"Việc taxi Mai Linh kết nối thanh toán VNPAY-QR sẽ mở rộng thêm trải nghiệm di chuyển, thanh toán đơn giản và hiện đại hơn cho khách hàng. Di chuyển cũng là một trong những nhu cầu thiết yếu của cuộc sống nên việc trả cước taxi qua ứng dụng sẽ giúp khách hàng sớm hình thành thói quen mới trong thanh toán", ông Lê Tánh, Tổng giám đốc VNPAY phát biểu trong buổi lễ ký kết.
+Hướng dẫn trả cước taxi Mai Linh bằng ứng dụng ngân hàng:
+- Bước 1: Mở ứng dụng ngân hàng trên điện thoại (Có thể chọn ứng dụng của một trong các ngân hàng sau: Vietcombank, BIDV, VietinBank, Agribank, NCB, SCB, SHB, ABBank, MSB, VIB, VPBank, TPBank, MB, Nam A Bank...)
+- Bước 2: Chọn tính năng QR Pay trên ứng dụng, quét mã VNPAY-QR được cung cấp bởi tài xe khi chuyến xe kết thúc.
+- Bước 3: Kiểm tra lại thông tin, xác thực giao dịch bằng mã OTP (hoặc bằng vân tay, nhận diện khuôn mặt). Nhận thông báo giao dịch hoàn tất.
+Tâm Anh	

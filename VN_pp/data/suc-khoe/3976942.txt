@@ -1,0 +1,16 @@
+TITLE: Belong - ứng dụng tư vấn online cho người ung thư - VnExpress Sức Khỏe
+
+KEY WORDS: belong, ứng dụng, tư vấn online, bệnh nhân ung thư, bác sĩ, Do thái, lập trình
+
+TOPIC: sức khỏe, tư vấn
+
+CONTENT: 
+Ba nhà lập trình ứng dụng này ở Israel, đều có người thân qua đời do ung thư. Hiện tại, Belong là ứng dụng có lượng người dùng rộng rãi trên thế giới. Ứng dụng không chỉ tạo diễn đàn giao lưu giữa bệnh nhân với bệnh nhân mà còn là nơi 150 bác sĩ chuyên khoa ung thư tình nguyện trả lời các thắc mắc. Các chuyên gia chỉ cần trả lời câu hỏi một lần, ứng dụng sẽ tự động hiện câu trả lời cho những câu hỏi tương tự.
+Với lượng dữ liệu khổng lồ từ người dùng gồm hơn 200.000 bệnh nhân ung thư, người chăm sóc bệnh nhân, chuyên gia y tế, trí tuệ nhân tạo (AI) hỗ trợ Belong xử lý, phân tích, tổng hợp rồi đưa ra tư vấn phù hợp nhất với tình trạng sức khỏe từng bệnh nhân. Ông Eliran, giám đốc trang Belong.life, cho biết khác với việc tham gia các hội nhóm về ung thư trên Facebook, người dùng không phải vất vả lọc thông tin từ nhiều bài đăng với những chủ đề khác nhau, Belong tự động tổng hợp, cá nhân hóa thông tin cho từng bệnh nhân.
+"Một chuyên gia ung thư có thể nhận khoảng 15.000 câu hỏi trong hai năm tư vấn", ông Eliran nói.
+Bên cạnh tư vấn bệnh nhân online, các chuyên gia sử dụng Belong nhằm xây dựng phác đồ điều trị mới sau khi thu thập thông tin từ một số lượng lớn bệnh nhân. Ví dụ, thông qua Belong, bác sĩ đưa ra kết luận với bệnh nhân ung thư, thời gian lý tưởng nhất để vận động cơ thể là trước ngày xạ trị một ngày, thay vì sau một ngày hay trước khi xạ trị vài giờ. Thông tin này không dễ dàng tìm thấy trên các hội nhóm online.
+Tài khoản cá nhân trên Belong là các tài khoản ẩn danh, giúp người bệnh có thể chia sẻ về bệnh tình cởi mở hơn.
+Ứng dụng Belong cài đặt miễn phí trên điện thoại. Ảnh: Israel21c
+Theo nghiên cứu tại Đại học McGill, 84% bệnh nhân Khoa Ung thư tại Montreal, Canada, cho biết ứng dụng Belong giúp họ bớt cô đơn trong quá trình chiến đấu với ung thư. 80% bệnh nhân nói Belong giúp họ sẵn sàng hơn cho các cuộc thăm khám.
+Belong cũng có một phiên bản liên kết với bệnh viện. Phiên bản này có thêm chức năng nhắc lịch hẹn khám, các bước chuẩn bị trước khi làm xét nghiệm, điều trị, thậm chí có cả bản đồ chỉ đường đến khoa ung thư hoặc phòng chụp cộng hưởng từ (MRI) cho bệnh nhân.
+Lê Hằng (Theo Israel21c) 

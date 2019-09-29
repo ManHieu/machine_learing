@@ -1,0 +1,12 @@
+TITLE: Google dùng công nghệ AI trợ giúp người khuyết tật - VnExpress Số Hóa
+
+KEY WORDS: Google, I/O 2019
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Tại hội nghị dành cho các nhà phát triển Google I/O 2019, hãng công nghệ của Mỹ thu hút chú ý khi tiết lộ đang đầu tư nhiều vào các dự án hỗ trợ cho những người dùng đặc biệt.
+Một trong những dự án thu hút chú ý là Project Euphonia, nằm trong chương trình "AI vì xã hội tốt hơn" của Google. Nó sử dụng công nghệ trí tuệ nhân tạo AI cải thiện khả năng xử lý của máy tính để giúp cho những người khó giao tiếp vẫn có thể trao đổi với nhau dễ dàng.
+Phần mềm của Google sẽ biến các mẫu giọng nói được ghi thành biểu đồ phổ hoặc biểu thị trực quan của âm thanh. Sau đó, máy tính sử dụng các phổ được phiên âm phổ biến để huấn luyện hệ thống nhận dạng tốt hơn âm thanh khó nghe này. Các thuật toán AI hiện mới hỗ trợ các cá nhân nói tiếng Anh và bị khiếm khuyết liên quan đến ALS (hội chứng xơ cứng teo cơ một bên) nhưng Google tin dự án có thể mở rộng đến các nhóm người lớn hơn và cho các khiếm khuyết khác.
+Ngoài việc cải thiện nhận dạng giọng nói, hãng công nghệ Mỹ cũng đang đào tạo thuật toán AI cá nhân hóa để phát hiện âm thanh hoặc cử chỉ, sau đó thực hiện các lệnh điều khiển đến Google Home hoặc gửi tin nhắn văn bản. Điều này hữu ích cho những người bị tàn tật nặng và không thể nói được. 
+Mỹ Anh

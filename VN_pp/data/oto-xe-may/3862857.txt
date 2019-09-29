@@ -1,0 +1,23 @@
+TITLE: Phanh khí nén là gì
+
+KEY WORDS: xe container gây tai nạn, xe container tông, phanh xe container, xe container mất phanh, xe container mất thắng
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Hệ thống phanh khí nén thường được sử dụng trên các dòng xe tải trọng lớn, xe container, semi rơ-moóc. Loại phanh này được phát minh bởi George Westinghouse, sử dụng đầu tiên trên dịch vụ tàu hoả và đăng ký sáng chế vào tháng 3/1872. Đầu thế kỷ 20, phanh khí nén được sử dụng trên xe tải và các loại xe hạng nặng.
+Giảng viên khoa công nghệ ôtô của một trường đại học tại Hà Nội cho biết xe sử dụng phanh khí nén hiếm xảy ra hiện tượng mất phanh. Bởi khi mất phanh bánh xe ở cầu chuyển động sẽ bị khoá cứng không thể dịch chuyển.
+Về cơ bản, hệ thống phanh khí nén gồm bàn đạp, máy nén khí, bình chứa khí nén, bộ điều chỉnh áp suất, van điều khiển, đồng hồ báo áp suất và bầu phanh bánh xe.
+Sơ đồ hoạt động của hệ thống phanh khí nén. 
+Phanh khí nén chỉ yêu cầu lực đạp phanh nhẹ nhàng từ người lái, dễ điều khiển và không cần bổ trợ lực phanh. Hiệu quả phanh cao, nên phát huy tác dụng tốt đối với ôtô có tải trọng trung bình trở lên, các loại phương tiện có quán tính lớn. Nhược điểm của phanh khí nén nằm ở kết cấu nhiều bộ phận, cồng kềnh hơn so với phanh thuỷ lực và kém nhạy hơn so với phanh điện.
+Hệ thống dẫn động phanh gồm máy nén khí lắp phía trên động cơ, dùng để tạo áp suất khí từ 0,6-0,8 Mpa và nạp vào bình chứa khí nén. Mỗi bình chứa khí nén có thể đủ cho 10 lần đạp phanh, khi máy nén khí hỏng. Nhiều dòng xe cỡ lớn trang bị 2 bình chứa khí nén.
+Khi xe khởi động, hệ thống máy nén khí bắt đầu hoạt động để cung cấp đủ khí nén cho hệ thống phanh. Trong trường hợp thiếu hơi, bánh xe bị khoá không thể di chuyển xe được. Khi hệ thống phanh khí nén nhận đủ hơi, lò xo trong bộ phận hãm sẽ nhả phanh.
+Khi người lái đạp chân phanh, thông qua ty đẩy làm cho piston điều khiển chuyển động nén lò xo và đẩy van khí nén mở cho khí nén từ bình chứa chuyển đến các bầu phanh bánh xe. Khí nén làm hai guốc phanh ép chặt má phanh vào tang trống tạo nên ma sát, làm giảm tốc bánh xe.
+Khi chân người lái không tác động vào bàn đạp phanh nữa, lò xo của piston điều khiển và van khí nén hồi vị, đóng kín đường dẫn khí từ bình chứa, đồng thời xả khí nén ở bầu phanh ra ngoài không khí. Hệ thống lò xo trong bầu phanh hồi vị, kéo hai guốc phanh khỏi tang trống giúp xe có thể chuyển động bình thường.
+Hệ thống phanh khí nén an toàn hơn so với phanh thuỷ lực trong trường hợp bị rò rỉ khí. Trường hợp khí nén của toàn bộ hệ thống phanh bị rò rỉ hết, cơ cấu phanh sẽ tự hãm lại, khiến xe không thể di chuyển (như trường hợp chưa đủ khí nén cho hệ thống phanh), trong khi rò rỉ dầu thuỷ lực sẽ làm phanh mất tác dụng hoàn toàn.
+Tuy vậy, rủi ro vẫn có thể xảy ra nếu tài xế sử dụng phanh rà liên tục làm nóng phanh, các chi tiết bị nóng đỏ sẽ cháy, mất ma sát, nên việc ép guốc phanh vào tang trống không còn tác dụng. Vấn đề này phần lớn chỉ xảy ra nếu di chuyển đường đèo dốc dài, liên tục.
+Bầu phanh sau trên xe tải. 
+Trên xe đầu kéo còn có hệ thống phanh khẩn cấp. Tài xế cần kích hoạt hệ thống hỗ trợ phanh khẩn cấp trước khi vận hành xe. Khí nén được nạp cho hệ thống hỗ trợ phanh khẩn cấp, khi đủ áp suất, phanh sẽ nhả. Trong trường hợp có sự cố, áp suất giảm một cách vừa đủ để kích hoạt lại phanh khẩn cấp.
+Đối với các loại xe tải hạng nặng, hệ thống phanh cổ xả động cơ được thêm vào nhằm bổ trợ cho quá trình phanh, kích hoạt khi xe di chuyển với tốc độ trên 20 km/h. Một van gắn trong ống xả động cơ sẽ điều chỉnh khí thải. Trong trường hợp khẩn cấp van sẽ đóng lại làm tăng áp suất trong ống xả, piston muốn đẩy khí trong buồng đốt ra ngoài bị cản trở làm giảm tốc độ.
+Tuy nhiên đối với những chiếc xe tải hạng nặng, quán tính lớn nên quãng đường phanh để dừng hẳn cũng sẽ dài hơn nhiều so với xe du lịch ở cùng tốc độ. Một chiếc xe container, xe tải hạng nặng ở tốc độ 60 km/h cần 81 mét để phanh dừng hoàn toàn, trong khi xe con chỉ mất 32 m. Do đó, tài xế lái xe tải hạng nặng cần phải tập trung khi tham gia giao thông, tính toán tốc độ và khoảng cách phanh khi dừng xe tại các khu vực giao thông đông đúc để đảm bảo an toàn.
+Phương Linh 

@@ -1,0 +1,19 @@
+TITLE: 'Radar dò đường' cho phụ nữ tìm việc ở thành phố - VnExpress
+
+KEY WORDS: ứng dụng tìm việc làm, hành trình an toàn, phụ nữ tìm việc
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Sau gần 3 năm, Plan International Việt Nam - tổ chức phi chính phủ hoạt động trong lĩnh vực quyền trẻ em gái, đã phát triển ứng dụng "hành trình an toàn" trên hệ điều hành Android và IoS. Hành trình an toàn giúp kết nối mạng lưới các nhà quản lý, chủ doanh nghiệp, chủ nhà trọ để cung cấp thông tin về cuộc sống an toàn, công việc ổn định cho những người phụ nữ lên thành phố kiếm sống.
+Ứng dụng có giao diện đơn giản với 4 mục chính: Việc làm, nhà trọ, thông báo và đăng nhập nên phù hợp với phụ nữ có trình độ tốt nghiệp trung học. Khi click vào mục nhà trọ hoặc việc làm, danh sách các vị trí tuyển dụng và nhà trọ cho thuê với những hình ảnh, thông tin, điện thoại liên hệ của chủ trọ, địa chỉ phòng, hình thức nhà trọ,,diện tích phòng, giá, số lượng phòng trống... Tất cả các phòng trọ được đăng tải trên ứng dụng đều có giá thuê từ 400 nghìn đến 1 triệu đồng/tháng, người thuê có thể lựa chọn theo nhu cầu.
+Ứng dụng "hành trình an toàn" trên hệ điều hành IoS. Ảnh: Plan International Việt Nam.
+Ở mục tìm việc làm, người dùng biết được mức lương, yêu cầu kinh nghiệm và bằng cấp, số lượng tuyển, địa chỉ và điện thoại liên hệ, hạn nộp hồ sơ, thông tin mô tả về công ty... Đặc biệt, các công việc đăng tuyển ở đây đều không đòi hỏi trình độ học vấn cao, phù hợp với những phụ nữ có trình độ tốt nghiệp trung học lên thành phố kiếm sống.
+Ứng dụng cũng cung cấp chức năng lọc với các tiêu chí cụ thể để người dùng dễ dàng tìm nhà trọ và công việc phù hợp với điều kiện của bản thân. Ở mục thông báo cung cấp thông tin về kỹ năng cần thiết cho nữ thanh niên nhập cư như phòng chống quấy rối tình dục, hòa giải mâu thuẫn...
+Đăng nhập là phần dành riêng cho chủ doanh nghiệp và chủ nhà trọ với các yêu cầu bắt buộc gồm địa chỉ và số điện thoại liên hệ để thêm phần đảm bảo tính chính xác của thông tin đăng tải trên ứng dụng.
+Ứng dụng ra đời với mục đích giúp định hướng, đóng vai trò là "radar dò đường" cho những phụ nữ có trình độ tốt nghiệp trung học lên thành phố kiếm sống tìm được nhà trọ an toàn và công việc ổn định.
+Khảo sát của Plan International Việt Nam, 87% nữ thanh niên di cư từ 18 đến 30 tuổi ở Hà Nội không biết mình sẽ làm gì khi đến thành phố và 89% người được hỏi thiếu thông tin về nơi ở trọ trước khi rời xa quê nhà.
+Sau 1 tháng thử nghiệm, ứng dụng đã có hơn 500 lượt tải và gần 300 tài khoản đăng ký sử dụng thường xuyên. Mai Thị Dung (20 tuổi, quê ở Thanh Hóa) cho biết, dùng thử thấy ứng dụng rất đơn giản, dễ sử dụng. "Muốn tìm nhà, ứng dụng có đầy đủ thông tin cần thiết như tiền điện, điện nước, giá thuê vừa sức... Muốn tìm việc thì không còn canh cánh nỗi lo bị lừa nữa", Dung chia sẻ.
+Dung cho biết đã giới thiệu ứng dụng đến những người phụ nữ cùng cảnh xa quê như mình. Nhiều người muốn sử dụng "hành trình an toàn" nhưng do dung lượng điện thoại của họ không đủ, không cài đặt được ứng dụng, "họ tiếc lắm, cứ ngồi nhìn".
+Mới đây ứng dụng "hành trình an toàn" là giải pháp công nghệ tiêu biểu được Chính phủ Australia lựa chọn giới thiệu tại sự kiện phát động cuộc thi "Công nghệ vì sự bình đẳng" do tổ chức Sáng kiến hỗ trợ Phụ nữ khởi nghiệp và kinh doanh (WISE) thực hiện dưới sự đồng tài trợ bởi Chính phủ Australia và Ireland.
+Dự kiến trong năm nay, ứng dụng sẽ được đánh giá sơ bộ, nâng cấp và phổ cập với nhiều tính năng hơn nhưng giảm dung lượng của ứng dụng để phục vụ tốt nhất cho lợi ích của những người phụ nữ yếu thế. 

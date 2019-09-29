@@ -1,0 +1,29 @@
+TITLE: 'Trí tuệ nhân tạo thay đổi nền giáo dục tương lai' - VnExpress
+
+KEY WORDS: VioEdu, trí tuệ nhân tạo, học trực tuyến, AI
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+Luôn tồn tại ở xung quanh chúng ta, Trí tuệ nhân tạo (AI) tác động đến cuộc sống của mỗi người. Từ các cảm biến thông minh giúp chụp ảnh hoàn hảo, cho đến trợ lý cá nhân (Siri của Apple hoặc Bixby của Samsung) trong điện thoại thông minh, AI đang tạo nên một cuộc cách mạng lớn trong lịch sử loài người.
+Ngành giáo dục cũng không nằm ngoài tác động đó, dù đây được đánh giá là một trong những ngành an toàn nhất trước AI. Dưới đây là những ví dụ về việc AI tác động đến tương lai của nền giáo dục như thế nào.
+AI sẽ thay đổi vai trò của giáo viên
+Ứng dụng AI trong giáo dục sẽ giúp việc học tập đối với học sinh và giáo viên thú vị và hiệu quả hơn.
+Thực tế, AI sẽ không thể thay thế hoàn toàn vai trò của giáo viên. Tuy nhiên công việc thầy cô trên lớp sẽ thay đổi. Với việc ứng dụng AI vào giảng dạy, giáo viên đóng vai trò quan sát và tập trung vào các vấn đề về giao tiếp, cảm xúc - điều máy móc chưa thể thay thế con người.
+Ứng dụng AI giúp việc học tập thú vị và hiệu quả hơn.
+Bên cạnh giảng dạy, giáo viên thường phải chịu nhiều áp lực khác khiến họ không có đủ thời gian để nghiên cứu và xây dựng bài giảng hay, hiệu quả. AI có thể giải quyết vấn đề này, hỗ trợ quản lý dạy và học, giúp giáo viên có thêm thời gian để tập trung vào chuyên môn.
+Phần mềm giúp cá nhân hóa việc học cho mỗi học sinh
+Không phải tất cả học sinh đều học theo cùng một cách, cùng một lúc với cùng một tốc độ. Trong thời đại công nghệ, các lớp học của thế kỷ 21 cần tập trung vào điểm mạnh và sở thích của từng người, thay vì chỉ áp dụng một số kiến thức rập khuôn như cách học truyền thống. Đây chính là khía cạnh mà AI có thể giúp đỡ chúng ta.
+Các phần mềm có sự hỗ trợ của AI có thể cá nhân hóa việc học theo nhu cầu từng học sinh, bằng cách tập trung vào một số kiến thức mà học sinh gặp nhiều khó khăn nhất, lặp lại điều mà học sinh chưa hiểu, hướng tới mục tiêu giúp các em học với lộ trình riêng. Khi học sinh đã trả lời sai một câu hỏi hoặc một nhiệm vụ cụ thể, hệ thống sẽ thông báo cho giáo viên để giúp đỡ học sinh, đồng thời đưa ra gợi ý cho câu trả lời đúng.
+AI và giáo dục ở Việt Nam
+Tại Việt nam, nhiều đơn vị công nghệ đã có những nghiên cứu và phát triển các ứng dụng AI trong lĩnh vực giáo dục. Hệ thống giáo dục trực tuyến VioEdu của FPT là một ví dụ.
+VioEdu hướng đến hỗ trợ thiết lập lộ trình học tập riêng, hiệu quả cho từng học sinh. Qua quá trình rèn luyện, dữ liệu về hành vi và kiến thức của học sinh được ghi lại, phân tích bằng AI, từ đó đề xuất kiến thức học tập phù hợp tiếp theo. Hệ thống đã ghi nhận thực tế 73,8% học sinh tiến bộ rõ rệt sau khi luyện tập.
+Hiện đội ngũ VioEdu đã xây dựng một hệ thống kiến thức đa dạng, bao gồm hơn 100.000 nội dung học tập, hơn 400 video bài giảng sinh động dành cho khối tiểu học.
+ 
+ 
+'Trí tuệ nhân tạo thay đổi nền giáo dục tương lai'
+Một bài giảng trên hệ thống VioEdu.
+Hệ thống cũng hỗ trợ giáo viên, nhà trường quản lý toàn diện hoạt động dạy và học, từ đó giúp thầy cô giáo nắm được trình độ của từng học sinh, vùng kiến thức mà học sinh chưa thành thạo, phân nhóm học sinh theo năng lực để có giải pháp hỗ trợ phù hợp.
+Ứng dụng AI vào giáo dục tại Việt Nam hiện còn khá mới. Với tính hiệu quả của nó, một số trường học bắt đầu phối hợp với các đơn vị công nghệ tiên phong để đưa AI vào giảng dạy và quản lý. Với VioEdu, hệ thống giáo dục trực tuyến này đã được triển khai cho toàn bộ học sinh tại trường Tiểu học & THCS FPT Cầu Giấy, trường Tiểu học & THCS Ngôi Sao Hà Nội.
+Phụ huynh đăng ký trải nghiệm tại đây
+Tiến sĩ Nguyễn Văn TuyênHệ thống giáo dục trực tuyến VioEdu - Tập đoàn FPT  

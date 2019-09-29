@@ -1,0 +1,15 @@
+TITLE: Smartphone có camera 100 megapixel xuất hiện trong 2019 - VnExpress Số Hóa
+
+KEY WORDS: Smartphone, camera, Qualcomm
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Điện thoại có camera đạt độ phân giải 64 megapixel hoặc thậm chí lên tới 100 megapixel gần như sẽ xuất hiện trong 2019, Judd Heape, lãnh đạo cấp cao của Qualcomm, nhà sản xuất lớn nhất về vi xử lý dành cho thiết bị di động hiện nay, tiết lộ trong phỏng vấn với báo chí gần đây. 
+Lý do để Judd Heape đưa ra thông tin này bởi chip di động nói chung và của Qualcomm nói riêng, bao gồm các model thế hệ mới như Snapdragon 660, 670, 675 hay 710, 845 và 855, đều đã hỗ trợ độ phân giải lên tới 192 megapixel. Điều này giúp các nhà sản xuất tận dụng được cảm biến độ phân giải siêu cao, tăng cường khả năng chụp hình trên thiết bị di động.
+Smartphone với camera độ phân giải siêu cao lên tới trăm megapixel sẽ sớm xuất hiện. Ảnh: GSMArena
+Không chỉ cho ra những bức ảnh có kích thước lớn, việc hỗ trợ cảm biến camera độ phân giải cao còn hứa hẹn cải thiện nhiều chất lượng ảnh chụp điện thoại khi kết hợp với phần mềm xử lý. Ví dụ từ một bức hình độ phân giải 64 megapixel, vi xử lý cùng với các thuật toán hoàn toàn có thể tạo ra bức hình độ phân giải 16 megapixel thấp nhưng độ chi tiết cao hơn nhiều, bằng cách ghép 4 điểm ảnh lại làm một.
+Cách thức này khác biệt với thuật toán xử lý chụp ảnh mà Google hay Apple, Samsung đang áp dụng để cải thiện chất lượng camera trên thiết bị di động, khi họ sử dụng cảm biến độ phân giải thấp hơn nhưng chụp liên tục nhiều hình ảnh khác nhau và ghép lại, sau đó xử lý để tăng cường chất lượng ảnh về màu sắc, độ sắc nét hay độ sáng.
+Dù những điện thoại có camera 64 megapixel hay 100 megapixel vẫn chưa xuất hiện, 2019 đã bắt đầu cuộc chạy đua nâng số "chấm" trên điện thoại di động, mở màn từ các thương hiệu Trung Quốc.
+Xiaomi mới đây tung ra 2 model Mi 9 và Redmi Note7 Pro đều có camera 48 megapixel, cao gấp 4 lần độ phân giải trên các smartphone Android phổ biến hay iPhone. Vivo cũng vừa cho ra mắt V15 Pro với camera trước và sau có độ phân giải lần lượt 32 và 48 megapixel.  
+Mỹ Anh

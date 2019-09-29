@@ -1,0 +1,15 @@
+TITLE: Apple 'đá xéo' Facebook với tính năng Sign in with Apple - VnExpress Số Hóa
+
+KEY WORDS: Apple, Apple WWDC 2019, Sign in with Apple
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Tại hội thảo dành cho các nhà phát triển WWDC ở San Jose (Mỹ) rạng sáng 4/6, Apple cho biết, nếu một ứng dụng cho phép người dùng đăng nhập bằng các tài khoản bên thứ ba (như Sign in with Facebook, Sign in with Google), thì ứng dụng đó bắt buộc bổ sung lựa chọn Sign in with Apple.
+Apple chê tính năng của Facebook, Google. Ảnh: TechCrunch.
+Hiển thị logo của Facebook, Google trên màn hình lớn, Craig Federighi, Phó chủ tịch phụ trách mảng phần mềm của Apple, nhận xét: "Việc đăng nhập này có thể thuận tiện, nhưng cái giá phải trả là sự riêng tư. Các thông tin cá nhân của bạn đôi khi bị chia sẻ mà bạn không hay biết. Hoạt động đăng nhập của bạn có thể được sử dụng để theo dõi bạn".
+Trong khi đó, với Sign in with Apple, người dùng có thể chọn chia sẻ hoặc không chia sẻ email khi đăng nhập ứng dụng. Nếu chọn ẩn email, hệ thống Apple sẽ ngẫu nhiên tạo một địa chỉ ảo liên kết tới email thật của người dùng, nhờ đó nhà phát triển ứng dụng cũng như Apple sẽ không nhìn thấy email thật và người dùng không bị thu thập thông tin.
+Email mà Apple nhận được là những địa chỉ ảo, không phải email thật của người dùng. Ảnh: ZDNet.
+"Chúng tôi tin quyền riêng tư là quyền cơ bản của con người và điều đó thể hiện trong mọi thứ chúng tôi làm", Federighi khẳng định. 
+Sign in With Apple chưa có mặt trên bản thử nghiệm iOS 13, nhưng Apple cho biết tính năng này sẽ xuất hiện ngay mùa hè này.  
+Châu An

@@ -1,0 +1,18 @@
+TITLE: Trung Quốc giấu siêu máy tính mạnh nhất, chọn giải pháp không đối đầu Mỹ ở lĩnh vực siêu máy tính - VnExpress Số Hóa
+
+KEY WORDS: Trung Quốc, Mỹ, siêu máy tính, mạnh nhất thế giới
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+SCMP cho biết Trung Quốc đã quyết định hạn chế đối đầu trực tiếp với Mỹ trong lĩnh vực siêu máy tính, bằng cách không mang mẫu Shuguang cực mạnh ra trình diễn tại cuộc thi siêu máy tính diễn ra tuần trước. Kết quả là, Mỹ vẫn dẫn đầu danh sách top 500 cỗ máy mạnh nhất thế giới với hai mẫu Summit và Sierra.
+Siêu máy tính IBM Sierra của Mỹ. Ảnh: Cnet.
+Shuguang đang được đặt tại Trung tâm thông tin mạng máy tính của Viện Hàn lâm Khoa học Trung Quốc, là cỗ máy có khả năng vận hành nhanh hơn 50% so với siêu máy tính tốt nhất hiện nay của Mỹ, đạt tốc độ hơn 200 petaflop (mỗi petaflop thực hiện một nghìn tỷ phép tính mỗi giây). Trong khi đó, Summit và Sierra do IBM chế tạo có tốc độ xử lý 148,6 petaflop và 94,6 petaflop tương ứng.
+Theo nguồn tin, Trung Quốc quyết định không công bố Shuguang với mục đích "tránh thổi bùng ngọn lửa căng thẳng của chiến tranh thương mại". Tuy vậy, nó đã không ngăn được Bộ Thương mại Mỹ đưa năm công ty đang phát triển siêu máy tính của Trung Quốc là Sugon tại Bắc Kinh cùng ba chi nhánh và Viện công nghệ điện toán vô tích Giang Nam vào danh sách hạn chế sau đó.
+Sugon là nhà phát triển chính của Shuguang. Đây cũng là doanh nghiệp hàng đầu trong lĩnh vực sản xuất thiết bị điện toán hiệu năng cao (HPC), máy chủ, thiết bị lưu trữ, điện toán đám mây, dữ liệu lớn... của Trung Quốc.
+Siêu máy tính là lĩnh vực tiếp theo mà chính quyền Tổng thống Donald Trump muốn nhắm tới trong cuộc chiến thương mại, sau khi ban hành lệnh cấm Huawei và 68 công ty liên quan do lo ngại "an ninh quốc gia". Tuy nhiên, một số chuyên gia cho rằng Trung Quốc từ lâu đã tự chủ được công nghệ siêu máy tính và động thái từ Mỹ càng thúc đẩy đối phương giảm phụ thuộc vào công nghệ của mình.
+Thực tế, Trung Quốc bắt đầu xây dựng hệ thống siêu máy tính mà không có chất bán dẫn của Mỹ từ 2015, sau khi Tổng thống Mỹ khi đó là Barack Obama ra lệnh cấm bán chip Intel, Nvidia và AMD cho các công ty Trung Quốc.
+Một báo cáo hôm 25/6 của Bộ Khoa học và Công nghệ Trung Quốc cũng cho biết, quyết định ngăn chặn năm công ty siêu máy tính dùng công nghệ Mỹ của Nhà Trắng không tác động nhiều đến Trung Quốc, bởi doanh nghiệp trong nước đã có khả năng tự sản xuất được các thành phần chính cho siêu máy tính, trong đó có CPU. Tuy nhiên, chi tiết về CPU này không được tiết lộ.
+Hiện cả Mỹ và Trung Quốc đều đang chạy đua sản xuất siêu máy tính đạt cảnh giới "exascale", tức là có thể tính một tỷ tỷ phép tính mỗi giây. Mỹ được cho là đang thực hiện Dự án Điện toán Exascale, dự kiến hoàn thành năm 2021. Trong khi đó, Trung Quốc thậm chí còn mạnh tay hơn với ba cỗ máy tốc độ tương tự đặt tại Phòng thí nghiệm Khoa học và Công nghệ Hàng hải Quốc gia Thanh Đảo (dự kiến hoàn thành năm 2020), Trung tâm Siêu máy tính Quốc gia Thiên Tân (2021) và Trung tâm Siêu máy tính Quốc gia Thâm Quyến (2022).
+Thuật ngữ "siêu máy tính" (supercomputer) được dùng để chỉ những hệ thống máy tính khổng lồ, có sức mạnh tính toán cao gấp hàng triệu lần máy tính thông thường, có khả năng giải quyết các vấn đề khoa học phức tạp nhất thế giới. Chúng được ứng dụng vào hầu hết lĩnh vực như mô phỏng các vụ thử tên lửa hạt nhân, dự báo thời tiết, nghiên cứu khí hậu, kiểm tra sức mạnh mã hóa của máy tính...
+Bảo Lâm (theo SCMP)

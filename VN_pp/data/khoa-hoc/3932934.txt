@@ -1,0 +1,13 @@
+TITLE: Nhà khoa học tạo ra điện từ nơi lạnh nhất vũ trụ - VnExpress
+
+KEY WORDS: tạo điện từ vũ trụ
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Nhóm nghiên cứu khoa học quốc tế lần đầu tiên chỉ ra rằng một lượng lớn điện năng có thể được tạo ra trực tiếp trong đi-ốt từ nơi lạnh lẽo nhất vũ trụ mà không cần ánh sáng mặt trời. 
+Nhà khoa học đã lắp đặt một thiết bị trong không gian có nhiệt độ cực thấp, thiết bị này sẽ tạo ra một nguồn năng lượng lạnh bằng việc sử dụng loại vật lý quang điện tử học mà chúng ta đã sử dụng để khai thác năng lượng mặt trời. Đây là thiết bị bán dẫn tia hồng ngoại, tận dụng sự chênh lệch nhiệt độ giữa trái đất và không gian để sản xuất điện năng. 
+Sơ đồ thiết bị tạo ra điện có nguyên lý giống pin mặt trời. Ảnh: Curiosmos.
+Nghiên cứu được công bố trên tạp chí Applied Physics Letters, được xem là giải pháp tiềm năng trong việc tạo ra điện năng giống như mặt trời nhưng trong thời gian cả ngày lẫn đêm. Trong nghiên cứu, các nhà khoa học giải thích làm thế nào đi-ốt chiếu sáng cực âm của họ có thể tạo ra khoảng 64 nanoWatt/m2.
+Mặc dù chỉ là một lượng điện nhỏ nhưng đó là bằng chứng quan trọng cho việc cải thiện tính chất quang điện tử lượng tử của thiết bị. Theo lý thuyết thiết bị có thể tạo ra gần 4 Watt/m2 trong môi trường nhiệt độ âm, đủ để cho các máy móc thiết bị hoạt động vào ban đêm. Thực tế, các tấm pin mặt trời đang sử dụng có thể tạo ra khoảng 100 đến 200 Watt/m2.
+Nguyễn Xuân (Theo Curiosmos) 

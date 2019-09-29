@@ -1,0 +1,15 @@
+TITLE: Bùng phát lây nhiễm mã độc trên điện thoại di động - VnExpress Số Hóa
+
+KEY WORDS: mã độc, thiết bị di động
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Thiết bị di động trở thành mục tiêu được tin tặc và kẻ xấu tấn công mạng. Không chỉ hoạt động tinh vi hơn, số lượng tấn công đã bùng phát mạnh thời gian gần đây. Theo báo cáo nghiên cứu về mã độc trên di động năm 2018 của Kaspersky Lab, chỉ sau một năm tổng số vụ tấn công sử dụng mã độc trên di động đã tăng gấp đôi, từ 66,4 triệu năm 2017 lên tới 116,5 triệu cuộc tấn công vào năm 2018.
+Sơ hở từ việc người dùng không cài đặt bất kỳ giải pháp bảo mật nào trên di động trong khi lưu trữ dữ liệu khổng lồ đã khiến những thiết bị này trở thành mục tiêu hàng đầu hoặc làm kênh phát tán và lây nhiễm mã độc quan trong trong các chiến dịch tấn công của tội phạm mạng.
+Riêng trong 2018, số người dùng bị ảnh hưởng bởi tấn công mạng trên di động đã lên tới gần 9,9 triệu, tăng 774.000 người so với một năm trước. Trong đó, mối đe dọa tăng mạnh nhất là sử dụng Trojan-Droppers với tỷ lệ tăng gần gấp đôi từ 8,63% lên 17,21%. Loại mã độc này được thiết kế đặc biệt để vượt qua các hệ thống bảo mật, từ đó lây nhiễm tất cả các loại mã độc từ Trojan ngân hàng đến mã độc tống tiền (ransomware).
+Bản đồ tỷ lệ ảnh hưởng từ lây nhiễm mã độc trên thiết bị di động toàn cầu năm 2018. Ảnh: Kaspersky.
+Victor Chebyshev, chuyên gia bảo mật tại Kaspersky Lab, cho biết năm qua còn xuất hiện nhiều kỹ thuật lây nhiễm mã độc mới trên nền tảng di động ví dụ như chuyển hướng DNS (DNS hijacking), bên cạnh việc phát tán tin nhắn rác (spam SMS) theo hình thức tiên tiến. Báo cáo về bảo mật trong 2018 cho thấy Việt Nam chưa phải là nơi chịu ảnh hưởng lớn nhất từ lây nhiễm mã độc di động khi lượng người dùng bị ảnh hưởng ở mức 5,87%. Trong khi đó, những quốc gia đứng đầu danh sách này lần lượt là Iran (44,24%), Bangladesh (42,98%) và Nigeria (37,72%). 
+Để đảm bảo an toàn trên thiết bị di động, lời khuyên được đưa ra từ các chuyên gia bảo mật là chỉ cài đặt ứng dụng di động từ các cửa hàng ứng dụng chính thức như Google Play trên Android hoặc App Store trên iOS, chặn cài đặt chương trình từ các nhà cung cấp không rõ ràng, không bỏ qua các điều khoản hạn chế trên thiết bị vì có thể cấp quyền cho tội phạm mạng để thực hiện tấn công mã độc.
+Bên cạnh đó, thiết bị cần liên tục cập nhật hệ thống và ứng dụng ngay khi có thể, nhằm giúp vá các lỗ hổng hiện tại và giữ cho thiết bị được bảo vệ. Tuy nhiên, các bản cập nhật hệ điều hành không được tải xuống từ các nhà cung cấp bên ngoài trừ khi người dùng tham gia thử nghiệm beta chính thức). 
+Tuấn Anh

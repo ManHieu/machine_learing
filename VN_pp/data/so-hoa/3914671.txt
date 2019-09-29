@@ -1,0 +1,16 @@
+TITLE: ITelecom 087: mạng di động ảo đầu tiên xuất hiện ở Việt Nam - VnExpress Số Hóa
+
+KEY WORDS: Indochina Telecom, Itelecom
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Indochina Telecom (ITelecom) với đầu số 087 là nhà mạng cung cấp dịch vụ viễn thông di động thứ sáu ở Việt Nam, bắt đầu có mặt trên thị trường từ 25/4 với đầu số 087. Nhưng khác 5 nhà mạng trước đó như Vinaphone, Viettel hay Mobifone..., ITelecom là mô hình mạng di động ảo MVNO (Mobile Virtual Network Operator) đầu tiên tại Việt Nam.
+Thay vì sử dụng hạ tầng và tần số vô tuyến riêng, nhà mạng di động ảo sử dụng chung hạ tầng với các nhà mạng có sẵn. ITelecom cho biết trong thời gian đầu họ sẽ sử dụng chung hạ tầng với Vinaphone và có thể mở rộng thêm với các nhà mạng khác trong tương lai.
+Theo ông Nguyễn Phong Nhã, cục phó cục Viễn thông, việc sử dụng mô hình nhà mạng di động ảo sẽ tiết kiệm chi phí đầu tư cho doanh nghiệp và tránh lãng phí của cải xã hội khi lưu lượng, hạ tầng chưa dùng đến của các nhà mạng sẵn có được tận dụng. Trên thế giới, MVNO đã phổ biến nhiều năm qua, nổi tiếng là dịch vụ Google FI nhưng giờ mới bắt đầu có mặt ở thị trường Việt Nam. 
+Đông Dương Telecom (ITelecom) là nhà mạng di động thứ sáu ở Việt Nam nhưng là nhà cung cấp đầu tiên sử dụng mạng di động ảo MVNO.
+Khác biệt mô hình hạ tầng, nhưng về cơ bản các dịch vụ viễn thông trên đầu số di động mới 087 không khác các nhà mạng trước đó. Ngoài dịch vụ liên lạc, truy cập dữ liệu di động, nhà cung cấp mạng di động ảo đầu tiên ở Việt Nam cũng có các dịch vụ gia tăng như nhạc chờ, chặn cuộc gọi... Giá cước liên lạc nội mạng từ 750 đồng/phút và ngoại mạng là 880 đồng/phút. Tập trung vào thị trường ngách với người dùng có thu nhập thấp, sinh viên hay công nhân, ITelecom có một gói cước riêng tên May với giá 77.000 đồng một tháng có thể gọi nội mạng và ngoại mạng miễn phí trong giới hạn và 3 GB dữ liệu Internet mỗi ngày. 
+So với các nhà mạng đã có trên thị trường, điểm hạn chế của ITelecom là chưa có hệ thống phòng giao dịch rộng cả nước, mà sử dụng kênh phân phối thông qua các tổng đại lý và đại lý uỷ quyền. Nhà mạng di động ảo này cũng sử dụng thẻ cào nạp tiền với Vinaphone. 
+Theo số liệu từ cục quản lý viễn thông, tính đến 2019 Việt Nam đã có hơn 120 triệu thuê bao sử dụng dịch vụ di động trong đó mới có 50% đăng ký sử dụng dịch vụ dữ liệu. Thị trường di động đang có sự cạnh tranh giữa 6 nhà cung cấp khác nhau gồm Vinaphone, Viettel, Mobifone, Vietnammobile, G-Tel và nhà mạng di động ảo MVNO đầu tiên ITelecom.
+Mobile Virtual Network Operator - MVNO là mô hình mạng di động dùng chung tài nguyên tần số được phép triển khai tại Việt Nam gọi là di động ảo hay còn gọi là mạng viễn thông di động mặt đất không có tần số. Mạng di động theo mô hình này xuất hiện lần đầu tại Anh năm 1999 và dần phổ biến với hơn 400 nhà cung cấp đang hoạt động trên toàn thế giới. Tới 2015, hãng công nghệ Mỹ, Google, cũng cung cấp dịch vụ mạng di động MVNO tại Mỹ và một số thị trường với tên gọi FI.  
+Tuấn Anh

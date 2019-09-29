@@ -1,0 +1,24 @@
+TITLE: Sự khác nhau giữa hai đồng tiền ảo Libra và Bitcoin
+
+KEY WORDS: Libra, Bitcoin, tiền điện tử, tiền kỹ thuật số, Facebook, tiền ảo
+
+TOPIC: kinh doanh, ebank, thanh toán điện tử
+
+CONTENT: 
+Mạng xã hội lớn nhất thế giới - Facebook hôm qua ra mắt tiền điện tử Libra, được tạo ra trên nền tảng khối chuỗi (blockchain). Libra được đánh giá là đối thủ tiềm năng của Bitcoin - tiền kỹ thuật số phổ biến nhất thế giới hiện tại và có thể tạo nên cơn địa chấn trong ngành tài chính toàn cầu. Cộng đồng tiền số cũng tỏ ra tin tưởng vào khả năng Libra được chấp nhận rộng rãi - điều mà Bitcoin phải chật vật suốt nhiều năm qua.
+Theo giới phân tích, dưới đây là những điểm khác biệt giữa hai đồng tiền này.
+1. Công dụng
+Minh họa việc chuyển tiền bằng Libra trên ứng dụng Calibra. Ảnh: Facebook
+Spencer Bogart tại Blockchain Capital cho biết Libra là một phương tiện trao đổi. Người dùng có thể chuyển tiền và giao dịch bằng Libra thông qua ứng dụng Calibra.
+Trong khi đó, Bitcoin, dù vẫn luôn nỗ lực trở thành nền tảng hỗ trợ thanh toán, lại được coi là công cụ đầu tư và cất trữ giá trị nhiều hơn. Michael Moro của Genesis Capital, cũng như rất nhiều người khác, vẫn coi Bitcoin là "vàng kỹ thuật số".
+2. Khả năng được chấp nhận
+Libra ra đời với rất nhiều tên tuổi lớn hậu thuẫn, như Mastercard, Uber, Booking Holdings hay Visa. Cannacord Genuity cho rằng việc này sẽ giúp Libra nhanh chóng được chấp thuận rộng rãi.
+"Đây là cơ hội rất tốt. Trong khi đó, Bitcoin vẫn là một thử nghiệm còn đang trong giai đoạn phát triển", Michael Graham - nhà phân tích tại Canaccord Genuity cho biết.
+Phí giao dịch thấp của Libra sẽ khuyến khích người dùng sử dụng token này để chuyển tiền. Ngược lại, giao dịch bằng Bitcoin khá đắt đỏ và chậm.
+"Libra được xây dựng từ đầu để trở thành phương tiện giao dịch nhanh và giá phải chăng. Đây là sự khác biệt rất lớn so với Bitcoin", Graham cho biết.
+3. Sự biến động
+Bản chất biến động của Bitcoin đã thu hút những người thích rủi ro vào hoạt động giao dịch tiền số này. Nguyên nhân là Bitcoin không thuộc sở hữu và quản lý của bất kỳ tổ chức nào, hoạt động trên hệ thống phi tập trung.
+Sau khi đạt mức cao kỷ lục gần 20.000 USD một đồng cuối năm 2017, tiền ảo này lao dốc không phanh, có thời điểm về quanh 3.200 USD năm 2018. Năm nay, Bitcoin dần phục hồi, bắt đầu tăng tốc từ đầu tháng 4 và liên tục vượt các mốc giá quan trọng. Hiện mỗi đồng có giá 9.160 USD.
+Trong khi đó, Libra lại được bảo đảm bằng các tiền tệ như đôla Mỹ hay euro. "Libra là một đồng tiền ổn định, bảo đảm bằng một rổ tiền tệ và công cụ nợ (trái phiếu, cổ phiếu ưu đãi). Bitcoin thì nổi tiếng là tiền số có biến động giá cực lớn", Tom Lee tại Fundstrat Global Advisors nhận xét.
+Các nhà phân tích tại Suntrust cũng cho biết đây là lý do họ thích Libra hơn Bitcoin. "Không như các tiền ảo khác thường xuyên biến động, chúng tôi tin rằng việc Libra tập trung vào việc hình thành một đồng tiền ổn định, được hỗ trợ bởi các tài sản thực chính là điều khác biệt. Hơn thế nữa, Libra còn không neo vào một đồng tiền duy nhất, mà vào một rổ tài sản từ trái phiếu chính phủ ngắn hạn đến tiền gửi ngân hàng".
+Hà Thu (theo CNBC)	

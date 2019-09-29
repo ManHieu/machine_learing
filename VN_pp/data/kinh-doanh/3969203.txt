@@ -1,0 +1,16 @@
+TITLE: Chuẩn bị đấu giá băng tần 2,6 GHz
+
+KEY WORDS: băng tần 2, 6 GHz, đấu giá băng tần, doanh nghiệp viễn thông, tốc độc dữ liệu di động, tốc độ 4G
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Bộ Thông tin & Truyền thông cho biết đang chuẩn bị các thủ tục để đấu giá băng tần 2,6 GHz. Bên cạnh yêu cầu về năng lực tài chính của doanh nghiệp phải đảm bảo để thanh toán các khoản trước và sau khi đấu giá, Cục Tần số vô tuyến điện dự kiến đưa ra một số điều kiện về yêu cầu triển khai mạng lưới sau khi trúng đấu giá. 
+Cụ thể, các doanh nghiệp trúng đấu giá phải triển khai mạng lưới trong 24 tháng kể từ ngày được cấp giấy phép sử dụng băng tần 2.6 GHz. Và đây sẽ là một điều kiện được quy định trong giấy phép sử dụng tần số. Doanh nghiệp vi phạm sẽ bị thu hồi giấy phép sử dụng tần số.
+Cơ quan quản lý cũng dự kiến đưa ra những yêu cầu cụ thể về số lượng trạm đối với doanh nghiệp trúng đấu giá. Theo đó, với các doanh nghiệp đã có giấy phép thiết lập mạng viễn thông di động mặt đất phải cam kết triển khai ít nhất 5000 trạm eNodeB trên băng tần 2,6 GHz trong vòng 24 tháng kể từ ngày được cấp giấy phép sử dụng.  
+Đối với doanh nghiệp chưa có giấy phép thiết lập mạng viễn thông di động phải cam kết chỉ được phép cung cấp dịch vụ viễn thông sau khi đã triển khai ít nhất 50% cam kết triển khai mạng lưới. Trong đó, doanh nghiệp có thể đề xuất một trong 2 phương án.
+Một là, trong 24 tháng được cấp phép, nhà mạng phải có vùng cung cấp dịch vụ sử dụng công nghệ 4G trên tất cả các quận, thị xã, thành phố trực thuộc tỉnh, đồng thời đạt tối thiểu 75% tổng dân số các cấp này. 
+Phương án thứ hai là doanh nghiệp phải cam kết trong 24 tháng phải triển khai dịch vụ sử dụng công nghệ 4G trên tất cả các quận, thị xã, thành phố trực thuộc tỉnh và đạt tối thiểu 8500 trạm eNodeB.
+Hiện trừ Gtel, các doanh nghiệp đã chính thức cung cấp dịch vụ 4G tới người dùng. Trong đó, VNPT, Viettel đã triển khai 4G trên băng tần 1800 MHz với các băng thông 10 MHz, 15 MHz, 20 MHz, MobiFone hầu hết đã triển khai băng thông 10 MHz. 
+Tuy nhiên, Bộ Thông tin & Truyền thông cho biết lưu lượng băng thông dành cho mạng 4G trên băng tần 1800 MHz (đang phục vụ cả mạng 2G) quá thấp so với nhu cầu thực tế, làm ảnh hưởng đến chất lượng dịch vụ, tốc độ mạng 4G. Theo thống kê, tốc độ trung bình Internet của Việt Nam đứng thứ 75 trên thế giới.
+Nguyễn Hà	

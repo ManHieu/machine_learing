@@ -1,0 +1,19 @@
+TITLE: Đèn xi-nhan vì sao kêu 'tíc tíc'
+
+KEY WORDS: đèn xi-nhan, tiếng kêu nhàm chán, đèn báo rẽ
+
+TOPIC: vnexpress, xe, tư vấn
+
+CONTENT: 
+Công nghệ đã phát triển vượt bậc từ khi ôtô ra đời, nhưng tiếng kêu đặc trưng của đèn xi-nhan gần như không thay đổi từ khi xuất hiện. Âm thanh này vốn được tạo ra nhờ nhiệt. 
+Khi tài xế gạt cần điều khiển, điện đốt nóng một lò xo lưỡng kim, khiến lò xo cong lên, chạm vào một thanh kim loại nhỏ. Lúc này mạch đóng, dòng điện truyền qua làm sáng đèn xi-nhan.
+Sau đó, lò xo nguội rất nhanh và trở lại hình dạng ban đầu, đèn tắt. Quá trình cong-duỗi của lò xò lặp đi lặp lại, tạo nên kiểu chớp nháy đặc trưng của xi-nhan. Khi lò xo uốn cong và bật trở lại thì tạo ra tiếng "tíc tíc".
+ 
+ 
+Vì sao đèn xi-nhan kêu 'tíc tíc'?
+Hai kiểu thiết lập hệ thống tạo ra tiếng kêu của đèn xi-nhan. Video: Jalopnik
+Theo thời gian, công nghệ được cải tiến, nhưng đèn xi-nhan vẫn sử dụng cách tương tự. Tuy nhiên, thay cho sự chuyển dịch của một lò xo, thì xung điện được gửi đến một nam châm thông qua con chip. Khi được kích hoạt, nam châm điện đẩy một vỏ kim loại, mạch hở, ngắt kết nối nguồn điện với đèn (hoặc ngược lại, tùy vào thiết lập rơ-le). Không có xung điện từ con chip, nam châm điện tắt và vỏ kim loại trở lại vị trí ban đầu, mạch đóng. Cũng giống trường hợp của lò xo lưỡng kim, rơ-le phát ra tiếng kêu mỗi lần chuyển động.
+Cho đến gần đây, đây vẫn là cách mà phần lớn đèn xi-nhan của xe hơi hoạt động. Nhưng mọi thứ đang ngày càng được tin học hóa. Rất nhiều mẫu xe ngày nay dựa vào máy tính để kích hoạt đèn xi-nhan, bỏ qua quá trình tạo ra tiếng "tíc tíc" đặc trưng.
+Tiếng kêu "tíc tíc" sẽ xuất hiện mỗi khi tài xế bật đèn xi-nhan. 
+Nhưng âm thanh vốn gắn bó với rất nhiều người suốt một thời gian dài đã trở nên không thể thiếu. Các tài xế có thể cảm thấy bối rối, không quen khi không nghe thấy âm thanh nào sau khi bật đèn xi-nhan. Thậm chí, tài xế có thể quên tắt đèn - trong trường hợp vô-lăng không trả đủ lái để tắt tín hiệu. Đó là lý do mà thứ âm thanh cơ học vẫn tồn tại nhưng do máy tính tạo ra và phát qua hệ thống audio của xe.
+Mỹ Anh (theo Jalopnik) 

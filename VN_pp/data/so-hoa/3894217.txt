@@ -1,0 +1,15 @@
+TITLE: Xiaomi ra Mi Router 4A và Gigabit: hai bộ phát Wi-Fi giá rẻ - VnExpress Số Hóa
+
+KEY WORDS: Xiaomi Mi Router 4A, Xiaomi Mi Router 4A Gigabit
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Xiaomi Mi Router 4A. 
+Xiaomi hôm qua ra mắt cùng lúc hai bộ phát Wi-Fi mới là Mi Router 4A và Mi Router 4A Gigabit - những model biến thể từ Mi Router 4. Hai thiết bị có ngoại hình giống nhau với lớp vỏ bằng nhựa trắng nhám nhẹ, thiết kế bo tròn hơn thế hệ Mi Router 3 nhưng vẫn có 4 ăng-ten đi kèm. 
+Cả hai đều hỗ trợ hai dải tần là 2.4 GHz và 5 GHz không bị nhiễu lẫn nhau. Dải tần 2.4 GHz cho độ phủ lớn hơn, khả năng xuyên tường tốt hơn trong khi dải tần 5 GHz sử dụng công nghệ 802.11ac, ít nhiễu và hỗ trợ tốc độ cao. Nhà sản xuất cài đặt sẵn bản firmware MiWROM dựa trên tùy chỉnh sâu của nền tảng OpenWRT.
+Bộ phát của Xiaomi có thể điều khiển từ xa qua ứng dụng Mi WiFi. 
+Mi Router 4A dùng chip MediaTek MT7628DA, RAM 64 MB và 16 MB ROM trên bo mạch. Phía sau có hai cổng LAN 100 M và một cổng WAN 100 M. Sản phẩm phù hợp với người dùng có kết nối băng rộng dưới 100 MB, hỗ trợ tối đa 64 thiết bị. 
+Phiên bản Mi Router 4A Gigabit cao cấp hơn với chip xử lý 4 lõi 880 MHz, RAM 128 MB. Khác biệt lớn nhất đến từ hai cổng Gigabit LAN và một cổng Gigabit WAN phía sau. Sản phẩm có thể kết nối ổn định với 128 thiết bị. 
+Mi Router 4A có giá 119 tệ (khoảng 420.000 đồng) và Mi Router 4A Gigabit là 169 tệ (khoảng 590.000 đồng).  
+Tuấn Hưng

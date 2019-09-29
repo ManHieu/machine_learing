@@ -1,0 +1,16 @@
+TITLE: Facebook bị đánh giá là công ty kém uy tín nhất về IoT - VnExpress Số Hóa
+
+KEY WORDS: IoI, Internet of Things, Facebook
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+IoT (Internet vạn vật) giúp kết nối các thiết bị, nhưng sự thuận tiện mà nó đem lại cũng có cái giá phải trả: bảo mật. Người dùng đang ngày càng thận trọng trong việc trao thông tin cá nhân của họ cho các hãng công nghệ lớn. 
+Gần một phần tư số người tham gia khảo sát khẳng định họ tin vào các giải pháp IoT của Google, tiếp đến là Amazon với 21%. Samsung và Microsoft cùng chiếm được lòng tin của 16% người dùng còn LG chỉ khoảng 10%. Trong khi đó, Facebook nhận kết quả tệ nhất khi chỉ 6% tin tưởng mạng xã hội này.
+Thời gian qua, Facebook liên tục "mang tiếng xấu" vì chính sách lỏng lẻo, làm lộ thông tin của hàng chục triệu người dùng, sử dụng số điện thoại của người dùng sai mục đích, lưu mật khẩu Instagram không mã hóa...
+Người dùng "chấm điểm" các công ty IoT (màu xanh: tin tưởng, màu đỏ: không tin tưởng).
+Các thiết bị thông minh, tích hợp Wi-Fi và trợ lý ảo, đang trở nên phổ biến trong cuộc sống. Mỗi gia đình Mỹ hiện nay trung bình có năm thiết bị kết nối, tăng tới 180% so với sáu năm trước theo thống kê của Contentstack. Hầu như mọi thiết bị điện tử mới đều tích hợp tính năng online, thậm chí cả đồ chơi của trẻ con.
+Các công ty lớn đang khai thác sức mạnh của IoT, nhưng lại chưa đầu tư đủ nhiều để bảo đảm an toàn cho thiết bị của mình, khiến thông tin của người dùng có thể dễ dàng bị rơi vào tay kẻ xấu.
+Theo các chuyên gia bảo mật, để giúp thiết bị thông minh kết nối mạng IoT tránh khỏi các cuộc tấn công, người dùng nên hạn chế truy cập từ mạng bên ngoài nếu thấy không cần thiết hoặc tắt tất cả các dịch vụ mạng trong trường hợp không sử dụng đến thiết bị. Bên cạnh đó, trước khi sử dụng thiết bị mới, bắt buộc phải đổi mật khẩu mặc định và thiết lập mật khẩu khác. Thường xuyên cập nhật phần mềm của thiết bị lên phiên bản mới nhất cũng là một cách để phòng ngừa các cuộc tấn công.
+Với một số thiết bị đặc biệt có mật khẩu, tài khoản tiêu chuẩn hoặc không thể thay đổi, huỷ kích hoạt thì nên vô hiệu hoá các dịch vụ mạng mà chúng sử dụng hoặc đóng truy cập vào mạng bên ngoài. 
+Minh Minh

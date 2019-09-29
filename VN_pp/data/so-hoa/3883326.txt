@@ -1,0 +1,16 @@
+TITLE: iPhone tại Việt Nam gặp sự cố không nhận mạng - VnExpress Số Hóa
+
+KEY WORDS: iPhone 7, không có dịch vụ, Apple iOS, lỗi iPhone, sự cố iPhone
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Anh Minh Nhỏ cho biết chiếc iPhone 6s Plus mua chính hãng Việt Nam (mã VN/A) của mình hiển thị thông báo "Không có dịch vụ" (No service) sau khi cập nhật iOS 12.14. "Khi máy nâng cấp thành công và khởi động lại, nó không nhận sim nữa. Việc nhắn tin hay gọi điện, kết nối mạng đều không thể thực hiện", anh chia sẻ.
+iPhone 6s Plus chính hãng thông báo "không có dịch vụ" khi nâng cấp iOS 12.1.4. Ảnh: Minh Nhỏ.
+Trên một số diễn đàn và hội nhóm về công nghệ Facebook, nhiều người chủ yếu đang sử dụng iPhone 6s và iPhone 7 cả chính hãng lẫn xách tay cũng gặp vấn đề tương tự. Các bình luận đều cho biết smartphone của họ bị chung lỗi không có dịch vụ hoặc không thể kích hoạt sau khi cập nhật phiên bản hệ điều hành mới của Apple.
+Trần Hưng, một kỹ thuật viên sửa chữa iPhone tại quận 7 (TP HCM), dự đoán lỗi liên quan đến khả năng tương thích của hệ điều hành mới với chip mạng của Qualcomm. "Bản cập nhật iOS 12.1.4 loại bỏ tính năng liên quan đến sáng chế mà Apple vi phạm với Qualcomm khiến iPhone bị cấm bán tại Trung Quốc. Tôi cho rằng lỗi xuất phát từ đây", anh Hưng nhận định.
+Theo anh Hưng, hiện vẫn chưa có cách khắc phục vấn đề. Cách tốt nhất là người dùng nên giữ nguyên phiên bản hệ điều hành, không nên nâng cấp để tránh phát sinh lỗi, đồng thời chờ đợi bản cập nhật mới từ phía công ty Mỹ.
+Apple thừa nhận sự cố trên trang hỗ trợ.
+Không chỉ tại Việt Nam, người dùng một số quốc gia khác cũng gặp tình trạng tương tự, chủ yếu xảy ra với iPhone 7. Apple cũng xác nhận trên trang hỗ trợ: "Chúng tôi đã xác định một tỷ lệ nhỏ iPhone 7 có thể hiển thị thông báo 'Không có dịch vụ' trong thanh trạng thái ngay cả khi nằm vùng sóng điện thoại mạnh. Nguyên nhân ban đầu do một thành phần bị lỗi trên bảng mạch logic chính".
+Theo Apple, iPhone 7 bị ảnh hưởng thuộc lô hàng sản xuất trong khoảng thời gian từ tháng 9/2016 đến tháng 2/2018, có mã A1660, A1780 bán ra tại Trung Quốc, mã A1660 ở Hong Kong, Ma Cao, Mỹ và mã A1779 cho thị trường Nhật Bản. Với iPhone lỗi, công ty Mỹ sẽ hỗ trợ sửa chữa tại các trung tâm bảo hành do Apple ủy nhiệm.
+Bảo Lâm

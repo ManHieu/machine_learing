@@ -1,0 +1,19 @@
+TITLE: VNPT phát triển ứng dụng định danh điện tử - VnExpress Kinh Doanh
+
+KEY WORDS: VNPT, eKYC
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Trong cuộc chuyển đổi số, hai yếu tố quan trọng là nền tảng chia sẻ dữ liệu quốc gia và định danh xác thực điện tử. Để phục vụ nhiệm vụ này, việc xác định định danh của mỗi cá nhân hết sức quan trọng, ông Ngô Diên Hy, Tổng giám đốc Công ty Công nghệ thông tin của VNPT nhận định tại Ngày hội AI4VN diễn ra ngày 15/8 tại Hà Nội.
+Ông Ngô Diên Hy phát biểu tại sự kiện AI4VN ngày 15/8. Ảnh: An Bình
+Với cách tiếp cận này, VNPT đang phát triển những bài toán liên quan đến định danh nhằm phục vụ lĩnh vực như ngân hàng, tài chính. Một trong số đó là eKYC - ứng dụng định danh xác thực điện tử đang được Tập đoàn đặt nhiều kỳ vọng.
+KYC là viết tắt của Know Your Customer, mang nghĩa nhận biết khách hàng. Giải pháp xác thực điện tử eKYC của VNPT ra đời nhằm thực hiện nghiệp vụ xác thực định danh một cách tự động và chính xác, ra đời trên cơ sở và Nghị định về định danh và xác thực điện tử dự định sẽ được ban hành trong năm 2019. Theo ông Ngô Diên Hy, eKYC có khả năng năng nhận diện ảnh chính xác, chống fake ảnh chân dung, sử dụng công nghệ lưu trữ Blockchain để truy vết, được tích hợp ngay trên smartphone.
+Nếu có các Nghị định chia sẻ định danh giữa ngân hàng, các công ty phát triển, xác thực điện tử thì việc phát triển định danh sẽ trở nên đầy đủ, chính xác phục vụ cho nền kinh tế số, ông Ngô Diên Hy nhận định.
+Theo ông, eKYC có nhiều cách ứng dụng vào ngân hàng và mong muốn hợp tác với các ngân hàng để cung cấp giải pháp định danh. Khi đó, các giấy tờ như chứng minh thư, hộ chiếu đều được xử lý nhanh chóng. Giải pháp xác thực này cũng có thể hạn chế các trường hợp lừa đảo rút tiền bằng giấy tờ cá nhân giả như thời gian qua.
+Khách mời lắng nghe các diễn giả tại sự kiện AI4VN.
+Nhiều thắc mắc được đặt ra với ứng dụng này. Ví dụ, ông Trần Công Quỳnh Lân, Phó tổng giám đốc Vietinbank đặt câu hỏi tại sự kiện liệu eKYC có thể phát hiện xác thực giả mạo bằng ảnh, hoặc có thể nhận ra ảnh trên chứng minh thư chụp cách đây vài chục năm hay không.
+Trả lời vấn đề này, ông Ngô Diên Hy cho hay, bất kỳ công nghệ nào cũng có mức độ an toàn bảo mật nhất định. Ngay cả công nghệ nhận diện công nghệ của Apple cũng gặp không ít thách thức.
+Tại VNPT, quá trình nâng cao khả năng nhận diện khuôn mặt đang được tích hợp nâng cao. Nhờ AI, ứng dụng ngày càng trở nên thông minh hơn trong việc phát hiện khuôn mặt giả.
+Hiện kho dữ liệu của VNPT có khoảng 30 triệu chứng minh thư nên máy học có một nền tảng phong phú để học cách đọc ảnh của nhiều loại giấy tờ khác nhau như chứng minh thư cũ, mới, căn cước...
+An Bình	

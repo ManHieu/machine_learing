@@ -1,0 +1,14 @@
+TITLE: Ứng dụng 'trăm triệu lượt tải' chứa mã độc - VnExpress Số Hóa
+
+KEY WORDS: Mã độc, CamScanner, Google
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo báo cáo ngày 27/8 Kaspersky, mã độc này có nhiệm vụ hiển thị quảng cáo đến người dùng để trục lợi.
+Mã độc trên CamScanner có thể ảnh hưởng đến hàng trăm triệu người dùng Android.
+Trước khi bị phát hiện và xóa khỏi kho ứng dụng Play Store, CamScanner là một ứng dụng khá phổ biến với hơn 100 triệu lượt tải. Ứng dụng này nổi tiếng với tính năng dùng camera để ghi lại hình ảnh và xuất ra file PDF, "biến" smartphone thành một chiếc máy scan di động. Hai phiên bản khác của nó là CamScanner HD và CamScanner (bản trả phí) hiện vẫn còn trên Play Store, tuy nhiên, các chuyên gia bảo mật khuyên người dùng không nên cài, hoặc nếu đã cài rồi thì nên xóa khỏi máy.
+Theo SlashGear, có thể CamScanner cũng chỉ là nạn nhân. Công ty phát triển CamScanner chỉ biết phát triển ứng dụng, việc quảng cáo trên đó giao cho bên thứ ba. Rất có thể đối tác của họ đã thực hiện việc cài mã độc nói trên.
+Kaspersky, đơn vị phát hiện ra virus, cho biết, họ nghiên cứu CamScanner sau khi nhận thấy có sự gia tăng các đánh giá tiêu cực dành cho ứng dụng này thời gian gần đây. Đúng như dự đoán, các đánh giá xấu đến từ trải nghiệm người dùng không tốt, do quảng cáo hiện ra trong quá trình sử dụng.
+Các nhà bảo mật khuyên người dùng nên có thói quen đánh giá ứng dụng để nhà phát triển có thể cải tiến sản phẩm, đồng thời phát hiện ra những bất thường như trường hợp trên.
+Lưu Quý

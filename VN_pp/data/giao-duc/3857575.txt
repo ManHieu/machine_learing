@@ -1,0 +1,34 @@
+TITLE: Đáp án bài toán tiểu học của Hong Kong khiến người lớn đau đầu - VnExpress
+
+KEY WORDS: đáp án, bài toán, tiểu học, bài toán tiểu học, Hong Kong, người lớn, đau đầu
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 18: Weights
+Problem: Five boxes have different weights. The boxes are weighed in pairs for all possible combinations. (That means each box is weighed with every other box) The weights of all possible pairs are 113 kg, 116kg, 110kg, 117kg, 112kg, 118kg, 114kg, 121kg, 120kg, 115kg. What is the weight of the heaviest box?
+Dịch đề: Cho 5 chiếc hộp có khối lượng khác nhau. Cân những hộp này theo tất cả các cặp có thể (sao cho mỗi hộp sẽ được cân lần lượt cùng tất cả các hộp còn lại). Ta được các khối lượng cân sau đây: 113 kg, 116kg, 110kg, 117kg, 112kg, 118kg, 114kg, 121kg, 120kg, 115kg. Hỏi khối lượng của hộp nặng nhất là bao nhiêu?
+Ảnh: Imgur
+Lời giải
+Gọi khối lượng của 5 hộp được sắp thứ tự là A > B > C > D > E.
+Khi đó có 10 cặp với mỗi cặp gồm 2 hộp được cân với nhau là:
+AB; AC; AD; AE; BC; BD; BE; CD; CE; DE.
+Do mỗi hộp được cân 4 lần, do đó tổng khối lượng của 5 hộp là:
+A + B + C + D + E
+= (113 + 116 + 110 + 117 + 112 + 118 + 114 + 121 + 120 + 115):4 = 289(kg).
+Trong đó tổng khối lượng của 2 hộp nặng nhất là A + B = 121(kg).
+và tổng khối lượng của 2 hộp nhẹ nhất là D + E = 110(kg).
+Suy ra khối lượng hộp nặng thứ ba là: C = 289 – 110 – 121 = 58(kg).
+Tổng khối lượng của 2 hộp nặng thứ hai là A + C = 120(kg).
+Vậy hộp nặng nhất có khối lượng là: A = 120 – 58 = 62 (kg).
+Solution
+Let the weights of the five boxes in descending order be A > B > C > D > E.
+There will be 10 pairs of boxes to weigh, namely:
+AB; AC; AD; AE; BC; BD; BE; CD; CE; DE.
+Since each box is weighed 4 times, the total weight of the five boxes is:
+A + B + C + D + E 
+= (113 + 116 + 110 + 117 + 112 + 118 + 114 + 121 + 120 + 115):4 = 289 (kg).
+The total weight of the two heaviest boxes is: A + B = 121 (kg).
+and the total weight of the two lightest boxes is: D + E = 110 (kg).
+It follows that the weight of the third heaviest box is: C = 289 - 110 - 121 = 58 (kg).
+As the total weight of the heaviest box and the third heaviest box is the second largest of all weights, A + C = 120(kg), the weight of the heaviest box is A = 120 - 58 = 62 (kg). 

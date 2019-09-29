@@ -1,0 +1,14 @@
+TITLE: Bản cập nhật Windows 10 mới dính nhiều lỗi - VnExpress Số Hóa
+
+KEY WORDS: Windows 10, lỗi, hệ điều hành
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Forbes, người dùng sau khi tải và cài đặt KB4515384 - bản cập nhật tháng 9 cho Windows 10 build 1903 của Microsoft - đã bị hỏng thanh tìm kiếm Windows ở Taskbar, menu Start, Trung tâm Thông báo, lỗi USB hoặc không thể nghe âm thanh, kết nối Wi-Fi và Ethernet.
+Người dùng được khuyến cáo không nên cập nhật Windows 10 phiên bản mới nhất do nhiều lỗi. Ảnh: The Verge.
+Vấn đề được báo cáo cả trên diễn đàn cộng đồng của Microsoft, Trung tâm phản hồi Windows 10 và trên mạng xã hội. Theo Windows Recent, các thiết bị ảnh hưởng chủ yếu chạy chip Intel đi kèm bo mạch Asus, MSI hoặc Gigabyte.
+Nhiều người cho biết đã thử khởi động lại, thậm chí cài lại trình điều khiển (driver) từ nguồn Intel lẫn Microsoft nhưng đều không giải quyết triệt để vấn đề. Cách duy nhất là xóa bản cập nhật này, "hạ cấp" xuống phiên bản thấp hơn là KB4512941.
+Tuy vậy, bản KB4512941 trước đó cũng gặp một số sự cố khác, trong đó nghiêm trọng nhất là lỗi khiến CPU chiếm tài nguyên lên đến 40% dù máy không thực hiện bất kỳ tác vụ nào. Microsoft sau đó thừa nhận vấn đề, nhưng cho biết "chỉ một lượng nhỏ người dùng bị ảnh hưởng".
+Với lỗi mới, Microsoft không thừa nhận toàn bộ. Theo hãng phần mềm Mỹ, nó chỉ có thể gây một số sự cố về Wi-Fi nếu thiết bị đó dùng modem không dây của Intel và Broadcom, nhưng chủ yếu giới hạn trên các thiết bị NEC. Hãng cũng khuyến cáo người dùng nên đợi bản cập nhật mới để khắc phục triệt để vấn đề.
+Bảo Lâm

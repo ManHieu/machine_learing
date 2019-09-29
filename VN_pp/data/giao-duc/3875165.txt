@@ -1,0 +1,10 @@
+TITLE: Bài toán điền số trong kỳ thi BIMC 2018 - VnExpress
+
+KEY WORDS: bài toán điền số, kỳ thi BIMC 2018, đố vui Toán học, thử thách trí tuệ
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Problem: The eight empty circles in the diagram below are to be filled in, using each of the integers 3, 4, 5, 6, 7, 9, 10 and 11 exactly once, to make the sums of the four numbers at the corners of each square the same. Find the number inside the circle marked with a "?".
+Dịch đề: Điền các số nguyên 3, 4, 5, 6, 7, 9, 10 và 11 vào 8 vòng tròn dưới đây, mỗi số sử dụng đúng 1 lần, sao cho tổng các số điền ở góc của mỗi hình vuông đều bằng nhau. Tìm số điền trong vòng tròn chứa dấu hỏi chấm.
+ 

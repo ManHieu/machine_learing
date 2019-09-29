@@ -1,0 +1,13 @@
+TITLE: Hàng triệu người dùng bị dụ cài ứng dụng cập nhật Android giả - VnExpress Số Hóa
+
+KEY WORDS: ứng dụng, bảo mật, Samsung
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo công ty bảo mật CSIS, ứng dụng Updates for Samsung được mô tả là hỗ trợ người dùng tải bất cứ bản cập nhật Android (firmware) nào trên mọi thiết bị ở mọi quốc gia ngay khi nó được phát hành. Bên cạnh đó, nó còn cung cấp tin tức, các bài hướng dẫn sử dụng và nhiều dịch vụ trả phí khác.
+Tốc độ tải xuống firmware qua ứng dụng miễn phí (có hiển thị quảng cáo) rất chậm, chỉ 56 Kb/giây. Trong khi đó, một bản firmware thông thường khoảng 700 MB, tức sẽ cần hơn bốn giờ để tải hết, nên sẽ thúc đẩy người dùng trả tiền để sử dụng bản cao cấp không chứa quảng cáo và tốc độ download nhanh hơn. Phí thuê bao hàng năm là 34,99 USD.
+Giao diện ứng dụng.
+Đa số người dùng đều biết rằng họ có thể nhận bản firmware mới nhất từ Samsung ngay trên điện thoại của họ, bằng cách truy cập Settings > About phone > Software update. Thế nhưng, ứng dụng Updates for Samsung vẫn thu hút tới hơn 10 triệu lượt tải, trong đó không ít người đã trả tiền chỉ để nhận bản cập nhật.
+Chuyên gia Aleksejs Kuprins của CSIS cho biết đã liên hệ với Google gỡ bỏ ứng dụng. Dù ứng dụng này không chứa mã độc, lý do nó xuất hiện là nhằm dụ những người sử dụng cả tin trả tiền cho những thứ đáng lẽ ra là miễn phí. Ngoài ra, nó có thể cài phần mềm quảng cáo (adware) trên thiết bị hoặc thu thập thông tin cá nhân của người dùng. 
+Châu An

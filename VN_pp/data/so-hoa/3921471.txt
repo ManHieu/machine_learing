@@ -1,0 +1,15 @@
+TITLE: Alexa - trợ lý ảo của Amazon thu thập thông tin người dùng - VnExpress Số Hóa
+
+KEY WORDS: trợ lý ảo, amazon alexa, thu thập dữ liệu
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Thông thường, để điều khiển một thiết bị thông minh tích hợp Alexa của Amazon như Echo hay Echo Dot, sau khi nói "Echo", "Alexa" hoặc "Computer", trợ lý thông minh sẽ bắt đầu nghe, ghi âm và tạo các văn bản để đọc hiểu câu lệnh. Đó là lý do tại sao khi kiểm tra lịch sử đối thoại với Alexa, bạn có thể thấy các văn bản bên cạnh bản ghi.
+Loa thông minh Echo của Amazon. Ảnh: Cnet.
+Amazon cho phép người dùng xóa toàn bộ các bản ghi đó nhằm đảm bảo tính riêng tư. Tuy nhiên, trang Cnet phát hiện các văn bản phiên âm từ tệp âm thanh vẫn được gửi lên dữ liệu đám mây một cách âm thầm và không thể loại bỏ hoàn toàn. Trang công nghệ này cho rằng Amazon đã cố tình thu thập cho mục đích riêng.
+Phía Amazon lập tức có phản hồi. "Một khi khách hàng xóa bản ghi âm giọng nói, chúng tôi cũng loại bỏ văn bản ghi lại tương ứng khỏi hệ thống chính của Alexa. Tuy nhiên, các hệ thống con của nó vẫn còn và chúng tôi đang nỗ lực xóa chúng", một phát ngôn viên của Amazon cho biết.
+Trước đó, ngày 9/5, một nhóm 19 người đã đệ đơn khiếu nại tập thể lên Ủy ban Thương mại Liên bang (FTC), cáo buộc Echo Dot Kids Edition - phiên bản loa thông minh dành cho trẻ em - vẫn giữ dữ liệu của trẻ em ngay cả sau khi cha mẹ chúng xóa bản ghi âm giọng nói. Các dữ liệu này được lưu trữ trên tính năng "Remember" của Alexa và không bị mất đi cho đến khi các phụ huynh gửi yêu cầu lên trung tâm chăm sóc khách hàng Amazon.
+Phát hiện mới gây ra những lo ngại về quyền riêng tư, nhất là khi những thiết bị dùng trợ lý ảo luôn sử dụng micro, có thể ghi lại mọi âm thanh xung quanh. "Trên môi trường số, khi nhấn nút xóa, bạn chưa thực sự xóa. Bạn chỉ không nhìn thấy chúng mà thôi", Theresa Payton, Cựu Giám đốc thông tin Nhà Trắng và là người sáng lập công ty an ninh mạng Fortalice, nói.
+Theo số liệu từ Consumer Intelligence Research Partners, Amazon Echo thống trị thị trường loa thông minh với khoảng 70% thị phần, trong khi Google Home có khoảng 24% và Apple HomePod với 6%. Google và Apple cho biết họ không giữ dữ liệu bản ghi giọng nói vô thời hạn, thường sẽ xóa chúng hoàn toàn trong thời gian ngắn.
+Bảo Lâm tổng hợp

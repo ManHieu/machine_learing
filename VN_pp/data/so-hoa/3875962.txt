@@ -1,0 +1,15 @@
+TITLE: Cậu bé 14 tuổi phát hiện lỗi FaceTime trên iPhone - VnExpress Số Hóa
+
+KEY WORDS: apple, facetime, lỗi, lỗi facetime, ios, ios 12
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo WSJ, Grant Thompson, 14 tuổi, sống tại Arizona (Mỹ) được xem là người đầu tiên nhận ra tính năng FaceTime trên iPhone có vấn đề. Khi bắt đầu cuộc gọi nhóm với những người bạn chơi game Fortnite, cậu nhận thấy có âm thanh phát ra từ phía nhận dù họ chưa chấp nhận tham gia trò chuyện.
+FaceTime gặp lỗi nghe âm thanh trước khi được chấp nhận cuộc gọi. Ảnh: 9to5mac
+Sau khi phát hiện, Thompson cùng mẹ, bà Michele, đăng cảnh báo lên Facebook và Twitter ngày 20/1. Ngày 21/1, cả hai tiếp tục gửi thông điệp vào Twitter của CEO Apple Tim Cook (hiện đã bị xóa).
+Một ngày sau, bà Michele gọi và fax cho Apple. Phía dịch vụ khách hàng phản hồi, nhưng cho biết vấn đề không được tiếp nhận, trừ khi là một nhà phát triển.
+Cuối cùng, Michele đăng ký làm nhà phát triển. Mục đích của bà là muốn con trai mình nhận một khoản thưởng từ phía Apple cho lỗi đã phát hiện. Công ty Mỹ vẫn thường xuyên chi tiền cho nhà phát triển nếu họ tìm ra lỗ hổng phần mềm.
+Đến 25/1, hai mẹ con một lần nữa gửi email cho Apple kèm liên kết video mô tả, nhưng vẫn không có phản hồi. "Tôi không chắc sẽ nhận được tấm séc từ Apple hay không. Thậm chí, chỉ cần họ thừa nhận nỗ lực cảnh báo là chúng tôi vui rồi", Michele chia sẻ.
+Trong hai ngày 28-29/1, nhiều người dùng phản ánh trên Reddit và trang hỗ trợ Apple về lỗi FaceTime, khiến người gọi nghe âm thanh cả khi phía nghe chưa nhấc máy. Lỗi này ảnh hưởng tới cả người dùng iPhone, iPad hay máy tính Mac. Apple sau đó phải tạm khóa tính năng này và hứa khắc phục trong bản cập nhật mới.
+Bảo Lâm

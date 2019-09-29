@@ -1,0 +1,13 @@
+TITLE: Apple ra cập nhật phần mềm cho iPhone, Watch, máy tính Mac - VnExpress Số Hóa
+
+KEY WORDS: iOS 12.4, watchOS 5.3, macOS 10.14.6, cập nhật phần mềm, iPhone, Apple Watch, máy tính Mac
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Với iPhone, bản cập nhật mới nhất được Apple phát hành hôm nay (23/7) cho phép chuyển dữ liệu không dây từ thiết bị cũ sang thiết bị mới. iOS 12.4 cũng sửa lỗi ứng dụng Bộ đàm và kích hoạt trở lại tính năng này sau khi nó bị khóa ngày 11/7 do dính lỗ hổng có thể nghe lén người khác.
+iOS 12.4, watchOS 5.3 và macOS 10.14.6 tập trung sửa lỗi và nâng cao bảo mật cho thiết bị của Apple.
+Tương tự, watchOS 5.3 cũng cập nhật ứng dụng Bộ đàm giống như trên iPhone. Ngoài ra, tính năng điện tâm đồ (ECG) và phát hiện nhịp tim không đều đã được kích hoạt cho người dùng Apple Watch tại Canada và Singapore.
+Trên máy tính mac, phần mềm mới sửa nhiều lỗi liên quan đến Apple News+, khắc phục tình trạng thiết bị treo trong khi khởi động lại, tăng độ tin cậy khi chia sẻ tệp tin trên SMB. Người dùng có thể cập nhật bằng cách vào Software Update trong mục System Preferences và chọn Update Now.
+Song song với việc nâng cấp phần mềm cho hệ điều hành hiện tại, Apple đang thử nghiệm iOS 13, watchOS 6 và macOS 10.15 mới, dự kiến được phát hành trong quý cuối năm nay.
+Bảo Anh (theo 9to5mac)

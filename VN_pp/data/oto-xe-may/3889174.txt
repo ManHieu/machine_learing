@@ -1,0 +1,19 @@
+TITLE: Cách tra cứu phạt nguội
+
+KEY WORDS: đăng kiểm, phạt nguội, Cục đăng kiểm
+
+TOPIC: vnexpress, xe, tư vấn, luật giao thông
+
+CONTENT: 
+Nhiều lái xe không biết lỗi vi phạm khi điều khiển ôtô đã bị cơ quan chức năng ghi lại. Tránh việc bất ngờ khi phải đóng thêm một khoản tiền phạt, các lái xe có thể tra cứu thông tin phạt nguội theo hướng dẫn của Cục Đăng Kiểm Việt Nam dưới đây:
+Bước một: Truy cập cổng thông tin:
+http://www.vr.org.vn/ptpublic_web/ThongTinPTPublic.aspx
+Bước hai: Nhập biển kiểm soát xe vào ô "Biển đăng ký". Đối với xe biển 5 số (biển trắng) thêm chữ T (ví dụ: 30E12345T), biển xanh thêm chữ X. 
+Nhập thông tin vào các ô yêu cầu.
+Bước ba: Nhập số của giấy chứng nhận kiểm định vào ô "Số tem, giấy chứng nhận hiện tại". Tài xế xem số này ở tem kiểm định dán trên kính lái. Với số tem, giấy chứng nhận nhập dấu cách (-) giữa chữ cái và chữ số (ví dụ: KC-1708901).
+Bước bốn: Nhập mã xác thực vào ô "Mã xác thực".
+Bước năm: Nhấn nút "Tra cứu".
+Bước sáu: Xem các lỗi vi phạm ( nếu có) bên dưới dòng "Thông báo của cơ quan chức năng liên quan đến phương tiện". Trường hợp không có thông báo nghĩa là xe không bị phạt nguội.
+Xe không bị phạt nguội.
+Xe bị phạt nguội khi có dòng thông báo khoảng đỏ phía trên.
+Ngọc Điệp 

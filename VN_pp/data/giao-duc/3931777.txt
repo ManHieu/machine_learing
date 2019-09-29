@@ -1,0 +1,27 @@
+TITLE: Cải thiện tốc độ xử lý công việc với Excel - VnExpress
+
+KEY WORDS: Excel, tin học văn phòng, VnExpress, Ewiki, khóa học, trực tuyến, dân văn phòng
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Từng xử lý thông tin khách hàng đến vài MB nhưng đến hàm nào cần dùng phải tra Google tìm hiểu làm chậm tiến độ công việc, chị Cẩm Nhung (quận 8) nhận định, không giỏi Excel là bất lợi.
+Là nhân viên ngân hàng, chị Anh Vy (quận Bình Tân) thường xuyên làm việc với dữ liệu của khách hàng. Chị gặp khó khăn với các công thức tính toán như tìm kiếm có điều kiện, trích lọc thông tin của khách theo yêu cầu... Một phần vì không giỏi Excel, một phần vì ngại tìm hiểu, chị thường làm thủ công, bỏ lỡ nhiều tính năng hữu ích của phần mềm này.
+Theo Thạc sĩ, kỹ sư công nghệ thông tin Phan Quang Đính, các nhóm công thức quan trọng người dùng cần nắm rõ như hàm số, điều kiện và logic, hàm thống kê, hàm tìm kiếm. Dưới đây là một số cách giúp dân văn phòng xử lý dữ liệu hiệu quả.
+Nhập và định dạng dữ liệu nhanh
+Excel có rất nhiều phím tắt hữu ích. Dân văn phòng có thể thuộc lòng một số phím tắt thông dụng như Alt + (tính tổng), Ctrl + End (di chuyển đến ô cuối cùng chứa nội dung trên một bảng tính), Ctrl + 1 (hiển thị lệnh Cell trong menu Format)... để thao tác nhanh hơn.
+Thay vì phải mất thời gian nhập và định dạng dữ liệu, bạn có thể sử dụng các công cụ có sẵn trên Excel. Chẳng hạn như không cần đánh số thứ tự 1, 2, 3 đến n số, Excel hỗ trợ đánh số chỉ mất khoảng vài giây.
+Trường hợp nhập họ tên, dân văn phòng có thể tận dụng Excel (phiên bản 2013 trở đi) để tách họ và tên. Bằng cách dự đoán dữ liệu của người dùng, công cụ Flash Fill tự động điền dữ liệu vào các ô trống trên bảng tính. Người dùng bớt được một số thao tác hoặc hạn chế dùng các hàm không cần thiết.
+Excel hỗ trợ nhiều tính năng cho công việc thuận lợi hơn. Ảnh: Tuấn Nhu. 
+Tốc độ xử lý với bảng tính Excel không chỉ phụ thuộc vào khả năng đánh máy mà còn sử dụng các hàm. Trong Excel quan trọng nhất là biết lập công thức. Sau khi lập công thức, bạn có thể sao chép công thức hàng loạt cho các ô khác thay vì gõ lại nhiều lần. Ví dụ, nếu sao chép công thức trong ô D8 sang ô E8, công thức trong ô D8 tự động điều chỉnh sang vị trí mới.
+Khi cần định dạng dữ liệu, bạn cần nắm được đặc điểm của các dạng dữ liệu như kiểu số, text, phần trăm, ngày tháng...
+Tính toán số liệu chính xác
+Thế mạnh của Excel là hỗ trợ các hàm tính toán cho báo cáo tài chính, kế hoạch dự án... Có những cách khác nhau để tính toán công thức, quan trọng là lựa chọn cách để hiển thị kết quả nhanh hơn. Ví dụ, người dùng thay vì gõ từng số và thêm dấu nhân vào giữa để tính tích thì có thể dùng hàm Product để tính tích tất cả các số nằm trong hàm. Trường hợp cần biết có bao nhiêu ô trong một vùng nào hay trong toàn bộ bảng tính, bạn không cần phải ngồi đếm, sử dụng hàm Count. 
+Để tính giá trị trung bình của các ô dựa trên một hoặc nhiều tiêu chí, cách dễ nhất là dùng hàm Average, Averageif nếu tìm kiếm có điều kiện.
+Tìm kiếm, trích lọc dữ liệu
+Việc tìm kiếm có thể gặp khó khăn với dữ liệu lớn, chẳng hạn như truy xuất dữ liệu giữa bảng giá và bảng tính toán. Sử dụng hàm tìm kiếm cơ bản, nâng cao (Vlookup, Hlookup) là cách hiệu quả. Công cụ lọc tự động (Auto Filter) hoặc lọc chi tiết dữ liệu (Advanced Filter) còn hữu ích cho giới công sở. Chúng có thể cho ra bảng dữ liệu mới nhanh nhất theo điều kiện mong muốn. Thông tin được trích lọc như bảng tính ban đầu có thể in ấn dễ dàng và bạn không mất công tạo lại danh sách.
+Kim Uyên
+Để cải thiện tốc độ xử lý Excel cho công việc, bạn có thể tìm hiểu khóa học online tại ewiki.vnexpress.net.
+Khóa học gồm 22 bài giảng qua video và tài liệu dạng pdf. Mỗi video dài khoảng 6-12 phút giúp học viên nhanh chóng nắm các hàm từ cơ bản đến nâng cao như hàm thống kê, hàm về chuỗi và thời gian, hàm tìm kiếm, lọc dữ liệu và vẽ biểu đồ... Bài giảng được kết hợp cùng các tình huống và bài tập thực tế của doanh nghiệp dựa trên kinh nghiệm 20 năm giảng dạy Tin học văn phòng của Thạc sĩ, kỹ sư công nghệ thông tin Phan Quang Đính.
+Khóa học hữu ích cho nhân viên văn phòng, những người thường xuyên làm việc với excel; sinh viên chuyên ngành kế toán, kiểm toán, kinh tế, tài chính, hành chính nhân sự... Để tham gia khóa học, truy cập tại đây.
+ 

@@ -1,0 +1,13 @@
+TITLE: Apple Pencil 2 khiến xe hơi không thể mở khóa khi đang sạc với iPad Pro - VnExpress Số Hóa
+
+KEY WORDS: Apple Pencil 2, mở khóa, Apple, xe hơi, ô tô
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Apple mới đây đã cập nhật một số thông tin mới cho tài liệu hỗ trợ sử dụng Pencil 2, trong đó lưu ý người dùng không nên mở khóa thông minh của xe hơi khi sạc chiếc bút stylus này bên cạnh iPad Pro.
+Bút Apple Pencil 2. Ảnh: Apple Insider.
+Theo giải thích của công ty Mỹ, những xe hơi mở khóa bằng Key Fob sẽ không thành công do bị nhiễu tín hiệu giữa Pencil 2 + iPad Pro và khóa xe hơi. Key Fob là thiết bị điện tử với cơ chế xác thực bằng mã bảo vệ, có trong hệ thống chìa khóa remote xe ôtô, chìa khóa thông minh xe ôtô (smartkey). Công nghệ này có từ thập niên 90 nhưng vẫn được sử dụng rộng rãi do khả năng bảo mật hơn nhiều so với khóa remote sử dụng sóng Tần số vô tuyến (RF) thông thường.
+Apple cho biết, vấn đề xảy ra là "kỳ lạ", "không ảnh hưởng đến nhiều người" và đang tìm cách khắc phục. Trước mắt, người dùng cần hạn chế mở khóa trong khi đang sạc Pencil 2 trên iPad Pro, hoặc đặt tránh xa khi mở khóa xe hơi. Ngoài ra, tình trạng trên không xảy ra nếu bút stylus đã được sạc đầy.
+Pencil 2 ra mắt tháng 10 năm ngoái. Không giống như đời đầu phải cắm vào cổng Lightning, chiếc bút mới có thể gắn vào cạnh của bất kỳ iPad Pro thế hệ thứ 3 nào để sạc. Thiết kế này được đánh giá là đơn giản và tiện dụng hơn.
+Bảo Lâm (theo 9to5mac)

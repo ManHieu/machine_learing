@@ -1,0 +1,13 @@
+TITLE: Bài toán điền số trong 2 phút của kỳ thi IMSO 2018 - VnExpress
+
+KEY WORDS: bài toán điền số, hai phút, IMSO 2018, thử thách trí tuệ
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Olympic Toán và Khoa học quốc tế (IMSO) là kỳ thi uy tín nhất về Toán và Khoa học dành cho học sinh dưới 13 tuổi. Hội đồng đề thi Toán gồm 9 giám khảo quốc tế và giám khảo nước chủ nhà với chuyên môn cao. Giám khảo Trung Quốc là tiến sĩ Toán 2 lần đoạt huy chương vàng IMO với điểm tuyệt đối 42/42.
+Thí sinh dự thi môn Toán sẽ trải qua 3 phần thi trắc nghiệm, trình bày tự luận và khám phá với tổng điểm tối đa 100. Các bài toán trong phần trắc nghiệm viết đáp số có thể phân chia tương đối thành 2 nhóm: Nhóm cơ bản (15 câu, mỗi câu 2 phút) và nhóm nâng cao (10 câu, mỗi câu 3 phút).
+Sau đây là một bài toán thuộc nhóm cơ bản với thời gian 2 phút.
+Problem: In the following 5 x 5 square grid, the numbers 1, 2, 3, 4 and 5 are filled in, such that each number appears only once in each row and only once in each column. Find the number filled in the shaded square.
+Dịch đề: Điền các số 1, 2, 3, 4, 5 vào bảng 5 x 5 dưới đây sao cho mỗi số chỉ xuất hiện một lần trên mỗi hàng và một lần trên mỗi cột. Tìm số trong ô bôi đen.
+ 

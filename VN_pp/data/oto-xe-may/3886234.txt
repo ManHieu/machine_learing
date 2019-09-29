@@ -1,0 +1,22 @@
+TITLE: Vì sao ôtô dễ bị móp đầu khi tai nạn?
+
+KEY WORDS: SPA, Volvo, an toàn, khung xe
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+ 
+ 
+Đâm trực diện nát đầu xe, tài xế ngồi ném mảnh vỡ ra ngoài
+Video trên đây ghi lại hình ảnh vụ tai nạn tại Na Uy, tài xế lái chiếc Volvo XC70 đâm trực diện xe tải ngược chiều. Đầu chiếc SUV nát bấy nhưng tài xế lành lặn, tự mình ném mảnh vỡ rồi sau đó bước ra. 
+Cảnh tượng này được các chuyên gia kỹ thuật cho rằng là minh họa sống động nhất cho công nghệ sản xuất khung xe mà hầu hết các hãng ôtô hiện nay đang theo đuổi. Theo đó, trên cả thân xe sẽ được chia thành nhiều vùng với yêu cầu khác nhau về độ cứng để hấp thụ lực hay phản lực. 
+Về cơ bản, vùng đầu xe sẽ là nơi sử dụng loại vật liệu ít cứng nhất, ví dụ nhôm hay thép thông thường. Nhiệm vụ của vùng này là hấp thụ lực. Nếu vật liệu quá cứng, khi xảy ra va chạm, xe sẽ tạo ra phản lực lớn, ném văng người trong xe theo các hướng, tăng rủi ro va đập, mất an toàn.
+Trong khi đó, vùng cabin lại cần đảm bảo độ cứng cao nhất, để tạo thành chiếc lồng cố định, không bị biến dạng, bảo vệ người ngồi phía trong. Để hiện thực hóa điều này, bộ khung được phân chia độ cứng như dưới đây. 
+Cấu trúc thân xe Volvo Scalable Product Architecture.
+Đây là cấu trúc thân xe SPA (Scalable Product Architecture) mà Volvo giới thiệu năm 2014 trên chiếc xe XC90 thế hệ thứ hai. Hãng xe Thụy Điển đầu tư vào SPA 9,6 tỷ USD cùng bốn năm nghiên cứu để cho ra một cấu trúc khung xe tối ưu.
+Cấu trúc được cấu tạo từ sáu loại vật liệu khác nhau, chủ yếu bao gồm thép và nhôm. Tạm thời chia độ cứng của các vật liệu này theo thứ tự tăng dần 1-6. Như ảnh trên đây, màu càng nóng thì độ cứng càng cao. Độ cứng thấp nhất là nhôm, có màu xanh.
+Màu đỏ được phân bổ để tạo thành chiếc lồng cứng nhất, trong khi đó trần xe, sàn ít chịu tác động trong những va chạm nên độ cứng thấp hơn, màu vàng. Vòm bánh xe, khung dưới bảng táp-lô chỉ cần sử dụng thép độ cứng thông thường.
+Khung xe được mô phỏng độ cứng chi tiết tại Volvo Thụy Điển. Ảnh: Đức Huy.
+Với việc sử dụng nhiều loại vật liệu có độ cứng khác nhau, người ngồi bên trong xe sẽ không bị ảnh hưởng đến sức khỏe nhờ khung thân xe cứng. Trong khi đó, khi xảy ra va chạm, những bộ phận bên ngoài được làm từ các vật liệu mềm hơn sẽ có tác dụng hấp thụ lực, giảm thiểu khả năng gây ra tổn hại cho sức khỏe của người đi đường.
+Ngoài cấu trúc thân xe làm từ kim loại, những bộ phận tạo nên vỏ xe hay va chạm trực tiếp như cản trước, cản sau của xe thường sử dụng nhựa cao cấp. Không chỉ trên những mẫu xe bình dân, các mẫu xe sang hay siêu xe cũng có phần cản trước được làm bằng nhựa để an toàn hơn cho người bị va chạm trong các vụ tai nạn. Thậm chí Volvo còn từng đưa ra ý kiến cung cấp túi khí bên ngoài để giúp người đi đường tránh va đập vào kính lái khi bị bay lên nắp ca-pô.
+Anh Vũ 

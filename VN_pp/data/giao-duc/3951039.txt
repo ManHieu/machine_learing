@@ -1,0 +1,21 @@
+TITLE: Đáp án bài toán cực trị trong đề thi IMSO 2018 - VnExpress
+
+KEY WORDS: đáp án, bài toán, cực trị, đề thi, IMSO 2019
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 44. ARITHMETIC MINIMA
+Problem: Sunny got three boxes from his father, which contained some number of marbles. His father said that the number of marbles inside the first, second and third boxes are three consecutive integers in increasing order and that they are divisible by 5, 7 and 9 respectively. What is the minimum total number of marbles inside the three boxes?
+Dịch đề: Sunny được bố cho 3 chiếc hộp đựng bi. Bố cậu nói rằng số bi ở 3 hộp này là 3 số nguyên liên tiếp theo thứ tự tăng dần và lần lượt chia hết cho 5, 7 và 9. Tính tổng số bi nhỏ nhất có thể trong cả 3 hộp.
+Lời giải
+Do số bi trong 3 hộp lần lượt là 3 số nguyên liên tiếp chia hết cho 5, 7, 9 và số chia hết cho 5 có tận cùng là 0 hoặc 5 nên số chia hết cho 9 có tận cùng là 2 hoặc 7.
+Lấy số bi của hộp thứ ba chia cho 9, ta được thương có chữ số tận cùng là 8 hoặc 3. Thử lần lượt thương nhỏ nhất có thể là 3; 8; 13; 18 rồi nhân ngược lại với 9 để kiểm tra xem số ở giũa có chia hết cho 7 hay không, ta được thương 18 thỏa mãn.
+Khi đó tổng số bi nhỏ nhất trong 3 hộp là 160 + 161 + 162 = 483 (bi).
+Solution
+The given information indicates that the number of marbles in the three boxes are ascending consecutive integers that are divisible by 5, 7 and 9 respectively. Since the last digit of the divisor of 5 (aka the number of marbles in the first box) must be 0 or 5, the last digit of the divisor of 9 (aka the number of marbles in the third box) must be 2 or 7.
+If we divide this number by 9, we will get a quotient whose last digit is 8 or 3.
+Now apply the trial and error method: start from the smallest possible quotient, 3, then 8, then 13, then 18. Multiply this quotient with 9 to find the number of marbles in the third box, then check if its immediate preceding number is divisible by 7. The smallest quotient that satisfies is 18.
+Thus, the minimum total number of marbles inside the three boxes is:
+160 + 161 + 162 = 483 (marbles).
+Minh Phương 

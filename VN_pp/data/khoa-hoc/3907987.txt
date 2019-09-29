@@ -1,0 +1,14 @@
+TITLE: Khai trương Trung tâm Đổi mới sáng tạo về Internet vạn vật (IoT Innovation Hub)
+
+KEY WORDS: Trung tâm IoT Hòa Lạc, IoT Innovation Hub, đổi mới sáng tạo
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Trung tâm Đổi mới sáng tạo về Internet vạn vật (IoT Innovation Hub) do Bộ Khoa học Công nghệ và Công ty Ericsson (Thụy Điển) thành lập, khai trương sáng 10/4 tại Khu Công nghệ cao Hòa Lạc. Bộ trưởng Khoa học Công nghệ Chu Ngọc Anh và Bộ trưởng Thông tin Truyền thông Nguyễn Mạnh Hùng tham quan các mô hình tại triển lãm cùng Đại sứ đặc mệnh toàn quyền Vương quốc Thụy Điển tại Việt Nam và Tổng giám đốc Công ty Ericsson Việt Nam, Myanmar, Campuchia, Lào.
+Tại Trung tâm có nhiều mô hình công nghệ mở để những người có ý tưởng mới có thể tham gia phát triển thành nhiều sản phẩm khác nhau.
+Đây là mô hình robot tự động thu gom rác thải bãi biển có thể kết nối mạng băng thông hẹp, điều khiển từ xa. Từ đây các doanh nghiệp khởi nghiệp, sinh viên có thể tham gia phát triển thêm bằng cách nghiên cứu, tích hợp các công nghệ để ứng dụng trong nhiều lĩnh vực.
+Hay như con robot cân bằng này cũng có thể giúp người có ý tưởng sáng tạo sản phẩm ứng dụng trong giao thông thông minh và các nhà máy công nghiệp.
+Đây là thiết bị đo chất lượng nước được tích hợp IoT và kết nối các cảm biến, có thể sử dụng pin trong 10 năm mà không cần thay thế. Thiết bị này có thể phát triển thêm các ứng dụng trong ngành môi trường, nông nghiệp dựa trên nền tảng có sẵn. 
+Cánh tay đòn robot này có thể điều khiển từ xa theo thời gian thực dựa trên nền tảng mạng băng thông rộng 5G. Ví dụ có thể phát triển các con robot phẫu thuật từ xa giúp bác sĩ có thể ngồi ở Hà Nội và điều khiển một ca mổ ở TPHCM. 
+Các doanh nghiệp, sinh viên quan tâm cách thức tham gia để có thể tận dụng được nền tảng công nghệ, phát triển và cung cấp các giải pháp ra thị trường trong nước, nước ngoài. Ông Denis Brunetti, Tổng giám đốc Công ty Ericsson tại Việt Nam, Myanmar, Campuchia và Lào kỳ vọng, với việc cung cấp nền tảng của trung tâm sẽ thu hút tài năng đang học tập, làm việc ở nước ngoài trở về Việt Nam mang lại những ý tưởng sáng tạo, khởi nghiệp tại Việt Nam trong kỷ nguyên số.

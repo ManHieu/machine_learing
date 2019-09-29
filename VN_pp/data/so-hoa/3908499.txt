@@ -1,0 +1,18 @@
+TITLE: Amazon để người thật nghe cuộc nói chuyện trên loa thông minh của người dùng - VnExpress Số Hóa
+
+KEY WORDS: amazon, loa thông minh
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Bloomberg, Amazon sử dụng một nhóm nhân sự trên toàn cầu để phiên âm các lệnh thoại thu thập được từ người dùng, sau đó đưa chúng trở lại phần mềm để giúp cải thiện khả năng nhận dạng ngôn ngữ của Alexa. Từ đó, trợ lý ảo này có thể phản hồi hiệu quả hơn trong tương lai.
+Số lượng nhân sự được công ty sử dụng lên tới hàng nghìn người, phân bố rải rác ở Mỹ, Costa Rica và Romania. Những người này phải nghe tới 1.000 clip âm thanh trong những ca làm việc kéo dài đến 9 tiếng. Nội dung của chúng được mô tả là "trần tục" và thậm chí đôi khi "có hơi hướng phạm tội".
+Trợ lý ảo Alexa vẫn cần người thật trợ giúp để cải thiện khả năng nhận biết ngôn ngữ.
+Trả lời CNN, Amazon đã xác nhận việc họ thuê người nghe những gì khách hàng nói với Alexa. Nhưng công ty cho biết họ rất coi trọng "bảo mật và quyền riêng tư về thông tin cá nhân của khách hàng". Công ty khẳng định họ chỉ chú thích nội dung từ một "số lượng tương tác cực kỳ nhỏ của một nhóm khách hàng ngẫu nhiên".
+Báo cáo cho biết Amazon cũng không thông báo cho người dùng Alexa biết họ sử dụng người thật để nghe các bản ghi âm. Trong phần trả lời câu hỏi thường gặp, công ty chỉ nói họ "sử dụng các câu lệnh được gửi tới Alexa để đào tạo hệ thống nhận dạng giọng nói và để máy học hiểu ngôn ngữ tự nhiên". Người dùng có thể từ chối cho Amazon sử dụng bản ghi âm giọng nói của mình để cải thiện phần mềm, trong phần cài đặt quyền riêng tư của ứng dụng Alexa.
+Báo cáo cho biết các nhân viên kiểm tra nội dung trên không có quyền truy cập vào tên hoặc địa chỉ đầy đủ của khách hàng. Tuy nhiên, họ có thể biết số sê-ri của thiết bị và số tài khoản Amazon được liên kết.
+"Nhân viên không có quyền truy cập trực tiếp vào thông tin có thể xác định người hoặc tài khoản là ai", đại diện của Amazon chia sẻ. "Mặc dù tất cả thông tin được xử lý bảo mật cao và chúng tôi sử dụng xác thực đa yếu tố để hạn chế quyền truy cập, mã hóa dịch vụ cũng như kiểm soát môi trường để bảo vệ thông tin, khách hàng luôn có thể xóa các phát ngôn của họ bất cứ lúc nào".
+Đại diện công ty cũng tuyên bố không có âm thanh nào được lưu trữ trừ khi thiết bị hỗ trợ Alexa được kích hoạt bằng một từ khóa được dùng để đánh thức hệ thống.
+"Theo mặc định, các thiết bị Echo được thiết kế để chỉ phát hiện từ khóa đánh thức mà người dùng đã chọn", người này cho biết. "Thiết bị phát hiện từ khóa bằng cách xác định các mẫu âm thanh phù hợp với từ khóa đó".
+Amazon từng dính vào một scandal về quyền riêng tư liên quan đến trợ lý ảo Alexa. Năm ngoái, một người dùng Echo cho biết chiếc loa thông minh đã ghi âm cuộc trò chuyện và gửi tệp âm thanh cho một nhân viên Amazon ở Seattle, Mỹ. Công ty đã xác nhận lỗi và cho biết các micro của thiết đã nghe nhầm một loạt từ khi người dùng nói chuyện và gửi nhầm tin nhắn thoại. 
+Bảo Nam

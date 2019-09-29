@@ -1,0 +1,16 @@
+TITLE: Cách nâng cấp iPhone lên iOS 13 cho người dùng Việt - VnExpress Số Hóa
+
+KEY WORDS: iOS 13, Apple, iPhone
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+iOS 13 là bản cập nhật lớn tiếp theo của Apple dành cho các thiết bị iOS, được phát hành một năm sau iOS 12, tương thích với các thiết bị từ iPhone 6s trở đi (trong đó có cả iPhone SE) và iPod Touch thế hệ thứ 7.
+iOS 13 chính thức được phát hành đến người dùng Việt.
+Bản cập nhật này cung cấp nhiều cải tiến cho người dùng, nhất là ở giao diện với chế độ Dark Mode. Chế độ hiển thị tối được cho là sẽ mang đến sự mới mẻ trong trải nghiệm, đồng thời hữu ích khi sử dụng máy ở điều kiện ánh sáng yếu. Trên iOS 13, Dark Mode được kích hoạt bằng phím tắt, lên lịch bật/tắt tự động và tương thích với một số ứng dụng từ bên thứ ba. 
+Chế độ nhập liệu bằng cách trượt trên bàn phím cũng là thay đổi đáng chú ý của iOS 13. Người dùng có thể lướt tay trên bàn phím và máy tự động hiển thị đúng giống như một số bàn phím của SwiftKey hay Google Gboard, nhưng không cần cài thêm phần mềm. Tuy nhiên, hiện thử nghiệm gõ tiếng Việt vẫn chưa thành công.
+Tính năng Photos được bổ sung chế độ xem ảnh kiểu mới, đồng thời cung cấp cho người dùng công cụ chỉnh sửa video mạnh hơn. Khả năng chụp ảnh cũng được cải thiện ở chế độ chân dung, thêm chế đô High-Key Mono.
+Tính năng tìm iPhone kể từ iOS 13 sẽ chuyển thành Find My, cho phép định vị máy dựa trên kết nối Bluetooth trong mạng lưới các thiết bị Apple, ngay cả khi ngắt 4G hoặc Wi-Fi. Ứng dụng Maps cũng thêm khả năng ước lượng mật độ phương tiện giao thông, còn Health có thể theo dõi chu kỳ kinh nguyệt của người dùng nữ.
+Hiệu năng của thiết bị khi lên iOS 13 sẽ được cải thiện, trong khi các chương trình AR, Car Play, Siri, Memoji cũng được nâng cấp và Apple Arcade được bổ sung. Người dùng iOS 13 có thể đăng nhập dịch vụ trên mạng bằng tính năng "Đăng nhập với Apple" để bảo mật thông tin hơn.
+Bản cập nhật lần này có dung lượng khoảng 2 GB. Người dùng có thể kiểm tra bằng cách vào Cài đặt > Cài đặt chung > Cập nhật phần mềm. Theo khuyến cáo của các chuyên gia, người dùng nên sao lưu dữ liệu, cắm sạc và tìm nơi có mạng Wi-Fi ổn định để nâng cấp. Sau iOS 13 bản chính thức, Apple sẽ tung ra bản cập nhật nhỏ iOS 13.1 vào ngày 30/9.
+Lưu Quý

@@ -1,0 +1,13 @@
+TITLE: Lĩnh án 10 năm tù do hack SIM điện thoại - VnExpress Số Hóa
+
+KEY WORDS: Người đầu tiên lãnh án 10 năm tù do hack Sim điện thoại
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Sim điện thoại chứa nhiều thông tin quan trọng của người dùng.
+Ortiz, sinh viên của trường cao đẳng California, bị bắt giữ tại sân bay quốc tế Los Angeles vào tháng 7/2018 khi chuẩn bị trốn sang châu Âu. 
+Bằng thủ thuật SIM swapping (tráo đổi SIM), anh này gọi điện tới nhà cung cấp dịch vụ viễn thông của nạn nhân, nói thẻ SIM của họ đã bị mất và đề nghị thay thế. Sử dụng thông tin thu thập trước đó, kẻ tấn công giả vờ hắn chính là chủ nhân của số điện thoại, bằng cách đọc số an sinh xã hội và địa chỉ nhà riêng.., từ đó thuyết phục được nhà cung cấp chuyển số điện thoại sang một thẻ SIM thuộc về kẻ tấn công.
+Sau đó, Ortiz có được những dữ liệu như mật khẩu dùng một lần, mã xác thực, bảo mật hai lớp... để đổi mật khẩu của nạn nhân, từ đó tiếp cận được các tài khoản mạng xã hội, email, ngân hàng và tiền ảo.
+Sinh viên 20 tuổi này đã chiếm 40 SIM điện thoại và đánh cắp được 5 triệu USD. Thay vì phải ra toà nhiều lần và đối mặt với các bản án nghiêm khắc có thể xảy ra, đầu tháng 2, Ortiz đồng ý với mức án tù 10 năm. Tuy nhiên, bản án chính thức sẽ được công bố ngày 14/3.
+Sau Ortiz, một số người khác đã bị bắt, trong đó có những nhóm tội phạm lớn hơn. Theo Samy Tarazi, một đặc vụ trong vụ án Ortiz, cho biết tình trạng ăn cắp SIM đã giảm xuống, cho thấy các kẻ tấn công đã nhận thấy sự nguy hiểm của việc này.

@@ -1,0 +1,19 @@
+TITLE: Thiết bị hack, bẻ khóa iPhone, Android của Cellebrite mà FBI sử dụng được rao bán giá rẻ - VnExpress Số Hóa
+
+KEY WORDS: UFED, Cellebrite, hack iPhone
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Thiết bị trích xuất dữ liệu Cellebrite (UFED) là công cụ hack điện thoại thông minh được FBI, Bộ An ninh Nội địa (DHS) cũng như một số cơ quan thực thi pháp luật khác của Mỹ sử dụng. Theo 9to5mac, đây là công cụ mạnh nhất để trích xuất dữ liệu từ smartphone, ngay cả khi nó đã bị xóa khỏi điện thoại.
+Một số UFED được mua trên eBay.
+Các mẫu UFED được nhà sản xuất bán với giá từ 5.000 đến 15.000 USD (116,3 -348,8 triệu đồng), tùy kiểu máy hay tính năng. Tuy nhiên, một số thiết bị đã qua sử dụng được rao bán trên eBay với giá chỉ từ 100 USD (khoảng 2,3 triệu đồng).
+Trang Forbes cho biết các UFED trên eBay dường như đã được cảnh sát bán ra. Nhà nghiên cứu an ninh mạng Matthew Hickey đã mua thử một số thiết bị và phát hiện chúng còn chứa dữ liệu được trích xuất từ điện thoại trong quá trình điều tra tội phạm, có thể là số IMEI, ảnh, danh bạ hay tin nhắn.
+ 
+ 
+Thiết bị hack iPhone mà FBI dùng được rao bán giá 100 USD
+Giao diện trên một mẫu UFED.
+Hickey đã tìm thấy UFED được sử dụng để truy cập điện thoại Samsung, LG, ZTE và Motorola. Thiết bị khác cho phép bẻ khóa iPhone, iPod đời cũ. Ông cho rằng cơ quan điều tra đã bán UFED do chúng không thể truy cập được vào các mẫu điện thoại Android và iOS mới hơn.
+Nhà sản xuất UFED đã gửi thư yêu cầu khách hàng phá hủy hoặc trả lại thiết bị không dùng. Điều khoản của công ty không cho phép bán lại UFED.
+Ảnh, video: Hacker Fantasti 
+Đình Nam

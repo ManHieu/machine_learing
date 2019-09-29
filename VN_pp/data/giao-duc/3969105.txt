@@ -1,0 +1,55 @@
+TITLE: Đáp án bài toán lớp 6 - VnExpress
+
+KEY WORDS: đáp án, bài toán, lớp 6, đố vui, toán học, toán tiếng Anh
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 48: INDIRECT SUMMATION
+Problem: We use 8 digits 0, 1, 2, 3, 4, 5, 6, 7 to form all 5-digit natural numbers consisting of distinct digits. Find the sum of all numbers that can be formed.
+Dịch đề: Từ 8 chữ số 0, 1, 2, 3, 4, 5, 6, 7, lập tất cả các số tự nhiên gồm 5 chữ số khác nhau. Hãy tính tổng tất cả các số tự nhiên được tạo thành.
+Lời giải: Gọi S là tập hợp gồm 8 chữ số đã cho tức là S = {0;1; 2; 3; 4; 5; 6; 7}
+Xét các số abcde mở rộng gồm 5 chữ số khác nhau lấy từ S với a có thể bằng 0.
+Có 8 cách chọn chữ số a lấy từ tập S.
+Có 7 cách chọn chữ số b lấy từ tập S và khác a.
+Có 6 cách chọn chữ số c lấy từ tập S và khác a, b.
+Có 5 cách chọn chữ số d lấy từ tập S và khác a, b, c.
+Có 4 cách chọn chữ số e lấy từ tập S và khác a, b, c, d.
+Vậy có 8 x 7 x 6 x 5 x 4 = 6720 số abcde gồm 5 chữ số khác nhau lấy từ S.
+Do vai trò mỗi chữ số của tập S xuất hiện trong mỗi hàng là như nhau nên mỗi hàng có 6720 : 8 = 840 lần xuất hiện của mỗi chữ số trong mỗi hàng.
+Vậy tổng các số abcde mở rộng là:
+840 x (0 + 1 + 2 + 3 + 4 + 5 + 6 + 7) x 11111 = 261330720 (1)
+Các số abcde mở rộng với a = 0 chính là các số bcde với b, c, d, e là các chữ số khác nhau lấy từ tập T = {1; 2; 3; 4; 5; 6; 7}.
+Có 7 cách chọn chữ số b lấy từ tập T.
+Có 6 cách chọn chữ số c lấy từ tập T và khác b.
+Có 5 cách chọn chữ số d lấy từ tập T và khác b, c.
+Có 4 cách chọn chữ số e lấy từ tập T và khác b, c, d.
+Vậy có 7 x 6 x 5 x 4 = 840 số bcde với b, c, d, e khác nhau lấy từ tập T.
+Do vai trò mỗi chữ số của tập T xuất hiện trong mỗi hàng là như nhau nên mỗi hàng có 840 : 7 = 120 lần xuất hiện của mỗi chữ số trong mỗi hàng.
+Vậy tổng các số bcde là: 120 x (1 + 2 + 3 + 4 + 5 + 6 + 7) x 1111 = 3732960 (2)
+Từ (1) và (2) suy ra tổng các số abcde cần tìm là:
+261330720 – 3732960 = 257597760
+Solution:
+Let S be the set of given digits: S = {0;1; 2; 3; 4; 5; 6; 7}.
+Consider all 5-digit numbers abcde whose digits are selected from set S and are distinct; a can be 0.
+There are 8 ways to select a from set S.
+There are 7 ways to select b from set S such that b differs from a.
+There are 6 ways to select c from set S such that c differs from a, b.
+There are 5 ways to select d from set S such that d differs from a, b, c.
+There are 4 ways to select e from set S such that e differs from a, b, c, d.
+Thus, there are 8 x 7 x 6 x 5 x 4 = 6720 numbers abcde with 5 distinct digits selected from set S.
+Since all digits of set S have equal chances of being selected (a can be 0), each digit appears 6720 : 8 = 840 times as a, b, c, d or e.
+The sum of all numbers abcde where a can be 0 is:
+840 x (0 + 1 + 2 + 3 + 4 + 5 + 6 + 7) x 11111 = 261330720 (1)
+Now consider all numbers abcde where a = 0. These are basically all numbers bcde where b, c, d, e are distinct digits selected from set T = {1; 2; 3; 4; 5; 6; 7}.
+There are 7 ways to select b from set T.
+There are 6 ways to select c from set T such that c differs from b.
+There are 5 ways to select d from set T such that d differs from b, c.
+There are 4 ways to select e from set T such that e differs from b, c, d.
+Thus, there are 7 x 6 x 5 x 4 = 840 numbers bcde with 4 distinct digits selected from set T.
+Since all digits of set T have equal chances of being selected, each digit appears 840 : 7 = 120 times as b, c, d or e.
+The sum of all numbers bcde is:
+120 x (1 + 2 + 3 + 4 + 5 + 6 + 7) x 1111 = 3732960 (2)
+From (1) and (2) it follows that the sum of all numbers abcde that satisfy the given conditions is:
+261330720 – 3732960 = 257597760
+Minh Phương 

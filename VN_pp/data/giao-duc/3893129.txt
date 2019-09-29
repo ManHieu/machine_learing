@@ -1,0 +1,22 @@
+TITLE: FUNiX ra mắt khóa học Blockchain - VnExpress
+
+KEY WORDS: Blockchain, lập trình viên, công nghệ chuỗi khối, FUNiX
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+Công nghệ chuỗi khối (Blockchain) đem lại những thay đổi đột phá trong cuộc cách mạng công nghệ 4.0. Việc ứng dụng công nghệ này đang tăng trưởng nhanh dẫn đến nhu cầu về nguồn nhân lực thành thạo trở nên cấp thiết. 
+Theo báo cáo thị trường nhân lực ngành công nghệ thông tin 2019 do VietnamWorks công bố, lương của lập trình viên blockchain hiện ở mức cao nhất trên thị trường tuyển dụng lập trình viên phần mềm - trung bình hơn 2.000 USD một tháng.
+Chuyên gia Đặng Minh Tuấn, Trưởng Lab Blockchain, Học viện Công nghệ Bưu chính Viễn thông nhận định, nghề nghiệp của lập trình viên theo hướng Blockchain tại Việt Nam có nhiều triển vọng. Bên cạnh cơ hội làm việc tại các công ty cung cấp giải pháp công nghệ chuỗi khối, lập trình viên còn có cơ hội khởi nghiệp trong nước hay toàn cầu.
+Tuy nhiên, Blockchain không dễ học. Theo các chuyên gia, hiện nay hầu như chưa có khóa đào tạo thực sự hiệu quả về công nghệ này. Do vậy, nhu cầu về nhân lực Blockchain đang tăng nhanh hơn khả năng cung ứng của thị trường.
+Nghề nghiệp của lập trình viên theo hướng Blockchain tại Việt Nam có nhiều triển vọng.
+Trong bối cảnh đó, khoá học lập trình Blockchain do Đại học trực tuyến FUNiX triển khai nhằm đào tạo nguồn nhân lực có đủ kỹ năng để phát triển các ứng dụng công nghệ chuỗi khối theo nhu cầu thực tế của doanh nghiệp.
+Quy mô và thời lượng khóa học tương đương một chuyên ngành hẹp của các trường đại học công nghệ thông tin. Cụ thể, chương trình gồm 5 môn học với tổng số 15 tín chỉ trong 30 tuần (7 tháng), hoàn thành 3 dự án thực tế có dẫn dắt của chuyên gia và một đồ án.
+Sau khi kết thúc, học viên sẽ đạt 4 kỹ năng và kiến thức chính: Nắm vững công nghệ nền tảng Blockchain: mô hình, thiết kế, khả năng ứng dụng thực tế của công nghệ; Thành thạo công việc với hệ thống lõi Bitcoin, hệ thống nền tảng Ethereum, hợp đồng thông minh (smart contract); Phát triển, xây dựng ứng dụng phân tán trên nền tảng blockchain; Ứng dụng được công nghệ Blockchain vào lĩnh vực tài chính.
+Phó giáo sư, Tiến sĩ Trương Anh Hoàng - Trưởng Lab, Đại học Công nghệ – Đại học Quốc Gia Hà Nội nhận định, đây là một chương trình cần thiết trong bối cảnh công nghệ chuỗi khối ngày càng được quan tâm và ứng dụng mạnh trong các lĩnh vực của đời sống, kinh tế.
+Tiến sĩ Trương Anh Hoàng cũng đánh giá cao khóa học ở nguồn học liệu tham khảo uy tín như các khóa học của Đại học Buffalo (Mỹ) hay định hướng có mentor hỗ trợ thực hành, giúp người học đáp ứng tốt tiến độ chương trình.
+Trong khi đó, anh Nguyễn Anh Tú, Trưởng nhóm kỹ sư của Tomochain, một thành viên trong hội đồng phản biện khóa học cho rằng: "khoá học cung cấp kiến thức và kỹ năng thiết yếu mà doanh nghiệp đang tìm kiếm ở lập trình viên Blockchain".
+Sau khi hoàn thành khóa học, học viên có cơ hội làm việc tại các vị trí như: Lập trình viên Blockchain trong các công ty cung cấp giải pháp Blockchain hay các công ty, ngân hàng, tổ chức tài chính có nhu cầu xây dựng hệ thống trên nền tảng công nghệ chuỗi khối như: công ty Tomochain, công ty Infinity Blockchain Labs (IBL). Các bạn cũng có thể làm việc độc lập như những freelancer cho các công việc liên quan đến phát triển Blockchain.
+Theo anh Vũ Hồng Việt, Trưởng nhóm phát triển của khóa học, những bạn muốn đăng ký khóa học cần có kiến thức cơ bản về lập trình để hoàn thành các bài tập, có kiến thức cơ bản về giao dịch, tài chính là một lợi thế. Chương trình đặc biệt phù hợp với các sinh viên CNTT từ năm thứ 3 – đang chuẩn bị chọn chuyên ngành hẹp, các bạn đã tốt nghiệp đại học CNTT, đang đi làm... có mong muốn trở thành các lập trình viên Blockchain, hoặc phát triển bản thân trong lĩnh vực công nghệ tiềm năng này.
+Tìm hiểu thêm thông tin về khóa học Lập trình Blockchain tại đây.
+Quỳnh Anh 

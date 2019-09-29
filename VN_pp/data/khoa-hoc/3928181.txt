@@ -1,0 +1,21 @@
+TITLE: Cảm biến phát hiện chip gián điệp
+
+KEY WORDS: chip cảm biến từ trường, gián điệp vi mạch, chíp gián điệp
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Tiến sĩ Nguyễn Ngọc Mai Khanh, Trung tâm Thiết kế - Giáo dục vi mạch, Đại học Tokyo Nhật Bản và nhóm nghiên cứu mới đây đã giới thiệu về giải pháp bảo mật an ninh mạng bằng cách dùng cảm biến từ trường để phát hiện các con chip gián điệp cài đặt bí mật trong phần cứng các thiết bị thông minh. Khi các con chip hoạt động, cảm biến từ trường sẽ nhận biết bằng cách đo các phát xạ từ bị rò rỉ, dựa trên luật từ thông của Faraday-Lenz.
+Cảm biến từ trường được thiết kế không cần can thiệp đến hoạt động của vi mạch (tức là không cần phá hủy chip) mà chỉ dựa trên phân tích tín hiệu từ trường nên dễ triển khai và chi phí thấp hơn nhiều so với các phương pháp cần phá hủy (hoặc phân tích ngược thiết kế) vi mạch. Giải pháp này cũng có thể dùng để đánh giá nguy cơ con chip ở vị trí dễ bị tấn công để có biện pháp (hàn, bọc, che phủ bằng vật liệu), bảo vệ.
+"Nhóm đã nghiên cứu vấn đề này và đi đến kết luận dùng từ trường để phát hiện chip gián điệp qua những tín hiệu cực nhỏ, độ phân giải cao. Kết quả đo thử nghiệm đã chứng minh khả năng phát hiện các khu vực đáng ngờ trên IC mã hóa", TS Khanh nói.
+TS Nguyễn Ngọc Mai Khanh chia sẻ giải pháp trong dịp về Việt Nam đầu tháng 5/2019.
+Tiến sĩ Khanh cho biết, thông thường để tạo ra một chip cần rất nhiều công đoạn khác nhau, từ thiết kế, phát triển và sản xuất chế tạo. Nhiều quốc gia (trong đó có Việt Nam) và công ty chỉ tập trung vào thiết kế chip sau đó gửi bản thiết kế cho công ty chuyên sản xuất - chế tạo vi mạch. Quy trình này dễ tạo điều kiện để kẻ gian có thể cài vào bản thiết kế các mạch gián điệp (Trojan, spy circuit).
+Mạch gián điệp này nằm cứng trong chip thành phẩm và có thể không hoạt động gì cho tới khi được kích hoạt tín hiệu từ bên ngoài, hoặc chỉ lén lút hoạt động từng thời điểm định trước. Chính vì vậy, rất khó phát hiện, đặc biệt với vi mạch kích thước rất nhỏ cỡ vài chục nano mét.
+Cảm biến từ trường được thiết kế để phát hiện hoạt động của chip gián điệp.
+Một phương pháp thường dùng để phát hiện mạch gián điệp trong chip là gỡ từng lớp mỏng của chip và soi hiển vi để đối chiếu, kiểm tra sự bất thường so với thiết kế. Phương pháp này đòi hỏi tốn kém thời gian, công sức, phải tháo gỡ và phá hủy chip cần kiểm tra. Song với sự phát triển của công nghệ vi mạch ngày càng nhỏ, mạch gián điệp càng trở nên tinh vi và nhỏ bé hơn nên cũng không dễ tìm thấy.
+Vì vậy giải pháp bảo đảm an toàn bảo mật ngay từ khâu thiết kế, chế tạo vi mạch đã được ứng dụng rộng tại các tập đoàn điện tử và các nước phát triển. Họ tự chủ được quy trình công nghệ thiết kế các lõi vi mạch và chế tạo vi mạch.
+Là người Việt Nam đang sinh sống và công tác tại Nhật Bản, TS Khanh mong muốn trở thành cầu nối trong hợp tác nghiên cứu khoa học. Hiện anh và nhóm nghiên cứu đang cùng Đại học Kỹ thuật Lê Quý Đôn (Việt Nam) đào tạo, chuyển giao tri thức về thiết kế vi mạch trong an toàn, bảo mật phần cứng và phát triển một mẫu vi mạch và mạch ứng dụng cảm biến từ trường trong an toàn, bảo mật phần cứng. Ngoài ra, Trung tâm Thiết kế - Giáo dục vi mạch, Đại học Tokyo Nhật Bản cũng hợp tác nghiên cứu với Ban cơ yếu chính phủ trong đào tạo, thiết kế, chế tạo và kiểm tra chip vi xử lý 32 bit.
+An ninh mạng là một thách thức khi thế giới bước vào cuộc cách mạng công nghiệp lần thứ 4 với dự báo sẽ có khoảng 10 tỷ thiết bị thông minh được sử dụng. Nguy cơ tin tặc có thể sử dụng các lỗ hổng bảo mật cũng như công cụ từ phần cứng và phần mềm để can thiệp vào hệ thống, sau đó gắn một số chíp hoặc phần mềm gián điệp để thu thập thông tin. Theo tính toán của các nhà khoa học, giải quyết vấn đề này sẽ tốn nhiều chi phí cho cơ sở hạ tầng có thể lên tới 120 -200 tỷ USD. Vì vậy cần ưu tiên bảo mật thông tin với các ứng dụng trí tuệ nhân tạo là việc được giới chuyên môn khuyến cáo.
+Tiến sĩ Nguyễn Ngọc Mai Khanh hiện là Giáo sư trợ lý tại Trung tâm Thiết kế - Giáo dục vi mạch, Đại học Tokyo, Nhật Bản. Ông từng là giảng viên Khoa Điện và Kỹ thuật điện tử, Đại học Bách Khoa, Đại học Quốc gia Tp. HCM từ 2006 đến 2013; Chủ tịch Hội nghị giao lưu khoa học Việt Nam - Nhật Bản năm 2017 (VJSE, Tokyo) và 2019 (VJST, Hà Nội).
+Ông cũng là một trong 100 người Việt trẻ tiêu biểu trong chương trình Kết nối Mạng lưới Đổi mới Sáng tạo Việt Nam 2018.
+ 

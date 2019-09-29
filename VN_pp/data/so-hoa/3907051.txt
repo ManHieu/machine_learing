@@ -1,0 +1,17 @@
+TITLE: Viettel nâng tốc độ 4G nhanh hơn 1,5 lần - VnExpress Số Hóa
+
+KEY WORDS: Viettel, mạng 4g viettel, 4g, BTS 4G
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Ngày 9/4, Tập đoàn Công nghiệp Viễn thông Quân đội (Viettel) công bố kế hoạch nâng cao chất lượng mạng 4G. Cụ thể, Viettel tập trung vào các giải pháp kỹ thuật giải quyết bài toán thiếu băng tần các mạng 4G tại Việt Nam, đồng thời nâng tốc độ mạng 4G Viettel nhanh hơn 1,5 lần hiện nay.
+Viettel bổ sung gần 10.000 trạm phát song tại 15 thành phố có nhu cầu data cao. 
+Theo kế hoạch, Viettel sẽ bổ sung thêm gần 10.000 trạm BTS 4G trên băng tần 2100MHz vừa được Bộ Thông tin và Truyền thông cấp phép tại 15 thành phố lớn, có nhu cầu sử dụng data cao như: Hà Nội, TP HCM, Đà Nẵng, Hải Phòng, Quảng Ninh... Thời gian lắp đặt dự kiến hoàn thành toàn bộ trong quý 2 năm nay.
+Các thuê bao 2G được Viettel giải phóng ra khỏi băng tần 1800MHz, dành toàn bộ băng tần này cho cho mạng 4G. Khi hoàn tất, dung lượng mạng 4G tốc độ cao của Viettel tăng thêm 25% so với hiện tại vì không phải chia sẻ với mạng 2G. Như vậy, Viettel triển khai mạng 4G trên cả băng tần 1800MHz và 2100MHz.
+Ngoài bổ sung băng tần phát sóng, Viettel triển khai nhiều công nghệ, giải pháp nâng cao chất lượng dịch vụ 4G. Hơn 1.000 vị trí trạm phát sóng nhỏ được lắp đặt để phủ sóng cho các khu vực yếu sóng. Thiết bị chia nhỏ vùng phủ sóng được nhà mạng triển khai tại các khu vực tập trung đông người như: phố đi bộ, sân vận động, các điểm lễ hội. 
+"Hiện chúng tôi là mạng di động có số thuê bao 4G lớn và xu hướng tiêu dùng data tiếp tục tăng nhanh. Trong điều kiện chưa có băng tần dành riêng, những giải pháp kỹ thuật trên giúp nâng cao tốc độ đáng kể dịch vụ 4G của Viettel", ông Đào Xuân Vũ, Tổng giám đốc Tổng Công ty mạng lưới Viettel cho biết.
+Ông Vũ khẳng định khi hoàn thành kế hoạch nâng cấp, dung lượng mạng 4G của Viettel sẽ gia tăng từ 25-50% tùy khu vực, tốc độ data 4G của người dùng cũng tăng trung bình từ 1,3-1,5 lần so với hiện tại.
+Viettel đang sở hữu gần 130.000 trạm phát sóng. Mạng 4G mới triển khai cũng được trang bị gần 50.000 trạm phát. Dịch vụ 4G cung cấp tại Việt Nam từ năm 2017 trên băng tần 1800MHz chung với mạng 2G. Sau 2 năm cung cấp, xu hướng tiêu dùng  data trên điện thoại phát triển bùng nổ, các nhà mạng phải đối mặt tình trạng thiếu băng tần, ảnh hưởng đến tốc độ chung.
+Theo khảo sát của Cục Viễn thông tại 50 mạng di động ở 17 quốc gia, Việt Nam đứng cuối bảng về băng tần dành cho 4G. Cụ thể băng tần dành cho 4G với băng thông 15*2 MHz cho mỗi nhà mạng, trong khi đó, con số này của SK Telecom của Hàn Quốc là 70*2 MHz, Telstra của Austrailia là 80.*2 Mhz, China Mobile của Trung Quốc là 220 MHz (tương đương 110.*2 MHz).  
+Thành Dương 

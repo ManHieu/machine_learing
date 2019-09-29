@@ -1,0 +1,17 @@
+TITLE: Huawei tìm ứng dụng thay Gmail - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Gmail, ProtonMail
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Bloomberg, ứng dụng ProtonMail có thể được cài mặc định trên smartphone mới, hoặc được cung cấp bên trong cửa hàng ứng dụng AppGallery của Huawei. Cuộc đàm phán đã được xác nhận bởi Andy Yen, Giám đốc điều hành của ProtonMail, nhưng không đề cập đến việc quyết định cho công ty Trung Quốc sử dụng mặc định ứng dụng này hay không.
+Huawei đang tìm cách giảm phụ thuộc vào Google.
+"Gần đây, do chiến tranh thương mại Mỹ - Trung, có thể tất cả thiết bị Huawei trên toàn cầu (kể cả tại Trung Quốc) sẽ không được quyền truy cập vào Google Play và tải xuống hoặc cập nhật ProtonMail. Do người dùng sản phẩm Huawei sử dụng ProtonMail khá nhiều, chúng tôi sẽ xuất bản ứng dụng trên AppGallery để tiếp tục hỗ trợ họ", đại diện ProtonMail cho biết trong một bài đăng trên blog.
+Tuy nhiên, trong một cập nhật sau đó, ProtonMail khẳng định không hợp tác với Huawei: "Chúng tôi chỉ đơn giản là cho phép ProtonMail được sử dụng bởi những người đang sở hữu thiết bị Huawei. Điều đó rất khác với việc chúng tôi hợp tác với Huawei".
+Bài viết của ProtonMail cũng nói rằng Google không tôn trọng quyền riêng tư của người dùng và một ứng dụng miễn phí như Gmail giúp công ty kiếm được nhiều tiền bằng cách bán dữ liệu người dùng cho các nhà quảng cáo. Đồng thời, công ty được thành lập tại Thụy Sỹ này cũng ví dụ Google Play Store và Apple App Store là "điển hình của phân phối độc quyền".
+Cũng theo ProtonMail, bên cạnh Huawei AppGallery, hãng sẽ phân phối ứng dụng mail của mình trên các kênh khác như Samsung Galaxy Store hay Amazon App Store.
+Huawei chưa đưa ra bình luận.
+ProtonMail hiện có 17 triệu người dùng trên toàn cầu, có mặt trên cả nền tảng Android, iOS lẫn PC. Ưu điểm của ứng dụng là khả năng mã hóa đầu cuối, chỉ người dùng gửi/nhận mới đọc được nội dung email. Công ty cũng khẳng định dữ liệu người dùng luôn an toàn do "nằm trong trung tâm dữ liệu an toàn nhất của châu Âu, ở độ sâu bên dưới 1.000 mét đá rắn".
+Huawei đang đối mặt với viễn cảnh không thể dùng hệ điều hành Android và các ứng dụng Google như Google Maps, Gmail, YouTube, Play Store... cho bộ đôi Huawei Mate 30 và Mate 30 Pro cũng như những smartphone ra mắt sau này do bị công ty Mỹ cấm. Theo nhà phân tích Charles Shum của Bloomberg Intelligence, nếu không có loạt dịch vụ Google Play, doanh số smartphone Huawei bên ngoài Trung Quốc có thể giảm một nửa trong 12 tháng tới.
+Bảo Lâm (theo Phonearena)

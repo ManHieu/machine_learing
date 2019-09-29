@@ -1,0 +1,12 @@
+TITLE: Bài toán cắt bánh trong đề thi InIMC 2017 - VnExpress
+
+KEY WORDS: bài toán, cắt bánh, bài toán cắt bánh, đề thi, InIMC 2017, kỳ thi toán quốc tế, học Toán tiếng Anh
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đề thi cá nhân Toán học trẻ quốc tế gồm 15 bài với thời gian 60 phút. Thí sinh không cần trình bày lời giải mà chỉ cần viết đáp số. Sau đây là bài toán dễ nhất dành cho khối học sinh lớp 6-7 trong kỳ thi InIMC 2017 tháng 7/2017 tại Ấn Độ.
+Topic 17: Bread-cutting 
+Problem: Weni cuts a long loaf of bread into 10 equal pieces but leaves the entire loaf together. Lia and Angi also did the same thing on the same loaf of bread, but cutting it into 15 and 18 equal pieces, then the loaf falls apart. How many pieces are there altogether?
+Ảnh: Wirecutter
+Dịch đề: Weni cắt một ổ bánh mì dài thành 10 phần bằng nhau nhưng vẫn giữ ổ bánh nguyên vẹn. Lia và Angi cũng lần lượt cắt ổ bánh mì đó thành 15 và 18 phần tương ứng bằng nhau. Khi đó ổ bánh mì bị tách ra thành nhiều mẩu nhỏ. Hỏi tổng cộng có bao nhiêu mẩu bánh mì? 

@@ -1,0 +1,15 @@
+TITLE: Xu hướng sử dụng trí tuệ nhân tạo trong du lịch ở Việt Nam - VnExpress Du lịch
+
+KEY WORDS: trí tuệ nhân tạo, AI, du lịch, thương mại điện tử, robot, điện toán đám mây
+
+TOPIC: du lịch, điểm đến, việt nam
+
+CONTENT: 
+Tháng 4, hệ thống khách sạn Vinpearl ứng dụng công nghệ nhận dạng khuôn mặt trên nền tảng trí tuệ nhân tạo. Nhờ đó, khách du lịch có thể làm thủ tục check-in trong vài giây, ra vào phòng không cần quẹt thẻ...
+Tuy nhiên, từ trước đó, nhiều ứng dụng đơn giản hơn liên quan đến trí tuệ nhân tạo đã được triển khai trong lĩnh vực du lịch. Phổ biến nhất là công cụ chatbot để tư vấn, giới thiệu khi du khách truy cập vào các trang đặt phòng, mua tour.
+Chatbot được sử dụng như công cụ trò chuyện tự động. Ảnh: Pinterest.
+Tại hội thảo "AI trong du lịch" thuộc khuôn khổ Ngày hội trí tuệ nhân tạo Việt Nam tổ chức tại Đại học Bách Khoa, Hà Nội, ông Nguyễn Trung Công – CEO của iVivu, cho biết trang web của công ty có khoảng 100.000 lượt truy cập một ngày, do đó đơn vị này sử dụng chatbot và trợ lý ảo mang tên "Olivia" để tư vấn cho khách. "Tỷ lệ hoàn thành các cuộc hội thoại qua ứng dụng này khoảng 52%, còn lại chuyển qua chuyên viên tư vấn để tiếp tục hỗ trợ khách", ông Công nói.
+Ông Nguyễn Trung Công – CEO của iVivu.
+Không chỉ vậy, với sự hỗ trợ của AI, các ứng dụng còn có thể từng bước giúp người dùng lên kế hoạch cho chuyến đi, từ dự báo thời tiết, đặt vé máy bay, khách sạn, nhà hàng... dựa trên dữ liệu họ cung cấp. Ông Nguyễn Việt Tiến – Giám đốc công nghệ của Teko, kể trước đây, gia đình ông từng du lịch Indonesia nhưng gặp mưa cả tuần do khi đặt vé máy bay không để ý đến dự báo thời tiết vào thời gian khởi hành. "Tuy nhiên, khi một hệ thống có dữ liệu data đủ lớn, kết nối được người dùng... thì có thể gợi ý thời điểm đặt vé tốt nhất cho khách", ông Tiến nói.
+Với những người cung cấp dịch vụ trong du lịch, dựa trên dữ liệu người dùng và nền tảng trí tuệ nhân tạo, họ có thể xác định thói quen của khách, thu hút khách quay trở lại bằng cách đưa ra những tư vấn sát với nhu cầu thực tế. "Không chỉ nâng cao trải nghiệm người dùng, ứng dụng AI còn giúp khách tiết kiệm thời gian và tìm được các sản phẩm phù hợp", ông Tiến nói.
+Ông Trần Bình Giang, Giám đốc Tripi – trang thương mại điện tử về du lịch cho biết, sau khi áp dụng "bán" tự động hoá vận hành, khảo sát của đơn vị này cho thấy chỉ số hài lòng của khách hàng (CAST) tăng trưởng tới 98% và chi phí cho mỗi đơn hàng giảm 50%.	

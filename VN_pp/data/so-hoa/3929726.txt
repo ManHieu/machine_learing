@@ -1,0 +1,13 @@
+TITLE: Kết nối Internet lại chậm vì sự cố cáp quang biển - VnExpress Số Hóa
+
+KEY WORDS: APG, cáp quang biển, sự cố Internet. đứt cáp
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Vị trí lỗi cáp nằm cách trạm cập bờ DNG (Đà Nẵng) khoảng 132 km. Hiện sự cố đang được xử lý, nhưng nguyên nhân và thời gian khắc phục vẫn chưa được xác định.
+Đại diện một nhà cung cấp dịch vụ Internet tại Việt Nam cho hay, sự cố gây ảnh hưởng đến toàn bộ dung lượng trên tuyến APG kết nối tới Việt Nam. Đa số các nhà cung cấp trong nước đều có phương án dự phòng để giảm mức độ nghiêm trọng, nhưng người sử dụng vẫn có thể gặp tình trạng thiếu ổn định, truy cập chậm vào giờ cao điểm.
+Ảnh: TN.
+APG - Asia Pacific Gateway là một trong những tuyến cáp quang biển có dung lượng lớn nhất hoạt động tại châu Á với băng thông tối đa 54 Tb/giây. Tuyến cáp có chiều dài 10.400 km, đặt ngầm dưới biển Thái Bình Dương, được đầu tư bởi các doanh nghiệp quốc tế và công ty Việt Nam như FPT, VNPT, Viettel và CMC.
+Từ đầu 2019, liên tiếp các tuyến cáp quốc tế mà nhiều nhà mạng Việt Nam khai thác gặp sự cố. Đầu tháng 1, hệ thống IA bị lỗi nguồn ở Singapore và được khắc phục trong tháng. Tiếp theo, cáp AAE-1 bị đứt ngày 13/2 và tới 6/3 sửa xong. Cuối tháng 2, tuyến APG gặp trục trặc trên các nhánh  S1.9, S1.8 và S3, sau đó đã được khôi phục lần lượt vào các ngày 7/3, 11/3 và 17/4. 
+Minh Minh

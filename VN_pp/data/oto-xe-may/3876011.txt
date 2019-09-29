@@ -1,0 +1,15 @@
+TITLE: Ôtô có thể bị đánh cắp vì chìa khoá thông minh
+
+KEY WORDS: chìa khoá thông minh của ôtô, smartkey ôtô, khởi động bằng nút bấm
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Hầu hết các dòng xe mới đều sử dụng chìa khóa thông minh, bởi sự tiện dụng, hiện đại, tích hợp thêm các tính năng. Tuy nhiên, khảo sát thực hiện bởi ADAC, một câu lạc bộ ôtô tại Đức, chỉ ra rằng nhiều chìa khoá thông minh có thể bị sao chép tín hiệu nhằm mục đích xấu.
+Đội ngũ kỹ thuật của ADAC lựa chọn 237 chiếc smartkey để thử nghiệm. Trong số đó, 230 khóa có thể bị sao chép, chìa giả có khả năng sử dụng để mở cửa và khởi động xe như một smartkey gốc. 4 loại chìa có thể bị hack một phần, mở cửa hoặc khởi động xe. Chỉ 3 chìa khóa của xe Jaguar-Land Rover có thể chống hack hoàn toàn.
+Chìa khóa thông minh sử dụng trên ôtô của BMW. Ảnh: itersenews.
+Theo thống kê của một tổ chức tại Anh, các vụ trộm ôtô đã tăng 47,8% trong vòng 5 năm qua, trong khi số trường hợp cảnh sát tìm lại được xe bị ăn trộm chưa đến 50%. Những tên trộm sử dụng bộ thu tín hiệu của chìa khóa thông minh khi kết nối với ôtô, từ đó khuếch đại lại tín hiệu. Ôtô sẽ bị "đánh lừa" khi kẻ xấu khuếch đại tín hiệu, nhận diện có chìa khóa ở gần xe và cho phép mở cửa, khởi động bình thường.
+Khảo sát của ADAC chỉ ra rằng 4 trong năm 5 xe bán chạy nhất tại Anh gồm Ford Fiesta, VolksWagen Golf, Nissan Qashqai và Ford Focus có thể bị đột nhập bằng tín hiệu từ chìa khóa giả. Chỉ Jaguar I-Pace và các dòng xe mới nhất Land Rover Discovery và Range Rover có thể hoàn toàn miễn nhiễm với các cuộc tấn công bằng tín hiệu giả.
+ADAC bày tỏ những nghi ngờ về việc người dùng bọc chìa khóa trong các loại bảo vệ làm từ kẽm để tránh bị thu tín hiệu từ các thiết bị không hợp pháp, bởi một khe hở nhỏ cũng có thể lọt tín hiệu ra ngoài. Thay vào đó, tổ chức nghiên cứu của Đức khuyến cáo người sử dụng xe nên tìm cách tạm ngừng kích hoạt chìa khoá thông minh nếu có thể.
+Hai hãng xe BMW và Mercedes đã thêm cảm biến chuyển động vào smartkey, để tín hiệu chỉ phát ra khi chìa khoá chuyển động. Từ đó, những tên trộm không thể thu tín hiệu nếu như khoá được để yên ở một vị trí.
+Phương Linh 

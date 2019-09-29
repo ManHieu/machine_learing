@@ -1,0 +1,29 @@
+TITLE: Ông chủ shop giày học lập trình trực tuyến để tăng hiệu quả kinh doanh - VnExpress
+
+KEY WORDS: FUNiX, Đại học Trực tuyến
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+Anh Lý Quốc Bình (sinh năm 1984) kinh doanh shop giày dép tại TPHCM đã hơn 10 năm. Nhận thấy ngày càng nhiều cạnh tranh trong kinh doanh, nếu không có sự thay đổi hay bứt phá thì không thể giữ vững, anh Bình quyết định học tập để thích ứng với đòi hỏi của thị trường.
+"Khoảng 2 năm gần đây, mình gặp khó khăn về cạnh tranh khi có quá nhiều người kinh doanh giày dép. Biết xu thế công nghệ là tất yếu, mình có đăng ký học một khóa online ngắn hạn để tạo được một website wordpress. Sau gần một năm viết bài, có những từ khóa lên Top google nhưng tình hình kinh doanh vẫn không tiến triển", anh chia sẻ.
+Anh Lý Quốc Bình và hàng giày dép. 
+Trước sự phát triển mạnh mẽ của công nghệ, anh quyết định học công nghệ thông tin bài bản để tìm một hướng đi mới cho shop mình và nhận thấy phần mềm làm được điều đó. Ông chủ shop giày chính thức gia nhập FUNiX vào năm 2018. "Lúc đó mình chỉ mong muốn sẽ tìm được cách để cải thiện kinh doanh, có được một lượng khách hàng trung thành, dần dần sẽ phát triển thêm mảng khác".
+Nói về lý do chọn FUNiX, anh Bình cho biết không có nhiều lựa chọn vì đi làm buổi sáng, chỉ học buổi tối và thấy FUNiX phù hợp với bản thân. Sau 10 ngày tìm hiểu, anh quyết định học.
+Tự viết phần mềm quản lý shop
+Trong lần đi xDay - buổi offline định kỳ hàng tháng do FUNiX tổ chức, anh Bình gặp gỡ một số sinh viên khác đang làm việc tại FPT và được giới thiệu một phần mềm giúp người bán có thể tặng điểm cho người mua, khuyến khích họ mua hàng tiếp để được giảm giá. Anh ký ngay hợp đồng với đơn vị phát triển sản phẩm để sử dụng cho shop giày của mình .
+Kết quả dù có tốt hơn, nhưng dùng một thời gian, anh phát hiện khoảng 40% khách của mình gặp rắc rối khi cài app trên điện thoại. Đúng lúc đó, ông chủ shop giày đang học đến môn Java thuộc Chứng chỉ 2.
+Anh quyết định áp dụng bài assignment đang làm với môn Java vào công việc. Đó là tạo ra phần mềm tương tự nhưng không bắt khách hàng phải cài vào điện thoại, chỉ lưu số điện thoại trên cơ sở dữ liệu tại cửa hàng để giảm giá.
+Nhờ sự hỗ trợ của một người bạn giỏi về Java, anh Bình đã tự tạo được phần mềm do chính bản thân code để quản lý shop và khách hàng, từ đó tăng doanh thu thêm 10%. Thiết kế đơn giản giúp khách hàng được hưởng lợi từ giảm giá dù sử dụng bất kỳ điện thoại gì, không cần thao tác phức tạp.
+"Với mục tiêu nhanh, đơn giản, tiết kiệm, dễ quản lý và vận hành, phần mềm giúp khách hàng khi mua hàng sẽ được tích điểm và sẽ được trừ ở lần mua sau. Yêu cầu tỷ lệ phần trăm của số điểm này phải đủ hấp dẫn để khách hàng quay lại và thực hiện tiếp hành vi mua. Điều này đòi hỏi chi phí vận hành phần mềm phải ở mức tối thiểu, mới có thể tạo nên mức chiết khấu chấp nhận được", anh Bình chia sẻ.
+Không đổi mới sẽ tụt hậu
+Hiện, công việc hàng ngày của anh Lý Quốc Bình chủ yếu là bán lẻ giày dép, chọn mẫu mới, kiểm tra tồn kho, bảo hành sản phẩm, lướt facebook để tìm hiểu về các xu hướng mới, thống kê sổ sách... Có phần mềm chăm sóc bán hàng, anh tập trung đào tạo cho nhân viên cách sử dụng, đồng thời tiếp tục nâng cấp, cải thiện chức năng.
+Có trong tay data khách hàng, anh tiếp tục thống kê được độ tuổi, khu vực sinh sống, những mặt hàng khách thường mua, sau đó sẽ quyết định tiếp nên tập trung vào đâu mang lại nhiều lợi nhuận nhất. Đây đều là những kiến thức anh học được trong Chứng chỉ 1 - Trở thành Công dân số tại FUNiX.
+Ban ngày ở cửa hàng, 19h về nhà, anh Bình cho biết chỉ có thể học lập trình từ 21h đến 23h mỗi tối. "Hiện nay, nội dung học càng học càng khó, mình phải nghiên cứu, coaching với mentor nhiều. Nhưng mình có mục tiêu rõ ràng, phải cố học, không bỏ cuộc. Mình luôn tâm niệm, cạnh tranh giờ khốc liệt, mình không đổi mới sẽ thua".
+Anh Bình đặc biệt đánh giá cao đội ngũ mentor FUNiX rất có tâm và nhiệt tình. "Ở chứng chỉ 1, mình coaching với mentor Nguyễn Ngọc Đỉnh và Lê Quang Đạt. Hai mentor rất chịu khó chỉ mình những chỗ không hiểu, hướng dẫn cách làm bài tập nhanh hơn. Nếu không có FUNiX, mình không có sự lựa chọn nào khác, vẫn đang tìm kiếm cách giải quyết vấn đề kinh doanh của mình trong vô vọng" , anh cho biết.
+Tự nhận bản thân là "tay ngang" tìm hiểu về CNTT, anh Bình cứ mạnh dạn tham gia học và tìm hiểu, không biết thì hỏi, sẽ có người giúp mình. "Ở FUNiX, các mentor luôn sẵn sàng giải đáp thắc mắc giúp người học dễ dàng vượt qua các bài tập. Khi đã nắm cơ bản về CNTT thì tự nhiên sẽ có ý tưởng ứng dụng vào công việc của mình. Có thể mình không biết làm hết đâu, lại tiếp tục hỏi và nhờ giúp. Miễn mục đích bạn là tốt, là mang lại lợi ích cho nhiều người thì sẽ có người giúp bạn" - anh Bình nói.
+Thanh Nga
+Theo ông Nguyễn Thành Nam - nhà sáng lập Đại học Trực tuyến FUNiX, trong thời đại 4.0, mỗi cá nhân trong mọi lĩnh vực đều cần trang bị kiến thức, kỹ năng mới để trở thành công dân số, nắm được cơ hội của thời đại.
+Là trường đại học trực tuyến thuộc Hệ thống giáo dục FPT, FUNiX đào tạo kiến thức ngành CNTT, đồng thời giúp người học rèn luyện, phát triển năng lực học tập suốt đời - đòi hỏi bắt buộc của thời đại 4.0.
+Xem chương trình tuyển sinh mới của FUNiX tại: Tuyển sinh đại học CNTT
+ 

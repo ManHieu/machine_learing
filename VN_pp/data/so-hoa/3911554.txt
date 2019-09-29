@@ -1,0 +1,17 @@
+TITLE: Số tiền Apple trả cho Qualcomm với mỗi chip mạng 5G là bao nhiêu - VnExpress Số Hóa
+
+KEY WORDS: Apple, chip mạng, chip 5G, Qualcomm
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cách đây ít ngày, Qualcomm tuyên bố "đình chiến", chấm dứt mọi vụ kiện bản quyền với Apple. Cả hai đã đạt thỏa thuận mới, trong đó Apple đồng ý trả một khoản tiền bản quyền (không tiết lộ) cho Qualcomm, đồng thời ký kết thỏa thuận cấp phép sáu năm, có thể gia hạn thêm hai năm với nhà sản xuất chip.
+iPhone 2020 có thể dùng chip 5G do Qualcomm cung cấp. Ảnh: 9to5mac.
+Nhà phân tích Timothy Arcuri của UBS (Thụy Sỹ) ước tính Apple sẽ trả 8-9 USD cho mỗi modem 5G cho Qualcomm nếu nó được tích hợp lên iPhone trong tương lai. Số tiền trả vẫn dựa trên doanh số iPhone bán ra thay vì mua trọn gói.
+Trước đây, Qualcomm đòi thu phí 5% trên mỗi iPhone bán ra cho những công nghệ mà họ cung cấp. Tim Cook, từ khi còn là COO của Apple, đã không hài lòng với thỏa thuận trên và đề xuất chỉ trả 1,5 USD mỗi iPhone nhưng Steve Jobs cho rằng các công ty nên tôn trọng công nghệ của nhau. Sau này, khi Cook lên làm CEO cộng thêm giá iPhone ngày càng tăng khiến tranh chấp pháp lý nổ ra.
+Nếu dự đoán của Arcuri là chính xác,Apple phải trả số tiền nhiều hơn so với mức 1,5 USD nhưng vẫn thấp hơn nhiều so với 5% trên mỗi iPhone. Tuy nhiên, cả hai công ty đang rất kín tiếng và muốn giải quyết riêng với nhau.
+Theo Nikkei, Apple đã không kịp đưa 5G vào dòng iPhone 2019 nhưng sẽ làm điều đó trên model 2020. Hãng công nghệ Mỹ ban đầu dự định dùng chip 5G của Intel cho thế hệ smartphone tiếp theo, tuy vậy có một số báo cáo cho thấy Intel không đảm bảo đúng tiến độ nên quyết định quay lại với Qualcomm.
+Tháng 1/2017, Qualcomm bị Ủy ban Thương mại Mỹ FTC cáo buộc vi phạm nghiêm trọng luật cạnh tranh công bằng khi "mua chuộc" các công ty điện thoại, đặc biệt là Apple, dùng độc quyền chip của mình. Ngay sau đó, Apple đệ đơn kiện, yêu cầu tòa buộc Qualcomm phải giảm phí bản quyền, đồng thời đòi một tỷ USD của năm 2016 mà Qualcomm chưa trả.
+Qualcomm cho biết Apple đang nợ 7 tỷ USD tiền bản quyền bằng sáng chế chip di động được sử dụng trên iPhone. Họ muốn đòi món nợ này cùng những thiệt hại mà Apple đã gây ra, với tổng số tiền bồi thường có thể lên đến 15 tỷ USD.
+Năm 2018, Apple đã chỉ sử dụng chip Intel cho iPhone do cuộc chiến pháp lý với Qualcomm. Tuy nhiên "táo khuyết" dường như không còn lựa chọn nào khác ngoài việc giải quyết mâu thuẫn với Qualcomm để đảm bảo iPhone 2020 sẽ hỗ trợ mạng 5G bởi các đối thủ Android khác đã có sản phẩm của mình, như Samsung, Huawei...
+Bảo Lâm (theo Phonearena)

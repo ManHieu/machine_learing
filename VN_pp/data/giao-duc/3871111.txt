@@ -1,0 +1,11 @@
+TITLE: Bài toán đường đi Hamilton trong kỳ thi IMSO 2018 - VnExpress
+
+KEY WORDS: bài toán, đường đi Hamilton, đồ thị Hamilton, kỳ thi IMSO
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đường đi Hamilton có nguồn gốc từ bài toán: "Xuất phát từ một đỉnh của khối thập nhị diện đều, hãy đi dọc theo các cạnh của khối đó sao cho đi qua tất cả đỉnh khác, mỗi đỉnh đúng một lần sau đó quay về đỉnh xuất phát", được gọi theo tên của nhà Toán học người Ireland William Rowan Hamilton (1805-1865).
+Một đồ thị Hamilton có ít nhất một đường đi Hamilton. Đường đi Hamilton có ý nghĩa thực tiễn khi cần xác định lộ trình du lịch tối ưu tham quan hết n địa điểm du lịch mà không cần phải đi hết các đường đi kết nối. Sau đây là một bài toán thú vị về đồ thị Hamilton trong kỳ thi IMSO 2018
+Problem: A regular octahedron is shown in the diagram below. There are 6 vertices altogether connected by a total of 12 edges. An ant starts from vertex A and moves along any edge but cannot go through any edge more than once. If the ant visits each vertex exactly once before it returns to vertex A, how many different routes are there?
+Dịch đề: Cho một khối bát diện đều như hình vẽ. Bát diện có 6 đỉnh được nối với nhau bằng 12 cạnh. Một con kiến bắt đầu đi từ đỉnh A và đi trên các cạnh, nhưng không được đi cạnh nào quá 1 lần. Biết con kiến đã đi qua mỗi đỉnh đúng 1 lần trước khi quay trở về đỉnh A. Hỏi có bao nhiêu đường đi thỏa mãn? 

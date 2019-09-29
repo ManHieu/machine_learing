@@ -1,0 +1,14 @@
+TITLE: Ứng dụng mạo danh Bộ Công an lừa tiền người dùng - VnExpress Số Hóa
+
+KEY WORDS: Lừa đảo, Ứng dụng, Bộ Công an
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Khi truy cập, ứng dụng sẽ hiển thị thông báo "Hệ thống bảo vệ Bộ Công an" nên dễ khiến người dùng tưởng rằng ứng dụng của Bộ Công an thật. Theo Phòng An ninh mạng và phòng chống tội phạm sử dụng công nghệ cao - CATP Hà Nội, ứng dụng yêu cầu người dùng cấp quyền vào tin nhắn nên kẻ xấu có thể đọc được tin nhắn OTP của ngân hàng, từ đó thực hiện các giao dịch chuyển tiền như chủ tài khoản.
+Chiêu trò được dùng để dụ người dùng cài ứng dụng là mạo danh cơ quan công an. Kẻ xấu sẽ gọi điện cho nạn nhân, thông báo rằng họ có liên quan đến một số hoạt động tội phạm như buôn bán ma túy, rửa tiền. Khi nạn nhân đang hoang mang và muốn chứng minh mình vô tội, chúng yêu cầu họ mở một tài khoản ngân hàng, chuyển tiền vào, gửi thông tin đăng nhập, đồng thời cài ứng dụng "Bộ Công an" theo chỉ dẫn để cơ quan điều tra xác minh. Sau khi có được những thông tin tài khoản, kẻ xấu đã dùng những thông tin có được với mã OTP do ứng dụng mạo danh đem về để chiếm đoạt toàn bộ số tiền.
+Theo một chuyên gia về bảo mật, người dùng đã quá chủ quan trong trường hợp trên. Sơ suất đầu tiên là gửi cho kẻ xấu thông tin đăng nhập tài khoản ngân hàng, thứ hai là việc cài đặt một ứng dụng không rõ nguồn gốc và cấp quyền truy cập cho ứng dụng đó, tạo điều kiện cho kẻ xấu có thể vượt qua cả 2 lớp bảo mật của ngân hàng.
+Theo anh, các nhà sản xuất điện thoại iOS hoặc Android đều rất nghiêm ngặt trong việc cài đặt ứng dụng từ bên thứ 3, đồng thời sẽ hỏi người dùng cho phép ứng dụng truy cập những gì. Tuy nhiên, nhiều người dùng thường không quan tâm đến điều này và luôn bấm "Cho phép" với bất kỳ đòi hỏi nào của ứng dụng.
+Để đảm bảo an toàn, người dùng có thể xem lại việc cấp quyền cho ứng dụng trên smartphone của mình. Với Android là Cài đặt > Ứng dụng > Chọn một ứng dụng và tìm đến mục Quyền; với iOS là vào Cài đặt > Tìm đến Ứng dụng bấm vào để xem các quyền đã cấp.
+Chiêu lừa để chiếm đoạt tài khoản này dù không mới, do thủ đoạn liên tục thay đổi khiến nhiều người mất cảnh giác và trở thành nạn nhân. Trước đó, nhiều người dùng cũng đã trình báo về việc bị lừa cung cấp thông tin cá nhân, tài khoản ngân hàng với lý do phục vụ điều tra hoặc để nhận thưởng. 
+Lưu Quý

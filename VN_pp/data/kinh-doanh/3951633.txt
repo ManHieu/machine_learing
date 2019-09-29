@@ -1,0 +1,13 @@
+TITLE: Sàn tiền ảo Nhật Bản bị trộm 32 triệu USD - VnExpress Kinh Doanh
+
+KEY WORDS: sàn tiền ảo Nhật Bản bị trộm, tiền ảo, Bitpoint
+
+TOPIC: kinh doanh, quốc tế
+
+CONTENT: 
+Sàn giao dịch tiền ảo Bitpoint của Nhật Bản vừa phải dừng tất cả dịch vụ sau khi bị hacker đánh cắp số tiền ảo trị giá 3,5 tỷ yen (khoảng 32 triệu USD). Sàn giao dịch này thuộc sở hữu của Remixpoint.
+Bitpoint cho biết, khoảng 2,5 tỷ yen (khoảng 23 triệu USD) tiền ảo bị trộm là của khách hàng, số còn lại của đơn vị này. Cổ phiếu Remixpoint đã giảm mạnh sau thông tin trên.
+Theo Bitpoint, các khoản tiền bị đánh cắp từ một ví "nóng" chứa 5 loại tiền ảo, trong đó có Bitcoin và Bitcoin Cash. Đây là loại ví kết nối với Internet, được giới chuyên gia đánh giá dễ bị đột nhập hơn "ví "lạnh"" - không được kết nối. Sàn giao dịch này chưa phát hiện bất kỳ trường hợp nào bị mất tiền từ ví "lạnh".
+Việc các sàn tiền ảo bị trộm từ ví "nóng" không phải xa lạ trong vài năm gần đây. Tháng 9 năm ngoái, Zaif - sàn giao dịch tiền ảo thuộc Tập đoàn Tech Bureau của Nhật Bản cũng bị đánh cắp Bitcoin, Monacoin và Bitcoin Cash với tổng giá trị 6,7 tỷ yen (59,67 triệu USD). Trong đó, 2,2 tỷ yen tiền bị đánh cắp là của riêng công ty, còn lại là tài sản khách hàng. Toàn bộ số tiền này bị trộm từ ví "nóng".
+Hồi đầu tháng 5, hacker cũng đánh cắp 7.000 Bitcoin, trị giá hơn 40 triệu USD tại thời điểm đó từ Binance - một trong những sàn giao dịch tiền số lớn nhất thế giới. Một số dữ liệu người dùng cũng như mã bảo mật 2 bước đã bị hacker thu thập để đăng nhập vào tài khoản Binance.
+Tú Anh (theo Bloomberg)	

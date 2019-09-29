@@ -1,0 +1,20 @@
+TITLE: Câu đố mẹo đơn giản nhưng 98% người nhầm - VnExpress
+
+KEY WORDS: câu đố mẹo, đơn giản, nhầm lẫn, toán học, đố vui
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đề bài: Cho ba phép tính, với đơn vị là những cốc trà sữa, bánh hamburger và túi khoai tây chiên.
+Phép tính thứ nhất: 3 cốc trà sữa cộng với nhau cho ra kết quả là 30.
+Phép tính thứ hai: 1 trà sữa cộng 2 bánh hamburger cho ra kết quả là 20.
+Phép tính thứ ba: 1 hamburger cộng 4 túi khoai tây chiên ra kết quả là 9.
+Hỏi 1 bánh hamburger + 1 túi khoai tây chiên x 1 cốc trà sữa ra kết quả bao nhiêu? 
+Hướng dẫn giải:
+Ở phép tính đầu tiên, ta có thể thấy 3 cốc trà sữa cộng lại cho giá trị là 30. Vậy suy ra mỗi cốc sẽ có giá trị là 10.
+Ở phép tính thứ 2, chúng ta trừ đi giá trị 10 của cốc trà sữa, và có giá trị của 2 chiếc bánh hamburger là 10, chia ra chúng ta có mỗi chiếc bánh trị giá là 5.
+Với phép tính thứ 3 thì mọi thứ rắc rối hơn. Đầu tiên, chúng ta trừ giá trị 5 của hamburger đi và sẽ được tổng của 2 khoai tây chiên là 4. Đối với khoai tây chiên, để ý kỹ chúng ta sẽ thấy có tất cả 4 gói khoai tây chiên (2 set). Nên chia ra, giá trị mỗi gói khoai tây sẽ bằng 1.
+Ở phép tính cuối cùng, sau khi biết giá trị của từng món, chúng ta chỉ cần áp dụng quy tắc toán học cơ bản. Theo đó, lấy khoai tây chiên nhân với cốc trà sữa trước, rồi cộng với hamburger: (1 x 10) + 5 = 15.
+Rất nhiều người tuy tính ra được giá trị của mỗi món ăn, nhưng ở phép tính cuối cùng lại quên mất quy tắc cơ bản nhân chia trước, cộng trừ sau.
+Đáp án của câu đố mẹo là 15.
+Thanh Hương (Theo Theepochtimes) 

@@ -1,0 +1,14 @@
+TITLE: Android - hệ điều hành nhiều người dùng nhất thế giới với hơn 2,5 tỷ thiết bị đang hoạt động - VnExpress Số Hóa
+
+KEY WORDS: Android, hệ điều hành, nền tảng di động, Google
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trên sân khấu hội nghị dành cho các nhà lập trình viên (Google I/O 2019) diễn ra ở California (Mỹ), Giám đốc cấp cao của Android Stephanie Cuthbertson đã công bố kỷ lục mới mà hệ điều hành Android vừa thiết lập được. "Chúng ta ở đây cùng nhau kỷ niệm một cột mốc mới, với 2,5 tỷ thiết bị Android đang hoạt động", Cuthbertson chia sẻ.
+Android là hệ điều hành di động phổ biến nhất thế giới. Ảnh: AH.
+Google chỉ thống kê lượng người dùng Android hoạt động thông qua Play Store. Trên thực tế, con số trên có thể cao hơn rất nhiều bởi những phiên bản khác không dùng cửa hàng ứng dụng của Google như Fire OS của Amazon hay hầu hết máy Android bán tại Trung Quốc đã không được tính.
+Ra mắt 2008 và xuất hiện đầu tiên trên mẫu T-Mobile G1 (HTC Dream), lượng thiết bị Android liên tục tăng trong những năm qua. Tại Google I/O 2017, Google cho biết 2 tỷ máy chạy hệ điều hành của hãng đang hoạt động. Một số nhà phân tích đánh giá, con số mà Google công bố là "đáng kinh ngạc", cho thấy công ty tìm kiếm Mỹ đã thành công vang dội sau 11 năm trình làng hệ điều hành này.
+Tuy nhiên, con số trên cũng là thách thức lớn với Google, đặc biệt là vấn đề phân mảnh. Hiện có hàng chục, thậm chí hàng trăm nghìn công ty lớn nhỏ trên khắp thế giới tham gia sản xuất các thiết bị Android, gồm điện thoại thông minh, máy tính bảng... khiến việc cập nhật đồng bộ rất khó khăn. Báo cáo tháng 10/2018 của hãng tìm kiếm Mỹ cho thấy, chỉ dưới một nửa số máy Android chạy Oreo hoặc Nougat - hai phiên bản gần đây nhất của Android (khi đó Pie chưa được thống kê do mới ra mắt).
+Android và iOS vẫn là hai nền tảng thống trị thế giới. Tại sự kiện ra mắt iPhone năm ngoái, CEO Tim Cook cho biết đã có hai tỷ thiết bị chạy hệ điều hành iOS có mặt trên thị trường, bao gồm iPhone, iPad và một lượng nhỏ iPod.
+Bảo Lâm (theo Verge)

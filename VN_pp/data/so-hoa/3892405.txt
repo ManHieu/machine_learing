@@ -1,0 +1,15 @@
+TITLE: Qualcomm đòi Apple trả 31 triệu USD tiền vi phạm bằng sáng chế - VnExpress Số Hóa
+
+KEY WORDS: Qualcomm, Apple, bằng sáng chế
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Apple Insider, số tiền này được Qualcomm đưa ra hôm 8/3 trước bồi thẩm đoàn tại phiên tòa xét xử vụ kiện bằng sáng chế giữa hai công ty ở San Diego, Mỹ.
+Patrick Kennedy, chuyên gia kinh tế được Qualcomm mời ra làm chứng, cho biết số tiền bồi thường dựa trên số lượng iPhone ước tính khoảng 22 triệu được bán ra từ tháng 7/2017 đến mùa thu năm ngoái. Mức phí cho mỗi thiết bị vi phạm là 1,4 USD.
+Từ tháng 7/2017, Apple bắt đầu sử dụng chip modem của Intel. Trước đó, công ty sử dụng kết hợp giữa chip của Intel và Qualcomm trên iPhone 7 nhằm đa dạng hóa nguồn cung ứng linh kiện và để tránh bị phụ thuộc. Vụ kiện này đã phát sinh từ đầu năm 2017, kéo dài tới hiện tại khiến mối quan hệ giữa hai bên ngày càng xấu đi.
+Theo cáo buộc của Qualcomm, Apple đã vi phạm ba bằng sáng chế. Đó là bằng sáng chế liên quan tới phương pháp cho phép smartphone kết nối Internet nhanh hơn sau khi khởi động, bằng sáng chế về quy trình xử lý đồ họa và thời lượng pin và bằng sáng chế liên quan đến thuật toán giúp ứng dụng có thể tải dữ liệu nhanh hơn bằng cách điều hướng lưu lượng dữ liệu giữa bộ xử lý và modem.
+Trên thực tế, con số 31 triệu USD khá nhỏ khi so sánh với 20 tỷ USD lợi nhuận Apple thu được trong quý 4 năm ngoái. Tuy nhiên, việc thua kiện có khả năng buộc Apple phải chuyển sang sử dụng các modem khác hoặc thậm chí quay lại sử dụng sản phẩm của Qualcomm.
+Ngược lại, Apple đang có một vụ kiện với Qualcom, đưa ra từ tháng 1/2017 và sẽ xét xử trong tháng tới. Trong đó, công ty cáo buộc Qualcomm đã giữ lại gần một tỷ USD tiền bồi thường, chủ yếu là số tiền giảm giá phí bản quyền khi Apple sử dụng độc quyền chip của Qualcomm.
+Hôm 7/3 vừa qua, Apple đã thừa nhận bị chơi khăm trong một vụ kiện bằng sáng chế. Arjuna Siva - một cựu kỹ sư của Apple - đã đột nhiên từ bỏ việc ra tòa với tư cách nhân chứng. Một luật sư của Apple đã cáo buộc Qualcomm đứng sau hành động này, bởi luật sư mới của Siva là một đối tác cũ của Quinn Emanuel, công ty đại diện cho Qualcomm. Siva ban đầu đồng ý ra làm chứng với điều kiện ông được ghi nhận là đồng phát minh cho một trong những bằng sáng chế đang gây tranh cãi. 
+Bảo Nam

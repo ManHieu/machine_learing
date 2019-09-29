@@ -1,0 +1,18 @@
+TITLE: Chàng trai 25 tuổi chế tạo 'găng tay biết nói' dành cho người điếc - VnExpress Sức Khỏe
+
+KEY WORDS: găng tay phát ra tiếng nói, người khiếm thính, thiết bị phiên dịch
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Chàng trai người Kenya cho biết động lực để anh chế tạo ra thiết bị này là tình thương với cháu gái khiếm thính của mình. Cô bé chỉ mới 6 tuổi và luôn gặp khó khăn trong việc trò chuyện với mọi người, thậm chí cả cha mẹ bé.
+"Không phải ai cũng biết về các ngôn ngữ ký hiệu bàn tay. Găng tay này có thể biến những ký hiệu ấy thành tiếng nói", Allela nói.
+Găng tay được trang bị cảm biến để phát hiện chuyển động của các ngón tay. Ảnh: Bored Panda
+Theo Nairobi News, thiết bị có tên Sign-IO được trang bị cảm biến phát hiện chuyển động và độ cong ngón tay, dịch từng động tác đó ra ký tự.
+Allela lập trình một ứng dụng trên điện thoại để găng tay liên kết thông qua kết nối Bluetooth. Nhờ ứng dụng, tất cả từ ngữ được dịch đều chuyển thành giọng nói, cho phép người khiếm thính có thể trò chuyện. Bên cạnh đó, người dùng có thể đặt ngôn ngữ, giới tính và cao độ của giọng nói. Độ chính xác có thể tới 93%.
+"Khi đeo, găng tay sẽ kết nối với điện thoại của tôi hoặc cháu. Chỉ cần cháu ra hiệu bằng tay, tôi có thể hiểu cô bé nói gì".
+Allela cho biết thành công quan trọng của găng tay là tốc độ chuyển biến động tác tay thành tiếng nói.
+"Mỗi người sẽ nói ở nhiều tốc độ khác nhau, người sử dụng ngôn ngữ ký hiệu cũng vậy. Tôi đã thêm yếu tố tốc độ giao tiếp để bất kỳ ai cũng có thể sử dụng được", anh nói.
+Allela đang trong quá trình cải tiến găng tay trở nên thông minh để đoán được ký hiệu tay chính xác hơn. Ảnh: Nairobi News
+Sáng chế này đã nhận được giải Hardware Traiblazer từ Hiệp hội Kỹ sư Cơ khí Mỹ năm 2017. Allela cho biết đang sử dụng tiền thưởng để cải tiến thiết bị găng tay thông minh hơn, có thể đoán được ký hiệu tay chính xác hơn.
+Anh chia sẻ: "Găng tay của tôi sẽ loại bỏ nỗi buồn ở người khiếm thính và người gặp khó khăn trong việc giao tiếp. Tôi mong thiết bị này sẽ thay đổi cuộc đời họ". 

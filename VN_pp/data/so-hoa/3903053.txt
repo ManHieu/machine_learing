@@ -1,0 +1,18 @@
+TITLE: Cá tháng Tư của Google: Phần mềm dọn dẹp vết bẩn trên màn hình - VnExpress Số Hóa
+
+KEY WORDS: Cá tháng Tư, Google, trò lừa ngày cá tháng tư
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Files by Google là ứng dụng quản lý tập tin của Gã khổng lồ tìm kiếm ra mắt từ 2017, hôm nay (1/4), phần mềm được thông báo có tính năng mới - Screen Cleaner (Làm sạch màn hình). Theo mô tả của hãng, tính năng này có thể "đánh bật bụi, vết bẩn và những thứ không mong muốn khác 'cư trú' trên màn hình của bạn".
+Công cụ làm sạch màn hình trên File. Ảnh: Bảo Lâm.
+Google giải thích, "để làm được điều này, Screen Cleaner đã được tích hợp các API có thể dò tìm và nhận biết những thứ bám dính vào màn hình, sau đó dùng vi điều khiển kết hợp động cơ rung và điều khiển xúc giác của điện thoại để đánh bay vết bẩn". Thậm chí, hãng còn làm một video dài 1 phút 25 giây để giới thiệu, tăng tính thuyết phục.
+Tuy nhiên, thực tế những gì được quảng cáo đều không đúng sự thật. Khi kích hoạt, Screen Cleaner chỉ đơn giản là tạo một nhân vật hoạt hình để quét toàn bộ màn hình, đồng thời máy rung nhẹ, hoàn toàn không có khả năng loại bỏ vết bẩn.
+ 
+ 
+Phần mềm làm sạch màn hình smartphone - trò Cá tháng Tư của Google
+Google giới thiệu tính năng làm sạch màn hình.
+Trong ngày 1/4, File by Google đã nhanh chóng đạt 100 triệu lượt tải về, nhận đánh giá 4,6/5 sao. Tuy nhiên, một số bình luận đều cho biết mình đã bị lừa vì nâng cấp làm sạch màn hình này.
+Ứng dụng có tên gọi ban đầu là File Go, được đánh giá cao ở khả năng quản lý tập tin khoa học, phát hiện và cho phép loại bỏ tập tin trùng lặp thông minh, liên kết với Google Photos để tải ảnh nhanh lên đám mây, dọn dẹp tập tin rác, giải phóng bộ nhớ điện thoại...
+Bảo Lâm

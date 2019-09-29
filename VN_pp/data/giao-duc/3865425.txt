@@ -1,0 +1,17 @@
+TITLE: Hai học sinh Ninh Bình chế giường đa năng giúp người khuyết tật - VnExpress
+
+KEY WORDS: hai học sinh, Ninh Bình, chế giường đa năng, người khuyết tật
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đạt giải nhất lĩnh vực robot và máy thông minh trong cuộc thi khoa học kỹ thuật dành cho học sinh trung học cấp tỉnh năm học 2018-2019, dự án giường L.o.T hỗ trợ người mất khả năng vận động tay chân của Cao Nguyễn Hùng và Nguyễn Đình Nhật Tân, lớp 12 trường THPT Hoa Lư A, được chọn tham dự cuộc thi cấp quốc gia tại Hà Nội, dự kiến diễn ra vào tháng 3.
+Theo Cao Nguyễn Hùng (lớp 12A), ý tưởng sản phẩm xuất phát từ gia đình khi mẹ em bị tai nạn chân, phải ngồi một chỗ. Em đã nghiên cứu, thiết kế và lập trình ra sản phẩm với sự đồng hành của Nguyễn Đình Nhật Tân (lớp 12G). Sản phẩm giúp cho việc chăm sóc và theo dõi người bệnh trở nên đơn giản. Người chăm sóc ở xa vẫn có thể tương tác với bệnh nhân thông qua Internet.
+Hai học sinh và thầy giáo hướng dẫn đang hoàn thiện sản phẩm. Ảnh: Báo Ninh Bình
+Giường I.o.T gồm hai hệ thống cơ bản. Hệ thống cơ khí, gồm: khung giường, động cơ nâng hạ, di chuyển, vệ sinh, bàn ăn, cơ cấu nâng bàn, xoay bàn, cánh tay robot. Hệ thống mạch điều khiển, gồm: điều khiển qua web, qua tay, nút bấm cảm biến nhịp tim và camera... Chỉ cần có Internet và thiết bị điện tử thông minh, người dùng có thể điều khiển giường I.o.T ở mọi lúc mọi nơi. Lệnh truyền qua Internet đến hệ thống điều khiển (gồm máy tính nhúng Raspberry pi3, arduino, các cảm biến, module relays, động cơ).
+Ngoài việc sử dụng web để điều khiển giường, người nhà và người bệnh còn vận động được tay có thể sử dụng bộ điều khiển do nhóm tự chế để thực hiện các chức năng của giường I.o.T, như: di chuyển, lấy đồ ăn, thuốc uống, đo huyết áp... Trên giường, nhóm tác giả thiết kế bình nước, hộp thuốc tích hợp với bàn ăn. Nếu muốn cho người bệnh uống nước hoặc thuốc, người thân sẽ điều khiển quay bàn ăn đến gần phía người bệnh để đưa.
+Người bệnh muốn uống nước sẽ sử dụng một lực nhẹ của lưỡi tác động vào viên bi ở đầu vòi để uống. Khi muốn uống thuốc, người bệnh đưa miệng vào đầu phễu, cảm biến hồng ngoại sẽ gửi tín hiệu để motor nhả thuốc theo số lượng hay chủng loại đã được đặt sẵn. Với tay robot được lắp đặt tại giường, người thân ở xa vẫn có thể cho người bệnh ăn thức ăn khô như các loại bánh mì, ngũ cốc...
+Với giường I.o.T, nhóm tác giả đã tích hợp các nút bấm để người bệnh chủ động hơn cũng như cảnh báo nếu gặp nguy hiểm. Ví dụ khi người bệnh ấn nút uống nước thì tín hiệu sẽ được truyền trực tiếp cho người thân qua email. Cảm biến nhịp tim được thiết kế để người bệnh tự đo nhịp tim, khi vượt quá mức quy định sẽ có mail cảnh báo gửi cho người thân. Người thân ở xa muốn thấy hình ảnh của người bệnh ở nhà thì camera Logitech có thể quay 180 độ đáp ứng nhu cầu này.
+Thầy Nguyễn Mạnh Tú, giáo viên Vật lý trường THPT Hoa Lư A cho biết, quá trình thực hiện, Nguyễn Hùng và Nhật Tân nhận được sự hỗ trợ, hướng dẫn của thầy giáo bộ môn, Ban giám hiệu nhà trường và gia đình. Trong hai tháng, hai em đã hoàn thiện sản phẩm, đạt giải nhất cuộc thi cấp trường và giải nhất cấp tỉnh.
+Hiện nhóm tác giả và nhà trường gấp rút hoàn thiện, tích hợp thêm tính năng mới cho sản phẩm, như: đệm massage để người bệnh thư giãn, góp phần sống tích cực hơn; đưa giọng nói vào điều khiển giường, bằng việc người dùng có thể gọi để hỏi về thời tiết, nghe nhạc hay xem video trực tuyến trên Youtube.. 
+Theo báo Ninh Bình 

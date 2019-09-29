@@ -1,0 +1,14 @@
+TITLE: Apple bị kiện vì không cho tắt xác thực hai yếu tố - VnExpress Số Hóa
+
+KEY WORDS: Apple
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Jay Brodsky tại New York (Mỹ) đã đệ đơn kiện Apple với lý do hãng không cho phép khách hàng vô hiệu hóa tính năng xác thực hai yếu tố trong vòng hai tuần kể từ khi kích hoạt nó. Khiếu nại cho rằng "hàng triệu người đã và đang bị tổn hại, thiệt hại về kinh tế" do Apple can thiệp vào việc sử dụng thiết bị cá nhân.
+Khi đăng nhập Apple ID trên thiết bị mới, người dùng có thể phải nhập xác thực từ thiết bị cũ. Ảnh: Apple
+Nguyên đơn cho biết việc bảo mật của Apple gây lãng phí thời gian của người dùng, khiến họ tốn thêm công sức để thực hiện một bước đăng nhập đơn giản. Brodsky còn nhấn mạnh rằng yêu cầu xác thực hai yếu tố mỗi khi bật thiết bị Apple là sai, khiến cho quá trình đăng nhập lâu hơn hai đến năm phút.
+Brodsky cáo buộc Apple vi phạm Đạo luật Lừa đảo và Lạm dụng máy tính tại Mỹ, Đạo luật xâm phạm quyền riêng tư của bang California và một số luật khác. Ông cho biết thay mặt những người khác cùng chịu thiệt hại kiện Apple vì đã "không cho người dùng lựa chọn chế độ đăng nhập và mức độ bảo mật cho riêng mình".
+Trên trang hỗ trợ, Apple cho biết không cho khách hàng tắt xác thực hai yếu tố hai tuần kể từ khi kích hoạt nó vì "một số tính năng nhất định trong phiên bản iOS và macOS mới nhất yêu cầu có lớp bảo mật bổ sung này".
+Xác thực hai yếu tố là lớp bảo mật bổ sung mà ngoài tên tài khoản, mật khẩu thì người dùng còn cần thêm một "khóa" khác để xác minh. Nó có thể là dãy ký tự gửi về số điện thoại mà người dùng đăng ký, mã số sinh ra từ ứng dụng hay thiết bị vật lý... Thông thường, xác thực hai yếu tố là tùy chọn bảo mật bổ sung mà người dùng có thể mở hoặc tắt bất kỳ lúc nào. 
+Bảo Anh

@@ -1,0 +1,33 @@
+TITLE: 10 vụ rò rỉ dữ liệu lớn nhất thế giới năm 2018 - VnExpress Số Hóa
+
+KEY WORDS: Facebook, Google, rò rỉ dữ liệu, đánh cắp thông tin, vi phạm an ninh
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Hàng loạt vụ vi phạm dữ liệu với quy mô lớn xảy ra trong 2018, có thể do bị tin tặc tấn công hoặc bị bán cho bên thứ ba. Danh sách này được sắp xếp dựa trên số lượng người dùng bị ảnh hưởng, theo thống kê của Business Insider.
+Aadhaar - 1,1 tỷ người
+Từ năm 2010, Ấn Độ bắt đầu thu thập dữ liệu bao gồm tên, 12 số định danh, dấu vân tay, mống mắt và thông tin về các dịch vụ liên kết như y tế, ngân hàng... của công dân để quản lý tập trung bằng hệ thống có tên Aadhaar. Tháng 3/2018, cơ sở dữ liệu của 1,1 tỷ người này được phát hiện đã bị rò rỉ. Việc lộ lọt dữ liệu được xác định do công ty quản lý đã không bảo mật API khiến mọi người có thể truy cập vào thông tin trên Aadhaar.
+Marriott Starwood - 500 triệu người
+Nửa tỷ khách hàng Marriott Starwood có nguy cơ lộ thông tin.
+Hacker đã xâm nhập hệ thống và tiếp cận được cơ sở dữ liệu về nửa tỷ khách hàng từng ở tại chuỗi khách sạn Starwood của Marriott. Việc vi phạm diễn ra từ 2014 đến 9/2018 nhưng tới 11/2018 mới được công bố. Dữ liệu bị hacker tiếp cận có thể gồm tên, địa chỉ nhà riêng, email, số điện thoại, số hộ chiếu, số tài khoản Starwood Preferred Guest, ngày đặt phòng, ngày đến và đi... của khách.
+Exactics - 340 triệu người
+Tháng 6/2018, công ty tiếp thị và tổng hợp Exactis để lộ thông tin của khoảng 340 triệu người tại Mỹ. Dữ liệu được lưu trong các tệp có dung lượng gần 2 TB, chứa thông tin cá nhân cũng như doanh nghiệp với tên, số điện thoại, địa chỉ nhà, email... Nguồn gốc của dữ liệu và nguyên nhân bị rò rỉ chưa được công bố.
+MyFitnessPal - 150 triệu người 
+Một "bên trái phép" đã có quyền truy cập dữ liệu người dùng của ứng dụng thể dục MyFitnessPal thuộc sở hữu của hãng thời trang Under Armour. Các thông tin bị vi phạm là tên người dùng, địa chỉ email và mật khẩu đã được mã hóa. Các dữ liệu như số thẻ tín dụng, số định danh... được cho là vẫn an toàn.
+Quora - 100 triệu người
+100 triệu người dùng mảng hỏi đáp nổi tiếng Quora bị lấy dữ liệu.
+Đầu tháng 12, Quora cho biết tin tặc đã đột nhập vào hệ thống của họ và có thể lấy đi dữ liệu liên quan đến khoảng 100 triệu người sử dụng, như tên, email và mật khẩu được mã hóa. Nếu người dùng đã nhập dữ liệu từ một mạng xã hội khác, như danh sách liên hệ hoặc thông tin nhân khẩu học, chúng cũng có thể đã bị đánh cắp.
+MyHeritage - 92 triệu người
+Kho thông tin chứa địa chỉ email và mật khẩu đã được mã hóa mà MyHeritage lưu trữ trên máy chủ đặt ở ngoài công ty đã bị vi phạm. Không có dữ liệu khác được tìm thấy cũng như không có bằng chứng về việc dữ liệu đã bị lợi dụng. Tuy nhiên 92 triệu người dùng MyHeritage được yêu cầu đổi mật khẩu.
+Cambridge Analytica - 87 triệu người
+Ứng dụng dự đoán tính cách có tên "thisisyourdigital life" được phát triển bởi một giáo sư Đại học Cambridge đã thu thập và chuyển các thông tin cá nhân của người dùng Facebook cho bên thứ ba, trong đó có Cambridge Analytica - công ty phân tích, hỗ trợ dữ liệu cho chiến dịch tranh cử của Tổng thống Donald Trump. Xảy ra từ 2015, đến tháng 3/2018, bê bối mới bị phanh phui, ảnh hưởng tới khoảng 87 triệu người dùng Facebook.
+Google+ - 52,5 triệu người
+Google+ đóng cửa sớm hơn bốn tháng so với dự định.
+Bản cập nhật tháng 11 cho API Google+ đã khiến các nhà phát triển có thể xem được thông tin của người dùng cả khi họ chọn chế độ riêng tư. Theo Google, dữ liệu của 52,5 triệu thành viên có nguy cơ bị lộ nhưng không bao gồm mật khẩu hay thông tin tài chính. Sự cố này khiến công ty công nghệ Mỹ quyết định "khai tử" mạng xã hội của mình vào 4/2019. Trước đó, nửa triệu tài khoản Google+ cũng đã dính lỗi bảo mật gây mất an toàn thông tin.
+Chegg - 40 triệu người
+Công ty lớn trong lĩnh vực cho thuê sách Chegg xác nhận bị vi phạm dữ liệu, ảnh hưởng tới 40 triệu thành viên. Thông tin có thể rơi vào tay tin tặc là tên, địa chỉ, mật khẩu đã mã hóa,... buộc công ty phải thiết lập mật khẩu mới cho người dùng. 
+Facebook - 29 triệu người
+Facebook liên tiếp vướng bê bối thông tin người dùng.
+Cuối tháng 9, Facebook phát hiện lỗ hổng cho phép tin tặc truy cập vào tài khoản người dùng bằng cách thu thập mã thông báo bảo mật (token) của họ. Sự cố ban đầu ước tính tác động tới 50 triệu thành viên nhưng sau đó Facebook tuyên bố chỉ 29 triệu tài khoản bị ảnh hưởng. 
+Bảo Anh

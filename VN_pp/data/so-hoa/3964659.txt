@@ -1,0 +1,14 @@
+TITLE: Apple chặn bên thứ ba thay pin cho iPhone - VnExpress Số Hóa
+
+KEY WORDS: Apple, pin, thay pin
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo phát hiện của iFixit, nếu iPhone có thông báo "Không thể xác minh iPhone này dùng pin chính hãng của Apple . Thông tin sức khỏe không có sẵn cho pin này", viên pin có thể đã bị thay thế bởi một bên thứ ba không do công ty Mỹ này ủy quyền.
+Thông báo trên iPhone khi pin không được thay bởi Apple hoặc công ty ủy quyền của Apple.
+Người dùng có thể vào phần Cài đặt > Pin > Battery Health để kiểm tra. Tuy nhiên, hiện chỉ có một số model nhận được thông báo, chủ yếu là iPhone XS , iPhone XS Max và iPhone XR chạy iOS 12 và iOS 13 beta tại Mỹ.
+Không chỉ ngăn chặn thay pin bên thứ ba hoặc không rõ nguồn gốc, việc thay pin giờ đây buộc phải do đội ngũ Genius của hãng hoặc đại lý do hãng ủy quyền thực hiện. Kể cả khi người dùng tự thay pin chính hãng của Apple, thông báo trên vẫn xuất hiện.
+Theo một kỹ thuật viên của iFixit, Apple đã kiểm soát điều này nhờ một chip nhớ định danh trên pin, đóng vai trò là một "chìa khóa". "Nếu khóa xác thực này trùng khớp với iPhone, tính năng Battery Health và việc tối ưu pin sẽ được kích hoạt và ngược lại", người này cho biết. "Nói một cách đơn giản, Apple đã tạo khóa cho iPhone tại nhà máy, nên chỉ họ mới có thể mở khóa".
+Một số chuyên gia đánh giá, động thái mới của Apple được đánh giá là quyết liệt hơn so với trước đây. Việc thay pin bên thứ ba từ lâu không được công ty iPhone ủng hộ do lo ngại về vấn đề an toàn, đặc biệt là khi chúng được thay từ nguồn kém chất lượng dân đến việc gây tác động xấu đến máy, thậm chí xảy ra tình trạng cháy nổ.
+Bảo Lâm (theo 9to5mac)

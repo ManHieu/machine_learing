@@ -1,0 +1,14 @@
+TITLE: Apple cảnh báo lỗi trên hàng triệu iPhone - VnExpress Số Hóa
+
+KEY WORDS: Apple, iOS 13
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Apple đã phát hành bản cập nhật iOS 13.1 để khắc phục nhiều vấn đề của iOS 13, nhưng chưa sửa hết các lỗi. Trong thông báo bảo mật chính thức, hãng cho biết iOS 13.1 và iPadOS 13.1 vẫn tồn tại một lỗ hổng có thể khiến các bàn phím bên thứ ba giành toàn bộ quyền truy cập iPhone và iPad của người dùng "ngay cả khi bạn không chấp nhận việc truy cập này". 
+Theo TechCrunch, bàn phím "với toàn quyền truy cập" có thể gửi dữ liệu qua Internet, trong đó bao gồm những gì người dùng nhập từ bàn phím như email, tin nhắn, mật khẩu... 
+Ảnh: TechCrunch.
+Apple không mô tả chi tiết, nhưng cho biết vấn đề không ảnh hưởng đến bàn phím chính thức của iOS. Hãng hứa hẹn "sẽ khắc phục trong bản cập nhật phần mềm tiếp theo", dù không thông báo khi nào bản iOS này sẽ được phát hành. 
+Do bàn phím iOS còn nhiều giới hạn, người dùng thường cài thêm các bàn phím bên thứ ba. Một số bàn phím phổ biến là Google Gboard, Microsoft SwiftKey và Grammarly.  Người dùng có thể vào phần Settings > General > Keyboard > Keyboards để xem mình đã cài những bàn phím nào, gỡ nếu thấy nghi ngờ và đợi tới khi Apple sửa lỗi mới cài trở lại.
+Trên iOS 13, Apple cũng lần đầu bổ sung tính năng đoán từ cho bàn phím tiếng Việt. Tuy nhiên nhiều người dùng iPhone đời cũ tại Việt Nam cho biết, bàn phím phản hồi trễ, đôi khi bị "đơ" mất vài giây. 
+Châu An

@@ -1,0 +1,22 @@
+TITLE: Bản đồ số 'vô dụng' như thế nào ở Trung Quốc - VnExpress Số Hóa
+
+KEY WORDS: bản đồ số, trung quốc, Internet
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Ở Trung Quốc, người dùng có thể sử dụng Google Maps để di chuyển và tìm đường. Tuy nhiên, nếu muốn nhìn thấy các con đường hay công trình kiến trúc ở góc nhìn vệ tinh lại là điều bất khả kháng. Bởi lúc này, các con đường, nhà cửa, phố xá có thể sẽ xuất hiện trên sông hay hồ. Một số trường học ở Bắc Kinh sẽ xuất hiện ở vị trí bên trong Tử Cấm Thành.
+Nói một cách đơn giản, mọi nội dung hiển thị trên bản đồ số sẽ bị bóp méo và không còn chính xác với vị trí thực như trong bản đồ ảnh vệ tinh. Thực tế lỗi kỹ thuật này không bắt nguồn từ các đơn vị cung cấp bản đồ và không chỉ Google Maps mà tất cả các bản đồ số ở Trung Quốc đều "sai" do các chính sách quản lý của chính quyền nước này.
+Trong ảnh vệ tinh, các con phố ở Thượng Hải xuất hiện trên sông Hoàng Phố.
+Năm 1992, Trung Quốc đã thông qua Luật khảo sát và bản đồ, trong đó quy định việc vẽ bản đồ ở Trung Quốc mà không có sự cho phép của chính phủ là bất hợp pháp. Từ năm 2006 đến 2011, chính quyền nước này đã xử lý gần 40 cá nhân và đơn vị cố gắng lập bản đồ quốc gia, trong đó có cả công ty lớn như Coca-Cola hay một nhóm sinh viên Khoa Địa chất của Đại học Hoàng gia London, Anh.
+Trên thực tế, Trung Quốc không phải quốc gia duy nhất có nhiều hạn chế về dữ liệu địa lý và bản đồ. Đức và Nga cũng có các yêu cầu nghiêm ngặt về cơ sở dữ liệu địa lý. Tuy nhiên ở Trung Quốc, các quy định được thắt chặt hơn. Nhiều máy ảnh có định vị GPS như của Panasonic, Leica, Fuji, Nikon, Samsung sẽ tự động tắt chức năng gắn thẻ địa lý trong ảnh ở Trung Quốc.
+Theo dữ liệu từ Cục Thông tin Địa lý và Bản đồ Trung Quốc vào ngày 3/4/2018, chỉ có 14 công ty xin được giấy phép để lập bản đồ quốc gia. Tất cả đều là công ty Trung Quốc. Do đó, nếu một công ty nước ngoài như Google muốn có bản đồ Trung Quốc, công ty này phải hợp tác với một công ty được chính phủ Trung Quốc cấp phép.
+Tuy nhiên, dù là bản đồ của Google hay sản phẩm của các công ty ở Trung Quốc như Baidu, Gaode cũng không thể hiện một cách chính xác vị trí địa lý thực sự của người dùng. Bởi tất cả dữ liệu đã được điều chỉnh.
+Các con đường xuất hiện ngang dọc trong khuôn viên Tử Cấm Thành, theo hình ảnh từ bản đồ vệ tinh.
+Trong khi hầu hết các quốc gia trên thế giới sử dụng hệ tọa độ WGS84, viết tắt của World Geodesic System thành lập năm 1984 thì Trung Quốc lại sử dụng hệ thống mã hóa có tên GCJ-02. Một số người thường gọi vui nó là "hệ tọa độ sao Hỏa".
+Hệ thống dữ liệu trắc địa được phê chuẩn bởi chính phủ đã cài thuật toán mã hóa vào bản đồ, nhằm tạo ra những hiệu số ngẫu nhiên cho cả kinh độ và vĩ độ của một tọa độ nhất định. Do đó, kết quả nhận được luôn sai lệch trong khoảng 50-500 mét. Người dùng không có cách nào để biết được tọa độ GPS chính xác tại Trung Quốc, kể cả đang dùng Google Maps hay Yahoo Maps.
+Để giảm khó khăn cho người dùng, các công ty cung cấp dữ liệu bản đồ đã tìm ra nhiều cách, thậm chí sử dụng các thuật toán để giảm sai số này. Từ năm 2006, Google đã điều chỉnh bản đồ vệ tinh để nó trùng khớp với bản đồ đường phố. Hiện tại nếu tra cứu bản đồ vệ tinh trên trang chủ Google tại Trung Quốc, người dùng sẽ chúng trông "bình thường", dù không thể hiện tọa độ GPS thực.
+Còn Baidu lại sử dụng một bộ tọa độ gọi là BD-09, bổ sung một thuật toán biến đổi khác dựa trên "hệ tọa độ Sao Hỏa". Hệ thống bản đồ Sogou cũng tự điều chỉnh dựa trên một thuật toán riêng. Dù phần nào giảm bớt đi sai lệch, chúng khiến cho các bản đồ này không tương thích lẫn nhau.
+Nhiều người dùng Internet ở Trung Quốc nói rằng "nếu gửi tọa độ GPS của mình cho đối tác là người nước ngoài, chắc chắn họ sẽ 'nhớ' bạn bởi cả hai sẽ không thể tìm thấy nhau".
+"Rốt cuộc, ở đất nước tôi, không ai thực sự biết họ đang ở đâu và quá dễ dàng để đánh mất chính mình", một người khác nói đùa.
+Bảo Nam (theo Sina)

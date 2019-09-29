@@ -1,0 +1,9 @@
+TITLE: Lỗi Idling stop trên xe máy Lead?
+
+KEY WORDS: Lỗi Idling stop, Honda, Lead
+
+TOPIC: vnexpress, xe, tư vấn, câu hỏi tư vấn 
+
+CONTENT: 
+Lúc bắt đầu đề xe nổ máy thì có hiện lên chữ A màu xanh ở công-tơ-mét, khi dừng đèn đỏ đầu tiên thì máy ngừng, nhưng lúc đến đèn xanh vặn ga để xe đi tiếp thì lại mất chức năng Idling stop (không hiện lên chữ A màu xanh nữa) và khi đi đến các ngã tư có đèn đỏ tiếp theo thì không hoạt động được nữa.
+Tôi đã đến HEAD xử lý lỗi này mấy lần nhưng vẫn bị lại. Xin hỏi nguyên nhân tại sao, nếu phải xử lý dứt điểm thì phải đến địa chỉ sửa xe nào. Tôi ở Hà Nội, xin cảm ơn. 

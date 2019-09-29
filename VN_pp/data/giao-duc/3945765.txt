@@ -1,0 +1,11 @@
+TITLE: Bài toán đếm hạt lạc trong kỳ thi TIMC 2016 - VnExpress
+
+KEY WORDS: bài toán, đếm số hạt lạc, kỳ thi TIMC 2016
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 43. EQUATION WORD PROBLEMS
+Problem: Jimmy has some peanuts. On the first day, he eats 13 peanuts in the morning and one tenth of the rest in the afternoon. On the second day, he eats 16 peanuts in the morning and one tenth of the rest in the afternoon. If he has eaten the same number of peanuts on both days, how many peanuts will he have left?
+Dịch đề: Jimmy có một số hạt lạc. Ngày đầu tiên, cậu ăn 13 hạt lạc vào buổi sáng và ăn 1/10 số lạc còn lại vào buổi chiều. Ngày thứ hai, cậu ăn 16 hạt lạc vào buổi sáng và ăn 1/10 số lạc còn lại vào buổi chiều. Biết số lạc Jimmy ăn trong mỗi ngày là như nhau, hỏi cậu còn lại bao nhiêu hạt lạc?
+Minh Phương 

@@ -1,0 +1,26 @@
+TITLE: Những bộ tăng áp 'khủng' trên xe hơi - VnExpress
+
+KEY WORDS: tăng áp, tăng áp kép, động cơ tăng áp
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Vài năm trước, động cơ tăng áp với sức mạnh ngày càng tăng luôn được khách hàng mong đợi, bởi với dung tích xi-lanh nhỏ, xe vẫn có thể cho công suất tương đương với một động cơ lớn. Thỉnh thoảng, một hãng xe lại giới thiệu động cơ tăng áp kép như để "hâm nóng" những mẫu xe của mình, bởi với hệ thống tăng áp này, sức mạnh động cơ chiếc xe lại được củng cố. 
+Khi động cơ tăng áp trở nên phổ biến hơn, các hãng xe vẫn không ngừng nghiên cứu, sản xuất các hệ thống tăng áp, như một biện pháp tăng công suất động cơ, nhưng giảm được kích thước. Ngay sau khi Bugatti ra mắt hệ thống tăng áp với 4 tua-bin trên chiếc Veyron thì BMW cũng giới thiệu hệ thống tăng áp 3 tua-bin mà họ sẽ trang bị trên những chiếc xe cao cấp sử dụng nhiên liệu diesel.
+Bugatti Chiron  - Quad turbo W12 
+Động cơ Quad turbo W12 trên chiếc siêu xe Bugatti Chiron.
+Bugatti sử dụng động cơ 4 tua-bin tăng áp duy nhất trên Chiron. Bộ 4 tua-bin tăng áp trên động cơ W16 được chia thành hai bộ tăng áp kép được lắp đặt cho mỗi 8 xi-lanh. Công suất 1.500 mã lực, trong khi mô-men xoắn ở mức 1.600 Nm. Bộ nén lớn hơn có nghĩa độ trễ cao hơn. Để giảm thiểu độ trễ, Bugatti phát triển hệ thống 2 giai đoạn: giai đoạn đầu 2 bộ tăng áp hoạt động ở vòng tua máy 1.900 vòng/phút, sau đó cổng xả kích thích 2 bộ còn lại ở 3.800 vòng/phút, đẩy xe lên giai đoạn cả 4 bộ tăng áp. Đó là lý do vì sao xe thương mại nhưng có mô-men xoắn lên tới 1.600 Nm.
+BMW Quad turbo 6 xi-lanh thẳng hàng
+Mẫu BMW 750d sử dụng động cơ diesel với 4 tua-bin tăng áp.
+BMW cũng phát triển động cơ 4 tua-bin tăng áp trên xe sản xuất thương mại. BMW cũng sử dụng bộ tăng áp thông thường, mà không sử dụng mô-tơ điện để duy trì hoạt động của những bộ tăng áp này. Hãng xe Đức sử dụng bộ 4 tua-bin tăng áp trên chiếc BMW 750d của hãng, thay vì động cơ V8, BMW sử dụng động cơ 6 xi-lanh thẳng hàng trang bị 4 tua-bin tăng áp.
+Nhờ sự hỗ trợ của hệ thống quad-turbo nên sẽ đạt công suất lên tới 394 mã lực tại vòng tua máy từ 4.000-4.400 vòng/phút và mô-men xoắn cực đại 760 Nm tại 2.000 -3.000 vòng/phút.
+Audi SQ7 - Triple turbo V8
+Mô hình sử dụng 3 tua-bin tăng áp trên động cơ Audi SQ7.
+Mô hình sử dụng nhiều tua-bin tăng áp đầu tiên có thể được coi là động cơ TDI V8 trên chiếc Audi SQ7 với 3 bộ tăng áp. Ngoài hai bộ tăng áp dùng áp lực khí xả, bộ thứ ba sử dụng mô-tơ điện. Đây là loại động cơ 4 lít TDI V8 kết hợp cùng bộ nén điện tử EPC, lần đầu tiên áp dụng cho xe sản xuất thương mại. Sức mạnh mang tới cho xe là 435 mã lực, mô-men xoắn cực đại 900 Nm ngay từ vòng tua 1.000 vòng/phút. 
+Audi cho biết với bộ nén điện tử EPC, động cơ diesel tăng áp V8 sẽ giảm tối đa độ trễ vốn là đặc trưng của loại máy tăng áp. EPC được kéo bởi một động cơ điện với quạt nén có tốc độ 70.000 vòng/phút.
+BMW Triple turbo 3 lít 6 xi-lanh thẳng hàng
+Mô hình hoạt động của động cơ 3 tua-bin tăng áp BMW.
+Từ năm 2012, hãng xe Đức đã làm thế giới ngạc nhiện khi trình làng kiểu động cơ trang bị 3 tua-bin tăng áp. Khi đó, kiểu động cơ hiệu suất cao được trang bị trên dòng xe M của hãng. Thế hệ Series 5 trước đây cũng được trang bị động cơ này, với tên gọi M550d. 
+BMW thiết lập hệ thống tăng áp 3 tua-bin được hoạt động tuần tự. Ban đầu, một tua-bin tăng áp nhỏ hoạt động ở vòng tua máy thấp, giúp động cơ đạt mô-men xoắn lớn ở ngay những vòng tua thấp. Ngay sau đó, tua-bin tăng áp thứ hai hoạt động rồi đến tua-bin tăng áp thứ ba sẽ hoạt động khi vòng tua máy cao, cung cấp thêm mô-men xoắn. 
+Kết quả khi cả 3 tua-bin tăng áp hoạt động, xe có sức mạnh 381 mã lực tại vòng tua máy từ 4.000-4.400 vòng / phút, trong khi mô-men xoắn cực đại là 740 Nm. 
+Bảo Khánh 

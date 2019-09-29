@@ -1,0 +1,15 @@
+TITLE: Loại bỏ hoàn toàn virus HIV ở chuột - VnExpress Sức Khỏe
+
+KEY WORDS: HIV, HIV/AIDS, điều trị HIV
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Trên Nature Communications, nhóm nhà khoa học từ Đại học Temple (Mỹ) đã báo cáo về khả năng loại bỏ vĩnh viễn virus HIV-1, dạng phổ biến nhất của virus HIV gây bệnh AIDS.
+"Nghiên cứu của chúng tôi cho thấy rằng việc kết hợp phương pháp ngăn chặn sự sao chép HIV và liệu pháp chỉnh sửa gene một cách tuần tự có thể loại bỏ HIV khỏi tế bào và các cơ quan của động vật bị nhiễm bệnh", tác giả nghiên cứu Kamel Khalili nói.
+Virus HIV. Ảnh: IFL.
+Tới nay, thuốc kháng virus (ART) là phương pháp điều trị phổ biến cho HIV-1. ART ngăn chặn sự sao chép của HIV nhưng không loại bỏ nó mà để virus sống trong "các hồ chứa" của bộ gene. Như vậy, ART không phải là phương pháp chữa bệnh mà là phương pháp điều trị suốt đời, biến HIV thành một căn bệnh mạn tính. Các nghiên cứu trên chuột trước đây chỉ ra chỉnh sửa gene qua công nghệ CRISPR-Cas9 có khả năng loại bỏ ADN HIV khỏi bộ gene chứa virus nhưng đòi hỏi sự can thiệp phức tạp. 
+Trong nghiên cứu, các nhà khoa học Đại học Temple đã tạo ra những con chuột nhiễm HIV. Chúng được áp dụng phương pháp kháng virus mới có tên LASER ART và công nghệ chỉnh sửa gene CRISPR-Cas 9. Kết thúc thời gian điều trị, một phần ba số chuột không còn dấu hiệu HIV trong ADN.
+"Thông điệp là để chữa trị HIV, chúng ta cần cả CRISPR-Cas9 lẫn phương pháp ức chế virus như LASER ART", tiến sĩ Khalili nhận định. Thời gian tới, nhóm nghiên cứu của tiến sĩ sẽ thử nghiệm ở các loài linh trưởng để đi tới thử nghiệm trên người. 
+Trên thế giới có khoảng 36,9 triệu người nhiễm virus HIV-1. Y văn ghi nhận hai trường hợp được cho là khỏi HIV-1 nhờ cấy ghép tế bào gốc. 
+Minh Nguyên (Theo IFL) 

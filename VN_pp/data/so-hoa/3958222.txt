@@ -1,0 +1,22 @@
+TITLE: Thiết bị kết nối và điều khiển đồ điện tử bằng giọng nói - VnExpress Số Hóa
+
+KEY WORDS: smartthing hub, hub, fado, fado.vn, amazon, alexa, smartthing
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Công nghệ 4.0 phát triển mang đến nhiều tiện ích cho người dùng. Smartthing Hub được xem là trợ thủ đắc lực cho các gia đình sử dụng nhiều đồ công nghệ có kết nối wifi hoặc bluetooth. Thiết bị cho phép người dùng kết nối toàn bộ các đồ dùng điện tử trong nhà và quản lý qua ứng dụng.
+Chủ sở hữu có thể điều khiển những thiết bị này bằng giọng nói nhờ trợ lý ảo Alexa hoặc qua ứng dụng Smartthing. Việc điều khiển các đồ dùng thông minh trong nhà bằng giọng nói khá đơn giản.
+Người dùng tải ứng dụng Amazon Alexa về điện thoại, kết nối với Smartthing Hub. Ví dụ như muốn mở đèn ở cửa ra vào, bạn chỉ cần nói câu lệnh: "Alexa, turn on my door light". Đèn sẽ được mở ngay sau khi câu lệnh được xác nhận.
+Ổ cắm điện thông minh, khóa cửa điện tử và camera an ninh... là những thiết bị được tích hợp chức năng điều khiển từ xa bằng ứng dụng. Tuy nhiên, chúng lại không sử dụng chung một hệ điều hành. Đây chính là lúc Smartthing Hub phát huy tác dụng.
+Tất cả đồ dùng điện tử có kết nối với Smartthing Hub giờ đây đều có thể được điều khiển bằng trợ lý ảo Alexa hoặc ứng dụng Smartthing. Ảnh: The Guardian.
+Smartthing Hub hiện tại có thể kết nối với hầu hết các đồ dùng điện tử có tích hợp wifi và bluetooth. Thiết bị có thể được đặt ở bất cứ đâu. Người dùng chỉ cần kết nối Hub với mạng cố định hoặc mạng wifi trong nhà để sử dụng.
+Smartthing Hub còn có hệ thống lưu trữ pin phòng khi nguồn điện bị cắt. Trong trường hợp có sự cố cúp điện, thiết bị sẽ giữ nguyên kết nối với các đồ dùng chạy bằng pin khác. Chủ sở hữu có thể dễ dàng điều khiển những thiết bị đó dù không có điện.
+Ứng dụng dùng để điều khiển các thiết bị điện tử được kết nối với Smartting Hub là Smartting. Người dùng có thể thêm các đồ dùng trong nhà vào ứng dụng bằng chế độ tìm kiếm thiết bị. Hub sẽ quét các thiết bị đang được kết nối wifi trong nhà và cho phép người dùng lựa chọn thiết bị mà họ muốn cài đặt.
+Smartting còn cho phép người dùng lựa chọn và sắp xếp những thiết bị điện tử trong nhà theo nhóm phòng khách, phòng ngủ, nhà bếp... để tiện quản lý. Người dùng còn có thể cài đặt báo động cho khóa cửa điện tử nếu cửa được mở. Hoặc đối với các đồ dùng khác như đèn điện, camera an ninh, chế độ cài đặt theo giờ cũng được quản lý tiện lợi bằng ứng dụng.
+Một số dòng sản phẩm Smartting Hub bạn có thể tham khảo lựa chọn, tùy theo nhu cầu và diện tích nhà:
+Samsung Smartthing Hub thế hệ 3: Là sản phẩm có khả năng kết nối với các thiết bị thông minh của hơn 40 thương hiệu khác nhau. Các thiết bị có thể kết nối được với sản phẩm thế hệ 3 này của Samsung gồm có đèn, công tắc, loa, camera... và khả năng điều khiển bằng giọng nói.
+Philips Hue Smart Hub: Với sản phẩm này, người dùng có đến 50 lựa chọn chế độ đèn thông minh. Thiết bị có thể kết nối và được điều khiển bằng giọng nói nhờ trợ lý ảo Alexa, Apple HomeKit hoặc Google Assistant. Smart Hub đến từ Philips cho phép quản lý toàn bộ các thiết bị thông minh của Philips Hue thông qua ứng dụng cùng tên ngay cả khi bạn không ở nhà.
+Samsung SmartThings Wifi Mesh Router Range Extender: Được cải tiến từ Smartting Hub cơ bản, sản phẩm này được tích hợp thêm chế độ tăng sóng wifi. Với ứng dụng Smartting, người dùng có thể điều khiển bằng giọng nói cho hơn 100 thiết bị thông minh.
+Bảo Trân (Theo The Guardian)
+Các thiết bị kết nối và điều khiển đồ điện tử bằng giọng nói đang có bán trên Fado. Website thương mại điện tử xuyên biên giới Fado.vn kết nối hơn 4 tỷ sản phẩm từ Amazon Mỹ, Đức, Nhật Bản, luôn cập nhật nhanh chóng các chương trình khuyến mãi hấp dẫn từ nhiều nước. Website với giao diện tiếng Việt thân thiện, dễ sử dụng, thông tin sản phẩm bao gồm cả mức giá trọn gói về Việt Nam (đã có thuế, phí), giúp người dùng cân đối ngân sách, tính toán thời gian mua hàng hợp lý. Đồng thời, website biểu đồ hiển thị lịch sử giá trực quan, cho phép khách hàng có thể so sánh và nhận biết thời điểm mua sắm thích hợp. Fado.vn giúp người dùng Việt thu hẹp khoảng cách mua sắm xuyên biên giới, đón đầu những sản phẩm chất lượng trên thế giới.

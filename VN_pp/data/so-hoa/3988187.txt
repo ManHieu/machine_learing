@@ -1,0 +1,13 @@
+TITLE: Xiaomi phát triển điện thoại quay video 8K - VnExpress Số Hóa
+
+KEY WORDS: Xiaomi, smartphone
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Thông tin được XDA-Developers phát hiện trong bộ cài đặt ứng dụng MIUI 11 Camera APK. Tuy nhiên, chưa video nào của hãng Trung Quốc có thể quay video 8K nên tính năng này có thể được đưa vào một mẫu điện thoại cao cấp sắp tới. 
+Hiện chỉ có chip Exynos 9820 và 9825 của Samsung hỗ trợ 8K 30 khung hình mỗi giây (fps), do đó nhiều khả năng Xiaomi sẽ phải chờ SoC thế hệ tiếp theo của Qualcomm, hoặc tiếp tục hợp tác với Samsung trong mảng camera. 
+Xiaomi và Samsung hợp tác đưa cảm biến 108 megapixel lên điện thoại Mi Mix Alpha.
+Điện thoại duy nhất trên thị trường có quay 8K là Nubia Red Magic 3 nhưng chỉ đạt 15 khung hình/giây. Trong khi đó, Xiaomi Mi Mix Alpha ra mắt ngày 24/9 hỗ trợ quay 6K tốc độ 30 khung hình/giây, sử dụng cảm biến Samsung Bright HMX 108 megapixel.
+Mi Mix Alpha được đánh giá là smartphone có thiết kế đột phá nhất hiện nay nhờ màn hình bao quanh thân máy và có thể chụp ảnh 108 megapixel. Mỗi ảnh có dung lượng lên tới 40 MB. Sản phẩm được bán giới hạn tại Trung Quốc cuối năm nay với giá hơn 2.800 USD. 
+Châu An

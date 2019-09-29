@@ -1,0 +1,17 @@
+TITLE: Robot NASA trèo vách đá dốc đứng ở Thung lũng Chết
+
+KEY WORDS: robot LEMUR, Thung lũng Chết, robot trèo vách đá, robot NASA
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Robot LEMUR bám trên vách đá. Ảnh: NASA.
+Phòng thí nghiệm Sức đẩy Phản lực (JPL) của NASA đang làm việc để phát triển robot leo trèo có thể khám phá những địa điểm khó tiếp cận như trên sao Hỏa. Limbed Excursion Mechanical Utility Robot (LEMUR) được thiết kế chủ yếu để làm công tác sửa chữa trên Trạm Vũ trụ Quốc tế, nhưng các kỹ sư đang tiếp tục thử nghiệm nó nhằm phát triển robot thám hiểm tham gia nhiệm vụ tương lai trên hành tinh khác.
+Đầu tháng 7, LEMUR leo thành công lên vách đá dốc đứng ở Thung lũng Chết, bang California, Mỹ. Con robot leo trèo bằng móc câu gắn ở mỗi đầu ngón chân. Phần mềm AI tích hợp trên robot cũng tự chọn lộ trình. LEMUR cũng tìm kiếm hóa thạch cổ đại bằng thiết bị khoa học để mô phỏng thăm dò sự sống ngoài hành tinh.
+ 
+ 
+Robot 64 ngón chân của NASA leo vách núi
+Không chỉ hoàn thành mục tiêu trèo vách đá, LEMUR còn tìm thấy hóa thạch của những khối tảo sống ở vùng biển cổ đại từng bao phủ khu vực. Hóa thạch có niên đại khoảng 500 triệu năm giúp khẳng định khả năng phát hiện dấu hiệu sự sống cổ xưa của con robot, điều tối quan trọng với những cỗ máy được chế tạo để khám phá hành tinh khác.
+"Dự án LEMUR dẫn tới sự ra đời của thế hệ robot mới biết di chuyển, leo trèo và bò trườn. Trong các nhiệm vụ tương lai tới sao Hỏa hoặc mặt trăng đóng băng, robot AI với công nghệ leo trèo lấy từ LEMUR có thể trợ giúp tìm kiếm dấu hiệu sự sống. Hiện nay, chúng tôi đang phát triển những mẫu robot đó", NASA cho biết.
+Robot Ice Worm do JPL thiết kế để trèo vách băng trên mặt trăng Enceladus của sao Thổ được cải tiến từ chân của robot LEMUR. RoboSimian, robot cứu trợ trong thiên tai, có 4 chân giống LEMUR. Robot thám hiểm dưới nước Underwater Gripper cũng có ngón chân bám gắn móc câu như LEMUR.
+An Khang (Theo IB Times) 

@@ -1,0 +1,24 @@
+TITLE: Đáp án Sudoku Việt Nam điền chín số - VnExpress
+
+KEY WORDS: đáp án bài toán, sudoku, sudoku Việt Nam, điền số
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Đề bài: Cho trước một hình chữ thập gồm 5 hình vuông 3x3. Điền các số từ 1 đến 9 vào 9 ô a, b, c, d, e, f, m, n, p của hình vuông trung tâm sao cho trong mỗi hàng, mỗi cột của hình chữ thập các số từ 1 đến 9 được xuất hiện không quá một lần và thỏa mãn các số trong 4 cặp (1, 8) (2, 4) (3, 5) (6, 7) khi điền đều có chung cạnh với nhau.
+Hướng dẫn:
+Xét 3 hàng ngang và 3 cột dọc đều chứa 9 ô vuông 1x1 của hình chữ thập.
+Bước 1: Xét cặp số (3, 5) cần điền có chung cạnh với nhau.
+Do số 5 đã có ở hai hàng trên cùng nên số 5 cần điền là một trong các ô thuộc (m,n.p). (1)
+Do số 3 đã có ở hàng và cột giữa, cặp (3, 5) khi điền chung cạnh nên kết hợp (1) thì n = 5.
+Bước 2: Xét cặp số (6, 7) cần điền có chung cạnh với nhau.
+Do số 7 đã có ở hai cột bên phải nên số 7 cần điền là một trong các ô thuộc (a,d,m). (2)
+Do số 6 đã có ở hàng và cột giữa, cặp (6, 7) khi điền chung cạnh nên kết hợp (2) thì d=7.
+Bước 3: Xét cặp số (1, 8) cần điền có chung cạnh với nhau.
+Do số 8 đã có ở hai cột bên phải nên số 8 cần điền là 1 trong các ô thuộc (a,d,m), kết hợp với cặp (1, 8) cần điền có chung cạnh với nhau suy ra a = 8 và b = 1.
+Từ n = 5 ; d = 7; a = 8; b = 1 và các số trong các cặp (6, 7); (3, 5) khi điền có chung cạnh với nhau suy ra m = 6 ; p = 3.
+Bước 4: Xét cặp (2, 4) cần điền có chung cạnh với nhau.
+Do số 2 đã có ở cột ngoài cùng bên phải và a = 8; b =1; d = 7; m = 6; n = 5;
+p = 3 nên số 2 cần điền là e = 2 kết hợp cặp (2, 4) cần điền có chung cạnh suy ra f = 4. Từ đó ô còn lại c = 9.
+Kết luận: Ta có thể điền đầy đủ 9 số để có kết quả sau đây:
+ 

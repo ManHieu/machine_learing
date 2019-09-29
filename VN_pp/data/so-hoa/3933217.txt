@@ -1,0 +1,13 @@
+TITLE: iOS 13 trình làng có gì mới: dark mode, tăng tốc độ - VnExpress Số Hóa
+
+KEY WORDS: iOS 13, Apple
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+iOS 13 mới cho iPhone và iPad đã được Apple công bố tại Hội nghị Các nhà phát triển toàn cầu WWDC 2019 diễn ra tại San Jose (Mỹ) hôm nay. Phiên bản mới tập trung cải thiện hiệu suất với thời gian mở ứng dụng rút còn bằng nửa so với hiện nay, các ứng dụng và cập nhật nhỏ hơn khoảng 50%.
+Dark mode trên iOS 13.
+iOS 13 được bổ sung Chế độ tối (dark mode), cho phép hiển thị với nền đen và chữ trắng, tối ưu hóa pin, nhất là với dòng iPhone XS, XS Max dùng màn hình OLED. Dark mode hoạt động ở cấp độ hệ thống, tức là toàn bộ ứng dụng của Apple đều hỗ trợ và người dùng có thể bật hoặc tắt cùng lúc. Các phần mềm của bên thứ ba mà thiết kế theo chuẩn của Apple cũng sẽ hỗ trợ dark mode như ứng dụng của hãng.
+Các tính năng được Apple thêm vào hệ điều hành mới còn có nhãn Memoji trong phần Tin nhắn, bàn phím dạng vuốt trượt để nhập liệu hay cải thiện độ chính xác và chi tiết cho ứng dụng Apple Maps.
+Hãng công nghệ Mỹ dự kiến phát hành chính thức iOS 13 vào tháng 9 khi giới thiệu những mẫu iPhone thế hệ tiếp theo. Trong khi đó chương trình beta cho phần mềm mới có thể bắt đầu trong tháng này.
+Bảo Anh (theo Apple Insider)

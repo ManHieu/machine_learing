@@ -1,0 +1,16 @@
+TITLE: Hướng dẫn cài ứng dụng Google lên Huawei Mate 30 Pro - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Mate 30 pro, Google
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+"Sau khi cài đặt Google Services Framework, Mate 30 Pro chạy giống như mọi điện thoại Android khác", trang 9to5Google nhận xét. Theo đó, chiếc điện thoại mới của Huawei có thể cài đặt các ứng dụng phổ biến như Play Store, Gmail, YouTube, Maps, Drive hay thậm chí cả trợ lý Google và sử dụng một cách bình thường. Tổng thời gian cài đặt mất khoảng 10 phút.
+Cách làm được 9to5Google tiến hành là sử dụng một dịch vụ có tên LZPlay. Sau khi truy cập website của dịch vụ này, chiếc Mate 30 Pro sẽ được tải về các file đuôi apk chứa bộ công cụ Google Services Framework và cả ứng dụng Play Store. Sau khi cài đặt xong, người dùng chỉ cần khởi động lại thiết bị, sau đó đăng nhập vào Play Store và tải các ứng dụng Google cần thiết.
+Theo Androidcentral, các ứng dụng có thể hoạt động bình thường, ngoại trừ một số ứng dụng yêu cầu bảo mật cao như Google Pay hay Service Assistant. Trong khi đó, trợ lý Google Assistant thì bị hạn chế ở việc không thể gọi bằng khẩu lệnh "Hey Google" như các sản phẩm khác. Trang này cũng khuyến cáo người dùng nên cân nhắc trước khi tiến hành, bởi LZPlay vốn là một công cụ đến từ Trung Quốc, với nguồn gốc không rõ ràng nên không ai có thể đảm bảo về tính an toàn của nó.
+ 
+ 
+Có thể cài ứng dụng Google lên Huawei Mate 30 Pro
+Cách cài đặt các ứng dụng Google lên Huawei Mate 30 Pro. Nguồn: 9to5Google
+Trước đó, đại diện Huawei từng cho biết bộ đôi Mate 30 và Mate 30 Pro có thể được cài đặt thêm các ứng dụng từ Google, mặc dù người này không chia sẻ cách thức hiện chi tiết bởi có thể dẫn tới vi phạm quy định. Trong buổi lễ ra mắt, hãng điện thoại Trung Quốc cũng giới thiệu đến người dùng ứng dụng Huawei App Gallery và bộ công cụ Huawei Mobile Services hứa hẹn có thể thay thế cho các dịch vụ Google. CEO Huawei vẫn kỳ vọng vào việc nối lại hợp tác với Google, nhưng cũng tự tin rằng ngay cả trong tình huống xấu nhất, sản phẩm vẫn sẽ bán tốt với doanh số có thể lên tới 20 triệu.
+Lưu Quý

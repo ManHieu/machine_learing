@@ -1,0 +1,16 @@
+TITLE: Ngành công nghiệp 'cày view' ảo bùng nổ tại Trung Quốc - VnExpress Số Hóa
+
+KEY WORDS: click farm, cày view ảo, smartphone
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Trung Quốc là thị trường smartphone lớn nhất thế giới với hơn 800 triệu người dùng, hình thành nên mô hình kinh doanh độc đáo - click farm - với các công cụ "cày cuốc" chính là smartphone. Theo Yahoo Finance, các "trang trại cày view ảo" đang trở thành một ngành công nghiệp trên Internet, lũng đoạn thị trường quảng cáo trực tuyến trị giá 50 tỷ USD của Trung Quốc.
+Trong những "trang trại" này là hàng nghìn điện thoại Android và iOS - được xếp thành dãy trên các giá, được cắm sạc và lập trình để tìm kiếm, click và tải đi tải lại một ứng dụng nhất định. Mục đích để cải thiện kết quả tìm kiếm và tăng thứ hạng của phần mềm trên các kho ứng dụng.
+"Cày view" ảo đang trở thành một lĩnh vực kinh doanh ở Trung Quốc. Ảnh: SCMP.
+Khi một nền kinh tế số bị ám ảnh bởi các chỉ số traffic, các trang trại "cày view" không chỉ đóng vai trò quảng bá cho các ứng dụng nữa. Mọi người bắt đầu sử dụng nó để tăng số lượt xem cho các bài viết, video nhằm thu hút nhà quảng cáo hay được ưu tiên hiển thị trong kết quả tìm kiếm trên các nền tảng thương mại điện tử.
+Các smartphone được cài đặt để thực hiện các thao tác tự nhiên như một người dùng thật, như tìm kiếm các từ khóa nhất định, bấm vào ứng dụng, tải xuống và thậm chí viết bình luận, đánh giá tích cực cho ứng dụng đó.
+Thiết lập một trang trại "cày view" đòi hỏi đầu tư cả về phần cứng và phần mềm. Mua hàng trăm chiếc iPhone, dù là hàng đã qua sử dụng, cũng không hề rẻ. Họ còn phải triển khai máy chủ và phần mềm để hack vào hệ thống kho ứng dụng. Một khoản tốn kém khác là mua Apple ID uy tín vì chúng được chấm điểm cao hơn so với một tài khoản mới lập.
+Ở Trung Quốc, click farm hoạt động bất hợp pháp và luôn có nguy cơ bị phát hiện và bị chặn bởi các kho ứng dụng như Apple. Tuy nhiên, những trang trại như thế vẫn tồn tại nhiều ở Thẩm Quyến. Với các "chủ trại", đây là cuộc chiến không hồi kết với thuật toán liên tục được thay đổi, cải tiến của Apple. Trong một quảng cáo trên mạng, một người vận hành click farm tuyên bố đã cập nhật chương trình của mình để qua mặt Apple sau khi hãng này triển khai các công cụ phân loại lượt tải thật và ảo.
+Trên các ứng dụng chat như QQ và WeChat, người dùng cũng lập các nhóm chat nhằm kêu gọi tham gia tải xuống và đánh giá một ứng dụng nào đó để được trả tiền. Chi phí trả cho người dùng thật như vậy thường cao hơn các dịch vụ click farm. Tuy nhiên, click farm vẫn được nhiều nhà phát triển ứng dụng và nhà sản xuất nội dung lựa chọn bởi nó hiệu quả nhanh, chi phí thấp và dễ dàng đưa sản phẩm của mình "lên top" trong thời gian ngắn. 
+Châu An

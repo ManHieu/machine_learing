@@ -1,0 +1,12 @@
+TITLE: Hacker tấn công qua Bluetooth - VnExpress Số Hóa
+
+KEY WORDS: Hacker, Bluetooth
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Các nhà nghiên cứu tại Trung tâm An toàn Thông tin CISPA đã xác định lỗ hổng bảo mật liên quan đến mã hóa trên các kết nối Bluetooth BR/EDR và đặt tên là KNOB. Theo The Verge, cuộc tấn công được thực hiện trong quá trình hai thiết bị ghép nối Bluetooth và các tin tặc sẽ xen vào giữa quá trình đó, để yêu cầu hai thiết bị cung cấp khóa mã hóa ngắn với mức độ bảo mật thấp, sau đó tìm cách truy ra mật khẩu và xâm nhập vào hệ thống.
+Cuộc tấn công KNOB xảy ra do sai sót trong thông số kỹ thuật Bluetooth. Do đó, hàng tỷ thiết bị Bluetooth tuân thủ tiêu chuẩn này đều có thể bị tổn thương. Các nhà nghiên cứu cho biết đã tiến hành thử nghiệm cuộc tấn công KNOB trên hơn 17 chip Bluetooth, đến từ các nhà sản xuất Broadcom, Qualcomm, Apple, Intel và Chicony. "Tất cả thiết bị mà chúng tôi đã thử nghiệm đều dễ bị tấn công KNOB", một nhà nghiên cứu nói.
+Vào tháng 11/2018, lỗ hổng đã được báo cáo chi tiết cho Tổ chức tiêu chuẩn Bluetooth Special Group (Bluetooth SIG). Sau đó, một số nhà cung cấp như Microsoft, Google, Cisco, Apple và BlackBerry đã thực hiện các giải pháp vá lỗ hổng trên thiết bị của họ. "Nếu thiết bị của người dùng không được cập nhật sau cuối năm 2018, sẽ có khả năng dễ bị theo dõi", các nhà nghiên cứu cho biết trong một bài báo.
+Theo The Verge, mọi người sử dụng thiết bị Bluetooth không cần phải quá lo lắng. Để thực hiện cuộc tấn công KNOB, một hacker sẽ phải có mặt trong quá trình kết nối giữa hai thiết bị Bluetooth, chặn đường truyền ban đầu của mỗi thiết bị khi thiết lập khóa mã hóa trong một khoảng thời gian rất ngắn. Nếu một trong hai thiết bị không có lỗ hổng thì cuộc tấn công sẽ thất bại.
+Ngọc Bình (theo The Verge)

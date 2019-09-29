@@ -1,0 +1,25 @@
+TITLE: Tại sao smartphone sạc pin chậm - VnExpress Số Hóa
+
+KEY WORDS: Pin, điện thoại, sạc pin
+
+TOPIC: số hóa, kinh nghiệm
+
+CONTENT: 
+Khi mới mua về, điện thoại có thời gian sạc đầy từ 0 lên 100% chỉ khoảng 1-3 tiếng đồng hồ tùy dung lượng pin và thông số của sạc. Tuy nhiên, sau quá trình sử dụng, nhiều người phát hiện ra thời gian sạc đầy pin ngày càng tăng, thậm chí có những ngày cắm qua đêm mà pin không nổi 100%.
+Nhiều người dùng cắm sạc qua đêm nhưng pin vẫn không đầy. Ảnh: NewsTech24h.
+Dưới đây là 5 nguyên nhân khiến pin sạc lâu, trong đó có những nguyên nhân mà ít người nghĩ tới nhưng lại thường xuyên xảy ra.
+Chất lượng của phụ kiện
+Đây là điều nhiều người nghĩ đến đầu tiên khi thấy điện thoại sạc chậm. Phụ kiện sạc hiện nay hầu hết gồm phần dây cáp và củ sạc (adapter). Cả 2 bộ phận này đều rất dễ gặp sự cố sau quá trình sử dụng. Với dây cáp, các vấn đề thường gặp là bị gãy, bị xoắn dẫn đến đứt ngầm bên trong. Các đầu cắm cũng có thể bị bám bụi bẩn dẫn đến tiếp xúc và truyền điện kém. Với phần củ sạc, nếu hoạt động trong môi trường điện áp không ổn định hoặc dùng một thời gian dài rất dễ dẫn đến chập cháy bên trong, linh kiện xuống cấp.
+Theo các chuyên gia, người dùng nên thử đổi dây hoặc củ sạc với người thân để kiểm chứng xem đâu là bộ phận cần thay thế. Tình huống xấu nhất - một thành phần hỏng, hãy thay thế bằng phụ kiện chính hãng.
+Cổng sạc
+Nhiều người dùng iPhone từng "tá hỏa" khi phát hiện trong cổng sạc Lightning của mình là cả một đống bụi bẩn. Trong quá trình sử dụng, vụn vải từ túi quần áo cùng với bụi rất dễ tích tụ vào bên trong dẫn đến tiếp xúc sạc kém.
+Không chỉ Lightning, các loại cổng USB Type-C hoặc Micro USB hiện nay cũng đều rất dễ bám bẩn sâu bên trong. Chính vì vậy, khi thấy pin sạc chậm, hoặc theo định kỳ 2-3 tháng, người dùng nên vệ sinh khu vực này bằng một chiếc tăm nhỏ, bàn chải hoặc các món đồ chuyên dụng.
+Các ứng dụng chạy ngầm
+Nhiều ứng dụng chạy ngầm không chỉ khiến pin sạc chậm, mà còn ảnh hưởng đến tuổi thọ pin khi phải vừa sạc, vừa xả liên tục. Biểu hiện dễ thấy là máy bị nóng khi cắm sạc.
+Để tránh điều này, người dùng nên tắt hết ứng dụng trong phần quản lý đa nhiệm. Với smartphone của Apple, hãy thêm bước kiểm tra lại các ứng dụng tự động làm mới trong nền (Cài đặt > Cài đặt chung > Làm mới ứng dụng trong nền). Với Android, người dùng có thể vào phần Cài đặt > Tìm đến mục Pin và theo dõi xem đâu là ứng dụng đang ngốn pin nhiều nhất.
+Tuổi thọ của viên pin
+Pin Li-Ion trên các smartphone hiện nay chỉ có tuổi thọ nhất định. Sau một thời gian sử dụng, pin này dần bị chai, dẫn đến dung lượng giảm dần. Ngoài ra, các thành phần hóa học bị biến đổi cũng dẫn đến việc lưu điện kém, khiến pin sạc chậm.
+Theo các chuyên gia, nếu thử kiểm tra hết các yếu tố ở trên mà vẫn không tìm ra nguyên nhân gây sạc chậm, hãy mang điện thoại đến trung tâm sửa chữa để được kiểm tra về chất lượng pin.
+Cách sử dụng
+Việc vừa dùng máy, vừa sạc pin sẽ kéo dài đáng kể thời gian sạc, đặc biệt là các ứng dụng "ngốn" pin như Facebook hoặc các game có đồ họa nặng. Người dùng cần giảm bớt các kết nối như Bluetooth, 4G, Wi-Fi, đồng thời đóng hết ứng dụng đang chạy để sạc pin được nhanh nhất.
+Lưu Quý

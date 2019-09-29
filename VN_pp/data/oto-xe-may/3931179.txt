@@ -1,0 +1,30 @@
+TITLE: Ứng dụng My Peugeot cho chủ xe Peugeot 3008 và 5008 - VnExpress
+
+KEY WORDS: Ứng dụng My Peugeot, Peugeot 3008, Peugeot 5008
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Nối tiếp chính sách 5 năm bảo hành chính hãng và hỗ trợ phương tiện đi lại khi khách hàng mang xe đi kiểm tra, bảo dưỡng, sửa chữa, Peugeot Việt Nam chính thức triển khai My Peugeot - ứng dụng di động dành cho Peugeot 3008 và Peugeot 5008.
+Ứng dụng không chỉ cung cấp thông tin dịch vụ nhanh chóng, thiết thực mà còn là công cụ để đại lý kết nối, tương tác với khách hàng. Ngoài ra My Peugeot cũng là kênh truyền tải thông tin đến khách hàng hiệu quả, góp phần gia tăng chất lượng hoạt động dịch vụ sau bán hàng của Peugeot Việt Nam.
+Giao diện ứng dụng My Peugeot.
+Đặt hẹn dịch vụ
+Khách hàng sẽ được ưu tiên phục vụ, rút ngắn thời gian chờ đợi bằng việc đặt hẹn trước khi vào xưởng với vài thao tác trên ứng dụng My Peugeot.
+Khách hàng chọn mục "Đặt hẹn dịch vụ" trên giao diện trang chính, sau đó chọn showroom muốn thực hiện bảo dưỡng, sửa chữa, chọn gói dịch vụ, thêm yêu cầu, chọn thời gian và nhập thông tin liên hệ. Ngoài ra, khách hàng có thể tra cứu lịch sử sửa chữa, tham khảo bảng giá dịch vụ bảo dưỡng, đánh giá chất lượng dịch vụ và thêm showroom vào danh sách yêu thích.
+Sổ bảo hành điện tử
+Tính năng này cung cấp mọi thông tin về xe, điều kiện và điều khoản bảo hành, chính sách bảo hành xe mới và bảo hành phụ tùng thay thế. Tất cả thông tin được trình bày chi tiết giúp khách hàng nắm các thông số như số khung, số máy, ngày bắt đầu bảo hành...
+Các thông tin về phạm vi áp dụng, thời hạn bảo hành, chi tiết được hoặc không được bảo hành cũng như trách nhiệm của chủ xe được liệt kê rõ ràng.
+Ứng dụng My Peugeot có thể tải về thông qua chợ ứng dụng Play Store hoặc App Store.
+Hướng dẫn sử dụng xe
+Hướng dẫn sử dụng được minh họa trực quan bằng hình ảnh, giúp người lái dễ dàng nắm bắt được cách vận hành xe. Đơn cử, khi bấm chọn xem gương chiếu hậu, các thông tin về chức năng cũng như cách sử dụng sẽ hiển thị kèm với hình ảnh để khách hàng tiện thao tác. Để xem hướng dẫn sử dụng, khách hàng chỉ cần bấm chọn chức năng "Tài liệu hướng dẫn sử dụng" từ màn hình trang chủ, sau đó chọn xem vị trí mình muốn.
+Gợi ý xử lý đèn hoặc lời nhắn cảnh báo
+Khách hàng có thể tìm kiếm và truy cập nhanh các thông tin hướng dẫn xử lý tương ứng với các đèn hoặc lời nhắn cảnh báo, chỉ báo hiển thị trong quá trình vận hành xe.
+Tương tự khi truy cập "Sổ bảo hành điện tử", khách hàng chỉ cần chọn chức năng "Đèn tín hiệu cảnh báo", các nội dung chi tiết sẽ hiển thị trên màn hình bao gồm từng loại đèn cảnh báo, chỉ báo, cách vận hành và lưu ý cho khách hàng trong quá trình sử dụng xe.
+Peugeot 3008 thế hệ mới mang diện mạo khác biệt, một chiếc SUV rộng rãi với 7 chỗ ngồi.
+Thông tin dịch vụ
+Tính năng này cung cấp cho khách hàng những thông tin gồm: quản lý lịch hẹn dịch vụ, lịch sử bảo hành, bảo dưỡng, đánh giá chất lượng dịch vụ của các lần vào làm dịch vụ, tham khảo bảng giá dịch vụ các gói bảo dưỡng. Ngoài ra, nếu có thắc mắc, chủ xe chỉ cần chọn mục hotline chăm sóc khách hàng (19001101).
+Hệ thống đại lý
+Khách hàng có thể gọi điện thoại theo số hotline của từng showroom, đặt hẹn qua ứng dụng để được tư vấn kỹ thuật hoặc cứu hộ. Nếu khách hàng có nhu cầu đến trực tiếp các phòng trưng bày, ứng dụng sẽ tự động tìm kiếm chỉ gần nhất qua bản đồ Google Map.
+Ngoài các tính năng chính như trên, My Peugeot App còn tự động gửi thông báo về tình trạng lịch hẹn dịch vụ. Bên cạnh đó, các tin tức, sự kiện ưu đãi, chương trình CSKH của các đại lý Peugeot và Peugeot Việt Nam cũng sẽ được cập nhật liên tục.
+Ứng dụng hiện có hai phiên bản Android và iOS. Để đăng nhập ứng dụng, người dùng nhập số biển số xe hoặc 8 ký tự cuối của số VIN. Sau đó chọn cách thức xác thực để hệ thống gửi mã xác thực về điện thoại và nhập mã xác thực vào ô xác thực tài khoản.
+Bảo An 

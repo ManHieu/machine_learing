@@ -1,0 +1,18 @@
+TITLE: Cảnh sát Trung Quốc nhận diện tội phạm qua phân tích dáng đi
+
+KEY WORDS: dáng đi, Trung Quốc, nhận diện khuôn mặt, nhận diện, công nghệ, cảnh sát, startup
+
+TOPIC: vnexpress, pháp luật
+
+CONTENT: 
+ 
+ 
+Cảnh sát Trung Quốc nhận diện tội phạm qua phân tích dáng đi
+Video: Next Media.
+Dailymail đưa tin, một nghiên cứu của đại học Southampton ở Anh chỉ ra rằng dáng đi là đặc trưng của mỗi người. Vì thế mà bên cạnh công nghệ nhận diện khuôn mặt, cảnh sát ở các thành phố lớn của Trung Quốc bắt đầu có xu hướng sử dụng ứng dụng công nghệ nhận diện dáng đi.
+Watrix - phần mềm phát triển công nghệ nhận diện dáng đi - đã ứng dụng trí thông minh nhân tạo để phân tích hàng nghìn chi tiết trong dáng đi của một người, bao gồm đường nét của cơ thể, độ dài sải chân, góc của cánh tay khi di chuyển, gót chân hướng vào trong hay ra ngoài... Từ đó, phần mềm sẽ trích xuất hình cắt bóng của người này, đưa vào cơ sở dữ liệu để so sánh.
+Phần mềm trích xuất hình của người cần xác định và nhập vào cơ sở dữ liệu. Ảnh: SMCP.
+Phần mềm Watrix có thể nhận diện được một người từ khoảng cách 50 m, kể cả khi họ che mặt hoặc quay lưng về phía camera. Đây là ưu điểm so với công nghệ nhận diện khuôn mặt vì không cần thiết đối tượng phải hợp tác.
+Watrix đã được cảnh sát thử nghiệm ở Bắc Kinh, Thượng Hải, và Trùng Khánh từ năm 2018. Công nghệ này phân tích toàn bộ cơ thể người khi đánh giá dáng đi nên tội phạm dù có cải trang hoặc giả vờ bị tật cũng không thể dễ dàng qua mặt được nhà chức trách. Hiệu quả nhận diện cũng sẽ được cải thiện nếu kết hợp cả hai công nghệ nhận diện dáng đi và nhận diện khuôn mặt, SCMP đưa tin.
+Huang Yongzhen, đồng sáng lập và tổng giám đốc điều hành của Watrix cho biết công ty đang hỗ trợ cảnh sát trong công tác điều tra tội phạm, chẳng hạn giúp truy tìm đường đi của nghi phạm từ hiện trường vụ cướp tài sản. Vị này tiết lộ hệ thống của Watrix hiện lưu lại dữ liệu dáng đi của một phần trong 300.000 tội phạm trốn truy nã của Trung Quốc.
+Bên cạnh mục đích giám sát, công nghệ nhận diện dáng đi cũng có thể được dùng để phát hiện người cần trợ giúp, ví dụ cụ ông cao tuổi bị ngã và ngất trên đường. 

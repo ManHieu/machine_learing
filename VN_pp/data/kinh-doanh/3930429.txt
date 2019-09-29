@@ -1,0 +1,18 @@
+TITLE: 76 triệu thẻ ATM sẵn sàng chuyển đổi sang thẻ chip - VnExpress Kinh Doanh
+
+KEY WORDS: thẻ chip nội địa, chuyển đổi thẻ atm sang thẻ chip, đánh cắp thông tin thẻ
+
+TOPIC: kinh doanh, ebank, thanh toán điện tử
+
+CONTENT: 
+Những chiếc thẻ chip nội địa theo chuẩn EMV đầu tiên của Việt Nam vừa chính thức được ra mắt hôm nay (ngày 28/5). 7 ngân hàng đầu tiên sẵn sàng triển khai loại thẻ này và công bố ra mắt trong đợt đầu tiên gồm Vietcombank, BIDV, Vietinbank, Agribank, TPBank, Sacombank, ABBank đã sẵn sàng chuyển đổi từ thẻ từ sang thẻ chip. Đây cũng là các ngân hàng đang nắm khoảng 70% thị phần thẻ nội địa của Việt Nam.
+Trao đổi với VnExpress, lãnh đạo các ngân hàng tham gia chuyển đổi sang thẻ chip trong đợt đầu này cho biết sẽ miễn phí chi phí chuyển đổi cho khách hàng. Theo tính toán, chi phí chuyển đổi một thẻ từ sang thẻ chip 1-2 USD. Theo các ngân hàng, khó khăn không nằm ở chi phí để mua phôi thẻ mà nằm ở việc hệ thống công nghệ của từng nhà băng có sẵn sàng để đáp ứng hay không.
+Thẻ ghi nợ nội địa của VIệt Nam sẽ được chuyển đổi sang thẻ chip để tăng tính bảo mật và ứng dụng. Ảnh: Anh Tú.
+Theo kế hoạch, chậm nhất đến cuối năm 2021, toàn bộ thẻ từ nội địa đang lưu hành sẽ phải được chuyển đổi về thẻ chip. Toàn bộ ATM và POS trên thị trường cũng phải tuân thủ tiêu chuẩn vào cuối năm 2020 để đáp ứng yêu cầu này.
+Tại Việt Nam, hầu hết thẻ nội địa vẫn là thẻ từ, với đặc tính dễ sao chép, kém an toàn và bảo mật. Chính vì vẫn sử dụng thẻ từ, dễ bị đánh cắp thông tin mà vài năm gần đây, Việt Nam xảy ra nhiều vụ chủ tài khoản bị kẻ gian rút trộm tiền bằng thẻ giả với chiêu skimming.
+Thẻ chip nội địa đáp ứng các yêu cầu kỹ thuật về an toàn, bảo mật theo tiêu chuẩn quốc tế EMV. Chia sẻ tại buổi ra mắt, Phó thống đốc Nguyễn Kim Anh kỳ vọng việc áp dụng thẻ chip sẽ giúp Việt Nam ra khỏi "vùng trũng của tội phạm thẻ", hạn chế được các rủi ro liên quan tới sao chép thông tin thẻ vừa qua.
+Theo ông Phạm Tiến Dũng - Vụ trưởng Thanh toán Ngân hàng Nhà nước, ngoài hạn chế rủi ro về ăn cắp và giả mạo thông tin với thẻ từ trước đây, thẻ chip có khả năng lưu trữ thông tin lớn và có thể giúp Việt Nam ứng dụng vào các lĩnh vực khác như thanh toán trong bảo hiểm, giao thông, thanh toán các dịch vụ công... như ở một số nước phát triển.
+Việt Nam hiện có 48 ngân hàng phát hành thẻ nội địa với khoảng 76 triệu thẻ, hơn 261.000 POS và 18.600 ATM. Phần lớn POS đã tuân theo chuẩn EMV nên việc chuyển đổi này được đánh giá không ảnh hưởng tới các giao dịch thanh toán của người dùng.
+Về phía Napas, đơn vị được Ngân hàng Nhà nước thực hiện việc chuyển đổi này, bà Nguyễn Tú Anh - Chủ tịch HĐQT cho biết Napas đã triển khai chính sách giảm phí dịch vụ chuyển mạch lên đến 80% cho các ngân hàng hoàn thành điều kiện chuyển đổi. Hiện Napas khẳng định đã sẵn sàng nguồn lực về nhân sự và công nghệ để hỗ trợ các ngân hàng. 
+Đơn vị này cũng đang nghiên cứu việc hợp tác với các tổ chức thẻ quốc tế để cùng với các ngân hàng Việt Nam phát hành ra thị trường thẻ đồng thương hiệu (co-badge) giữa thẻ chip nội địa và thẻ chip quốc tế, cho phép khách hàng có thể sử dụng thuận tiện cả trong và ngoài nước. 
+Thanh Thanh Lan

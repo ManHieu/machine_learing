@@ -1,0 +1,15 @@
+TITLE: Vật liệu đen nhất có thể 'nuốt' 99,996% ánh sáng
+
+KEY WORDS: vật liệu đen, kim cương, lớp phủ ống nano carbon, hấp thụ ánh sáng
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Viên kim cương sau khi phủ vật liệu đen. Ảnh: Live Science. 
+Một nhóm nghiên cứu ở Viện Công nghệ Massachusets (MIT) cộng tác với nghệ sĩ Diemut Strebe bao phủ một viên kim cương vàng lấp lánh bằng lớp phủ từ ống nano carbon mới giúp biến vật thể 3D thành màu đen, không phản xạ ánh sáng gần như 100%. Các nhà nghiên cứu mô tả lớp phủ hôm 12/9 trên tạp chí ACS Applied Materials & Interfaces. Theo họ, cấu trúc ống nano này là vật liệu đen nhất từng được tạo ra, hấp thụ 99,996% ánh sáng chiếu tới.
+"Vật liệu của chúng tôi đen hơn 10 lần so với bất cứ vật liệu đen nào từng được giới thiệu", trưởng nhóm nghiên cứu Brian Wardle, giáo sư hàng không học và du hành vũ trụ ở MIT, cho biết.
+Nhóm nghiên cứu tình cờ tạo ra lớp phủ mới trong lúc cố gắng cải tiến quá trình trồng ống nano carbon trên các bề mặt như giấy nhôm. Họ nhận thấy vấn đề khi dùng nhôm là lớp oxit hình thành bất cứ khi nào bề mặt tiếp xúc với không khí, tạo ra rào cản hóa học giữa ống nano và giấy nhôm. Để loại bỏ lớp oxit, các nhà nghiên cứu nhúng giấy nhôm vào nước muối, sau đó cho vào lò nhỏ để ống nano có thể mọc mà không bị ảnh hưởng bởi oxy.
+Với hàng triệu ống nano rải khắp như một rừng lông siêu nhỏ, các photon ánh sáng chiếu tới bị bề mặt giấy nhôm hấp thụ. Giấy nhôm chuyển thành màu đen hoàn toàn, đến mức không thể nhìn thấy màu nhôm khi quan sát trực tiếp.
+Kehang Cui, giáo sư ở Đại học Giao thông Thượng Hải, đồng tác giả nghiên cứu, so sánh độ phản chiếu của lớp phủ mới với các cấu trúc nano hấp thụ ánh sáng khác, bao gồm Vantablack, vật liệu lập kỷ lục đen nhất trước đó. Tuy sự khác biệt giữa các cấu trúc nano rất khó nhận biết bằng mắt thường, các nhà nghiên cứu khẳng định lớp phủ của họ đen hơn hẳn mọi vật liệu màu đen khác, bất kể góc ánh sáng chiếu tới.
+Ví dụ, khi tiếp xúc với lớp phủ, viên kim cương màu vàng dường như mất đi tất cả độ lấp lánh, biến thành một "hố đen" mà không ánh sáng nào có thể thoát khỏi. Trong tương lai, lớp phủ siêu đen này có thể được ứng dụng trên kính viễn vọng để giảm bớt độ chói của những ngôi sao, giúp các nhà thiên văn học quan sát hố đen thực sự.
+An Khang (Theo Live Science) 

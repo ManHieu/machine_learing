@@ -1,0 +1,22 @@
+TITLE: Máy bắn tốc độ hoạt động thế nào - VnExpress
+
+KEY WORDS: ôtô, máy bắn tốc độ ôtô, công nghệ laser
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Cảnh sát sử dụng máy đo tốc độ di động cầm tay là hình ảnh thường thấy trên đường. Thiết bị này được sử dụng rộng rãi bởi cảnh sát giao thông không chỉ ở Việt Nam mà nhiều nước trên thế giới. 
+Máy đo tốc độ được sử dụng phổ biến bởi cảnh sát giao thông trên thế giới. 
+Máy đo tốc độ bắt đầu được sử dụng từ những năm 1960 và sử dụng phim để ghi lại hình ảnh xe. Cho đến những năm đầu 1990, công nghệ kỹ thuật số lên ngôi và duy trì cho đến nay. Có hai công nghệ ứng dụng phổ biến trên máy đo tốc độ của cảnh sát là dùng sóng vô tuyến (radio) và tia laser.
+Máy đo tốc độ bằng sóng radio
+Trên máy đo tốc độ này có một radar hay còn gọi là hệ thống dò tìm và định vị bằng sóng vô tuyến. Radar phát ra một chùm sóng vô tuyến với tần số hoạt động xác định, theo Autoevolution.
+Một cảnh sát sử dụng máy bắn tốc độ cầm tay. 
+Khi một ôtô tiến vào vùng sóng của radar, ngay lập tức một tín hiệu phản xạ điện từ dội lại. Đồng thời tần số sóng radio cũng thay đổi do khoảng cách tương đối giữa radar và xe thay đổi.
+Mức độ tăng hay giảm của tần số sóng radio phụ thuộc vào tốc độ của xe chuyển động trong vùng sóng phát ra từ radar. Nếu tần số tăng, xe đang di chuyển về hướng người cầm máy bắn tốc độ và ngược lại, tần số giảm khi xe di chuyển ra xa người cầm máy. Việc xác định tốc độ của xe dựa vào hiệu ứng vật lý Doppler khi có thể xác định tốc độ chuyển động của một vật nhờ vào sự thay đổi tần số của nguồn sóng phát ra. 
+Máy đo tốc độ bằng tia laser
+Máy đo tốc độ bằng tia laser tính toán thời gian phản hồi của ánh sáng từ lúc phát ra, tiếp xúc với vật thể di chuyển và dội ngược về máy. Loại máy này có thể phát ra chùm sáng trong 0,3-0,7 giây và "khóa" mục tiêu trong phạm vi 800 m. 
+Bằng cách thực hiện thao tác phát ra ánh sáng, thu thập dữ liệu liên tục trong thời gian ngắn, tốc độ của phương tiện đang di chuyển có thể được xác định. 
+Máy xác định tốc độ gắn cố định trên đường phố. 
+Máy đo tốc độ là công cụ hữu hiệu hỗ trợ cho cảnh sát giúp phát hiện những trường hợp lái xe quá tốc độ quy định. Máy có thể được lắp đặt cố định trên đường, trên xe cảnh sát, di động kiểu cầm tay hoặc cảnh sát có thể ngụy trang khi làm nhiệm vụ.
+Phạm Trung  
+Ảnh: Autoevolution 

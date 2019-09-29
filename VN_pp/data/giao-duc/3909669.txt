@@ -1,0 +1,11 @@
+TITLE: Bài toán chu vi trong đề thi IMSO 2018 - VnExpress
+
+KEY WORDS: bài toán, chu vi, đề thi IMSO 2018, thể dục trí não, đố vui toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 34. PERIMETER OF A RECTANGLE
+Problem: A rectangle is divided into 9 smaller portions as shown in the figure below. The perimeter, in cm, of the 5 known portions are also given. Find the perimeter, in cm, of the original rectangle.
+Dịch đề: Chia một hình chữ nhật thành 9 phần nhỏ như hình dưới đây. Chu vi của 5 phần nhỏ đã được cho trong hình. Tính chu vi của hình chữ nhật ban đầu theo cm.
+ 

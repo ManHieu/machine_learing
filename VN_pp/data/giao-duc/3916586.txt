@@ -1,0 +1,11 @@
+TITLE: Bài toán dịch chuyển tối ưu trong đề thi TIMC 2016 - VnExpress
+
+KEY WORDS: bài toán, dịch chuyển tối ưu, đề thi TIMC 2016, thể dục trí não, đố vui toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 36: OPTIMAL RELOCATION
+Problem: ABCDE is a regular pentagon of side length 1 m. There are 5, 15, 14, 9 and 17 students at the vertices A, B, C, D and E respectively. The teacher wants the same number of students at each vertex, so some of the students have to walk to other vertices. They may only walk along the sides. What is the minimum total length, in m, the students have to walk?
+Dịch: Cho ABCDE là ngũ giác đều cạnh 1 m. Có lần lượt 5, 15, 14, 9, 17 em học sinh đứng tại các đỉnh A, B, C, D, E tương ứng. Cô giáo muốn số học sinh đứng tại mỗi đỉnh là như nhau nên một số em phải di chuyển đến các đỉnh khác. Các em chỉ được đi dọc theo các cạnh. Hỏi tổng quãng đường các học sinh phải đi có thể ngắn nhất là bao nhiêu, theo m?
+ 

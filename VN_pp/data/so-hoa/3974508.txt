@@ -1,0 +1,13 @@
+TITLE: Apple xin lỗi vì nghe lén người dùng - VnExpress Số Hóa
+
+KEY WORDS: Apple, Siri, nghe lén người dùng, loa thông minh, quyền riêng tư
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+"Riêng tư là quyền cơ bản của con người. Chúng tôi thiết kế sản phẩm để bảo vệ dữ liệu cá nhân của khách hàng và vẫn liên tục tăng cường những biện pháp bảo vệ đó", Apple cho biết. "Tuy nhiên, chúng tôi xin lỗi vì nhận ra mình chưa hoàn toàn tuân theo lý tưởng cao đẹp đã đề ra".
+Apple thu thập các bản ghi âm qua Siri. Ảnh: Verge.
+Apple giải thích, việc ghi âm và phân tích dữ liệu cá nhân nhằm đánh giá khả năng phản hồi của Siri, nâng cao trải nghiệm người dùng và không chia sẻ cho bất kỳ bên thứ ba nào. Công ty cũng khẳng định "sử dụng dữ liệu ít nhất có thể" nhưng vẫn cung cấp kết quả chính xác. Chẳng hạn, khi người dùng đặt câu hỏi về sự kiện thể thao, Siri sẽ sử dụng vị trí tương đối của người đó dựa trên thiết bị. Nhưng nếu cần địa điểm cụ thể hơn, như cửa hàng tạp hóa, trợ lý ảo sẽ thu thập dữ liệu chi tiết để cung cấp vị trí chính xác hơn.
+Apple cho biết sẽ tiếp tục chương trình mà hãng gọi là "chấm điểm" qua Siri vào mua thu này, nhưng khách hàng có thêm tùy chọn đồng ý hoặc từ chối tham gia. Trong trường hợp từ chối, Apple sẽ không thu thập bất kỳ bản ghi âm nào giữa người đó và trợ lý ảo.
+Cuối tháng trước, báo Guardian đưa tin Apple đã thuê đối tác nghe và đánh giá các ghi âm thu được từ trợ lý ảo, làm dấy lên những lo ngại về quyền riêng tư. Apple sau đó tuyên bố ngừng chương trình nghe lén, đồng thời sẽ cung cấp tùy chọn tắt tính năng ghi âm cho người dùng. Hành động nghe lén của Apple được đánh giá là bất ngờ vì hãng từng nhiều lần chỉ trích Facebook, Google không coi trọng quyền riêng tư của người dùng.
+Bảo Lâm (theo Fox Business)

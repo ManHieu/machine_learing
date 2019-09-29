@@ -1,0 +1,18 @@
+TITLE: Thiết bị phát hiện ung thư qua một giọt máu - VnExpress Sức Khỏe
+
+KEY WORDS: ung thư, chẩn đoán ung thư, ung thư buồng trứng
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Một số loại ung thư như ung thư buồng trứng khó phát hiện sớm, đến khi xuất hiện các triệu chứng thì ở giai đoạn muộn đòi hỏi quá trình điều trị gian nan. Giờ đây, các nhà khoa học phát triển một công cụ tiên tiến có khả năng phát hiện ung thư dễ dàng, nhanh chóng chỉ với một lượng máu rất nhỏ.
+Trong nỗ lực tìm ra cách hiệu quả để xác định các bệnh ung thư khó chẩn đoán, các nhà nghiên cứu từ Đại học Kansas (KU), Trung tâm Ung thư và Trung tâm Y tế ở thành phố Kansas (Mỹ) đã phát triển thiết bị phát hiện ung thư siêu nhạy này.
+Thiết bị được gọi là chip nano vi lỏng 3D (3D nanopatterned microfluidic chip), có thể phát hiện dấu hiệu ung thư bằng một giọt máu hoặc một giọt huyết tương.
+Ảnh: Medical News Today.
+Trên Nature Biomedical Engineering, phó giáo sư Yong Zeng ở KU, tác giả chính của chip nano vi lỏng 3D cho biết thiết bị xác định và chẩn đoán ung thư bằng cách lọc các exosome (các túi rất nhỏ được sản sinh từ một số tế bào có nhân). Đối với tế bào ung thư, exosome chứa các thông tin sinh học có thế dẫn đến sự phát triển và lan rộng của khối u.
+"Trong quá khứ, người ta nghĩ rằng các exosome giống như ‘những túi rác’ mà các tế bào có thể dùng để chứa những chất dư thừa của tế bào. Tuy nhiên, từ thập kỷ trước, giới khoa học đã nhận thấy chúng khá hữu ích trong việc gửi tín hiệu đến các tế bào nhận và truyền đạt thông tin phân tử quan trọng trong nhiều chức năng sinh học", ông Zeng giải thích. 
+"Về cơ bản, khối u hình thành exosome chứa các phân tử hoạt động, phản ánh đặc điểm sinh học của tế bào mẹ. Trong khi tất cả tế bảo sản xuất ra các exosome, tế bào khối u cũng hoạt động hơn so với tế bào bình thường".
+Để phát triển thiết bị tiên tiến này, ông Zeng và nhóm của mình cộng tác với Andrew Godwin, chuyên gia về dấu hiệu sinh học khối u và là phó giám đốc Trung tâm Ung thư Kansas. 
+Các nhà nghiên cứu cho biết con chip nano vi lỏng 3D dễ chế tạo, chi phí sản xuất rẻ, nghĩa là có thể phân phối rộng rãi mà không phát sinh thêm chi phí cho người bệnh. Quan trọng hơn, thiết bị này rất linh động nên trong tương lai các bác sĩ có thể sử dụng nó để chẩn đoán nhiều dạng ung thư khác nhau cũng như những bệnh khác.
+"Hầu hết tế bào động vật có vú đều giải phóng exosome, vì vậy không hạn chế sử dụng thiết bị với bất cứ loại ung thư nào. Chúng tôi đang thử nghiệm thiết bị với các bệnh khác, như thoái hóa thần kinh, ung thư vú, ung thư trực tràng", ông Zeng nói.
+Phương Dương 

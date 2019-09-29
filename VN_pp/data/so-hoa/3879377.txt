@@ -1,0 +1,14 @@
+TITLE: Internet Explorer bị Microsoft khai tử đến cùng - VnExpress Số Hóa
+
+KEY WORDS: Internet Explorer, Edge, Microsoft
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Internet Explorer chạy trên Windows XP. 
+Trong bài đăng trên trang blog chính thức với tiêu đề Những nguy cơ của việc sử dụng Internet Explorer làm trình duyệt mặc định, Microsoft đã nhấn mạnh việc sử dụng IE là điều "hết sức nguy hiểm". Công ty thậm chí không còn gọi Internet Explorer là một trình duyệt web thông thường mà chỉ là một "giải pháp tương thích".
+Microsoft từng nhiều lần cảnh báo người dùng nên chuyển từ IE sang Edge - thế hệ trình duyệt web mới của hãng. Tuy nhiên, đây là lần đầu tiên hãng đưa ra cảnh báo nghiêm trọng như vậy với người dùng. Đầu năm 2018, IE từng gặp sự cố lớn khi bị phát hiện có lỗ hổng bảo mật zero-day. 
+Những cảnh báo của Microsoft thực tế vẫn rất cần thiết khi số người dùng của trình duyệt web này vẫn rất lớn. Internet Explorer đang là trình duyệt web chiếm thị phần lớn thứ hai (hơn 10%), nhiều hơn cả bộ ba Opera, Safari, Edge cộng lại. Trình duyệt đang dẫn đầu là Chrome với 64,63% thị phần, theo Netmarketshare.
+Trình duyệt IE đang được sử dụng nhiều đồng nghĩa với việc nhiều người dùng vẫn phải đối mặt với nguy cơ bị tin tặc tấn công. "Một phần lỗi nằm ở Microsoft khi IE vẫn tồn tại với con số người dùng lớn vào năm 2019", trang Forbes bình luận. 
+Internet Explorer ra đời tháng 8/1995 cùng với Microsoft Plus! dành cho Windows 95 và bản phát hành OEM của Windows 95. Nhóm nghiên cứu Internet Explorer khởi đầu với chỉ khoảng 6 người. Đây là kết quả sau vụ dàn xếp về vấn đề giấy phép giữa Microsoft và Spyglass - một công ty nhỏ đứng sau trình duyệt web Mosaic. Trình duyệt web thay thế cho IE là Edge được Microsoft phát hành lần đầu vào năm 2015.  
+Hoài Anh

@@ -1,0 +1,14 @@
+TITLE: Trí tuệ nhân tạo dự báo khan hiếm nguồn nước
+
+KEY WORDS: trí tuệ nhân tạo, AI, an ninh nguồn nước
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Ảnh minh họa: ST.
+Các chuyên gia của Hiệp hội Nước, Hòa bình và An ninh (WPS) đã phát triển một công cụ trí tuệ nhân tạo (AI) mới có nhiệm vụ theo dõi nguồn cung cấp nước, kết nối những dữ liệu với thông tin kinh tế, xã hội và nhân khẩu học tới những vùng có nguy cơ rủi ro an ninh nguồn nước, từ đó đưa ra cảnh báo và biện pháp để ngăn chặn nguy cơ.
+Theo WPS, cảnh báo của hệ thống AI góp phần tìm hiểu nguyên nhân của các cuộc xung đột liên quan đến nguồn nước trong từng khu vực và đưa ra những biện pháp hỗ trợ. Hệ thống này đã dự đoán chính xác hơn ba phần tư các cuộc xung đột liên quan đến nước ở vùng đồng bằng châu thổ nội địa sông Niger, Mali. Tại đây nguyên nhân của việc mất an ninh nguồn nước là do các yếu tố như bùng nổ dân số, biến đổi khí hậu và nhu cầu kinh tế gia tăng. Hiện nay có khoảng 36% dân số thế giới đang nằm trong vùng khan hiếm nước, trở thành mối đe dọa toàn cầu về an ninh, kinh tế và sinh kế.
+"Chúng tôi mong muốn phát hiện ra những vấn đề về an ninh nguồn nước để có thể tham gia vào quá trình đối thoại giúp giải quyết kịp thời các vấn đề", ông Susanne Schmeimer, Viện giáo dục về tài nguyên nước UNESCO-IHE cho biết.
+Ngoài ra, dữ liệu từ vệ tinh của NASA và Cơ quan Vũ trụ Châu Âu cho phép hệ thống AI được truy cập và giám sát tài nguyên nước trên toàn thế giới. Các dữ liệu từ chính phủ, các cơ quan quốc tế và các tổ chức nghiên cứu áp dụng công nghệ AI cũng được nghiên cứu.
+Giám đốc Charles Iceland Viện Tài nguyên Thế giới cho rằng hệ thống AI có thể xác định các khu vực nước bất thường trong dữ liệu phân tích mà con người không thể phát hiện ra được.Trí thông minh nhân tạo sẽ giúp con người đưa ra một bức tranh đầy đủ hơn về vấn đề an ninh nguồn nước trên toàn cầu.
+Nguyễn Xuân (Theo Earth) 

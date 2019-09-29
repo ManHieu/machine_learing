@@ -1,0 +1,16 @@
+TITLE: 85% Bitcoin của thế giới đã được khai thác - VnExpress Số Hóa
+
+KEY WORDS: Bitcoin, khai thác Bitcoin
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Phần lớn Bitcoin đã được khai thác. Ảnh: Bitcoinisle.
+Theo CoinMarketCap, 17.850.600 Bitcoin đã được các máy đào tiền ảo trên toàn thế giới khai thác (mining) thành công. Như vậy, thế giới chỉ còn khoảng hơn 3 triệu đồng chưa được "đào", cho đến khi tiến dần đến giới hạn 21 triệu Bitcoin.
+Việc giới hạn đồng tiền này ở con số 21 triệu được cho là nhằm tránh lạm phát. Tuy nhiên, trong một email rò rỉ giữa "cha đẻ" Bitcoin là Satoshi Nakamoto và nhà phát triển Mike Hearn năm ngoái, việc giới hạn đồng thời sẽ tăng giá trị đồng tiền ảo này lên theo thời gian.
+Theo StackExchange, những đồng Bitcoin là phần thưởng cho những người tham gia mạng lưới khai thác (miner). Phần mềm quy định khoảng 10 phút sẽ có một khối (block) mới được thêm vào chuỗi khối (blockchain), tương ứng với đó là một lượng Bitcoin nhất định sinh ra. 
+Số Bitcoin đạt được sau mỗi block mới sẽ giảm còn một nửa theo thời gian. Ví dụ, với block đầu tiên sẽ nhận được 50 Bitcoin cho mỗi block mới. Con số này sẽ giảm còn 25 đồng cho mỗi block ở lượt sau và cứ thế giảm về 0. Chu kỳ này sẽ diễn ra trong khoảng 4 năm, tương đương 210.000 block.
+Như vậy, việc "đào" Bitcoin thời gian tới sẽ không hề dễ dàng. Trong năm nay, các "thợ mỏ" sẽ nhận khoảng 12,5 Bitcoin cho mỗi block được khai thác. Với tỷ lệ băm (hash) hiện tại, đến khoảng tháng 5 năm sau, con số trên giảm còn một nửa, tức chỉ còn 6,25 Bitcoin cho mỗi block.
+Theo tính toán, hiện thế giới "đào" khoảng 1.800 Bitcoin mỗi ngày. Toàn bộ 21 triệu Bitcoin sẽ được khai thác hết vào năm 2140.
+Thực tế, lượng Bitcoin đang lưu thông trên thị trường thấp hơn con số 17 triệu rất nhiều. Không ít chủ sở hữu không thể giữ được chúng, chẳng hạn một người vô tình vứt đi chiếc ổ cứng chứa 7.500 đồng vào sọt rác năm 2013, hay các trường hợp mất hoặc quên khóa truy cập riêng (private key). Theo Blockchain Chainalysis, số Bitcoin biến mất vĩnh viễn đã lên tới 4 triệu đồng, tương đương 20% tổng nguồn cung.
+Bảo Lâm (theo TNW)

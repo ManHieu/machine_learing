@@ -1,0 +1,16 @@
+TITLE: Sudoku Việt Nam ba phút điền chín số - VnExpress
+
+KEY WORDS: sudoku, sudoku Việt Nam, điền số
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Sudoku khởi nguồn từ nhà Toán học Euler với hình vuông La tinh điền các số từ 1 đến 9 vào 81 ô vuông 1x1 của hình vuông 9x9 sao cho trong mỗi hàng, mỗi cột các số được xuất hiện đúng một lần. Khi du nhập vào Nhật Bản, Nhà xuất bản Nikoli đổi tên nó thành Sudoku (con số độc nhất).
+Tháng 11/2004, Wayne Gould (một cựu thẩm phán người Anh ở Hong Kong) đã giới thiệu Sudoku trên tờ báo Times. Từ đó Sudoku đã tạo nên một cơn sốt ở Anh rồi lan tỏa khắp toàn cầu.
+Sudoku quốc tế là trò chơi cho trước 20 đến 30 số trong 81 ô vuông 1x1 của hình vuông 9x9 và điền các số từ 1 đến 9 vào các ô còn lại sao cho trong mỗi hàng, mỗi cột và 9 hình vuông chính 3x3 (8 hình ở 4 góc, 1 hình trung tâm) các số từ 1 đến 9 xuất hiện đúng một lần.
+Năm 2005, Nhà toán học Bertram Felgenhguer đã tính được số các khả năng xếp Sudoku quốc tế là 6.670.903.752.021.072.936.960
+Năm 2006, Đài Truyền hình kỹ thuật số VTC đã giới thiệu Gameshow Thần đồng Đất Việt với trò chơi Thách thức trí tuệ là Sudoku Việt Nam điền 4 trong 9 số của hình vuông trung tâm thỏa mãn thêm một điều kiện toán học.
+Nếu như Sudoku quốc tế dùng để giết thời gian trống cho bớt vô nghĩa (có thể mất đến vài ngày) thì vẻ đẹp của Sudoku Việt Nam là phân biệt chỉ số IQ chỉ trong 3 phút.
+Dưới đây là một đề bài Sudoku Việt Nam:
+Cho trước một hình chữ thập gồm 5 hình vuông 3x3. Điền các số từ 1 đến 9 vào 9 ô a, b, c, d, e, f, m, n, p của hình vuông trung tâm sao cho trong mỗi hàng, mỗi cột của hình chữ thập các số từ 1 đến 9 được xuất hiện không quá một lần và thỏa mãn các số trong 4 cặp (1, 8) (2, 4) (3, 5) (6, 7) khi điền đều có chung cạnh với nhau.
+ 

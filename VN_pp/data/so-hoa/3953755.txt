@@ -1,0 +1,13 @@
+TITLE: MacBook Air 2019 dùng ổ SSD có tốc độ đọc chậm hơn 35% so với MacBook Air 2019 2018 - VnExpress Số Hóa
+
+KEY WORDS: Apple MacBook Air 2019, Apple, tốc độ ổ cứng, SSD
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+MacBook Air 2019 được Apple ra mắt bất ngờ vào tuần trước với nâng cấp nhẹ, bổ sung màn hình TrueTone và giá bán rẻ hơn model ra mắt năm ngoái. Tuy nhiên, thử nghiệm của Consomac (Pháp) cho thấy, máy được trang bị ổ cứng SSD với tốc độ đọc chậm hơn.
+Tốc độ đọc (bên phải) và ghi (bên trái) của SSD MacBook Air 2019.
+Bằng phần mềm Blackmagic Disk Speed Test, thử nghiệm cho thấy MacBook Air 2019 đạt tốc độ đọc 1,3 GB/giây, ghi 1 GB/giây. Trong khi đó, MacBook Air 2018 dùng SSD 256 GB cho tốc độ đọc 2 GB/giây, ghi 0,9 GB/giây. Như vậy, tốc độ ghi của MacBook mới cao hơn một chút so với đời cũ, nhưng đọc chậm hơn tới 35%, tới 0,7 GB/giây.
+Theo 9to5mac, việc trang bị SSD có tốc độ đọc chậm có thể liên quan đến giá bán của MacBook Air 2019. Công ty đã hạ 100 USD (khởi điểm 1.099 USD) so với phiên bản 2018 và thậm chí giảm thêm 100 USD nữa nếu người mua là học sinh, sinh viên. Do đó, việc đưa vào linh kiện có tốc độ chậm hơn để tiết kiệm chi phí là điều dễ hiểu.
+Sự đánh đổi này cũng được cho là đúng đắn, bởi giá bán mới sẽ thu hút nhiều người mua hơn. Thực tế, với tốc độ đọc lên tới 1,3 GB/giây, không nhiều người dùng cảm thấy sự thay đổi bởi nó vẫn khá nhanh. Ngoài ra, SSD chậm hơn 35% không có nghĩa là hiệu suất tổng thể sẽ mất 35%, bởi nó còn liên quan đến CPU, GPU và RAM.
+Bảo Lâm (theo 9to5mac)

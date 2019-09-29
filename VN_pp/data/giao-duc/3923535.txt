@@ -1,0 +1,12 @@
+TITLE: Bài toán chuyển động nhiều thành phần trong TIMC 2016 - VnExpress
+
+KEY WORDS: bài toán chuyển động, nhiều thành phần, TIMC 2016, đố vui, toán học, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Để trợ giúp phụ huynh có con dự thi vào lớp 6 trường chuyên, VnExpress trích dẫn một số bài toán quốc tế gần với dạng đề thi của Việt Nam. Dưới đây là bài toán chuyển động tại kỳ thi Toán học trẻ quốc tế năm 2016, tổ chức ở Thái Lan:
+Topic 38. Multi-parted Motion Problems
+Problem: A, B and C run a 200 m race in constant speeds. When A finishes the race, B is 40 m behind A and C is 10 m behind B. When B finishes, C still has to run another 2 seconds. How many seconds does B still have to run when A finishes?
+Dịch đề: A, B và C cùng chạy đua 200 m với vận tốc không đổi. Khi A về đích thì B đang ở sau A 40 m, còn C đang ở sau B 10 m. Khi B về đích thì C phải chạy thêm 2 giây nữa mới tới nơi. Hỏi khi A về đích thì B còn phải chạy thêm bao nhiêu giây?
+ 

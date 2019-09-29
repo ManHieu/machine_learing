@@ -1,0 +1,15 @@
+TITLE: Đường dây phát tán mã độc khiêu dâm kiếm hàng triệu USD - VnExpress Số Hóa
+
+KEY WORDS: mã độc, tống tiền, khiêu dâm
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Zain Qaiser, sinh viên 24 tuổi đến từ London (Anh), đã bị kết án 6,5 năm tù do điều hành đường dây tấn công bằng mã độc tống tiền khiêu dâm. Theo Cơ quan tôi phạm quốc gia Anh (NCA), người này kiếm được ít nhất một triệu USD thông qua các hoạt động lừa đảo và con số thực tế có thể lớn hơn nhiều.
+Một thông báo giả mạo từ cơ quan pháp luật để tống tiền nạn nhân.
+Hoạt động của Qaiser là một phần của nhóm tội phạm có tổ chức tại Nga, trong đó người này chịu trách nhiệm mua các vị trí quảng cáo trên những trang web khiêu dâm. Khi bấm vào quảng cáo, người dùng sẽ bị chuyển hướng tới các trang chứa phần mềm độc hại mà sau đó sẽ khóa máy tính của nạn nhân.
+Mã độc tống tiền sau đó hiển thị thông báo giả mạo từ cơ quan thực thi pháp luật nói đã ghi lại hoạt động vi phạm của nạn nhân. Để được mở khóa, người dùng phải trả tiền chuộc từ 300 đến 1.000 USD.
+NCA phát hiện số tiền mà Qaiser thu được khoảng một triệu USD và mạng lưới của người này có thể kiếm được bốn triệu USD, được "rửa" thông qua một loạt nền tảng tiền điện tử chẳng hạn Bitcoin. Nạn nhân của mã độc tống tiền này trải trên 20 quốc gia khác nhau.
+Qaiser bị bắt vào 7/2014 sau khi một công ty mà người này mua quảng cáo báo với cảnh sát. Công ty này sau đó bị Qaiser tấn công từ chối dịch vụ (DDoS) và chịu thiệt hại hàng trăm nghìn USD. Sau khi bị bắt, kẻ này vẫn tiếp tục điều hành đường dây phát tán mã độc đến 12/2018 thông qua Wi-Fi của bệnh viện.
+Sau thời gian quanh co rằng máy tính của mình bị hack, Qaiser nhận tội với 11 cáo buộc trong đó có tống tiền, lừa đảo, rửa tiền và lạm dụng mạng máy tính.
+Bảo Anh (theo Verge)

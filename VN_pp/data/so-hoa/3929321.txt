@@ -1,0 +1,15 @@
+TITLE: Cảnh sát Mỹ đánh giá thế nào về khả năng bảo mật của smartphone Android với iPhone - VnExpress Số Hóa
+
+KEY WORDS: Smartphone Android, iPhone, bảo mật, cảnh sát Mỹ
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Tháng 1/2019, cảnh sát Mỹ bắt giữ nghi can buôn ma túy Angel Angulo, tịch thu một thiết bị LG chạy Android của tên này (không rõ model) bên trong chiếc Ford Mustang. Thành viên thuộc Cục Kiểm soát rượu, thuốc lá, súng và chất nổ Mỹ (ATF) khi tìm thêm bằng chứng đã tìm cách vượt màn hình khóa smartphone bằng công cụ chuyên dụng nhưng vô ích. Giờ đây, các đặc vụ đang xin gia hạn thời gian mở thiết bị thêm 120 ngày.
+Smartphone Android (bên phải) ngày càng được đánh giá cao về bảo mật so với iPhone (bên trái). Ảnh: The Verge.
+Một nguồn tin từ cơ quan điều tra Mỹ thừa nhận với Forbes, hệ điều hành di động của Google đang ngày càng an toàn và rất khó xâm nhập. Thậm chí, một số chuyên viên phụ trách giải mã thiết bị số lâu năm còn cho rằng iPhone không bảo mật bằng điện thoại Android.
+Vladimir Katalov, CEO công ty an ninh mạng Elcomsoft (Nga), đánh giá cao việc Google ngày càng tăng cường sự an toàn cho Android. "Google, giống như Apple, đã liên tục bổ sung các tính năng bảo mật cho Android. Những năm qua, các bản cập nhật mới của nền tảng này vẫn ưu tiên việc mã hóa tất cả dữ liệu bộ nhớ, cũng như đảm bảo truy cập an toàn với người có mật mã hoặc hình thức xác thực khác như khuôn mặt hoặc vân tay", Katalov nói.
+Một nguồn tin giấu tên thuộc ATF tiết lộ, nếu một công cụ có thể xâm nhập vào hệ thống phòng thủ của iPhone này, nó cũng có thể hack được iPhone hoặc thiết bị iOS khác. Điều tương tự không thể có trên điện thoại Android, do mỗi máy có sự tùy biến khác nhau từ các hãng. "Sự phân mảnh của smartphone Android lúc này lại phát huy tác dụng", người này nhận xét.
+Peter Sommer, giáo sư pháp y kỹ thuật số tại Đại học Birmingham City (Anh), cho biết, điện thoại Android có thể bị phá khóa dễ dàng trong quá khứ. Tuy nhiên, những năm gần đây, Google đã sửa đổi nhiều, tích hợp các tính năng bảo mật mới và nâng cấp thường xuyên khiến việc vượt qua màn hình khóa của chúng trở nên khó khăn hơn.
+Tuy vậy, iPhone vẫn vượt qua Android trong một số trường hợp, chẳng hạn việc mở khóa bằng khuôn mặt. Khi Forbes thử nghiệm việc nhận diện khuôn mặt của điện thoại Android bằng một chiếc đầu in bằng máy in 3D, tất cả đều mở khóa. OnePlus dễ mở nhất, trong khi smartphone Samsung và LG khó hơn một chút. Trong khi đó, điều tương tự không xảy ra trên iPhone.
+Như Phúc

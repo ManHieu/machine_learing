@@ -1,0 +1,18 @@
+TITLE: Đường đua F1: Verstappen xuất phát chậm ở Hockenheim vì lỗi động cơ
+
+KEY WORDS: Verstappen, Hockenheim, Red Bull, F1.,Công thức F1
+
+TOPIC: thể thao, f1, góc kỹ thuật
+
+CONTENT: 
+"Hai chiếc RB15 của Max Verstappen và Pierre Gasly đều có vấn đề lúc xuất phát. Thật đáng sợ", Motosport dẫn lời lãnh đội Red Bull - ông Christian Horner hôm 31/7. "Tôi nghĩ vấn đề nằm ở bản đồ động cơ (engine mapping). Lỗi có thể xuất phát từ những thay đổi của chúng tôi. Điều đó cũng từng khiến Verstappen và Gasly xuất phát chậm ở Grand Prix Áo. Đội sẽ làm việc cùng Honda để giải quyết vấn đề".
+Chiếc RB15 của Red Bull gặp vấn đề với khả năng xuất phát. Ảnh: Motosport.
+Gasly đồng tình: "Đúng là bánh xe bị xoay ngoài tầm kiểm soát. Dù tôi có lên số, tình hình cũng không tiến triển. Tôi thậm chí còn bị xuất phát chậm hơn cả Verstappen mà không hiểu vì sao".
+Bản đồ động cơ là hệ thống dữ liệu thuộc hộp đen (ECU - Electronic control unit). Hộp đen được ví như bộ não, tập hợp dữ liệu từ hàng trăm nghìn bộ phận trên xe, các yếu tố ngoại cảnh cũng như thói quen xử lý của tay đua. Thông số kỹ thuật từ hộp đen được truyền về để các kỹ sư nghiên cứu, kết hợp lại tạo thành một bản đồ chung. Với bản đồ này, máy sẽ cho ra mô-men xoắn (torque) hợp lý nhất với lượng ga tay đua sử dụng trong một hoàn cảnh nhất định. Chẳng hạn như khi cần tăng tốc để ra khỏi góc cua, tay đua phải nhấn ga mạnh để tăng lực mô-men xoắn, làm quay bánh xe nhanh. Nếu một bản đồ gặp vấn đề, khi tay đua nhấn ga, bánh sau có thể quay quá nhanh và bị trượt, lại làm chậm tốc độ xe.
+Ngay từ khi xuất phát ở Hockenheim, hai bánh sau của Verstappen bị trượt đi khiến anh bị Valtteri Bottas và Kimi Raikkonen vượt mặt.
+ 
+ 
+Max Verstappen về nhất tại Đức GP 2019
+Bánh xe của Verstappen (đứng đầu, bên trái) bị trượt khi xuất phát.
+Tại chặng đua nước Áo, Verstappen cũng rơi từ P3 xuống P7 sau vòng một, dù anh nổi tiếng với khả năng xuất phát. Nhưng, trong hai chặng đua Verstappen xuất phát chậm mùa này, anh đều chiến thắng. 
+Xuân Bình (theo Motosport)	

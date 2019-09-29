@@ -1,0 +1,21 @@
+TITLE: Bài toán lật đồng xu trong kỳ thi APMOPS 2006 - VnExpress
+
+KEY WORDS: bài toán, lật đồng xu, kỳ thi APMOPS, đố vui, toán học, thể dục trí não
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Olympic Toán châu Á - Thái Bình Dương (APMOPS) luôn là một trong các kỳ thi có uy tín dành cho học sinh 11-12 tuổi. Vòng 1 được tổ chức tại 13 quốc gia và vòng 2 tại Singapore dành cho học sinh đạt thành tích xuất sắc ở vòng 1. Những năm gần đây, học sinh Việt Nam luôn vào Top 2 các nước dự thi vòng 2.
+Sau đây là một bài thi vòng 1 trong đề thi APMOPS 2006 với thời gian 5 phút.
+Topic 45. COIN FLIPPING
+Problem: There is a row of coins, numbered from 1 to 2006, each with head facing up.
+In the 1st round, coins whose numbers are divisible by 1 are turned over.
+In the 2nd round, coins whose numbers are divisible by 2 are turned over...
+In the 2006th round, coins whose numbers are divisible by 2006 are turned over.
+How many coins will have heads facing up after the 2006th round of turning?
+Dịch đề: Có 2006 đồng xu được đánh số thứ tự từ 1 đến 2006, tất cả đều ngửa.
+Lần thứ 1: Lật mặt tất cả đồng xu có số thứ tự là bội của 1.
+Lần thứ 2: Lật mặt tất cả đồng xu có số thứ tự là bội của 2...
+Lần thứ 2006: Lật mặt tất cả đồng xu có số thứ tự là bội của 2006.
+Hỏi có bao nhiêu đồng xu ngửa sau lần lật thứ 2006?
+Minh Phương 

@@ -1,0 +1,27 @@
+TITLE: Những điểm nhấn công nghệ trên Oppo A9 2020 - VnExpress Số Hóa
+
+KEY WORDS: Oppo, A9, A9 2020
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Nâng cấp hiệu năng 
+Dù A9 2020 thuộc phân khúc tầm trung nhưng Oppo vẫn chú trọng nâng cao hiệu năng. Trang bị vi xử lý Qualcomm Snapdragon 665, RAM 8GB và dung lượng lưu trữ 128GB, máy hỗ trợ tốt người dùng trong các trải nghiệm giải trí với những tựa game 3D yêu cầu độ hoạ cao. Ngoài ra, dung lượng 128GB còn giúp thoải mái lưu trữ game, nhạc hay video.
+Ra mắt tháng 4, Qualcomm Snapdragon 665 64 bit sản xuất trên tiến trình công nghệ LPP 11nm, với 8 nhân Kryo 260 (4 nhân Cortex-A73 2,2GHz và 4 nhân Cortex-A53 1,8GHz), đồ họa Adreno 610, tích hợp modem X12 tốc độ download 600Mbps, upload 150 Mbps. Theo Qualcomm, Snapdragon 665 tăng cường gấp 2 lần về khả năng AI nhờ bộ xử lý tín hiệu kỹ thuật số Hexagon 686 cùng nhiều nâng cấp khác. Bộ xử lý hình ảnh Spectra 165 cho phép chụp ảnh snapshot 48 megapixel, giảm nhiễu đa khung, xử lý nhiễu từng phần, hỗ trợ HDR+ và mở khóa bằng gương mặt 3D.
+Galaxy A9 sở hữu tính năng Game Boost 2.0 giúp tối ưu trải nghiệm chơi game.
+A9 2020 chạy trên nền tảng ColorOS 6 (Android 9), được Oppo tối ưu về hiệu năng và năng lượng. Tính năng Game Boost 2.0 bao gồm Touch Boost và Frame Boost sẽ hỗ trợ game thủ khi chinh chiến các tựa game thi đấu trực tuyến. Frame Boost giúp dự đoán trước tình huống sắp xảy ra trong game để phân bổ nguồn lực, giúp máy xử lý nhanh hơn, hạn chế tình trạng giật lag. Trong khi đó, chế độ Touch Boost giúp xác định và điều hướng các hoạt động chạm trên màn hình chính xác hơn, tăng hiệu suất chạm hơn 16%, cho phép phản ứng nhanh trong khi sử dụng.
+Pin lớn đi kèm tính năng chia sẻ năng lượng
+Thời lượng sử dụng pin cũng cải tiến trên phiên bản A9 mới. Sự kết hợp giữa dung lượng pin 5.000mAh, hệ điều hành ColorOS 6.1 và phần cứng mới giúp A9 2020 phân phối và sử dụng năng lượng hiệu quả. Theo công bố của nhà sản xuất, người dùng có thể trải nghiệm máy trong 20,5 giờ ở tần suất trung bình. Trong khi đó nếu sử dụng sản phẩm liên tục, hoạt động sẽ kéo dài đến 13 giờ.
+Các thiết bị A9 có thể sạc ngược cho nhau thông qua cáp OTG.
+Smartphone mới còn sở hữu công nghệ chia sẻ năng lượng OTG. Công nghệ này cho phép sạc giữa 2 điện thoại Oppo có hỗ trợ với nhau thông qua dây cáp. Trong tình huống cấp bách cần nạp năng lượng, những người bạn cùng sử dụng A9 2020 có thể chia sẻ pin cho nhau qua dây cáp nối.
+Cụm 4 camera
+Nếu chiếc A7 trước đó sở hữu cụm camera kép ở mặt sau thì Oppo A9 2020 nâng gấp đôi con số đó lên. Cụm 4 camera gồm camera chính 48 megapixel, camera góc rộng 119 độ 8 megapixel, camera chân dung đơn sắc 2 megapixel và camera chân dung nghệ thuật 2 megapixel.
+Độ phân giải 48 megapixel cho hình ảnh có độ sắc nét và chi tiết cao. Trong khi đó những tòa nhà cao tầng hay phong cảnh thiên nhiên tối ưu hơn nhờ camera góc rộng 119 độ. Ảnh chân dung tối ưu hóa với khả năng làm mờ hậu cảnh kết hợp giữa AI và cảm biến độ sâu, hỗ trợ thêm ảnh đen trắng cho những ai thích một chút hoài cổ hay yên tĩnh.
+Tính năng chụp ảnh được hãng chú trọng trên thiết bị tầm trung.
+Chế độ "Siêu chụp đêm" Ultra Night Mode 2.0 - cũng góp mặt trên A9 2020 để người dùng dễ dàng chụp ảnh trong điều kiện thiếu sáng. Nếu thích các khoảnh khắc được lưu giữ sinh động hơn, người dùng có thể tận dụng chế độ quay video ở độ phân giải 4K cùng khả năng chống rung. A9 2020 còn trang bị camera selfie độ phân giải 16 megapixel, đi kèm tính năng làm đẹp thông minh AI Beauty đặc trưng.
+Thiết kế cao cấp
+Thiết bị còn mang thiết kế trẻ trung, phù hợp với giới trẻ hiện đại. Họa tiết ẩn trên mặt lưng theo dạng đối xứng khá tương đồng như mẫu Oppo Reno cao cấp. Chiếc smartphone có mặt lưng tùy chọn với 2 gam màu xanh và tím, lấy cảm hứng từ những màu sắc tự nhiên với hiệu ứng chuyển màu dưới ánh sáng.
+A9 2020 có hai lựa chọn màu sắc tím và xanh.
+A9 2020 có màn hình giọt nước kích thước 6,5 inch, với tỷ lệ hiển thị đến 89,3%, bảo vệ bằng kính Gorilla Glass 3+. Màn hình A9 2020 được Oppo chăm chút với công nghệ màn hình mặt trời (Sunlight Screen) giúp cải thiện khả năng đọc nội dung dưới ánh sáng mạnh. Ngoài ra, công nghệ này cũng duy trì độ xác thực màu sắc trên màn hình trong nhiều điều kiện môi trường khác nhau. A9 2020 còn có thêm chế độ bảo vệ mắt, giảm ánh sáng xanh giúp người dùng đọc an toàn hơn vào ban đêm.
+Hai trang bị cho thấy sự quan tâm của Oppo đối với phản hồi và trải nghiệm khách hàng là cổng sạc USB type-C và khay SIM. USB type-C hiện đại cho phép kết nối dễ dàng và thuận tiện hơn, trong khi đó 2 khay SIM tách biệt với khay thẻ nhớ microSD, giúp mở rộng tối đa không gian lưu trữ.
+Bảo An

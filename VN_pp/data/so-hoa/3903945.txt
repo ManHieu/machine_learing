@@ -1,0 +1,18 @@
+TITLE: Facebook yêu cầu người dùng đưa mật khẩu email khi đăng ký - VnExpress Số Hóa
+
+KEY WORDS: facebook, mật khẩu, thông tin cá nhân
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Facebook đã yêu cầu một số người dùng mới cung cấp mật khẩu truy cập vào tài khoản email của họ. Cụ thể, khi người dùng cố gắng đăng ký tài khoản Facebook với một số nhà cung cấp email nhất định, bao gồm Yandex và GMX, họ được yêu cầu "xác nhận địa chỉ email" bằng cách nhập trực tiếp mật khẩu vào Facebook.
+Người dùng của các nhà cung cấp email khác như Gmail của Google không thấy tùy chọn này bởi hệ thống đã sử dụng OAuth, một công cụ ủy quyền phổ biến để xác minh an toàn danh tính mà không yêu cầu nhập mật khẩu.
+Động thái này được các chuyên gia công nghệ cho rằng có liên quan đến bảo mật và mang tới cho người dùng những rủi ro khi tham gia vào các hoạt động trực tuyến. Thông thường, mọi người đều được khuyên không bao giờ chia sẻ mật khẩu của mình hoặc nhập chúng vào bất kỳ nơi nào ngoài dịch vụ mà họ dự định sử dụng. Điều này nhằm tránh nguy cơ "tấn công bằng cách lừa đảo", khiến cho thông tin cá nhân của người dùng bị đánh cắp.
+Ngoài ra, nếu một người dùng mới chọn nhập mật khẩu tài khoản email của họ vào Facebook, một cửa sổ bật lên thông báo Facebook đang "nhập danh bạ". Việc này được thực hiện dù không nhận được sự cho phép của người dùng. Một phát ngôn viên của Facebook cho biết công ty đang ngừng tính năng này, nhưng không cung cấp khung thời gian cụ thể.
+"Về cơ bản không thể phân biệt được nó với một cuộc tấn công lừa đảo", Bennett Cyphers, một nhà nghiên cứu bảo mật đã chỉ trích gay gắt hành động này của Facebook. "Điều này rất tệ ở nhiều cấp độ. Đó là chuyện đi quá giới hạn một cách vô lý của Facebook và một nỗ lực nhếch nhác để lừa mọi người tải dữ liệu danh bạ của họ lên hệ thống như cái giá của việc đăng ký mới. Ngay cả khi đồng ý tải thông tin liên hệ lên Facebook, bạn cũng không bao giờ phải nhập mật khẩu email để làm điều đó".
+"Không có công ty nào nên yêu cầu mọi người cung cấp thông tin như thế này và người dùng không nên tin bất cứ ai làm điều đó. Điều này đi ngược lại với tất cả quy tắc bảo mật thông thường", ông viết trong một email.
+Troy Hunt, chuyên gia bảo mật kiêm nhà điều hành dịch vụ Have I Been Pwned cũng lên tiếng chỉ trích. "Đây chắc chắn là một mô hình chống bảo mật vượt quá chừng mực vì nó liên quan đến việc chia sẻ bí mật của một nền tảng (nhà cung cấp email) với một nền tảng khác (Facebook)", ông cho biết.
+Biểu mẫu nhập mật khẩu nói mật khẩu không được Facebook lưu trữ, nhưng không có biện pháp để kiểm tra độc lập tính năng này. Gần đây, công ty cũng dính vào scandal khi bị phát hiện đã lưu trữ hàng trăm triệu mật khẩu của người dùng bằng văn bản một cách đơn giản. Hành vi này vi phạm các nguyên tắc cơ bản nhất về bảo mật vốn được phổ biến rộng rãi từ lâu.
+Trong một tuyên bố, một phát ngôn viên của Facebook cho biết: "Những mật khẩu này không được Facebook lưu trữ. Một nhóm rất nhỏ có tùy chọn nhập mật khẩu email để xác minh tài khoản của họ khi đăng ký Facebook lần đầu tiên. Mọi người luôn có thể chọn xác nhận tài khoản bằng cách nhập mã được gửi đến điện thoại hoặc liên kết được gửi qua email".
+Người phát ngôn nói thêm: "Điều đó nói rằng, chúng tôi hiểu tùy chọn xác minh mật khẩu không phải là cách tốt nhất để giải quyết vấn đề này. Vì vậy chúng tôi sẽ ngừng cung cấp nó".
+Bảo Nam (theo Business Insider)

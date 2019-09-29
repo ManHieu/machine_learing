@@ -1,0 +1,13 @@
+TITLE: Cuộc tấn công nhằm vào 23 triệu kênh YouTube - VnExpress Số Hóa
+
+KEY WORDS: YouTube, hacker
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo ZDNet, các YouTuber nổi tiếng trong cộng đồng xe đã trở thành nạn nhân, trong đó có các kênh Build, Troy Sowers, Musafir... Một số nhà sáng tạo nội dung thuộc những lĩnh vực khác cũng cho biết tài khoản của họ bị khống chế cuối tuần qua, khiến tài khoản Twitter và diễn đàn hỗ trợ của YouTube tràn ngập lời phàn nàn.
+Các tài khoản bị khống chế sau khi kẻ tấn công thực hiện chiến dịch gửi tin nhắn, email và dụ người dùng vào trang lừa đảo dạng phishing, trong đó có giao diện như trang login của Google, từ đó lấy được dữ liệu đăng nhập. Sau đó, hacker truy cập vào tài khoản Google của nạn nhân, chuyển đăng ký kênh YouTube sang chủ nhân mới, thay đổi URL của kênh khiến chủ kênh và những người theo dõi tưởng tài khoản đã bị xóa.
+Các chủ kênh YouTube có thể mất tài khoản khi truy cập trang phishing. Ảnh: ZDNet.
+James Houghton, chuyên gia bảo mật tại Phishing Tackle, nhận định "cuộc tấn công đặc biệt ấn tượng và có sự phối hợp chuyên nghiệp". Theo Forbes, với hơn 23 triệu kênh YouTube đang tồn tại, bất cứ kênh nào cũng có nguy cơ bị mất tài khoản.
+Tuy nhiên, phát ngôn viên của YouTube khẳng định: "Không có dấu hiệu nào cho thấy các nỗ lực tấn công tăng lên cuối tuần qua. Chúng tôi luôn nghiêm túc về vấn đề bảo mật và thường xuyên khuyến cáo người dùng khi phát hiện những hành vi đáng ngờ. Chúng tôi khuyên người dùng nên kích hoạt cơ chế bảo mật hai lớp để giảm nguy cơ bị tấn công". 
+Minh Minh

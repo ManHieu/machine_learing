@@ -1,0 +1,12 @@
+TITLE: Bài toán diện tích trong TIMC 2016 - VnExpress
+
+KEY WORDS: bài toán, diện tích, TIMC 2016, thể dục trí não, đố vui
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Các bài toán diện tích thường xuyên xuất hiện trong đề thi học sinh giỏi lứa tuổi dưới 16. Sau đây là một bài toán diện tích dành cho học sinh lứa tuổi 12-13 trong kỳ thi Toán học trẻ quốc tế tại Thái Lan năm 2016 với thời gian làm bài 6 phút.
+Topic 33. FINDING AREAS USING AUXILIARY LINES
+Problem: ABCD is the rectangle where AB = 12 cm and BC = 5 cm. E is a point on the opposite side of AB to C, as shown in the diagram below. If AE = BE and the area of triangle AEB is 36 cm2, find the area, in cm2, of triangle AEC.
+Dịch đề: Cho hình chữ nhật ABCD có AB = 12 cm và BC = 5 cm. E là một điểm nằm khác phía với C trên nửa mặt phẳng bờ AB, như hình dưới đây. Biết AE = BE và diện tích tam giác AEB là 36 cm2, tính diện tích tam giác AEC theo cm2.
+ 

@@ -1,0 +1,15 @@
+TITLE: Exodus - Phần mềm gián điệp trên Android có bản sao cho iOS - VnExpress Số Hóa
+
+KEY WORDS: phần mềm gián điệp, nghe lén, iOS, Exodus
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Cuối tháng 3, các nhà nghiên cứu Bảo mật không biên giới phát hiện phần mềm gián điệp có tên Exodus được ẩn trong các ứng dụng Android. Nó có khả năng root - chiếm quyền kiểm soát cao nhất của thiết bị. 25 ứng dụng khác nhau bị nhiễm Exodus đã được tải lên kho ứng dụng Play Store trong hai năm qua.
+Chương trình gián điệp có thể cài vào iOS thông qua chứng chỉ doanh nghiệp do Apple cấp.
+Tại Hội nghị thượng đỉnh phân tích bảo mật của Kaspersky tổ chức đầu tháng này, nhóm nghiên cứu Lookout phát hiện biến thể của Exodus trên nền tảng iOS. Phần mềm gián điệp được phân phối thông qua một số website giả mạo và nó có thể cài cho iPhone, iPad nhờ chứng chỉ doanh nghiệp do Apple cấp, không cần thông qua kho ứng dụng App Store.
+Theo chuyên gia của Lookout, phiên bản Android của Exodus đã được phát triển ít nhất 5 năm và nó tinh vi hơn nhiều so với phần mềm cho iOS, cho thấy đây là một dự án mới. Chương trình có thể thu thập và đánh cắp danh bạ, video, bản ghi âm, thông tin GPS và vị trí thiết bị. Exodus trên iOS cũng có thể kích hoạt ghi âm để nghe lén nhưng không kiểm soát sâu thiết bị như với Android.
+"Phân tích các mẫu phần mềm gián điệp trên Android đã dẫn đến việc tìm thấy chương trình tương tự trên iOS", nhà nghiên cứu Adam Bauer của Lookout cho biết. Sự liên quan giữa hai phiên bản là không thể phủ nhận khi có cùng hạ tầng máy chủ và các dữ liệu đánh cắp được tải về chung một đích, sử dụng giao thức tương tự nhau.
+Hệ sinh thái iOS được Apple phát triển tương đối đóng khi các ứng dụng được phân phối thông qua App Store với chế độ kiểm duyệt khá nghiêm ngặt. Tuy nhiên nếu không jailbreak (bẻ khóa) iPhone, iPad, ứng dụng bên ngoài vẫn có thể cài được thông qua chứng chỉ doanh nghiệp do Apple cấp, mua khá dễ với giá 300 USD (khoảng 7 triệu đồng).
+Chính sách của Apple nhằm tạo điều kiện cho doanh nghiệp nhưng nó cũng phải nhận chỉ trích khi bị lợi dụng để phân phối ứng dụng đánh bạc, khiêu dâm, vi phạm bản quyền.
+Đình Nam (theo Wired)

@@ -1,0 +1,13 @@
+TITLE: Kỹ thuật 3D mô phỏng tim thai trong bụng mẹ - VnExpress Sức Khỏe
+
+KEY WORDS: tim, bệnh tim, trẻ sơ sinh, siêu âm, thai nhi
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Trong nghiên cứu mới được công bố, các nhà nghiên cứu từ trường King's College London và Bệnh viện Nhi Evelina London (Anh) đã kết hợp chụp cộng hưởng từ MRI trước sinh với phần mềm mô phỏng 3D điều chỉnh chuyển động tiên tiến để tạo nên hình ảnh chi tiết của tim thai.
+Trước tiên, các bác sĩ chụp ảnh 2D của tim thai từ nhiều góc độ bằng máy MRI. Sau đó, họ sử dụng thuật toán máy tính thông minh lồng ghép tất cả hình ảnh 2D và tạo ra hình ảnh 3D tim thai có độ phân giải cao.
+Tim thai nhi được dựng bằng kỹ thuật 3D giúp bác sĩ phát hiện vấn đề ngay từ trong bụng mẹ. Ảnh: BBC.
+Violet-Vienna là một bệnh nhi được áp dụng kỹ thuật trên. Bác sĩ phát hiện tim bé có vấn đề khi ở tuần thai thứ 20. Kirbi-Lea Pettitt, mẹ của Violet-Vienna, đã đăng ký tham gia nghiên cứu. Nhờ kỹ thuật 3D, các bác sĩ nhận thấy trái tim của bé gái có hai lỗ hổng và tiềm ẩn nguy cơ tắc nghẽn động mạch. Phát hiện sớm này giúp Violet-Vienna được phẫu thuật ngay sau khi sinh ra, tăng cơ hội phục hồi.
+Hiện nay, chẩn đoán khuyết tật tim bẩm sinh dựa vào siêu âm 2D vẫn còn một số hạn chế vì nhịp tim của thai nhi thường rất nhỏ và nhanh. Nhờ kỹ thuật 3D, các bác sĩ dễ dàng chẩn đoán và cứu sống nhiều em bé hơn. 
+Phương Dung (Theo Tech Times) 

@@ -1,0 +1,16 @@
+TITLE: Apple thưởng tiền cho thiếu niên tìm ra lỗi khiến iPhone bị nghe lén - VnExpress Số Hóa
+
+KEY WORDS: Apple, FaceTime, nghe lén
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Lỗi liên quan đến tính năng FaceTime theo nhóm khiến người dùng thiết bị của Apple có nguy cơ bị nghe lén đã được hãng khắc phục bằng bản cập nhật iOS 12.1.4. Grant Thompson, một học sinh trung học 14 tuổi từ Arizona (Mỹ) là người đã phát hiện lỗ hổng này.
+ 
+ 
+Cách tắt FaceTime để chống nghe lén trên iPhone, MacBook
+Lỗi FaceTime khiến người gọi có thể nghe được khi người nhận chưa nhấc máy. Video: Benji Mobb
+Theo Reuters, Apple sẽ thưởng tiền cho thiếu niên trên nhưng con số cụ thể chưa được công bố. Công ty công nghệ Mỹ có thể thưởng tới 200.000 USD cho những ai tìm ra lỗi trong các sản phẩm của hãng.
+Grant Thompson phát hiện lỗ hổng từ cuối tháng 1 khi anh gọi FaceTime nhóm trong lúc chơi game. Lỗi này cho phép người gọi nghe được âm thanh từ phía người nhận ngay cả khi họ chưa bắt máy. Mẹ của Thompson đã nhiều lần liên hệ với Apple thông qua email và mạng xã hội nhưng một tuần sau mới được hồi âm.
+Người dùng thiết bị của Apple được khuyến cáo cập nhật phần mềm mới nhất để vá lỗ hổng FaceTime, tránh nguy cơ bị nghe lén. 
+Bảo Anh

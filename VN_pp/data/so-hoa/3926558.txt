@@ -1,0 +1,14 @@
+TITLE: Google Pixel 3a và Google Pixel 3a XL gặp lỗi tự động tắt và bị treo máy - VnExpress Số Hóa
+
+KEY WORDS: Google Pixel 3a, Google Pixel 3a XL, lỗi, tự động tắt, treo máy
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Trên diễn đàn Reddit, chủ sở hữu Pixel 3a và 3a XL chia sẻ rằng smartphone của họ tự động tắt một cách ngẫu nhiên nhiều lần trong ngày, chủ yếu là khi chúng không hoạt động. Khi đó, màn hình máy gặp tình trạng treo, buộc phải nhấn nút nguồn trong 30 giây để khởi động lại.
+Pixel 3a (bên trái) và Pixel 3a XL (bên phải). Ảnh: Gadgetsnow.
+Chưa có cách nào để khắc phục vấn đề trên. Một số người dùng thử chạy chế độ an toàn (Safe Mode) để chạy ứng dụng mặc định do nghi vấn ứng dụng bên thứ ba can thiệp. Số khác cho rằng lỗi có thể liên quan đến kết nối Wi-Fi. Trong cả hai trường hợp, sự cố vẫn xảy ra.
+Google chưa đưa ra bình luận nào.
+Pixel 3a và 3a XL ra mắt hôm 8/5, là phiên bản giá rẻ hơn của bộ đôi Pixel 3 và 3 XL Google bán ra thị trường cuối năm ngoái. Cả hai có phong cách thiết kế tương đồng thế hệ tiền nhiệm nhưng giá thấp đi một nửa, còn lần lượt 399 USD và 479 USD.
+Bộ đôi này được nhiều chuyên trang công nghệ thế giới đánh giá cao ở khả năng chụp ảnh dù chỉ trang bị camera đơn 12 megapixel phía sau. Máy ảnh này có thể chụp chân dung xóa phông và chụp đêm ấn tượng nhờ khả năng xử lý bởi công nghệ AI.
+Như Phúc (theo Android Police)

@@ -1,0 +1,17 @@
+TITLE: Apple sửa không kịp lỗi bàn phím Butterfly trên MacBook - VnExpress Số Hóa
+
+KEY WORDS: Apple MacBook Pro, Butterfly
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Các mẫu MacBook mới đều dùng bàn phím cơ chế Butterfly. 
+Các sản phẩm bị lỗi của Apple thường được các nhân viên tiếp nhận từ khách ở cửa hàng sau đó gửi đến trung tâm bảo hành. Thời gian chờ có thể lên đến hàng tuần. Tuy nhiên, với việc có quá nhiều máy tính MacBook bị lỗi liên quan đến bàn phím Butterfly đã khiến hãng phải thay đổi chính sách. Cụ thể, người dùng tại Mỹ và một số nước khác sẽ nhận máy đã qua sửa chữa, thay thế bàn phím chỉ sau khoảng một ngày. 
+Để có thể tăng tốc thời gian sửa chữa, Apple đã chuyển sẵn các linh kiện đến cửa hàng thay vì máy bị lỗi phải gửi về trung tâm bảo hành để xử lý. "Động thái này nhằm đáp ứng nhu cầu sửa chữa đang tăng lên nhanh chóng", trang Macrumors dẫn lời một nguồn đáng tin cậy. 
+Rút ngắn thời gian sửa chữa chỉ là một phần trong nỗ lực của Apple nhằm giảm bức xúc của người dùng về lỗi của bàn phím cơ chế Butterfly. Hầu hết các mẫu máy tính MacBook Pro, MacBook Air hay MacBook 12 inch đều có thể gặp trường hợp kẹt phím bất thường. 
+Cuối tháng 3, Apple đã thừa nhận lỗi trên bàn phím "cánh bướm", nhưng cho rằng chỉ một số khách hàng gặp tình trạng trên. Apple lần đầu đưa thiết kế bàn phím cánh bướm lên MacBook 12 inch vào năm 2015, giúp laptop mỏng hơn và được giới thiệu là đem lại cảm giác gõ tốt hơn. Nhưng chỉ vài tuần sau khi ra mắt, nó đã bị người dùng phàn nàn vì quá mỏng, nông, cảm giác gõ không thoải mái.
+Theo Apple Insider, tỷ lệ người dùng MacBook Pro 2014 gặp vấn đề với bàn phím trong năm đầu tiên là 5,6%. Con số này với bản 2015 ở khoảng 6% và các mẫu máy tính này dùng bàn phím cơ chế scissor (cắt kéo). Khi chuyển sang bàn phím "cánh bướm", sự cố mà người dùng gặp phải tăng lên 11,8%.
+Cơ chế Butterfly (bên phải) giúp máy mỏng nhẹ nhưng tỷ lệ lỗi cao. Ảnh: BI
+Tháng 7/2018, Apple ra mắt MacBook Pro với phím "bướm" thế hệ thứ ba. Công ty cố gắng khắc phục nhược điểm của đời thứ hai bằng cách bổ sung một màng cao su bên dưới phím bấm để ngăn bụi. Một lần nữa, giải pháp này không đạt hiệu quả như mong đợi, khi một số người dùng cho biết trên trang trợ giúp Apple lẫn các diễn đàn như Reddit cho biết họ vẫn bị kẹt phím do bụi.
+Theo BI, việc sửa chữa phím MacBook không đơn giản. Nếu hỏng một phím, người dùng sẽ phải thay cả cụm, bao gồm bàn phím, pin, mặt kim loại và cổng Thunderbolt 3. Điều đó kéo theo chi phí thay bàn phím cho MacBook Pro rất đắt đỏ, 700 USD (khoảng 16 triệu đồng) cho phiên bản 2016 về sau. 
+Hoài Anh

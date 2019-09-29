@@ -1,0 +1,18 @@
+TITLE: Vietnam ICT Summit bàn về những việc cần làm để chuyển đổi số - VnExpress Số Hóa
+
+KEY WORDS: Chuyển đổi số, Vinasa, Vietnam ICT Summit 2019, Vietnam ICT Summit
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Diễn đàn cấp cao CNTT-TT Việt Nam (Vietnam ICT Summit 2019) do Hiệp hội Phần mềm và Dịch vụ CNTT Việt Nam tổ chức nhằm trả lời câu hỏi "Việt Nam đang ở đâu trong dòng chảy chuyển đổi số toàn cầu?".
+Các chuyên gia, những người đang trực tiếp tham gia thực hiện chuyển đổi số trong các tổ chức, doanh nghiệp Việt Nam, sẽ chia sẻ câu chuyện, kinh nghiệm cũng như giải bài toán làm sao để chuyển đổi số thành công.
+Ảnh: CloudCodes.
+Thế giới đang chứng kiến cuộc chuyển mình mạnh mẽ, với những doanh nghiệp, tổ chức đi tiên phong trên lộ trình chuyển đổi số, tạo đột phá về năng suất, cải thiện năng lực quản trị, trải nghiệm khách hàng và tối ưu hóa mô hình kinh doanh.
+Điển hình cho xu thế này có thể kể đến những tên tuổi như Airbus hay Walmart. Airbus kết hợp với Palantir, công ty tiên phong về phân tích dữ liệu lớn trên thế giới, ra mắt nền tảng Skywise vào tháng 6/2017. Skywise là nền tảng dữ liệu mở lớn nhất, hay còn gọi là hồ dữ liệu (data lake), của ngành hàng không. Trong đó, Skywise kết nối và thu thập dữ liệu từ hệ thống dữ liệu trên máy bay của Airbus, hệ thống dữ liệu vận hành bay của các hãng hàng không trên thế giới. Việc phân tích lượng dữ liệu khổng lồ này mang lại những giá trị cụ thể cho các hãng hàng không như giảm gián đoạn chuyến bay, giảm chi phí bảo trì, tối ưu hóa hoạt động bay và quản lý đội bay... Ví dụ, Airbus cũng đã giảm thời gian cần để sửa máy bơm nhiên liệu trên máy bay A380 từ 24 tháng xuống còn hai tuần.
+Trong khi đó, Walmart, hệ thống bán lẻ lớn nhất thế giới, lại chịu sức ép lớn về vận hành dịch vụ khi có tới hơn 40 triệu lượt mua sắm mỗi ngày. Để giải quyết sức ép đó, Walmart đã triển khai ứng dụng di động, tạo ra nhiều cách thức giao nhận hàng hóa. Qua ứng dụng, người mua có thể tạo sẵn đơn hàng, sau đó đến quầy ưu tiên để thanh toán (Scan and Go). Họ cũng có thể đặt hàng online rồi tới các quầy để nhận hàng. Walmart cũng ứng dụng công nghệ Blockchain để để tăng cường an toàn thực phẩm với khả năng truy xuất nguồn gốc chỉ trong hai giây.
+Với xu thế chuyển đổi số đang lan tỏa mạnh mẽ trên toàn cầu, giới chuyên môn nhận định Việt Nam không thể đứng ngoài cuộc, nếu không muốn nói đây là câu chuyện "sống còn" đối với mỗi doanh nghiệp, tổ chức. Rất nhiều doanh nghiệp trong nước hoạt động trong các lĩnh vực như thương mại, tài chính ngân hàng, giáo dục, y tế, du lịch, công nghiệp chế tác... đều đã bắt đầu tìm hiểu hoặc bắt tay vào công cuộc cải tổ theo xu hướng chuyển đổi số.
+Hoạch định kế hoạch dài hơi về chuyển đổi số, FPT đã mời ông Phương Trầm, cựu Giám đốc Công nghệ thông tin toàn cầu của DuPont, làm Tư vấn trưởng cho các dự án chuyển đổi số của tập đoàn. Trong khi đó, ông Trương Gia Bình, Chủ tịch FPT, khẳng định họ sẽ trở thành công ty tư vấn về chuyển đổi số.
+"Nếu không chuyển đổi số, sức cạnh tranh của doanh nghiệp sẽ thua về bậc và sớm muộn phải ra đi. Chúng tôi đang triển khai cho chính FPT với gần 36.000 con người và cam kết đạt kết quả trong vòng 12 tháng", ông Bình nói trong một sự kiện hồi tháng 5.
+Ngoài FPT, nhiều doanh nghiệp, tổ chức lớn như Viettel, Vietcombank, EVN, FE CREDIT... đều đã có động thái tích cực trong công cuộc chuyển đổi số và đạt được những kết quả nhất định.  
+Châu An

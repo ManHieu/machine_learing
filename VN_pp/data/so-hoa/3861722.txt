@@ -1,0 +1,15 @@
+TITLE: iPhone gặp lỗi kết nối Wi-Fi khi cập nhật iOS 12.1.2 - VnExpress Số Hóa
+
+KEY WORDS: iPhone, iOS, cập nhật, lỗi, Wi-Fi, kết nối Internet
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo Forbes, người dùng iPhone chạy phiên bản iOS mới nhất không thực hiện được các cuộc gọi hay vào mạng qua Wi-Fi. Thậm chí, một số không thể kết nối Internet từ cả Wi-Fi lẫn mạng di động, biến smartphone thành "cục chặn giấy".
+Người dùng iPhone tiếp tục gặp vấn đề khi vào mạng. Ảnh: Forbes.
+Sự cố xảy ra đối với hầu hết iPhone, từ SE, 8 Plus đến XR mới nhất và các khu vực từ Bắc Mỹ, Nam Mỹ, châu Âu đến châu Á đều có thiết bị ảnh hưởng.
+So với lỗi kết nối di động trước đó, sự cố lần này được đánh giá tồi tệ hơn. Một tài khoản Twitter chia sẻ cách khắc phục tạm thời, bằng cách vô hiệu hóa cuộc gọi Wi-Fi và thay đổi cài đặt dữ liệu di động bằng giọng nói. Tuy nhiên, không phải lúc nào giải pháp này cũng thành công.
+Đầu tháng 12, Apple tung bản cập nhật iOS 12.1.1 nhưng liên tục bị phàn nàn về kết nối mạng di động chập chờn. Tuần trước, bản iOS 12.1.2 được phát hành nhằm "sửa lỗi kết nối mạng di động cho iPhone XR, XS và XS Max tại Thổ Nhĩ Kỳ". Tuy nhiên, ngay sau khi bản nâng cấp này xuất hiện, hàng loạt người dùng khác gặp vấn đề tương tự, thậm chí nặng nề hơn.
+Bên cạnh đó, iOS 12.1.1 cũng là bản cập nhật mà Apple tung ra để đối phó với lệnh cấm bán hàng tại Trung Quốc do vi phạm sáng chế của Qualcomm. Theo PhoneArena, nhiều khả năng đây là một trong những nguyên nhân khiến việc vào mạng chập chờn, do nhiều iPhone đời cũ vẫn dùng modem của công ty chip Mỹ.
+Trước tình trạng trên, Apple có thể sẽ sớm giới thiệu bản iOS 12.1.3 để sửa lỗi, do đó người dùng chưa nâng cấp iOS 12.1.1 và 12.1.2 nên đợi 12.1.3 để cập nhật.
+Bảo Lâm

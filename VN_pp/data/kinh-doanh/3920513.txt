@@ -1,0 +1,15 @@
+TITLE: Sàn giao dịch bị trộm hơn 7.000 Bitcoin - VnExpress Kinh Doanh
+
+KEY WORDS: Bitcoin, tiền ảo, tiền kỹ thuật số, Binance, hacker
+
+TOPIC: kinh doanh, quốc tế
+
+CONTENT: 
+Theo thông báo của Binance, các hacker đã sử dụng nhiều biện pháp để thực hiện "vụ đột nhập quy mô lớn" vào hệ thống của sàn này hôm qua, lấy đi hơn 7.000 Bitcoin. Chúng cũng thu thập một số dữ liệu người dùng, như mã bảo mật 2 bước, để đăng nhập vào tài khoản Binance.
+"Các hacker đã chờ đợi, thực hiện hàng loạt hành động được tính toán kỹ lưỡng, thông qua nhiều tài khoản có vẻ là độc lập khi thuận lợi nhất", Binance cho biết trong thông báo, "Giao dịch này được thiết kế vượt qua hệ thống kiểm soát an ninh hiện tại của chúng tôi. Thật không may là chúng tôi không thể ngăn chặn việc rút tài sản trước khi nó diễn ra. Khi nó xảy ra, hệ thống báo động. Chúng tôi đã chặn hoạt động này ngay sau đó".
+Tiền mô phỏng Bitcoin được trưng bày tại Hong Kong (Trung Quốc) năm ngoái. Ảnh: AFP
+Binance cho biết vụ trộm xảy ra với "ví nóng" của công ty, vốn chỉ chiếm 2% tổng số Bitcoin họ nắm giữ. Ví là công cụ lưu trữ tiền kỹ thuật số. "Ví nóng" kết nối với Internet, được giới chuyên gia đánh giá dễ bị đột nhập hơn "ví lạnh" - không được kết nối.
+Việc gửi và rút Bitcoin trên nền tảng Binance vẫn đang bị phong tỏa. Tuy nhiên, việc giao dịch vẫn diễn ra bình thường.
+Binance cũng cảnh báo "hacker vẫn có thể kiểm soát một số tài khoản người dùng nhất định và có thể sử dụng chúng để tác động lên giá". Tuy nhiên, họ cho biết sẽ kiểm soát tình hình và không để ảnh hưởng đến tài sản của người dùng.
+Vụ tấn công xảy ra sau diễn biến tăng giá bất ngờ của Bitcoin. Giá Bitcoin tuần qua đã tăng 10%, lên 5.830 USD hiện tại.
+Hà Thu (theo CNBC)	

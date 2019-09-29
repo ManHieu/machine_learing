@@ -1,0 +1,11 @@
+TITLE: Chip nhớ 1 TB đầu tiên dành cho smartphone - VnExpress Số Hóa
+
+KEY WORDS: Samsung ra mắt chip nhớ 1 TB đầu tiên dành cho smarpthone, Galaxy S10+
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Galaxy S10+ có thể là smartphone có bộ nhớ trong 1 TB đầu tiên.
+Điểm nổi bật là eUFS có kích thước ngang bằng với mẫu chip có dung lượng 512 GB ra mắt năm ngoái trong khi dung lượng lớn gấp đôi. Để làm điều này, Samsung kết hợp một bộ điều khiển mới được phát triển cùng 16 lớp bộ nhớ flash V-NAND xếp chồng lên nhau. Hãng cho biết chip nhớ 1 TB này có khả năng lưu trữ đến 260 video độ phân giải 4K với thời lượng 10 phút mỗi clip.
+Bên cạnh tăng dung lượng, chip còn có tốc độ đọc lên tới 1.000 MB/s và ghi là 260 MB/s, cao gần gấp đôi so với một ổ cứng SSD thông thường. Còn so với phiên bản 512 GB năm ngoái, ổ 1 TB mới có tốc độ đọc ngẫu nhiên tăng 38%.
+Galaxy S10+, dự kiến trình làng ngày 20/2 tại Mỹ, có thể là smartphone đầu tiên được trang bị loại chip nhớ này. 

@@ -1,0 +1,23 @@
+TITLE: WD SN750 - SSD nhỏ gọn cho game thủ, dân đồ họa - VnExpress Số Hóa
+
+KEY WORDS: Western Digital, ổ cứng WD, SSD
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Sản phẩm được đóng gói đơn giản với vỏ hộp màu đen, ở mặt sau có thêm thông tin về công nghệ sử dụng cũng như chế độ bảo hành lên đến 5 năm của nhà sản xuất. Kích thước đóng gói sản phẩm theo chuẩn M.2 2280 và toàn bộ sản phẩm phủ màu đen như tên gọi WD Black.
+Với kích thước 80x22mm, mỏng 2,38mm và nặng 7,5g, SN750 là một trong những SSD mỏng nhẹ nhất hiện nay, kích thước tương đương một thanh RAM.
+Sản phẩm áp dụng chế độ bảo hành lên đến 5 năm
+Cấu hình SN750 sử dụng 2 chip NAND dung lượng 512GB của Sandisk, đi kèm với 1.024MB DRAM đến từ SKHynix và tất cả điều khiển bằng controller của WD. Bằng việc sử dụng 3D NAND và chuẩn giao tiếp NVMe PCI-Express 3.0 băng thông x4, sản phẩm WD Black SN750 NVMe 1TB dễ dàng đạt mức tốc độ đọc file tuần tự lên đến 3.500MB một giây và ghi tuần tự 3000 MB một giây.
+Với các thông số này, WD hướng đến người dùng thích chơi game, hoặc cần thiết kế đồ họa, chỉnh sửa video với khả năng truy xuất dữ liệu tốc độ cao.
+Về hiệu năng của sản phẩm, một bài thử nghiệm sản phẩm diễn ra với máy tính cấu hình CPU Intel i9 9900K, mainboard ASUS ROG Z390i STRIX RAM 16 GB DDR4 3000MHz, card đồ họa ASUS ROG RTX 2080 Ti STRIX.
+Khởi động bằng việc copy một file có dung lượng 15GB từ Ramdisk vào WD SN750, tốc độ ổn định ở mức hơn 1GB một giây. Trong khi đó, đo đạc bằng các phần mềm benchmark, trong cả hai lần thử nghiệm với phần mềm CrystalDiskMark, tốc độ đọc đạt 3,4GB một giây và ghi xấp xỉ 3GB một giây.
+Sản phẩm khá nhỏ gọn, kích thước như một thanh RAM.
+Trong khi đó, với AS SSD Benchmark, kết quả đọc - ghi tuần tự đạt 2.993MB và 2.653MB một giây. Dữ liệu nén 4K đạt 18,13-30,2MB một giây hay thời gian truy cập đạt độ trễ chỉ 0,21 giây.
+Với phần mềm HD Tach, có thể thấy nhà sản xuất WD không "nói ngoa" khi tốc độ thực của SN750 không chênh lệch nhiều so với tốc độ lý tưởng của một SSD, luôn giữ ở mức 800-1.400MB/s.
+Trong khi đó, thử nghiệm với PC cấu hình thấp hơn, gồm main Z370, chip Intel Core i7-8700K, 8GB RAM DDR4 cũng cho kết quả hết sức khả quan. Tốc độ copy file đạt 1,1GB một giây, tốc độ đọc ghi đạt gần như tối đa với 3.489MB và 2.998MB một giây.
+Bên cạnh đó, điểm nhấn mà WD mang đến được đánh giá cao là phần mềm SSD Dashboard đi kèm SN750 với giao diện mới và chế độ game mode. Khi kích hoạt, nó sẽ vô hiệu hóa tạm thời Deep Sleep, giúp chiếc ổ cứng này không rơi vào tình trạng ngủ sâu, từ đó độ trễ khi tái kích hoạt, khi có chỉ thị từ CPU đến được rút ngắn. Từ đó, người dùng tận dụng tối đa sức mạnh truyền tải dữ liệu của dòng ở cứng mới này.
+Kết quả bài kiểm tra Crystal Disk Mask.
+SN750 là dòng SSD hiệu năng cao, hoàn toàn có thể tích hợp trong các cỗ PC giúp người dùng thao tác với những phần mềm, tựa game nặng. Bên cạnh đó, kích thước nhỏ gọn sẽ là lợi thế lớn trước xu hướng linh kiện ngày càng mỏng nhẹ như hiện tại.
+Dòng ổ cứng SSD NVMe WD Black SN750 phiên bản không tản nhiệt đã có mặt tại Việt Nam với 4 dung lượng lựa chọn, gồm 250GB có giá 1,95 triệu đồng, 500GB giá 3,15 triệu đồng, 1TB giá 6,55 triệu đồng và 2TB giá 14,5 triệu đồng. Thiết bị sẽ được bảo hành với thời gian lên tới 5 năm giúp người dùng an tâm hơn khi sử dụng.
+Bảo An 

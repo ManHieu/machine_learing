@@ -1,0 +1,30 @@
+TITLE: 'Tuổi nghề kỹ sư phần mềm không nhiều hơn cầu thủ bóng đá' - VnExpress
+
+KEY WORDS: Đại học Bordeaux, Viện Đào tạo Quốc tế, IEI, kỹ sư phần mềm, thạc sĩ ngành công nghệ phần mềm
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Tuổi nghề của một kỹ sư lập trình bên cạnh kiến thức chuyên môn và khả năng cập nhật công nghệ mới thì còn phụ thuộc nhiều vào độ tuổi sinh học, tình trạng sức khỏe và cường độ làm việc. Tuy nhiên, có một giải pháp để giúp họ kéo dài tuổi nghề và giữ được ngọn lửa đam mê đối với máy tính, đó là trở thành thầy giáo.
+Kinh nghiệm lâu năm cũng là một giới hạn
+"Tuổi nghề của một kỹ sư phần mềm ngày nay không nhiều hơn tuổi nghề của một cầu thủ bóng đá là mấy - khoảng 15 năm là cùng", ông V.R.Ferose, Phó Chủ tịch Công ty phần mềm SAP chia sẻ về sự khắc nghiệt đối với kỹ sư phần mềm. SAP là công ty phần mềm lớn nhất châu Âu, có trụ sở chính tại Walldorf, Đức, đặt phòng nghiên cứu và phát triển R&D tại Ấn Độ với trên 4.500 nhân viên
+Mukund Mohan, CEO của một chương trình hỗ trợ khởi nghiệp của Microsoft tại Ấn Độ cũng nhận định: "Tuổi nghề của những lập trình viên chuyên sâu vào một loại công nghệ nhất định thì thậm chí còn bị rút ngắn xuống ít hơn một năm".
+"Các công ty phần mềm hiện nay ưu tiên việc thuê sinh viên mới ra trường bởi khả năng học hỏi nhanh, sáng tạo, khác biệt và không gặp phải rào cản bởi những kinh nghiệm đã duy trì quá lâu trong quá khứ", Shailesh Thakurdesai, Giám đốc Phát triển Kinh doanh tại công ty Texas Instruments India cho hay.
+Ngoài ra, tại Mỹ, sau 20 năm ra trường chỉ có 19% kỹ sư phần mềm còn bám trụ được với nghề bởi công nghệ phát triển như vũ bão đòi hỏi người học, người làm nghề phải không ngừng phát triển bản thân mới trụ vững được.
+"Nhất cử lưỡng tiện", hướng đi mà các lập trình viên kỳ cựu chọn, đó là trở thành thầy giáo, người truyền kiến thức, lửa nghề và trao cơ hội cho thế hệ trẻ.
+Tại Mỹ, sau 20 năm ra trường chỉ có 19% kỹ sư phần mềm còn bám trụ được với nghề.
+Chọn hướng đi mới để duy trì đam mê với máy tính
+Kỹ sư lập trình hiện nay được phân ra làm nhiều mảng chuyên sâu gồm lập trình hệ thống, web, game, database hoặc mobile. Họ là người xây mới một ứng dụng để phục vụ nhu cầu cuộc sống ngày càng hiện đại, tiết kiệm cho con người thời gian, chi phí, công sức và tối ưu hóa công việc. Họ cũng nâng cấp, sửa chữa phần mềm có sẵn, chức năng xử lý để không ngừng đạt tới sự hoàn thiện của ứng dụng cũng như liên tục nghiên cứu để phát triển công nghệ mới.
+Một kỹ sư lập trình chuyên nghiệp, có nhiều kinh nghiệm "thực chiến" trong đa dạng dự án chính là một người thầy mà thế hệ trẻ mong muốn được học tập. Đó là lý do vì sao, họ chọn cho mình một hướng đi mới để bản thân duy trì được đam mê, không ngừng học tập mà không bị vấn đề về sức khỏe, tuổi tác làm cản trở con đường chinh phục khoa học, công nghệ mới.
+Định hướng và mở ra con đường rõ ràng cho các kỹ sư phần mềm chuyên nghiệp, Viện Đào tạo Quốc tế (IEI) thuộc Đại học Quốc gia TP HCM đã phối hợp với Đại học Bordeaux (Pháp) tổ chức chương trình đào tạo liên kết quốc tế hệ thạc sĩ ngành công nghệ phần mềm. Đây là cơ hội để kỹ sư phần mềm phát triển năng lực chuyên môn và có thể học lên tiến sĩ.
+Bordeaux là trường đại học xếp thứ 8 trong các trường đại học hàng đầu tại Pháp và có mặt trong top 151 - 200 trường đại học tốt nhất trên thế giới. Với các ngành đào tạo mũi nhọn là y học và công nghệ thông tin, Bordeaux là nơi giảng dạy của hơn 4.000 giáo sư, tiến sĩ đầu ngành cùng cộng đồng hơn 56.000 sinh viên theo học 400 chương trình trên toàn cầu.
+Lộ trình được IEI và Bordeaux xây dựng trong 2 năm học tại Việt Nam và hoàn thành 120 tín chỉ theo tiêu chuẩn kiến thức của châu Âu. Nội dung chương trình học tập trung vào phương pháp quản lý dự án, phát triển kỹ năng thực tế, nâng cao khả năng thiết kế, phát triển hệ thống phần mềm an toàn, hiệu quả và có tính ứng dụng cao.
+Giảng viên người Pháp sẽ phụ trách về phần lý thuyết. Giảng viên Việt Nam sẽ phụ trách về thực hành. Các giảng viên Việt Nam 100% đều tốt nghiệp từ các chương trình uy tín từ các quốc gia phát triển và được sự kiểm duyệt chất lượng từ hội đồng thẩm định chất lượng của trường đối tác.
+Sau khi hoàn thành chương trình học để củng cố và phát triển chuyên môn, các kỹ sư phần mềm sẽ nhận bằng thạc sĩ do Pháp cấp và có giá trị công nhận trên toàn cầu. "Đây chính là nền tảng tốt để kỹ sư phần mềm tự làm mới mình, có cơ hội tu nghiệp ở châu Âu hoặc sẵn sàng hướng đi mới là trở thành một giảng viên về công nghệ thông tin", đại diện IEI chia sẻ.
+Thế Đan
+Mọi thông tin tư vấn tuyển sinh chương trình đào tạo thạc sĩ công nghệ phần mềm của Đại học Bordeaux tại Pháp, học viên liên hệ:
+Viện Đào tạo Quốc tế, Đại học Quốc gia TP HCM
+Địa chỉ: 8 Trần Quang Khải, phường Tân Định, quận 1, TP HCM
+Hotline: 0899 010 616
+Website: iei.edu.vn
+ 

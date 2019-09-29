@@ -1,0 +1,16 @@
+TITLE: Cuộc thi Robocon 2019
+
+KEY WORDS: robocon 2019, cuộc thi sáng tạ robot Việt Nam 2019
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Sáng 3/5, Đài truyền hình Việt Nam đã công bố thông tin về Cuộc thi sáng tạo Robot Việt Nam 2019 (Robocon Việt Nam 2019) với chủ đề "Robot truyền tin".
+Ở Việt Nam, cuộc thi đã qua vòng loại ở hai khu vực phía Nam và Bắc, chọn ra 32 đội sẽ thi đấu chung kết tại tỉnh Hải Dương từ ngày 7 - 12/5. Sau chung kết, đội thi tốt nhất sẽ tham dự cuộc thi Robocon châu Á - Thái Bình Dương (ABU Robocon 2019) với thông điệp "Chia sẻ kiến thức" tổ chức tại Ulaanbaatar (Mông Cổ) vào ngày 25/8.
+Năm 2019, Mông Cổ là nước chủ nhà đăng cai cuộc thi quốc tế nên đề thi được lấy cảm hứng từ văn hóa truyền thống, dựa trên sự tích về chiếc thẻ bài truyền tin của người chiến binh Mông Cổ và Trò chơi dân gian ném Sagai của người dân du mục.
+Một đội thi tham gia tại vòng loại 2019.
+Các đội thi sẽ phải thực hiện nhiệm vụ trong thời gian tối đa mỗi trận là 3 phút. Mỗi đội có 2 robot gồm: một robot điều khiển bằng tay (robot đưa tin 1) và robot điều khiển tự động (robot đưa tin 2).
+Khi trận đấu bắt đầu, robot đưa tin một mang một tấm thẻ Gerege để làm bằng chứng của người đưa tin. Robot đưa tin 1 phải băng qua rừng, đi qua cầu vượt qua sông để đến vạch đích thứ nhất. Hoàn thành nhiệm vụ này giúp đội ghi được 20 điểm. Sau đó, robot đưa tin 1 chuyển tấm thẻ Gerege cho Robot đưa tin 2 ở khu vực Gobi Urtuu và ghi thêm 20 điểm.
+Khu vực di chuyển dành cho robot điều khiển bằng tay bao gồm khu vực xuất phát của robot điều khiển bằng tay gọi là "Khangai Urtuu", khu rừng, dòng sông và cây cầu.
+Theo Ban tổ chức, cuộc thi năm nay có nhiều điểm mới và khó hơn so với các năm trước đây. Trước đây robot di chuyển bằng bánh xe nên việc thiết kế và chế tạo dễ hơn. Năm nay robot phải di chuyển bằng bốn chân nên việc thiết kế chu kỳ bước phải nhấc lên, đặt xuống và điểm chạm rõ ràng. Cơ cấu chuyển động bằng chân khác với bánh xe nên việc đảm bảo cân bằng, vững là nhiệm vụ không đơn giản. Các nhiệm vụ robot cần thực hiện cũng khó hơn như phải leo qua đụn cát và bước qua dây. Chính khó khăn này khiến số lượng các đội tham gia vòng loại năm nay giảm hẳn (chỉ còn 43 đội) năm trước là hơn 70 đội.
+Năm 2018 Việt Nam là nước chủ nhà đăng cai ABU Robocon 2018. Với chủ đề "Ném còn" Đại học Lạc Hồng (LH - GALAXY) là đội chiến thắng và giành ngôi vô địch. 

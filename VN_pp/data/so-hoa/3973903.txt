@@ -1,0 +1,16 @@
+TITLE: Apple, Samsung bị kiện vì bức xạ trên iPhone, smartphone Galaxy - VnExpress Số Hóa
+
+KEY WORDS: Apple, Samsung, kiện tụng, bức xạ, sóng vô tuyến
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo đơn kiện gửi lên tòa án Quận Bắc California (Mỹ) đầu tuần này, nhóm người dùng cáo buộc Apple và Samsung không minh bạch về bức xạ sóng vô tuyến. Không có công ty nào đưa ra cảnh báo về những ảnh hưởng tiêu cực tiềm ẩn liên quan đến loại sóng này, ít nhất là trên tài liệu tiếp thị.
+Galaxy S8 (bên trái) và iPhone 7 (bên phải) - hai smartphone có chỉ số bức xạ RF cao. Ảnh: Phonearena.
+Nhóm người trên đã liệt kê một loạt tác hại của việc nhiễm bức xạ RF. Các tác động bao gồm tăng nguy cơ ung thư, căng thẳng tế bào, tổn thương di truyền, thay đổi cấu trúc và chức năng của hệ thống sinh sản, thiếu hụt học tập và trí nhớ, rối loạn thần kinh và tác động tiêu cực đến sức khỏe nói chung ở người.
+Riêng Apple, phía nguyên đơn cho rằng công ty đã "che đậy mọi rủi ro bằng cách trình bày sai sự thật về sự an toàn của điện thoại thông minh", khiến khách hàng hiểu lầm khi không thông báo cho họ về tác động xấu tiềm ẩn từ phơi nhiễm bức xạ của iPhone. Họ cũng cho rằng trước đây Apple luôn công bố thông tin về RF cũng như Tỷ lệ hấp thụ riêng (SAR) công khai, nhưng lại ngừng từ khi ra iPhone 7 - smartphone có tỷ lệ phát ra bức xạ RF rất cao, theo kết quả nghiên cứu của Chicago Tribune.
+Hầu hết thông tin trong đơn kiện được trích dẫn từ báo Chicago Tribune.
+Trước đó, các chuyên gia đã đo độ bức xạ trên 11 mẫu điện thoại phổ biến tại Mỹ và cho thấy hàng loạt thiết bị Apple (iPhone 7 , iPhone X, iPhone 8, iPhone 8 Plus) và Samsung (Galaxy S8, Galaxy S9 và Galaxy J3) có mức RF cao hơn tiêu chuẩn cho phép mà Ủy ban Truyền thông liên bang Mỹ (FCC) đưa ra (1,6 W/kg), chẳng hạn iPhone 7 có hầu hết chỉ số vượt ngưỡng ở mọi khoảng cách, hay Galaxy S8 vượt 500% ở khoảng cách 2mm.
+"Kết quả từ Chicago Tribune cho thấy các nhà sản xuất điện thoại có thể đang cố tình che giấu những gì họ biết về lượng bức xạ phát ra từ smartphone", Beth Fegan, một trong hai luật sư phụ trách pháp lý cho nguyên đơn, cho biết.
+Apple và Samsung chưa đưa ra bình luận.
+Bảo Lâm (theo Appleinsider)

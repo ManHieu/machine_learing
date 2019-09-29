@@ -1,0 +1,29 @@
+TITLE: Đánh giá Google Assistant: nhận dạng tốt tiếng Việt nhưng cách xử lý tình huống chưa tự nhiên - VnExpress Số Hóa
+
+KEY WORDS: Google Assistant, trợ lý ảo, trợ lý giọng nói, tiếng Việt
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Tiếng Việt được bổ sung vào Google Assistant từ ngày 1/5, trở thành trợ lý giọng nói đầu tiên mà người Việt Nam có thể sử dụng bằng ngôn ngữ bản địa. Tuy nhiên hiện tại, người dùng thiết bị Android cần đăng ký chương trình thử nghiệm của Google và các máy iOS phải chuyển tài khoản sang khu vực Mỹ mới có thể trải nghiệm tiếng Việt trên Google Assistant, trước khi dịch vụ này chính thức được giới thiệu tại Việt Nam vào ngày 6/5 tới.
+Google Assistant làm được gì?
+Trợ lý giọng nói có thể coi là bản cải tiến của tính năng ra lệnh bằng giọng nói, trong đó ngôn ngữ được xử lý tự nhiên hơn, có sự tương tác giữa người dùng với thiết bị theo cách gần gũi. Trên Assistant, trợ lý này có thể giúp người dùng thao tác mà không cần chạm vào điện thoại như yêu cầu gọi điện hoặc nhắn tin cho một ai đó, hẹn giờ, đặt nhắc nhở, lên lịch hẹn...
+ 
+ 
+Trợ lý ảo Google Assistant hỗ trợ tiếng Việt
+Dùng thử Google Assistant với tiếng Việt.
+Ngoài ra, người dùng có thể thiết lập các cài đặt trên điện thoại bằng giọng nói thông qua Google Assistant, bao gồm tắt hoặc mở Bluetooth, Wi-Fi, chế độ máy bay, đèn flash, điều chỉnh âm lượng... Trợ lý của Google cũng hỗ trợ ra lệnh để khởi chạy một ứng dụng bất kỳ đã được cài đặt trên smartphone.
+Tìm kiếm là thế mạnh của Google và trên Assistant thì nhiều thông tin được đưa ra dưới dạng câu trả lời bằng giọng nói, đi trực tiếp vào vấn đề thay vì người dùng cần đọc và chọn lọc lấy thông tin mình cần. Nó bao gồm câu hỏi về thời tiết, chỉ đường, tính toán khoảng cách giữa các địa điểm... Trợ lý của Google cũng có thể làm tính, chuyển đổi đại lượng, tính tỷ giá... trả lời các câu hỏi liên quan đến thể thao, du lịch, tìm nhà hàng, trạm xăng...
+Cập nhật ngôn ngữ của Google còn cho phép người dùng điều khiển các thiết bị thông minh trong nhà bằng tiếng Việt. Bạn có thể ra lệnh bật, tắt đèn, tăng giảm độ sáng, kích hoạt robot hút bụi... cũng như các sản phẩm khác hỗ trợ Home - chương trình quản lý nhà thông minh của Google.
+Giọng nói tự nhiên nhưng cách xử lý còn "cứng"
+Khả năng nhận dạng tiếng Việt trên Google Assistant rất tốt, có thể hoạt động tốt với giọng nói của các vùng miền, tiếng địa phương. So với giọng đọc trước đây áp dụng với Google Dịch hay Google Bản đồ, giọng nói tiếng Việt trên Assistant mềm mại, khá gần gũi với cách con người trò chuyện chứ không còn máy móc kiểu giọng của của "chị Google". Dù vậy, khả năng ngắt câu, phát hiện chữ viết tắt cần được cải thiện.
+Cùng một nội dung nhưng cách hỏi khác nhau có thể "làm khó" Assistant.
+Hạn chế lớn của Google Assistant hiện nay phải kể đến cách xử lý câu hỏi theo tình huống tự nhiên. Chẳng hạn khi hỏi: "500 đô la Mỹ bằng bao nhiêu Việt Nam đồng", trợ lý không đưa ra được câu trả lời trực tiếp mà chỉ gợi ý các kết quả từ Google Search. Nhưng đổi câu hỏi thành: "500 USD bằng bao nhiêu VND (đọc: vê-nờ-đê)" thì Assistant đổi thẳng ra con số tính theo tỷ giá. Tương tự vậy, hỏi "bao giờ đến Tết" hay "mấy ngày nữa đến Tết" sẽ không có câu trả lời trực tiếp, trong khi đó hỏi "bao lâu nữa đến Tết" thì lại có kết quả là "242 ngày".
+Để Assistant hoạt động hiệu quả hơn, người dùng cần chuẩn hóa dữ liệu của mình. Chẳng hạn, một số người dùng có thói quen ghi danh bạ theo tên viết tắt như "C Thủy" tức "Chị Thủy" thì lúc muốn trợ lý giọng nói gọi điện, nhắn tin cho người này sẽ phải đọc theo kiểu tên viết tắt (đọc: xi-thủy hoặc cờ-thủy). Để tiện hơn, có thể gán mối quan hệ cho liên lạc này (nếu có), khi đó có thể ra lệnh dạng: "Gọi điện thoại cho chị gái, anh trai, bố, mẹ..." thay vì nhắc tên riêng.
+Đặc biệt, việc điều khiển các thiết bị smarthome theo tên riêng của phòng chưa tốt. Thử với nhiều tính huống, Google Assistant hiển thị các kết quả tìm kiếm thay vì thực hiện lệnh. Để khắc phục, người dùng có thể gán chức năng cho phòng thay vì dùng tên riêng, tương tự với tình huống của danh bạ. Mặc dù đã hỗ trợ tiếng Việt nhưng với các câu lệnh cho nhà thông minh, Assistant lại trả lời bằng tiếng Anh. Có thể nói hiện nay, trợ lý của Google chưa hỗ trợ tốt tiếng Việt để điều khiển nhà thông minh.
+Assistant bỏ xa các trợ lý ảo khác
+Còn những hạn chế nhưng Google là "ông lớn" duy nhất hiện nay có trợ lý ảo hỗ trợ tiếng Việt. Trong khi đó, Siri của Apple, Amazon của Alexa hay Cortana của Microsoft đều chưa thể dùng tiếng Việt. Hơn nữa, các dịch vụ khác trong hệ sinh thái của Google cũng đáp ứng tốt hơn nhu cầu của người dùng trong nước so với các hãng kia. Chẳng hạn, Google Maps được đánh giá thông minh, chi tiết và hỗ trợ tốt tại Việt Nam hơn Apple Maps.
+Assistant trên Android có thể thực hiện một số tác vụ mà trên iOS không có.
+Tuy nhiên, mức độ "thông minh" giữa Assistant trên iOS chưa bằng Android do sự đồng bộ và tính chất bảo mật của hai hệ điều hành này. Một ví dụ là Assistant có thể bật, tắt Wi-Fi, Bluetooth trên smartphone Android nhưng với iPhone thì không. Hay khi muốn gọi điện, nhắn tin thì các máy iOS yêu cầu người dùng phải bấm "Xác nhận" hoặc "Gửi", trong khi máy Android không có bước này. Rõ ràng Assistant và Android cùng của Google phát triển nên sẽ tương thích tốt hơn.
+Việc Google Assistant dùng được với tiếng Việt sẽ giúp người dùng khai thác thêm các tính năng trên điện thoại thông minh, đặc biệt là với smarthome - xu hướng ngày càng nở rộ tại Việt Nam. Song song với sự thông minh của máy móc, người dùng cũng đứng trước thách thức về quyền riêng tư, khả năng bị nghe lén hay thông tin cá nhân được cho mục đích riêng của nhà sản xuất. 
+Đình Nam

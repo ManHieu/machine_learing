@@ -1,0 +1,19 @@
+TITLE: Kiểm soát hành trình là gì
+
+KEY WORDS: hiểu nhầm về kiểm soát hành trình, kiểm soát hành trình, cruise control
+
+TOPIC: vnexpress, xe, tư vấn, kỹ năng lái
+
+CONTENT: 
+Các chuyên gia đào tạo lái xe của các hãng cho biết, họ nhận được nhiều câu hỏi về hệ thống kiểm soát hành trình như cách sử dụng, lợi ích. Tuy vậy, nhiều tài xế chưa hiểu chính xác. Dưới đây là hai hiểu nhầm cơ bản. 
+1. Kiểm soát hành trình luôn luôn tiết kiệm nhiên liệu 
+Cruise Control là kiểm soát tốc độ (ga tự động) chứ không phải kiểm soát nhiên liệu tiêu thụ. Nhiệm vụ của hệ thống này là duy trì tốc độ mà tài xế lựa chọn mà không cần quan tâm tới những yếu tố khác. Vì vậy, khi gặp đường lên dốc cao xe sẽ tăng cường ga để bù lại phần giảm tốc do trọng lực. Điều đó đồng nghĩa với việc, nhiên liệu tiêu tốn sẽ nhiều hơn. 
+Các nút điều chỉnh trên vô-lăng.
+Nếu là tài xế chủ động, có thể lợi dụng quán tính của lần xuống dốc trước để lên dốc sau, tính toán dải tốc độ phù hợp để không phải đạp quá nhiều ga mà xe vẫn đạt được khả năng vận hành mong muốn. Điều này Cruise Control không thể làm.
+Tuy vậy, nếu chỉ xét trên đường bằng phẳng, thông thoáng như cao tốc, đi bằng kiểm soát hành trình có khả năng tiết kiệm nhiên liệu hơn. Bởi lẽ, khi đó vòng tua máy sẽ ổn định hơn so với tài xế chủ động chân ga.
+2. Tốc độ xe luôn giữ như tốc độ tài xế thiết lập 
+Điều này chỉ đúng khi đi đường bằng phẳng hoặc lên dốc. Khi đó xe can thiệp bằng ga để giữ tốc độ. Tuy vậy, khi xuống dốc, tốc độ xe sẽ lớn hơn, vì ngoài tốc độ cruise control đang duy trì, còn có thêm quán tính. 
+Ví dụ, xe đang duy trì 90 km/h, bất ngờ đường dốc xuống, khi đó tốc độ sẽ tăng lên khoảng 5 km/h, tức ngưỡng 95 km/h, nếu dốc dài có thể lên tới 100 km/h. Nhưng lúc này xe không còn bơm ga, chỉ đơn thuần do lực kéo của quán tính. 
+Adaptive Cruise Control giúp xe duy trì khoảng cách với xe trước.
+Hiện nhiều xe còn có công nghệ kiểm soát hành trình tùy chỉnh (Adaptive Cruise Control). Xe sử dụng radar để quét vùng không gian phía trước giúp duy trì khoảng cách tới xe phía trước bằng cách tự phanh. Ví dụ: khi bạn chạy cruise control 100 km/h, khoảng cách 80 m với xe phía trước. Nếu xe trước đi chậm lại, xe tự động phanh để chạy chậm lại, vẫn duy trì khoảng cách. Sau đó khi xe trước tăng tốc trở lại, xe của bạn cũng sẽ tăng tốc theo. Tất nhiên, tốc độ tối đa không vượt quá mức 100 km/h đã thiết lập.
+Minh Hy 

@@ -1,0 +1,24 @@
+TITLE: Đáp án bài toán đếm trên quả bóng của APMOPS - VnExpress
+
+KEY WORDS: đáp án, bài toán, đếm hình, quả bóng, APMOPS
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 27: Counting on the Soccer Ball
+Problem: As shown in the diagram, a soccer ball is made of 32 patches of leather. Each black patch is a pentagon adjacent to 5 white patches. Each white patch is a hexagon adjacent to 3 black and 3 white patches. How many white patches are there altogether?
+Dịch đề: Hình vẽ là một quả bóng đá được làm từ 32 miếng da. Mỗi miếng màu đen là một ngũ giác tiếp xúc với 5 miếng màu trắng. Mỗi miếng màu trắng là một lục giác tiếp xúc với 3 miếng đen và 3 miếng trắng. Hỏi có tất cả bao nhiêu miếng màu trắng?
+Lời giải:
+Gọi số miếng da màu trắng và màu đen lần lượt là a và b thì a + b = 32 (1).
+Mỗi miếng da màu trắng hình lục giác có 6 cạnh, trong đó có 3 cạnh chung với 3 miếng da màu đen hình ngũ giác nên tổng số cạnh của các miếng da màu đen là 3a.
+Mỗi hình ngũ giác có 5 cạnh nên tổng số cạnh của các miếng da màu đen là 5b.
+Từ đó ta có 3a = 5b (2).
+Từ (1) và (2) suy ra a = 20 và b = 12.
+Vậy có tất cả 20 miếng da màu trắng.
+Solution
+Let the number of white patches and black patches be a and b respectively.
+Then a + b = 32 (1).
+Since each hexagonal white patch has 6 sides, 3 of which are adjacent to 3 black patches, the total number of sides of the black patches is 3a.
+Since each pentagonal black patch has 5 sides, the total number of sides of the black patches is also 5b. It follows that 3a = 5b (2).
+From (1) and (2), we have a = 20 and b = 12.
+Thus, there are 20 white patches. 

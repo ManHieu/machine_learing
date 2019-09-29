@@ -1,0 +1,14 @@
+TITLE: Trung Quốc cài phần mềm gián điệp lên điện thoại của khách du lịch - VnExpress Số Hóa
+
+KEY WORDS: Trung Quốc, Tân Cương, giám sát, khách du lịch, gián điệp, phần mềm
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Người nước ngoài nhập cảnh vào Trung Quốc ở khu vực Tân Cương bị cài đặt phần mềm độc hại lên điện thoại, theo báo cáo từ hàng loạt ấn phẩm như Guardian, Motherboard, New York Times. Nhân viên an ninh sẽ yêu cầu khách du lịch giao lại điện thoại và cung cấp mật khẩu mở máy.
+Trung Quốc tăng cường giám sát khi cài phần mềm gián điệp lên điện thoại của khách du lịch. Ảnh minh họa: The Verge.
+Nếu khách dùng iPhone, nó sẽ được cắm vào một thiết bị để quét nội dung lưu trữ trên đó. Đối với điện thoại Android, nhân viên hải quan sẽ cài ứng dụng gián điệp có tên "BXAQ" hoặc "Fēng cǎi" nhằm thu thập thông tin.
+Các dữ liệu được lấy bao gồm danh bạ điện thoại, tin nhắn, lịch sử cuộc gọi, lịch... sau đó tải lên máy chủ. Ngoài ra, chương trình còn quét smartphone của khách du lịch để tìm các nội dung liên quan đến Hồi giáo cực đoan, sách học thuật về Hồi giáo...
+Nguồn tin nói rằng ứng dụng gián điệp sẽ bị xóa sau khi kết thúc quá trình kiểm tra, tuy nhiên một số nhân viên đã có lần quên. Ứng dụng này sau đó được chuyển cho các chuyên gia an ninh mạng để phân tích, dẫn đến phát hiện trên.
+Theo New York Times, gần đây Trung Quốc liên tục tăng cường giám sát khu vực Tân Cương, nơi sinh sống chủ yếu của một số dân tộc thiểu số bao gồm người Duy Ngô Nhĩ và một nhóm người Hồi giáo. 
+Bảo Anh (theo Verge)

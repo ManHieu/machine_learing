@@ -1,0 +1,38 @@
+TITLE: Đáp án bài toán tô màu 4 phút trong kỳ thi IMSO 2018 - VnExpress
+
+KEY WORDS: đáp án bài toán, bài toán tô màu, kỳ thi IMSO, IMSO 2018
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 21: GRAPH COLOURING
+Problem: Each hexagon is coloured either red, yellow or blue, such that no two hexagons connected by a line segment have the same colour. In how many different ways can we colour the figure?
+Dịch đề: Dùng ba màu đỏ, vàng, xanh để tô màu các hình lục giác sao cho cứ hai hình được nối với nhau bằng đoạn thẳng thì phải khác màu. Hỏi có bao nhiêu cách tô màu sơ đồ dưới đây?
+Hướng dẫn giải:
+Bước 1: Tô màu cho 4 ô nằm ở bên trong của sơ đồ:
+- Có 3 cách chọn màu cho ô thứ nhất.
+- Có 2 cách chọn màu cho ô thứ hai có đoạn thẳng kết nối ô thứ nhất.
+- Tô màu cho ô thứ 3 đối diện với ô thứ nhất có 2 khả năng sau đây:
++ Nếu ô thứ 3 và ô thứ nhất có màu giống nhau thì tô màu cho ô thứ 4 có 2 cách.
++ Nếu ô thứ 3 và ô thứ nhất có màu khác nhau thì tô màu cho ô thứ 4 có 1 cách.
+Vậy tô màu cho 4 ô ở bên trong có: 3 x 2 x 2 + 3 x 2 x 1 = 18 (cách).
+Bước 2: Tô màu cho 4 ô nằm ở ngoài cùng trong sơ đồ:
+Mỗi ô bên ngoài đều có 2 cách tô màu khác với màu của ô bên trong có đoạn thẳng kết nối với nó nên có 2 x 2 x 2 x 2 = 16 (cách) tô màu cho 4 ô nằm bên ngoài.
+Kết luận:
+Mỗi cách tô màu cho 4 ô ở bên trong đều có 16 cách tô màu cho 4 ô ở bên ngoài. Vậy, số cách tô màu cho 8 ô trong sơ đồ là: 18 x 16 = 288 (cách).
+Ảnh: edX Blog
+Solution:
+Step 1: Choose the color for the four inner hexagons.
+- There are 3 ways to choose the color for the first hexagon.
+- There are 2 ways to choose the color for the second hexagon which is connected to the first one.
+- For the third hexagon, which is opposite the first one, there are two possibilities:
++ If the third hexagon and the first one are similarly colored, then there are 2 ways to choose the color the fourth hexagon.
++ If the third hexagon and the first one are differently colored, then there is 1 way to choose the color the fourth hexagon.
+Thus, the total number of ways to color the 4 inner hexagons is:
+3 x 2 x 2 + 3 x 2 x 1 = 18 (ways).
+Step 2: Choose the color for the 4 outer hexagons.
+There are two ways to choose the color for each external hexagon such that any two hexagons connected by a line segment are differently colored.
+Thus, there are 2 x 2 x 2 x 2 = 16 ways to color the 4 external hexagons.
+Conclusion:
+For every coloring of the 4 inner hexagons, there are 16 ways to color the 4 outer hexagons.
+Therefore, the total number of ways to color the 8 hexagons is: 18 x 16 = 288 (ways.) 

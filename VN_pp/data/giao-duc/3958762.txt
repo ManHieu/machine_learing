@@ -1,0 +1,19 @@
+TITLE: Đáp án bài toán diện tích trong đề thi InIMC 2017 - VnExpress
+
+KEY WORDS: Đáp án, bài toán, diện tích, kỳ thi InIMC 2017, đố vui toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 45. FINDING AREA OF RIGHT ISOSCELES TRIANGLES
+Problem: Thediagram shows eight isosceles right triangles placed around a point so that the hypotenuse of each triangle coincides with the leg of the next triangle. If the total area of all eight triangles is 637.5 cm2, find the area, in cm2, of the shaded triangle.
+Dịch đề: Hình dưới biểu diễn 8 tam giác vuông cân xếp xung quanh 1 điểm sao cho cạnh huyền của tam giác này trùng với cạnh góc vuông của tam giác liền kề. Biết tổng diện tích của các tam giác là 637.5 cm2, tính diện tích tam giác tô đậm theo cm2.
+Lời giải:
+Để ý rằng trong 2 tam giác vuông liên tiếp có chung nhau một cạnh thì tam giác lớn có diện tích gấp 2 lần diện tích tam giác nhỏ. Từ đó nếu gọi diện tích tam giác nhỏ nhất là a cm2 thì tổng diện tích của tất cả các tam giác là:
+S = a × (1 + 2 + 4 + 8 + 16 + 32 + 64 + 128) = 255a = 637.5 (cm2)
+Suy ra diện tích tam giác tô đậm là 16a = 16 × (637.5 : 255) = 40 (cm2).
+Solution:
+Notice that between two triangles with one common side, the area of the larger triangle is twice that of the smaller triangle. Thus, if we denote the area of the smallest triangle as a cm2, then the total area of all triangles is:
+S = a × (1 + 2 + 4 + 8 + 16 + 32 + 64 + 128) = 255a = 637.5 (cm2)
+It follows that the area of the shaded triangle is: 16a = 16 × (637.5 : 255) = 40 (cm2).
+Minh Phương 

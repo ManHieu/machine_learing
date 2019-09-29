@@ -1,0 +1,21 @@
+TITLE: Hãng Đức thử nghiệm túi khí bên ngoài ôtô
+
+KEY WORDS: túi khí ngoài, túi khí ôtô, ZF
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+ 
+ 
+Ôtô có thể trang bị túi khí ngoài
+Video: ZF
+Trong thử nghiệm, hệ thống được lắp đặt trên mẫu Opel Insignia wagon thế hệ cũ. Nhiều cảm biến phụ trợ được gắn thêm trên ba-đờ-sốc và gương chiếu hậu, giúp xác định thời điểm cần kích hoạt túi khí. Khi xe đang chạy, một ôtô khác (bằng nhựa dẻo) chạy tới đâm vuông góc. Túi khí bung ra trong tích tắc trước khi va chạm, lãnh trọn cú đâm.
+ZF cho biết, các túi khí kết nối với hệ thống cảm biến của xe và hãng phát triển thuật toán để hệ thống này có thể xác định va chạm sắp xảy đến và quyết định có bơm phồng túi khí hay không. 
+Túi khí ngoài lớn hơn gấp 5 đến 8 lần túi khí thường dành cho tài xế. Khi phát hiện va chạm, hệ thống khởi động chỉ trong 150 mili giây, bơm phồng một túi khí lớn, trải rộng từ cột A đến cột C, tạo ra vùng biến dạng phụ trợ ngoài cửa xe.
+Hệ thống túi khí này sử dụng camera, radar và công nghệ quét laser từ trên không (lidar) để xác định các va chạm không thể tránh được. Toàn bộ hệ thống này thường thấy trên dòng xe tự động. 
+Loại túi khí mới bổ sung không gian để lực tác động từ va chạm được hấp thụ và tiêu hao. Kết quả giảm thiểu đáng kể lượng lực tác động đến người bên trong,  giảm tổn hại, thậm chí trong trường hợp tai nạn nhỏ, tránh hư tổn cho ôtô. Theo ZF, túi khí ngoài có thể giảm nhẹ mức nghiêm trọng của thương tổn cho hành khách tới 40%. 
+Túi khí bung ra từ dưới gầm xe, giảm tác động từ va chạm bên sườn. Ảnh: ZF
+Ý tưởng này từng được ZF giới thiệu vào tháng 12/2018. Khi đó, túi khí bên hông xe của ZF đối mặt với những thách thức như cấu trúc thân xe bị ảnh hưởng, thậm chí nội thất. Bên cạnh đó là hệ thống máy tính hoạt động chính xác mức độ nào. Lượng khí bơm đầy cần phải nhanh để thích ứng kịp thời, thiết lập vùng giảm chấn trước khi hai xe va chạm. Giờ đây, ý tưởng đã bắt đầu được kiểm nghiệm thực tế.
+Hiện chưa có thông tin về việc loại túi khí mới có được ứng dụng vào thực tiễn hay không. Nếu có, sẽ phải mất thêm nhiều năm nghiên cứu và hoàn thiện hệ thống, tránh mọi nhầm lẫn.
+Túi khí bên ngoài xe không phải là một ý tưởng mới trong ngành công nghiệp xe hơi thế giới. Volvo từng giới thiệu túi khí ở kính chắn gió nhằm bảo vệ người đi bộ hồi 2012. Hãng Hyundai trong 2017 đã thử nghiệm và dự kiến lắp túi khí cho cửa sổ trời trên các mẫu xe đa dụng gầm cao (SUV) của hãng thời gian tới.
+Mai Huyền 

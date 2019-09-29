@@ -1,0 +1,16 @@
+TITLE: Ứng dụng Android lén gửi dữ liệu người dùng cho Facebook - VnExpress Số Hóa
+
+KEY WORDS: Facebook, dữ liệu, nghe lén, quyền riêng tư
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Privacy International, các ứng dụng này có thể kể đến MyFitnessPal, DuoLingo, Kayak, Indeed, Shazam, Skyscanner, Spotify, TripAdvisor và Yelp.
+Thông tin gồm tên ứng dụng và ID Google duy nhất của người dùng, được gửi đi dù người dùng có tài khoản Facebook hay không. Từ dữ liệu này, Facebook có thể xây dựng chính xác và khá hoàn chỉnh về hồ sơ của người sử dụng.
+Một số ứng dụng gửi dữ liệu cho Facebook. Ảnh: AndroidPolice.
+Báo cáo cho biết, một số ứng dụng gửi tới Facebook thông tin "rất chi tiết và nhạy cảm". Ví dụ, công cụ tổng hợp giá vé Kayak gửi tới mạng xã hội này dữ liệu về các chuyến bay mà người dùng đã tìm kiếm trên đó với ngày khởi hành, các sân bay, số người đi, hạng vé...
+Ngay cả khi chọn "Từ chối cá nhân hóa quảng cáo" với các ứng dụng cài trên Android, dữ liệu vẫn bị các phần mềm chuyển cho Facebook. Google cho biết nếu người dùng vô hiệu hóa "cá nhân hóa quảng cáo" trong cài đặt, hồ sơ sẽ được bảo mật, song Privacy International đã chứng minh điều ngược lại.
+Facebook nói trách nhiệm của các nhà phát triển ứng dụng là thu thập dữ liệu hợp pháp với sự đồng ý của người dùng. Tuy nhiên, vào tháng 6/2018, Facebook đã tung tính năng cho phép các nhà phát triển trì hoãn việc thu thập dữ liệu cho đến khi người dùng đồng ý.
+Tính năng trên được thêm vào đúng lúc Quy định chung về bảo vệ dữ liệu (GDPR) của châu Âu có hiệu lực, trong đó ngăn các công ty sử dụng dữ liệu cá nhân mà không được sự đồng ý. Những công ty không tuân thủ có thể bị phạt 4% doanh thu hoặc 23 triệu USD, tùy theo mức nào cao hơn.
+Về phía các ứng dụng, Skyscanner khẳng định không gửi dữ liệu tới Facebook, còn các nhà phát triển phần mềm khác chưa đưa ra bình luận. Giữa hàng loạt chương trình lén gửi dữ liệu vẫn còn một số nói không như Candy Crush Saga, Opera Browser hay Speedtest by Ookla. 
+Bảo Anh

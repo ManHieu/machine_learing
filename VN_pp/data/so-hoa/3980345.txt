@@ -1,0 +1,20 @@
+TITLE: Apple đã nâng cấp những gì với camera trên biPhone 11, iPhone 11 Pro và iPhone 11 Pro Max - VnExpress Số Hóa
+
+KEY WORDS: Apple, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, camera, chụp ảnh
+
+TOPIC: số hóa, sản phẩm, iphone 2019
+
+CONTENT: 
+Đối với iPhone 11, Apple trang bị cho máy camera kép phía sau, với ống kính tiêu chuẩn 12 megapixel 26mm, khẩu độ f/1.8, hỗ trợ ổn định hình ảnh quang học (OIS). Máy ảnh này đã được nâng cấp chế độ ban đêm (Night mode) mới, để cạnh tranh về chụp đêm với tính năng Night Vision trên Pixel của Google. Apple cũng đã cải tiến khả năng xử lý hình ảnh nhằm giữ lại nhiều chi tiết hơn, giúp chủ thể nổi bật hơn trong mỗi lần chụp.
+Apple lần đầu đưa tính năng chụp ảnh góc siêu rộng lên iPhone. Ảnh: The Verge.
+Trong khi đó, ống kính góc siêu rộng cũng có cảm biến độ phân giải 12 megapixel, tiêu cự 13mm, khẩu độ f/2.4 cùng góc 120 độ (thấp hơn 123 độ của Note10). Thay vì tập trung cho chụp chân dung, Apple đã khiến người dùng bất ngờ khi dùng ống kính góc siêu rộng này. Từ những hình ảnh trình diễn tại sự kiện, việc chụp ảnh với góc này được đánh giá tốt, đặc biệt là không có tình trạng chi tiết hình bị méo.
+Công ty Mỹ cũng trang bị cho iPhone 11 camera trước 12 megapixel với tính năng quay video chậm (slow-motion) độ phân giải 4K 60 khung hình/giây. Camera selfie của máy giờ đây cũng có thể chụp ảnh góc rộng hơn khi xoay ngang. Đây cũng là lần đầu tiên Apple nâng cấp độ phân giải cho camera trước iPhone, từ 7 megapixel lên 12 megapixel.
+Chụp đêm bằng iPhone 11 khi bật Night Mode (bên phải) và khi tắt (bên trái). Ảnh: The Verge.
+Đối với iPhone 11 Pro và 11 Pro Max, Apple đưa vào hệ thống camera ba ống kính, gồm hai ống tương tự thông số của iPhone 11 và ống còn lại cho chụp tele/chân dung độ phân giải 12 megapixel, OIS. Đáng tiếc, cảm biến ToF để đo khoảng cách 3D chưa xuất hiện trên bộ đôi này. Ngoài ra, cả hai cũng có camera trước tương tự iPhone 11.
+Bên cạnh phần cứng, Apple cũng chú trọng đến phần mềm cho camera trên bộ ba iPhone vừa ra mắt. Công ty có trụ sở tại Cupertino (Mỹ) cho biết đã thực hiện những cải tiến đáng kể nhằm xử lý ảnh và video ghi bằng máy ảnh iPhone mới nhất, trong đó giữ các điểm nổi bật và chi tiết hơn trong mỗi ảnh tĩnh.
+Đặc biệt, khả năng chụp ảnh thiếu sáng trên iPhone đã được "nâng lên tầm cao mới" với Chế độ ban đêm cải tiến. Ảnh chụp được khi bật Night mode cho thấy, ảnh sáng rõ, chi tiết và ít bị nhiễu (noise) hơn so với khi tắt tính năng này.
+Deep Fusion cho phép camera ghép 9 bức ảnh thành 1 bức duy nhất. Ảnh: The Verge.
+Những bức ảnh chụp được bởi iPhone mới cũng chất lượng hơn. Apple đề cập chi tiết về Deep Fusion - tính năng cho phép smartphone chụp tới 9 bức ảnh (trong đó có một bức phơi sáng dài) và ghép chúng thành một. Thông qua hệ thống phân tích dựa trên AI, điện thoại sẽ tạo nên một bức ảnh tối ưu, đảm bảo lấy lại các chi tiết tốt nhất để cho ra bức ảnh hoàn hảo. Phil Schiller, Chủ tịch mảng marketing của Apple, nhấn mạnh đây là điều "điên rồ" trong nhiếp ảnh.
+Đối với smartphone nhiều camera, Apple cũng đã có nỗ lực trong việc ngăn chặn sự thay đổi về độ phơi sáng và tông màu khi chuyển tiếp các ống kính, nhất là khi quay video. Việc thu âm thanh khi phóng to đối tượng mà ống kính đang nhắm đến - tính năng vừa xuất hiện trên Galaxy Note10 - cũng có mặt trên bộ ba iPhone mới.
+Một số chuyên gia cho rằng camera là nâng cấp lớn trên iPhone nếu so với iPhone XS, XS Max trước đó vốn chỉ có camera kép và XR với camera đơn, cũng như các tính năng cho chụp ảnh, đặc biệt là chụp đêm.
+Bảo Lâm (theo The Verge)

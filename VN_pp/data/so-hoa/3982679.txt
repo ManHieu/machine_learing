@@ -1,0 +1,15 @@
+TITLE: Lỗ hổng trên sim khiến 1 tỷ người bị ảnh hưởng - VnExpress Số Hóa
+
+KEY WORDS: hacker, sim, lỗ hổng bảo mật
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Phát hiện bởi nghiên cứu an ninh mạng tại AdaptiveMobile Security có trụ sở tại Dublin (Mỹ), lỗ hổng SimJacker nằm trong bộ công cụ sim động của S@T Browser (SIMalliance Toolbox Browser). Đây là trình duyệt nhúng trong hầu hết thẻ sim (trong đó có cả e-sim) của các nhà mạng ở ít nhất 30 quốc gia trên thế giới, cho phép khởi tạo hoạt động có thể được sử dụng cho các dịch vụ giá trị gia tăng như như email, giá cổ phiếu, tin tức, thể thao... Trình duyệt này cũng hỗ trợ Giao thức ứng dụng không dây (WAP) - một tiêu chuẩn phổ biến cho truy cập internet đầu những năm 2000 nhưng hiện nay đã lỗi thời.
+Mô hình tấn công của hacker thông qua lỗ hổng SimJacker.
+Theo các nhà bảo mật, SimJacker sẽ tấn công mục tiêu bằng cách thực thi các lệnh theo dõi vị trí và lấy mã nhận dạng IMEI của điện thoại. Ban đầu, nó sẽ gửi cho điện thoại mục tiêu một tin nhắn SMS nhị phân có chứa các định dạng hoặc tập lệnh đặc biệt, được truyền trực tiếp đến thẻ mạch tích hợp phổ dụng. Tin nhắn này sẽ chạy trên S@T Browser. Các lệnh khiến S@T Browser gửi vị trí và IMEI của thiết bị đến hacker thông qua tin nhắn SMS riêng.
+Ngoài ra, SimJacker cũng có thể khiến điện thoại thực hiện cuộc gọi, gửi tin nhắn văn bản hoặc thực hiện một loạt lệnh khác. Việc khai thác lỗ hổng không phụ thuộc vào modem mà điện thoại nạn nhân sử dụng, ảnh hưởng cả điện thoại cơ bản lẫn smartphone. Nạn nhân cũng không hề biết rằng mình đang bị tấn công.
+Ở mức độ cao, lỗ hổng này hoạt động bằng cách tận dụng modem GSM (có giá rẻ nhất là 10 USD) để gửi tin nhắn độc hại đến các thiết bị cầm tay sử dụng chức năng của S@T Browser để kích hoạt lệnh đặc biệt.
+Đáng lo ngại hơn, các chuyên gia cho biết một công ty tư nhân đã phát hiện lỗ hổng zero-day SimJacker từ cách đây 2 năm và đang âm thầm khai thác nó tại một số quốc gia. Thậm chí, doanh nghiệp này còn hợp tác với chính phủ nhằm giám sát cá nhân mục tiêu.
+Hiện chưa có cách hạn chế vấn đề. AdaptiveMobile Security khuyến cáo các nhà mạng nên triển khai bản cập nhật bảo mật bổ sung cho tin nhắn dựa trên S@T Browser, bằng cách lọc các SMS nhị phân bất hợp pháp, đồng thời thay đổi cài đặt bảo mật trên sim của người dùng.
+Bảo Lâm (theo The Next Web)

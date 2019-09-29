@@ -1,0 +1,18 @@
+TITLE: Ứng dụng blockchain trong thanh toán vé tàu điện ngầm - VnExpress Kinh Doanh
+
+KEY WORDS: blockchain, ứng dụng blockchain, tiềm năng blockchain
+
+TOPIC: kinh doanh, thương mại điện tử
+
+CONTENT: 
+Những hệ thống blockchain mới và đột phá được triển khai khắp Trung Quốc. Theo một báo cáo đăng trên trang web tài chính địa phương, vừa qua Thâm Quyến đã trở thành thành phố đầu tiên ra mắt hệ thống thanh toán dựa trên blockchain.
+Nền tảng chính thức được triển khai tại ga điện ngầm Futian. Hệ thống sẽ hoạt động kết hợp với các phương tiện giao thông công cộng khác trong đô thị như taxi hay xe buýt sân bay.
+Sáng kiến được phát triển bởi Cục Thuế thành phố Thâm Quyến hợp tác với tập đoàn internet đa quốc gia Tencent - công ty vận hành ứng dụng thanh toán di động và mạng xã hội hàng đầu Trung Quốc WeChat. Các đối tác khác bao gồm tập đoàn tàu điện ngầm Thâm Quyến, tập đoàn MTR Thâm Quyến, công ty công nghệ Gaoguang và Guangdian Express.
+Theo Asia Times, nền tảng cho phép hành khách đi tàu điện ngầm ở Thâm Quyến có thể xem và thanh toán vé điện tử, nhận giấy thanh toán vào cuối chuyến đi thông qua ứng dụng thanh toán WeChat. Tất cả các khoản thanh toán sẽ được ghi lại trên một sổ cái blockchain, hoạt động như một cơ sở dữ liệu kế toán phân tán.
+Một khi hệ thống thanh toán vé tàu điện ngầm bằng công nghệ blockchain hoàn chỉnh tại Thâm Quyến, ước đoán sẽ có 170.000 hành khách sử dụng nó mỗi ngày. Ảnh: iStock.
+Khu đô thị Thâm Quyến giáp với Hong Kong, là một phần của sông Châu Giang, trở thành đặc khu kinh tế đầu tiên của Trung Quốc vào năm 1980. Nơi đây có dân số hơn 20 triệu người và là trung tâm công nghệ hàng đầu tại quốc gia đông dân nhất thế giới.
+Theo Securities Daily, hệ thống tàu điện ngầm của thành phố này chở hơn một triệu hành khách mỗi ngày. Khi hệ thống thanh toán vé blockchain được hoàn chỉnh 100%, 170.000 hành khách có thể sử dụng nó mỗi ngày, có nghĩa "trả tiền khi đi tàu" qua ứng dụng điện thoại.
+Theo tạp chí Technode, tương lai của tiền điện tử vẫn rất được quan tâm tại các chương trình nghị sự trong các cuộc họp chính phủ ở Trung Quốc. Tại cuộc họp hai phiên thường niên, các đại biểu, nhà lãnh đạo đã thảo luận về tiền điện tử và sự cần thiết phải có các quy định rõ ràng hơn. Các động thái cho thấy, dù quốc gia này không có xu hướng nới lỏng về tự do tài chính thì chính phủ vẫn muốn sử dụng công nghệ sổ cái kỹ thuật số để cải thiện hiệu quả trong các ngành công nghiệp.
+Nhằm hỗ trợ các doanh nghiệp, tổ chức hoặc cá nhân có thêm kiến thức về blockchain ứng dụng, VnExpress tổ chức khóa học "Blockchain - Nền tảng tỷ đô" trên ewiki.vnexpress.net. Khóa học do ông Cris D. Tran - Giám đốc quốc gia của công ty tư vấn, cung cấp giải pháp blockchain Infinity Blockchain Ventures (IBV) dẫn dắt.
+Khóa học gồm 12 bài giảng qua video và một tài liệu tổng hợp cuối khóa. Mỗi video kéo dài khoảng 5-10 phút, cập nhật những thông tin, kiến thức mới nhất về blockchain, các ứng dụng trên thực tế và cách thức vận dụng phù hợp nền tảng này vào hoạt động của doanh nghiệp. Ngoài ra, khóa học cũng cung cấp kiến thức chuyên sâu về ba nền tảng tiền mã hóa phổ biến nhất hiện nay, gồm bitcoin (BTC), ethereum (ETH) và cardano (ADA). Tìm hiểu thêm về khóa học tại đây.
+Trương Sanh	

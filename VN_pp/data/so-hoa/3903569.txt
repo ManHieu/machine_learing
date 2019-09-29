@@ -1,0 +1,14 @@
+TITLE: Cách phân biệt AirPods đời đầu và thế hệ 2, sạc thường và sạc không dây - VnExpress Số Hóa
+
+KEY WORDS: AirPods 2, AirPods
+
+TOPIC: số hóa, kinh nghiệm
+
+CONTENT: 
+AirPods 2 được Apple giới thiệu cuối tháng 3 với kiểu dáng giống thế hệ đầu, gây khó khăn cho người dùng khi tìm mua sản phẩm đã qua sử dụng vì khó phân biệt. Apple cũng nhận thấy điều này nên hướng dẫn nhận biết các phiên bản AirPods.
+Số máy được khắc trên mỗi tai nghe AirPods.
+Khi đã kết nối với iPhone hoặc iPad, người dùng vào Cài đặt > Cài đặt chung > Giới thiệu > AirPods. Thông tin về số máy (model number) và số serial sẽ được hiển thị. Ngoài ra, model number cũng được in rất nhỏ ở mỗi bên tai. Nếu số là A1523 hoặc A1722 thì là AirPods thế hệ đầu, A2032 hoặc A2031 là thế hệ hai.
+Vỏ sạc không dây (trái) của AirPods 2 có đèn LED ở bên ngoài. Ảnh: 9to5mac
+Vỏ sạc AirPods 2 hỗ trợ sạc không dây sẽ có đèn LED bên ngoài vỏ hộp. Còn đèn LED ở bên trong (khi mở nắp) thì là vỏ sạc tiêu chuẩn. Số serial cũng được in trên nắp của vỏ sạc, trong đó A1938 là phiên bản 2019 với sạc không dây, A1602 là bản 2017 dùng sạc Lightning.
+AirPods thế hệ hai được nâng cấp với chip H1, tăng 50% thời gian đàm thoại, hỗ trợ Siri liên tục mà không cần gõ hai lần. Pin tương tự thế hệ trước, cho phép nghe nhạc liên tục 5 giờ và mở rộng lên 24 giờ với viên pin bên trong vỏ sạc. AirPods 2 với vỏ sạc không dây có giá 199 USD, còn bản sạc thường giá 159 USD. 
+Bảo Anh

@@ -1,0 +1,13 @@
+TITLE: iPhone 2019 sẽ bỏ cảm ứng lực 3D Touch - VnExpress Số Hóa
+
+KEY WORDS: 3D Touch, Haptic Touch, cảm ứng lực, phản hồi xúc giác
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Các nhà phân tích của Barclays cho biết toàn bộ dòng iPhone thế hệ mới sẽ không được trang bị công nghệ 3D Touch, theo thông tin thu thập từ các nhà cung ứng của Apple tại châu Á.. Đầu năm nay, WSJ cũng trích dẫn nguồn tin với thông báo tương tự.
+3D Touch lần đầu xuất hiện trên iPhone 6s năm 2015 và có thể không có trên iPhone 2019.
+Apple đã thay thế 3D Touch bằng Haptic Touch trên iPhone XR để thiết bị dùng màn hình LCD này vẫn có viền mỏng. Sự điều chỉnh này có thể áp dụng trên tất cả các mẫu smartphone tiếp theo của hãng. Chưa rõ lý do Apple bỏ 3D Touch vì công nghệ này đã được hãng áp dụng trên iPhone XS với màn hình OLED tràn viền mà không gặp bất kỳ vấn đề gì.
+Haptic Touch là tên gọi thương mại khác của công nghệ phản hồi xúc giác mà trước đó Apple đặt là Taptic Engine. Những tác vụ làm được với Haptic Touch không đa dạng bằng 3D Touch, chẳng hạn thiếu khả năng nhấn giữ mạnh để xem nhanh nội dung.
+Sự biến mất của 3D Touch có thể được Apple gợi ý khi giới thiệu iOS 13 tại sự kiện WWDC 2019 diễn ra vào từ 3/6 tại San Jose McEnery Convention Center, California (Mỹ). Trong khi đó dòng iPhone mới sẽ được trình làng vào tháng 9 như lịch trình thường lệ.
+Bảo Anh (theo MacRumors)

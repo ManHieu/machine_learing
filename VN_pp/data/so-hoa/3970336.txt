@@ -1,0 +1,23 @@
+TITLE: Tiềm ẩn mối nguy đằng sau việc chia sẻ số điện thoại - VnExpress Số Hóa
+
+KEY WORDS: số điện thoại, chia sẻ số điện thoại, nguy hiểm việc chia sẻ số điện thoại
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Trong phần lớn cuộc đời của mọi người, số điện thoại là một dữ liệu cá nhân được chia sẻ mà không hề có chút do dự. Những con số này được để lại ở cửa hàng tạp hóa để làm thẻ giảm giá thành viên, ở nhà thuốc để lấy thuốc hoặc trên các trang web để đăng ký sử dụng các ứng dụng... Vậy chia sẻ số điện thoại cá nhân có phải là một việc làm mạo hiểm hay không?
+Chia sẻ số điện thoại trong thời đại công nghệ số, tạo ra nhiều rủi ro cho người dùng. Ảnh minh họa
+Hiện nay, số điện thoại chính của hầu hết mọi người đều là số di động. "Nó gắn liền với chúng ta mọi nơi và bất kể là ngày hay đêm", New York Times nhận định. "Người dùng hiếm khi thay đổi, cho dù đổi công việc hay chỗ ở nhiều lần".
+Đồng thời, những chuỗi chữ số này ngày càng trở nên kết nối hơn với các ứng dụng và dịch vụ trực tuyến gắn liền với cuộc sống cá nhân hàng ngày. Hơn thế nữa, số điện thoại giờ đây còn có thể cung cấp nhiều thông tin ngoại tuyến, bao gồm cả nơi ở và nhiều thứ khác nữa.
+Trên thực tế, số điện thoại cá nhân hiện được đánh giá là thông tin nhận dạng mạnh hơn tên đầy đủ. New York Times đã dẫn chứng từ nghiên cứu của Fyde, công ty bảo mật di động ở Palo Alto về việc đánh giá những rủi ro tiềm ẩn khi chia sẻ số điện thoại: "Chỉ trong một khoảng thời gian ngắn khi có số điện thoại, anh ta đã có đầy đủ hồ sơ về tôi, bao gồm tên và ngày sinh, địa chỉ nơi ở, tiền thuế phải đóng, tên các thành viên trong gia đình".
+Emre Tezisci, nhà nghiên cứu bảo mật tại Fyde cho biết, những thông tin đó được lấy từ White Pages Premium, một cơ sở dữ liệu trực tuyến tính phí 5 USD/tháng để truy cập. "Dữ liệu thu được có thể bị lợi dụng để trả lời các câu hỏi bảo mật của tài khoản trực tuyến, lừa đảo các thành viên trong gia đình. Tuy nhiên, hành động như thế sẽ bị coi là vi phạm pháp luật", nhà nghiên cứu nói. "Tệ hơn, hacker có thể sử dụng thông tin cá nhân liên kết với số điện thoại để lừa nhà cung cấp dịch vụ và chiếm đoạt thẻ sim mới. Sau khi đã có quyền kiểm soát số điện thoại, hắn sẽ truy cập được vào các tài khoản cá nhân, nếu người dùng có cơ chế đăng nhập bằng tin nhắn bảo mật. Và còn nhiều rủi ro khác, như tạo ra các tin nhắn lừa đảo, robocalls...".
+Chỉ với 5 USD, White Pages Premium cung cấp nhiều thông tin người dùng Mỹ thông qua số điện thoại.
+Ngoài ra, một số công ty khi có số điện thoại của khách hàng cũng có thể sử dụng cho các mục đích như quảng cáo nhắm mục tiêu, spam cuộc gọi hoặc tin nhắn khuyến mãi và liên kết với các thông tin giả mạo.
+"Khi cung cấp số điện thoại ra ngoài, bạn sẽ có thêm rủi ro mà không hề hay biết", ông Sinan Eren, Giám đốc điều hành của Fyde nói. "Ngày nay, việc trùng tên xảy ra thường xuyên hơn khi số lượng người trực tuyến tăng lên. Do vậy, số điện thoại sẽ là số nhận dạng mạnh hơn".
+Rất nhiều công ty công nghệ cho phép sử dụng số điện thoại để bảo vệ tài khoản khỏi bị truy cập trái phép, nhưng ngay cả những công ty hàng đầu thế giới như Facebook cũng không sử dụng thông tin này theo đúng cách.
+Năm ngoái, một nghiên cứu của blog công nghệ Gizmodo đã phát hiện ra rằng, sau khi thiết lập xác minh hai bước với số điện thoại, các nhà quảng cáo sẽ tải về thông tin để khớp với hồ sơ cá nhân của người dùng Facebook và phục vụ quảng cáo nhắm mục tiêu. Việc tra cứu ra hồ sơ của một tài khoản Facebook bằng số điện thoại khá dễ dàng đã khiến nhiều người dùng phàn nàn.
+Sau đó, Facebook đã tắt tính năng tìm kiếm tài khoản này. "Khi người dùng thiết lập xác minh hai bước bằng số điện thoại, công ty sẽ không sử dụng thông tin để quảng cáo nhắm mục tiêu", ông Rochelle Nadhiri, phát ngôn viên của Facebook cho biết.
+Tuy nhiên, CEO của Fyde cho biết rằng hiện chưa có giải pháp nào để ngăn chặn hoàn toàn các rủi ro xảy ra bên cạnh việc chia sẻ số điện thoại. "Trong một số trường hợp, việc cung cấp số điện thoại cho các tổ chức như ngân hàng sẽ giúp tài khoản của bạn có thêm một lớp bảo mật. Ngoài ra đều có nguy hiểm tiềm ẩn và phiền toái đến với người dùng khi chia sẻ thông tin này".
+Simon Thorpe, Giám đốc sản phẩm của Twilio, một công ty truyền thông chia sẻ: "Trước tiên hãy tự hỏi liệu lợi ích của việc cung cấp số điện thoại của bạn có cao hơn các rủi ro tiềm ẩn hay không". "Bạn cũng có thể thêm một số điện thoại thứ hai để che giấu liên lạc chính của mình và chia sẻ nó với những người, hoặc thương hiệu mà bạn không hoàn toàn tin tưởng", ông nói.
+"Tôi rất ngạc nhiên về việc dễ dàng có được rất nhiều thông tin của một người với một vài con số. Điều đó thật đáng sợ", nhà phân tích Tezisci nhấn mạnh.
+Ngọc Bình (theo New York Times)

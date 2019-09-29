@@ -1,0 +1,31 @@
+TITLE: Chìa khóa xe Vespa và SH chống trộm như thế nào - VnExpress
+
+KEY WORDS: khóa từ, smartkey, Vespa, SH
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Tại Việt Nam, Piaggio Vespa và Honda SH được nhiều người ưa chuộng trong phân khúc xe tay ga cao cấp. Bên cạnh kiểu dáng, động cơ, khả năng vận hành, nhiều người dùng còn quan tâm đến khả năng chống trộm của xe. Các hãng sản xuất xe máy gần đây áp dụng nhiều công nghệ bảo mật tiên tiến cho các sản phẩm của mình.
+Theo các chuyên gia, việc chống trộm hiệu quả nhất là giảm tối đa khả năng kẻ gian có thể mở được khóa điện và đề nổ máy xe. Vậy chìa khóa của Piaggio Vespa hay Honda SH chống trộm tốt hơn?
+Piaggio Vespa
+Vespa GTS.
+Hãng xe Italy luôn tự hào về khả năng chống trộm của hệ thống khóa từ, cho rằng không thể phá. Thực tế, cộng đồng người sử dụng Vespa tại Việt Nam cho biết rất hiếm trộm nhòm ngó, bởi thực tế nhiều thợ khóa đã thử nhưng không thể mở. 
+Với xe thông thường sử dụng cơ cấu ổ khóa bằng cơ khí, cho phép bật khóa điện khi sử dụng đúng loại răng chìa khóa. Để tăng hiệu quả chống trộm, xe Piaggio được trang bị thêm hệ thống mã hóa khóa động cơ, có tác dụng khóa động cơ bằng cách vô hiệu hóa hệ thống điện điều khiển động cơ (hệ thống phun xăng và đánh lửa). Khi sử dụng không đúng chìa khóa, xe sẽ không thể khởi động.
+Mô phỏng chip từ bên trong chìa khóa xe Piaggio.
+Bên trong chìa khóa từ có gắn các con chíp từ. Chíp từ có khả năng phát ra tín hiệu dưới dạng mã số khi nhận được tín hiệu kích hoạt từ của xe. Mỗi con chíp có một mã từ riêng. Trong quá trình khởi động, chỉ khi chìa khóa được nhận dạng mã từ thì hệ thống mới cho phép động cơ khởi động. Vì vậy, kể cả khi kẻ trộm có bật được khóa điện tới vị trí ON, thì xe vẫn sẽ không khởi động được và hạn chế khả năng bị trộm xe.
+Chìa khóa chính. Chip từ có thể tháo rời, dùng để cài đặt cho chìa khác.
+Chìa khóa phụ. Chip từ gắn cố định bên trong chìa, không thể cài đặt cho chìa khác.
+Khi mua một chiếc Vespa chính hãng, khách hàng sẽ được cấp hai chìa khóa. Trong đó, chìa khóa chính màu nâu hoặc đỏ, chìa khóa phụ màu xanh hoặc đen. Người dùng thường được các đại lý bán hàng tư vấn nên sử dụng chìa khóa phụ và cất giữ chìa khóa chính để đề phòng bị mất.
+Piaggio nói rằng, bằng cách này, khách hàng có thể hạn chế tối đa khả năng bị mất trộm chiếc Vespa của mình. Kẻ gian có ý đồ xấu sẽ không thể nổ máy. Công nghệ được áp dụng từ 2008, nhà sản xuất này cũng nhấn mạnh, việc làm giả được chìa khóa để nổ máy xe là không thể vì mỗi mã từ chỉ được cấp cho một xe duy nhất, tích hợp vào trong khóa xe.
+Honda SH
+Honda SH.
+Từ 2016, Honda áp dụng chìa khóa thông minh cho chiếc xe ga cao cấp nhất của hãng. Cấu tạo hệ thống này bao gồm thẻ khóa thông minh Honda (smart key), cụm khóa điện (khóa tay lái), cụm điều khiển thông minh, bộ vi xử lý trung tâm (ECM), hệ thống đầu kết nối khẩn cấp.
+Tổng quan về khóa thông minh trên Honda SH 2018.
+Khi ấn vào khóa điện, cụm điều khiển thông minh khởi động và đối chiếu mã xác nhận với smart key đang bật. Khoảng cách tối đa từ chìa khóa đến ổ khóa là 2 mét. Sau khi xác nhận thành công, người lái có thể xoay núm khóa để bật tắt khóa điện, mở khóa cổ, khóa yên xe.
+Nếu xoay núm khóa điện sang vị trí Bật (On), Cụm điều khiển thông minh sẽ gửi mã xác nhận động tới ECM. Mã xác nhận được ECM đối chiếu với mã của xe. Sau khi hoàn tất, người lái mới có thể khởi động được động cơ.
+Ổ khóa và chìa thông minh của SH.
+Với hệ thống này, người dùng có thể bật khóa điện, nổ máy mà chỉ cần mang chìa khóa theo người. Nhiều người cho biết, smart key giúp hạn chế việc quên rút chìa khóa sau khi rời khỏi xe. Tình trạng bị mất chìa khóa cũng giảm xuống đáng kể.
+Ngoài ra, hệ thống này còn gia tăng sự bảo mật nhờ tích hợp tính năng định vị vị trí xe. Âm thanh lớn sẽ phát ra nếu chiếc xe bị di chuyển mà không có chìa khóa. Hoặc người dùng cũng có thể tìm thấy xe vào buổi đêm hoặc khi để trong hầm.
+Honda nói rằng, với việc trang bị smart key, chiếc SH sẽ có khả năng chống trộm tốt hơn nhờ việc mã hóa và bảo mật thông tin. Bên cạnh đó, việc làm giả chìa khóa cũng sẽ gây khó khăn cho những kẻ xấu vì không có được ID của xe.
+Tuy vậy, thực tế có những video ghi lại nhiều trường hợp khóa thông minh SH vẫn bị trộm. Có tài xế gạt chân chống để tắt động cơ nhưng quên không xoay khóa về vị trí OFF. Bên cạnh đó, khoảng cách 2m cũng là nhược điểm để các tay trộm dò sóng. Mới đây tại Tiền Giang, nhiều xe máy bất ngờ chết máy, nguyên nhân bởi loại dụng cụ báo khách của các cửa hàng thời trang trùng tần số sóng với khóa thông minh, gây nhiễu loạn. 
+Anh Vũ 

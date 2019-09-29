@@ -1,0 +1,14 @@
+TITLE: 200.000 máy chủ cài Jenkins gặp lỗi - VnExpress Số Hóa
+
+KEY WORDS: hacker, bảo mật
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo chuyên gia bảo mật người Hà Lan Francesco Soncina, thông qua lỗ hổng này, hacker sẽ chiếm được quyền điều khiển máy chủ, kiểm soát toàn bộ hệ thống thông tin của doanh nghiệp và thực hiện các hoạt động trái phép như đánh cắp thông tin, phát tán dữ liệu mật...
+Hiện có hơn 200.000 máy chủ cài đặt Jenkins chứa lỗ hổng được công khai trên Internet. 
+Ảnh: Testools.
+Công ty An ninh mạng Việt Nam VSEC đánh giá lỗ hổng ở mức nghiêm trọng đối với hệ thống máy tính của doanh nghiệp Việt. Cụ thể, hiện nay, CI (Continuous Integration) là một trong những hệ thống phổ biến nhất tại các doanh nghiệp công nghệ Việt Nam, và 80% doanh nghiệp sử dụng hệ thống CI đều dùng Jenkins để tự động hoá trong nhiều công đoạn phát triển phần mềm và sản phẩm có nhiều người dùng như các trang thương mại điện tử, mạng xã hội, ứng dụng chat...
+Lỗ hổng xuất hiện trên Git Client Plugin của Jenkins từ bản 2.8.4 trở về trước. Việc không kiểm soát giá trị đầu vào tại tham số Repository URL trong Git Client Plugin là mấu chốt giúp hacker thực thi mã lệnh trái phép trên máy chủ.
+VSEC khuyến cáo các tổ chức, doanh nghiệp cập nhật bản mới nhất của Git Client Plugin. Ngoài ra, doanh nghiệp cần hạn chế công khai các hệ thống đang sử dụng trong mạng nội bộ, cấu hình Whitelist các IP được truy cập vào các hệ thống quan trọng, đồng thời cài đặt mật khẩu mạnh đối với tài khoản hệ thống kể cả tài khoản có quyền hạn thấp. 
+Châu An

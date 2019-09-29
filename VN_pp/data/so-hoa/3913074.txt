@@ -1,0 +1,16 @@
+TITLE: 23,2 triệu tải khoản trên toàn cầu dùng mật khẩu '123456' - VnExpress Số Hóa
+
+KEY WORDS: mật khẩu, 123456
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Mặc dù nhiều lần cảnh báo từ các chuyên gia bảo mật trực tuyến khuyên không nên sử dụng mật khẩu dễ bẻ khóa, nhưng có vẻ như nhiều người vẫn có thể bị làm phiền khi nghĩ ra một chuỗi ký tự phức tạp hơn để bảo vệ tài khoản của họ.
+Một nghiên cứu gần đây của Trung tâm an ninh mạng quốc gia (NCSC) của Vương quốc Anh đã xem xét cơ sở dữ liệu công khai về các tài khoản bị vi phạm "đăng nhập bởi nhiều người dùng". Kết quả thu được cho thấy mật khẩu đơn giản vẫn là một trong những vấn đề bảo mật nổi cộm, với 23,2 triệu tài khoản trên toàn cầu đã sử dụng dãy số "123456".
+Mật khẩu đơn giản phổ biến thứ hai, không gây quá nhiều ngạc nhiên là dãy số "123456789". Tiếp đó là các mật khẩu "password", "honey", "11111111" và "qwerty".
+Hàng triệu người vẫn cảm thấy phiền phức khi phải nghĩ mật khẩu và lựa chọn các dãy số đơn giản như "123456".
+NCSC đã hợp tác với chuyên gia bảo mật trực tuyến người Australia, Troy Hunt - người đã lập ra trang web Have I Been Pwned - để tìm hiểu thêm về các loại mật khẩu mà mọi người thường sử dụng.
+Website haveibeenpwned cho phép người dùng gõ thử mật khẩu của mình để tìm ra xem có bao nhiêu người dùng khác trên mạng Internet cũng sử dụng dãy số đó và đã bị vướng vào các vi phạm bảo mật. Ví dụ khi nhập vào dãy "zxcvbnm", các chữ cái xuất hiện ở hàng dưới cùng của bàn phím, người dùng sẽ phát hiện mật khẩu này đã xuất hiện trong các vi phạm về dữ liệu hơn 575.000 lần.
+Trên trang web của mình, Hunt cung cấp một số lời khuyên về cách bảo vệ dữ liệu và tài khoản cá nhân như không dùng mật khẩu đơn giản hay sử dụng ứng dụng quản lý mật khẩu nổi tiếng. Ông cũng đề nghị sử dụng xác thực hai yếu tố với các trang web và ứng dụng, để có thêm một lớp bảo vệ chống lại tin tặc. Cuối cùng, người dùng có thể đăng ký các dịch vụ có khả năng thông báo trong trường hợp email của họ xuất hiện trong danh sách dữ liệu bị hack để có thể đặt lại mật khẩu của mình.
+"Nhận ra các mật khẩu phổ biến có khả năng dễ bị tấn công là bước quan trọng đầu tiên trong việc giúp mọi người tăng cường sự an toàn của bản thân trên không gian mạng", Hunt chia sẻ.
+Bảo Nam (theo DigitalTrends)

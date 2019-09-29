@@ -1,0 +1,11 @@
+TITLE: Bài toán tung đồng xu trong đề thi InIMC 2017 - VnExpress
+
+KEY WORDS: Bài toán, tung đồng xu, đề thi InIMC 2017, thể dục trí não, đố vui toán học, toán tiếng Anh
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 35. COIN TOSSING
+Problem: Each of A and B, both starting with 50 dollars each, takes turns in tossing a coin. If the coin lands heads, the other player loses 4 dollars; if the coin lands tails, the other player wins 3 dollars. After each player has tossed the coin 10 times, A has 42 dollars more than B. If A got heads 6 times, how many times did B get heads?
+Dịch đề: A và B mỗi người có 50 đôla. Họ luân phiên tung đồng xu. Nếu đồng xu hiện mặt ngửa thì người còn lại bị mất 4 đôla; nếu đồng xu hiện mặt sấp thì người còn lại được nhận 3 đôla. Sau khi mỗi người đã tung đồng xu 10 lần, A có nhiều hơn B 42 đôla. Biết A tung đồng xu được 6 lần hiện mặt ngửa, hỏi B tung đồng xu được bao nhiêu lần hiện mặt ngửa?
+ 

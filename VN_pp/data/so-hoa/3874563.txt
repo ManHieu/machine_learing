@@ -1,0 +1,16 @@
+TITLE: iPhone XS Max một sim được 'độ' thành hai sim vật lý - VnExpress Số Hóa
+
+KEY WORDS: iPhone, iPhone 2 sim, độ, iPhone XS Max
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+iPhone XS, XS Max và XR là những điện thoại đầu tiên của Apple có tính năng hai sim. Tuy nhiên, chỉ có phiên bản tại Trung Quốc mới có hai sim vật lý, trong khi các thị trường còn lại sử dụng một sim thường và esim (sim điện tử).
+Để thử nghiệm việc hỗ trợ hai sim vật lý trên iPhone XS Max một sim, kênh YouTube REWA Technology tiến hành tháo tung máy, thay đổi kết cấu thiết bị và đạt thành công ngoài mong đợi.
+Cụ thể, kênh này mở iPhone XS Max, sau đó tháo bo mạch chủ (mainboard), tách khay chứa một sim và thay bằng khay hai sim. Để tương thích, chip U_SIM dùng cho quản lý một sim vật lý và esim cũng bị loại bỏ, thay bằng chip mới. Một số điện trở được hàn thêm vào vị trí cần thiết trên bo mạch.
+Sau khi hoàn tất, kỹ thuật viên sử dụng khay mới, gắn hai sim và khởi động máy. Kết quả, máy xuất hiện hai cột sóng trên thanh trạng thái, thông báo máy có thể hoạt động với hai sim vật lý. REWA Technology cũng đã thử nghiệm cuộc gọi, nhắn tin, kết nối dữ liệu di động và chúng đều hoạt động bình thường.
+ 
+ 
+Độ thành công iPhone XS Max một sim thành hai sim vật lý
+Quá trình độ iPhone XS Max một sim thành hai sim.
+Bảo Lâm

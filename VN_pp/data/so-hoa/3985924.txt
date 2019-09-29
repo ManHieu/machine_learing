@@ -1,0 +1,16 @@
+TITLE: 'Nội thất' iPhone 11 Pro và Pro Max khác gì so với iPhone XS và XS Max - VnExpress Số Hóa
+
+KEY WORDS: iPhone 11 Pro Max, iPhone 11, iPhone 11 Pro, teardown, mổ xẻ
+
+TOPIC: số hóa, sản phẩm, iphone 2019
+
+CONTENT: 
+Sự khác biệt đầu tiên đến từ pin, theo chuyên trang "mổ xẻ" thiết bị di động iFixit. Cụ thể, cả hai thế hệ iPhone đều có pin hình chữ L. Tuy nhiên, nếu iPhone XS Max được xếp bởi hai viên pin, pin iPhone 11 Pro và Pro Max lại có thiết kế liền mạch tương tự iPhone XS, nhưng kích thước lớn hơn. iPhone 11 Pro Max có pin 3.969 mAh, tăng 25% so với 3.179 mAh trong iPhone XS Max.
+Viên pin trên iPhone mới có thiết kế chữ L liền mạch. Ảnh: iFixit.
+Bên cạnh đó, pin iPhone 11 Pro và Pro Max có hai đầu nối thay vì một. Tuy nhiên, đầu thứ hai vẫn chưa được kết nối vào bo mạch. Apple được cho là sẽ tích hợp sạc ngược không dây lên iPhone nhưng hủy bỏ vào phút chót. Đây có thể là dấu hiệu cho thấy công ty Mỹ từng tính đến tính năng này.
+Các chuyên gia của iFixit đánh giá, với những tinh chỉnh phần cứng cộng thêm chip A13 tiết kiệm năng lượng, thời lượng pin trên iPhone 11 Pro và 11 Pro Max sẽ tăng lên đáng kể. Tại sự kiện ra mắt, Apple cũng công bố thời gian sử dụng iPhone 11 Pro và Pro Max dài hơn tương ứng là 4 và 5 tiếng so với iPhone XS và XS Max.
+iPhone 11 Pro và Pro Max cũng dày hơn 0,5 mm so với thế hệ cũ do viên pin lớn, nhưng màn hình mỏng hơn 0,25 mm nhờ loại bỏ cảm ứng lực 3D Touch. Đối với những máy đời cũ áp dụng công nghệ này, tấm nền được bổ sung thêm một lớp để phát hiện độ nhạy áp lực.
+Một số chuyên gia cho rằng, việc tăng dung lượng pin cho iPhone là một trong những lý do Apple loại 3D Touch - tính năng xuất hiện từ 2015, dùng lực ấn lên màn hình cảm ứng để xem trước nội dung, hoặc mở nhanh các ứng dụng. Nếu vẫn giữ lại, iPhone có thể sẽ dày lên đáng kể.
+Máy ảnh cũng là điểm khác biệt khi do sánh với thế hệ iPhone trước đó. Apple đã trang bị hệ thống camera ba ống kính, cao hơn một ống kính so với XS và XS Max nên bảng mạch logic của máy có một số thay đổi nhỏ.
+Tổng quan, iFixit đánh giá khả năng sửa chữa của iPhone 11 Pro và Pro Max ở mức 6/10 điểm (10 điểm là dễ sửa chữa nhất), tương tự iPhone XS và XS Max năm ngoái và dễ hơn đối thủ Galaxy Note10 và Galaxy S10 với 3/10 điểm.
+Bảo Lâm (theo TechCrunch)

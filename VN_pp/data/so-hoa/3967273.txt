@@ -1,0 +1,14 @@
+TITLE: Google dùng vân tay thay mật khẩu - VnExpress Số Hóa
+
+KEY WORDS: Google, password, Android, FIDO
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Google vừa có bước tiến lớn trong việc bỏ mật khẩu. Ảnh: Getty.
+Theo Google, tính năng này sẽ giúp người dùng đăng nhập vào các dịch vụ trực tuyến một cách đơn giản như động tác mở khoá màn hình điện thoại. Cụ thể, người dùng sẽ sử dụng vân tay, hình vẽ hoặc một phương thức bảo mật sinh trắc học nào đó, thay vì gõ lại một đoạn mật khẩu dài và phức tạp.
+Tính năng mới này đã có trên các thiết bị Pixel và sẽ sớm phổ cập trên các máy Android khác trong vài ngày tới. Điều kiện để sử dụng là thiết bị đó phải chạy Android 7 trở lên. Như vậy, sẽ có khoảng 1,7 tỷ người có thể sớm áp dụng kiểu đăng nhập mới này.
+Người dùng chỉ cần vào Trình Quản lý mật khẩu (Google Password Manager), sau đó, xác minh dấu vân tay và sử dụng luôn. Tính năng mới này sẽ áp dụng trên một số dịch vụ của Google trước, sau đó có thể mở rộng sang cả các dịch vụ bên thứ 3.
+Về tính an toàn, Google cho biết đã phát triển tính năng này dựa trên tiêu chuẩn FIDO2 - do liên minh FIDO (Fast Identity Online) và W3C (World Wide Web Consortium) xây dựng. Với FIDO2, dữ liệu sinh trắc học của người dùng cũng sẽ không bị xâm phạm. Chúng sẽ được lưu trữ và xử lý ngay trên thiết bị, còn máy chủ của Google chỉ làm nhiệm vụ nhận mã khóa đã được xử lý.
+Sau động thái này của Google, trang Forbes nhận định: Thời của mật khẩu sắp chấm dứt. Cách đây không lâu, Microsoft cũng dự định sẽ loại bỏ phương thức mở khoá bằng mật khẩu với 800 triệu khách hàng đang sử dụng Windows 10 của mình. Trong khi đó, một "ông lớn" khác là Apple muốn giảm tần suất người dùng gõ mật khẩu bằng hình thức "Sign in with Apple" kiểu mới.
+Lưu Quý (theo Forbes)

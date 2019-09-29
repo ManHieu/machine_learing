@@ -1,0 +1,16 @@
+TITLE: Máy bay Nga phát hiện mục tiêu từ sóng điện thoại - VnExpress
+
+KEY WORDS: UAV Nga diệt mục tiêu nhờ điện thoại di động, máy bay không người lái Nga, UAV Nga, diệt mục tiêu
+
+TOPIC: vnexpress, thế giới, quân sự
+
+CONTENT: 
+Hệ thống Leer-3 gồm đài điều khiển đặt trên xe tải Kamaz và ba máy bay không người lái (UAV) Orlan-10, có khả năng truy cập và phân tích dữ liệu từ trạm phát sóng viễn thông (BTS) nhằm xác định chính xác vị trí của từng thuê bao. Thông tin sẽ giúp binh sĩ theo dõi mục tiêu và tung đòn không kích nếu cần thiết, truyền thông Nga ngày 11/9 dẫn nguồn tin từ Bộ Quốc phòng nước này.
+Leer-3 đã được thử nghiệm thành công ít nhất hai lần trong năm nay và có thể phát hiện tín hiệu của điện thoại di động ngay cả khi không nghe gọi hoặc bị tắt nguồn.
+Trong quá trình tác chiến, hai UAV trong hệ thống sẽ làm nhiệm vụ trinh sát và tác chiến điện tử, máy bay còn lại đóng vai trò trạm chuyển tiếp dữ liệu với trung tâm điều khiển.
+UAV Orlan-10 trong đợt huấn luyện tại vùng Khabarovsk đầu năm 2019. Ảnh: Bộ Quốc phòng Nga.
+Các UAV Orlan-10 trong hệ thống trước đây chỉ có thể chế áp các trạm BTS bằng cách thả thiết bị gây nhiễu, sau đó đóng vai trò trạm phát tin nhắn SMS để theo dõi thiết bị. Hệ thống Leer-3 có nhiều tính năng hiện đại hơn, cho phép ba chiếc Orlan-10 kết nối cùng lúc với đài điều khiển để giám sát dữ liệu thu phát.
+"Hệ thống này hoạt động khá đơn giản, UAV có thể truy cập các trạm BTS từ xa và can thiệp vào luồng truyền tải dữ liệu. Thông tin định vị mục tiêu có thể chỉ sai lệch vài mét", Denis Kuskov, giám đốc hãng phân tích Telecom Daily, nhận xét.
+Sau khi phát hiện mục tiêu, Leer-3 sẽ chuyển tham số tới hệ thống tác chiến thống nhất của quân đội Nga theo thời gian thực. Pháo binh, tiêm kích và nhiều đơn vị mặt đất có thể dựa vào dữ liệu mục tiêu này để tung đòn tiêu diệt chớp nhoáng.
+Orlan-10 có bán kính tác chiến 120 km, hoạt động được 14 giờ liên tục ở độ cao 5.000 m. Quân đội Nga không tiết lộ khoảng cách để nó truy cập được trạm BTS, nhưng cho biết con số này là "khá đáng kể".
+Vũ Anh (Theo Sputnik) 

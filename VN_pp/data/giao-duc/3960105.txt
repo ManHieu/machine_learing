@@ -1,0 +1,25 @@
+TITLE: Đáp án bài toán lật đồng xu trong kỳ thi APMOPS 2006 - VnExpress
+
+KEY WORDS: đáp án, bài toán, lật đồng xu, kỳ thi APMOPS 2006
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 45. COIN FLIPPING
+Problem: There is a row of coins, numbered from 1 to 2006, each with head facing up.
+In the 1st round, coins whose numbers are divisible by 1 are turned over.
+In the 2nd round, coins whose numbers are divisible by 2 are turned over...
+In the 2006th round, coins whose numbers are divisible by 2006 are turned over.
+How many coins will have heads facing up after the 2006th round of turning?
+Dịch đề: Có 2006 đồng xu được đánh số thứ tự từ 1 đến 2006, tất cả đều ngửa.
+Lần thứ 1: Lật mặt tất cả các đồng xu có số thứ tự là bội của 1.
+Lần thứ 2: Lật mặt tất cả các đồng xu có số thứ tự là bội của 2.
+Lần thứ 2006: Lật mặt tất cả các đồng xu có số thứ tự là bội của 2006.
+Hỏi có bao nhiêu đồng xu ngửa sau lần lật thứ 2006?
+Lời giải:
+Tại lần lật thứ k, những đồng xu có số thứ tự là bội của k sẽ được lật. Để một đồng xu lúc đầu là ngửa và sau 2006 vòng lật nó vẫn ngửa, thì số lần đồng xu đó được lật phải là một số chẵn lần, tức số thứ tự của nó phải có số các ước số là chẵn.
+Ta biết rằng trong các số tự nhiên chỉ có những số chính phương mới có số các ước số là lẻ. Từ 1 đến 2006 có 44 số chính phương là: 1, 4, 9, ..., 1936. Do đó cuối cùng sau 2006 vòng lật, số đồng xu ngửa là: 2006 - 44 = 1962 (đồng xu).
+Solution
+In the kth round, coins whose numbers are multiples of k will be turned over. For a coin to have its head facing up, it must be turned over for an even number of times, i.e. its number must have an even number of divisors.
+We know that among natural numbers, only perfect squares have an odd number of divisors. From 1 to 2006, there are 44 perfect squares: 1, 4, 9, ..., 1936. Thus, after 2006 rounds, the number of coins with heads facing up is: 2006 - 44 = 1962 (coins).
+Minh Phương 

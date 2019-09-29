@@ -1,0 +1,13 @@
+TITLE: Smartphone 2020 dùng chip 5 nm Samsung sản xuất sẽ mạnh hơn, tiết kiệm pin - VnExpress Số Hóa
+
+KEY WORDS: 5 nanomet, 5 nm, chip Samsung
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Samsung đã thực hiện bước tiếp theo của Định luật Moore, thu nhỏ kích thước bóng bán dẫn còn 5 phần tỷ mét, tức 5 nanomét. Có thể hình dung, 2.000 bóng bán dẫn này mới bằng bề ngang một sợi tóc người. So với 7 nm, công nghệ FinFET 5 nm của Samsung giúp tăng khả năng xử lý 10% nhưng tiết kiệm năng lượng 20%.
+Dòng chip 5 nm do Samsung sản xuất sẽ được thương mại trong 2020.
+Công ty điện tử Hàn Quốc cho biết sẽ sản xuất hàng loạt chip quy trình 5 nm trong quý II/2020. Hiện tại, hãng đã cho phép khách hàng xây dựng thử nghiệm dòng chip này. Sự phát triển trên không chỉ có ý nghĩa với bộ xử lý Exynos của Samsung mà còn là thông tin tích cực cho Qualcomm và các công ty khác thuê Samsung gia công chip.
+Samsung là một trong những công ty còn "sống sót" trong ngành công nghiệp bán dẫn vốn chịu sự cạnh tranh bởi những thách thức kỹ thuật không ngừng. Việc liên tục phải chuyển sang các công nghệ sản xuất vi xử lý mới làm tăng chi phí nghiên cứu và hiện nay chỉ còn ba hãng lớn là Samsung, Intel và TSMC.
+Intel đang xây dựng các chip trên tiến trình 10 nm dù thực tế công nghệ của hãng có thể nén các bóng bán dẫn với kích thước nhỏ hơn. TSMC và Samsung đang sản xuất chip 7 nm cho các smartphone cao cấp hàng đầu hiện nay như iPhone XS của Apple và Galaxy S10 của Samsung. Đầu tháng này, TSMC cũng bắt đầu xây dựng chip 5 nm nguyên mẫu cho khách hàng.
+Bảo Anh (theo Cnet)

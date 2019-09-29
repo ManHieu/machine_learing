@@ -1,0 +1,23 @@
+TITLE: Bộ, ngành nào cũng có dữ liệu nhưng không liên thông - VnExpress Kinh Doanh
+
+KEY WORDS: kinh tế số, chính phủ số, dữ liệu mở, doanh nghiệp nhỏ và vừa
+
+TOPIC: kinh doanh, vief 2019
+
+CONTENT: 
+Thực tế này được các diễn giả nêu tại phiên hiến kế về phát triển kinh tế số sáng 2/5. 
+Ông Vũ Đại Thắng - Thứ trưởng Kế hoạch & Đầu tư cho biết, ngay ở Bộ cũng đang sở hữu nhiều hệ thống dữ liệu khác nhau về đăng ký doanh nghiệp, đấu thầu, doanh nghiệp nước ngoài... Nhưng quan trọng theo ông là, hệ thống dữ liệu này chưa kết nối, liên thông với nhau.
+Ở góc độ quốc gia, hiện mỗi bộ có hệ thống thông tin khác nhau, không liên thông với các bộ ngành mà chỉ chia sẻ một phần thông tin liên quan. "Cần hướng tới tích hợp các cơ sở dữ liệu quốc gia, để dùng chung", Thứ trưởng Kế hoạch & Đầu tư nêu quan điểm.
+Chia sẻ, ông Nguyễn Thành Hưng - Thứ trưởng Thông tin & Truyền thông nhìn nhận, Việt Nam đang ở giai đoạn đầu phát triển kinh tế số, nên kết nối dữ liệu giữa các bộ, ngành chưa liên thông. "Khi chưa liên thông, kết nối thì khó nói chuyện xa xôi, cạnh tranh với thế giới", ông Hưng lưu ý.
+Ông Nguyễn Thành Hưng - Thứ trưởng Thông tin & Truyền thông. Ảnh: Giang Huy
+Trong khi đó, bà Trần Thị Lan Hương - chuyên gia quản trị công Ngân hàng Thế giới tại Việt Nam dẫn kết quả đánh giá của WB cho biết, Việt Nam ghi điểm ở chính sách liên quan tới hạ tầng công nghệ, khả năng tham gia của doanh nghiệp tư nhân vào dữ liệu mở, cũng như cam kết của lãnh đạo cấp cao về phát triển kinh tế số. Ngược lại, khía cạnh chưa được đánh giá cao, theo bà Hương, là cơ sở hạ tầng dùng chung, chính sách pháp lý về dữ liệu mở, Chính phủ số...
+"Thực tế thực thi chính sách liên quan tới dữ liệu mở, cơ sở hạ tầng dùng chung... đang có khoảng cách lớn", bà Hương nói.
+Nhấn mạnh dữ liệu là "nhiên liệu của kinh tế", ông Hưng nói, Chính phủ đã có chủ trương xây dựng Chính phủ điện tử và Bộ Thông tin & Truyền thông chủ trì. Theo dự thảo Nghị định chia sẻ, kết nối dữ liệu đang xây dựng, bộ này đưa ra khái niệm "open data" (dữ liệu mở), giúp doanh nghiệp có thêm thông tin hoạt động, sản xuất.
+Nêu vướng mắc trong kết nối dữ liệu, ông Hưng cho rằng, kỹ thuật không phải là vấn đề, mà là ở chính sách. Ông ví dụ với thu phí không dừng trong BOT giao thông tới giờ vẫn chưa triển khai được. "Ở góc độ kỹ thuật không khó, doanh nghiệp hoàn toàn làm được, nhưng vướng mắc ở chính sách", ông một lần nữa nhấn mạnh.
+Nói rõ hơn về "open data", ông Nguyễn Thành Phúc - Cục trưởng Tin học hoá (Bộ Thông tin & Truyền thông) cho biết, nguyên tắc khi cơ quan này xây dựng dự thảo Nghị định chia sẻ, kết nối dữ liệu là tạo cơ chế, thu thập cơ sở dữ liệu minh bạch, rõ ràng và phù hợp thông lệ quốc tế. Nghị định này cũng nhằm mục tiêu hạn chế thu thập lại cùng một dữ liệu, khắc phục thực trạng hiện nay. Cùng đó, tăng cường hiệu quả cung cấp dịch vụ công cho người dân, doanh nghiệp; bảo vệ quyền riêng tư, thông tin cá nhân. Nghị định này cũng nêu rõ khái niệm về dữ liệu mở, người dân doanh nghiệp có thể được sử dụng miễn phí.
+Dữ liệu mở là chìa khoá của khu vực tư nhân
+GS Hồ Tú Bảo, Viện Nghiên cứu cao cấp về toán cho rằng, việc xây dựng và sử dụng dữ liệu mở sẽ là chìa khóa cho nhiều vấn đề của khu vực kinh tế tư nhân.
+Trước hết, theo ông Bảo, cần phải khẳng định dữ liệu là tài sản. "Đã là dữ liệu và tài sản thì phải có người chủ sở hữu, và từ đó hình thành vấn đề quan trọng là việc trao quyền sử dụng từ người sở hữu cho người sử dụng", ông nói.
+Với bộ phận kinh tế tư nhân, dữ liệu mở là tài nguyên quan trọng, góp phần định hình giá trị, xác định mô hình kinh doanh. Dữ liệu mở sẽ là phương tiện giúp doanh nghiệp hiểu môi trường kinh doanh, việc khai thác văn bản pháp luật trên cơ sở dữ liệu mở, những cổng thông tin giúp doanh nghiệp biết những phạm vi hoạt động. Những dữ liệu này cũng giúp doanh nghiệp hiểu thị trường và tham gia vào thị trường hiệu quả hơn.
+Vì thế, việc xây dựng những giải pháp giúp doanh nghiệp nhỏ và vừa tiếp cận và khai thác dữ liệu mở sẽ thúc đẩy sự phát triển của bộ phận này. Doanh nghiệp tư nhân cũng có thể tham gia vào những câu chuyện lớn hơn nhờ vào dữ liệu mở.
+Anh Minh	

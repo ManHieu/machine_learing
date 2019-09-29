@@ -1,0 +1,14 @@
+TITLE: 'Deep Fusion' trên iPhone 11 hoạt động thế nào - VnExpress Số Hóa
+
+KEY WORDS: Deep Fusion, iPhone 11
+
+TOPIC: số hóa, sản phẩm, iphone 2019
+
+CONTENT: 
+Đây là kết quả hoạt động của bộ xử lý Neural Engine tích hợp trong chip A13 Bionic, có khả năng tự động học hỏi để tìm ra giải pháp thu được ảnh có chất lượng tốt nhất trong điều kiện ảnh sáng từ thấp đến trung bình.
+Neural Engine được Apple giới thiệu từ chip A11 trên iPhone X, giúp thiết bị khả năng xử lý hàng nghìn tỷ phép tính mỗi giây nhằm thực hiện các thuật toán trí thông minh nhân tạo (AI) như phân loại ảnh theo chủ đề, nhận diện chủ thể, tự động học hỏi theo thời gian thực... Tuy vậy, một đại diện của "Quả táo" cho biết phải đến thế hệ chip A13 Bionic, công nghệ Neural Engine mớiđược áp dụng lần đầu để xử lý ảnh.
+Phil Schiller, Trưởng bộ phận camera, kiêm giám đốc marketing của Apple, đã hé lộ một tấm ảnh chụp bằng công nghệ Deep Fusion trên iPhone mới và lý giải cơ chế hoạt động của tính năng này.
+Bức ảnh chụp bằng công nghệ Deep Fusion mà Phil Schiller giới thiệu trong lễ ra mắt iPhone 11 tại Mỹ ngày 10/9 vừa qua. Ảnh: The Verger.
+Cụ thể, khi người dùng bấm nút chụp, thiết bị sẽ thực hiện tổng cộng 9 bức hình cùng lúc, gồm một tấm chính và tám tấm phụ. Tám tấm phụ được chụp nhanh ngay trước khi người dùng bấm nút và được chia thành hai lần. Bộ xử lý Neural Engine sẽ phân tích, tổng hợp và lọc 24 triệu pixel thu được từ các tấm ảnh này, chọn ra các điểm ảnh tốt nhất để đưa vào tấm ảnh cuối cùng nhằm cải thiện chi tiết và khử nhiễu.
+iPhone 11 là thế hệ đầu tiên được Apple ra mắt với ba phiên bản. iPhone 11 bản tiêu chuẩn là model thay thế cho iPhone XR khi vẫn có màn hình 6,1 inch nhưng được bổ sung camera kép. Trong khi đó, iPhone 11 Pro và 11 Pro Max sử dụng màn hình OLED cao cấp hơn, kích cỡ 5,8 inch và 6,5 inch. Đây cũng là hai iPhone đầu tiên được trang bị hệ thống camera 3 ống kính. Trong đó ống kính góc siêu rộng là điểm mới.
+Đức Trí (theo Phonearena)

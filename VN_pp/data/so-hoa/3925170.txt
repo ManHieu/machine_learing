@@ -1,0 +1,22 @@
+TITLE: Công nghệ định vị trên đồng hồ thông minh cho trẻ - VnExpress Số Hóa
+
+KEY WORDS: Shop VnExpress, đồng hồ định vị, đồng hồ thông minh
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Tùy thuộc vào mục đích sử dụng, phụ huynh có thể lựa chọn những chiếc đồng hồ với công nghệ định vị khác nhau:
+- Định vị LBS (Location Based Service): là hệ thống định vị theo các trạm thu phát sóng BTS của nhà mạng di động, chủ yếu sử dụng để xác định các mục tiêu từ xa thông qua ứng dụng trên điện thoại, máy tính. Do đó, thiết bị tích hợp công nghệ này có thể định vị sai số nhiều hơn thực tế. Tuy nhiên, LBS có thể xác định vị trí của chủ thể trong phòng kín, nhà cao tầng, trong hầm - những nơi có vật cản phía trên mà GPS khó làm được. Nên chọn phương thức LBS khi không yêu cầu tính xác cao, hạn chế bé gọi cho người lạ, đồng hồ nhỏ gọn.
+- Định vị GPS (Global Positioning System): là hệ thống định vị toàn cầu do Bộ Quốc phòng Mỹ phát triển và vận hành, hoạt động dựa vào hệ thống vệ tinh nhân tạo bay quanh Trái Đất. Đặc điểm nổi bật của hệ thống này là cho tính chính xác cao và hoạt động trong bất kỳ điều kiện thời tiết. Tuy nhiên GPS chỉ hoạt động tốt khi bạn đang ở ngoài trời, phù hợp cho phụ huynh muốn định vị chính xác vị trí của con. Đối với những nơi có vật cản phương thức định vì này có thể bị hạn chế.
+- Định vị Wi-Fi: chỉ xuất hiện trên một số dòng đồng hồ cao cấp, phương thức này dựa vào vị trí của các bộ Wi-Fi xung quanh đồng hồ trẻ em. Các khu vực trung tâm thành phố đồng hồ cho vị trí chính xác cao, tốc độ trả kết quả nhanh gần như ngay lập tức. Tuy nhiên, ở những nơi mạng Internet kém thì có thể không sử dụng được chế độ định vị này.
+- Định vị Glosnass (Globalnaya Navigatsionnaya Sputnikovaya Sistema) do Nga phát triển, có hệ thống vệ tinh bay trên 3 mặt phẳng quỹ đạo giúp việc xác định vị trí chính xác, chức năng tương tự như hệ thống định vị GPS, Glosnass cho độ chính xác ngang bằng với GPS. Nếu đồng hồ thông minh sử dụng định vị GPS và Glosnass, độ chính xác sẽ rất cao. Để tiết kiệm pin cho đồng hồ, định vị Glosnass chỉ kích hoạt khi tín hiệu định vị GPS yếu.
+- Định vị Beidou (Bắc Đẩu): là hệ thống định vị do Trung Quốc phát triển, phủ khắp ở châu Á và tây Thái Bình Dương. Chính vì hoạt động trong phạm vi nhỏ hơn GPS và Glosnass nên Beidou cho độ chính xác cao, sai số chỉ trong khoảng 10m.
+Shop VnExpress giới thiệu một số mẫu đồng hồ định vị thông minh dành cho trẻ em cùng các chế độ định vị giúp phụ huynh dễ dàng lựa chọn:
+Đồng hồ định vị trẻ em JVJ V5G gồm hai màu xanh và hồng. Giá 579.000 đồng. Chế độ định vị LBS, chức năng nghe gọi và xem giờ. Sản phẩm không có chế độ chống nước. 
+Đồng hồ định vị trẻ em Kiddy 1 màu xanh và hồng, tặng sim Kid30 và thẻ cào Viettel 50.000 đồng. Công nghệ định vị GPS, Wi-Fi và GSM; chức năng nghe gọi, chống nước. Dung lượng pin 320 mAh có khả năng sử dụng trong vòng 2 ngày, trong trường hợp bố mẹ sử dụng tính năng SOS kiểm tra vị trí liên tục, đồng hồ có thể sử dụng tới hơn 1 ngày. Giá bán trên Shop VnExpress: 990.000 đồng.
+Đồng hồ định vị trẻ em JVJ Q50 GPS (BB) sử dụng chip GPS MTK3337, định vị chính xác 5-15m, màn hình cỡ 0.66 inch, sử dụng micro SIM, có nút cấp cứu. Giá 320.000 đồng.
+Đồng hồ định vị trẻ em Tio màu xanh lá cây và xanh da trời. Công nghệ định vị GPS, Wi-Fi, GSM (sóng điện thoại). Chức năng định vị, nghe gọi, thiết lập vùng an toàn, chống nước, chống bụi. 
+Đồng hồ định vị Wonlex GW400X gồm 3 màu hồng, tím, xanh dương có hỗ trợ màn hình cảm ứng, bàn phím số giúp kiểm tra tài khoản, nạp tiền... Đồng hồ ịnh vị đa chế độ: GPS/A-GPS, GSM, không có bức xạ GSM, hai chế độ bản đồ định vị (dạng bản đồ 2D, dạng bản đồ vệ tinh). Giá 1,39 triệu đồng. 
+Đồng hồ định vị GPS Wonlex GW400S chống nước IP67. Giá 1,29 triệu đồng. Chức năng nghe gọi hai chiều tối đa từ 10 đến 15 số (người thân, bạn bè...), kiểm soát danh bạ, tự động từ chối cuộc gọi từ số máy lạ không có trong danh bạ, nhận và hiển thị tin nhắn SMS, gửi và nhận tin nhắn thoại (voice messages). Định vị đa chế độ: GPS/A-GPS, GSM, không có bức xạ GSM, hai chế độ bản đồ định vị (dạng bản đồ 2D, dạng bản đồ vệ tinh).
+Tâm An
+Shop VnExpress đang triển khai chương trình miễn phí vận chuyển, giao nhanh trong 6 giờ cùng GrabExpress, diễn ra từ nay đến hết 24/5. Đối với các sản phẩm đồng hồ định vị, người tiêu dùng nhập mã GIAONHANH6H giảm 100.000 đồng cho đơn hàng 900.000 đồng (áp dụng đến 24/5), mã THIEUNHI giảm 10% cho đơn hàng từ 600.000 đồng, giảm tối đa 90.000 đồng (áp dụng từ nay đến hết 1/6). 

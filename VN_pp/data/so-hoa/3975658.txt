@@ -1,0 +1,14 @@
+TITLE: Lỗ hổng tồn tại hai năm trên iPhone - VnExpress Số Hóa
+
+KEY WORDS: iPhone, lỗ hổng, hacker
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+"Chỉ cần ghé thăm trang web chứa spywate là đủ để máy chủ tấn công thiết bị mà không cần người dùng phải tương tác, như bấm vào đường link nào đó. Nếu thành công, iPhone của bạn sẽ bị cài phần mềm độc hại và bị theo dõi, điều khiển từ xa", nhà nghiên cứu Ian Beer thuộc Project Zero, nhóm chuyên gia bảo mật chuyên săn tìm lỗ hổng của Google, chia sẻ trên blog.
+iPhone có thể bị kiểm soát khi người dùng vô tình truy cập vào trang web độc hại. Ảnh: PhoneArena.
+Ông cho biết hacker đã khai thác lỗ hổng iPhone này suốt hai năm qua. Sau khi cài mã độc, kẻ tấn công sẽ tiếp cận được dữ liệu của người dùng, như mật khẩu, thông tin GPS, danh bạ, các tin nhắn, thư điện tử qua iMessage, WhatsApp, Gmail và Google Hangouts... Cứ 60 giây, dữ liệu sẽ được gửi tới máy chủ của hacker.
+Lỗ hổng tồn tại trên các phiên bản hệ điều hành từ iOS 10 cho đến iOS 12, nhưng chưa xác định được bao nhiêu người bị ảnh hưởng.
+Chuyên gia của Google nhận định việc khai thác lỗ hổng này "đòi hỏi nhiều thời gian nghiên cứu và nhắm đến những nhóm người cụ thể", nên có thể được hậu thuẫn bởi một chính phủ nào đó.
+Google đã thông báo sự cố tới Apple và Apple cũng đã cập nhập hệ điều hành để sửa lỗi. 
+Châu An

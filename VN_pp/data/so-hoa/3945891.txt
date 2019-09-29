@@ -1,0 +1,13 @@
+TITLE: Smartphone giá rẻ cũng có cảm biến vân tay dưới màn hình - VnExpress Số Hóa
+
+KEY WORDS: smartphone, điện thoại, cảm biến vân tay dưới màn hình
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cảm biến vân tay dưới màn hình vẫn là một giải pháp mới mẻ trên smartphone và mới chỉ được đưa vào những thiết bị cao cấp sử dụng tấm nền OLED. Tuy nhiên, công ty sản xuất màn mình BOE của Trung Quốc cho biết đã thành công trong việc đưa bộ đọc vân tay vào một tấm nền LCD truyền thống.
+Đây được coi là một bước đột phá đối với thị trường smartphone tầm trung và giá rẻ vì trước đó, các nhà sản xuất chưa giải quyết được rào cản trên tấm nền LCD: độ dày.
+Mỗi điểm ảnh trên màn hình OLED sẽ tự phát sáng và bật tắt một cách độc lập khi có dòng điện chạy qua mà không cần đèn nền như LCD. Lớp đèn nền này khiến tấm nền LCD dày hơn và việc đặt thiết bị đọc vân tay nằm bên dưới nó được cho là không khả thi. 
+Ảnh: MySmartPrice.
+Hiện 85% trong tổng số 1,456 tỷ smartphone được xuất xưởng đang dùng tấm nền LCD trong năm 2018. Tỷ lệ này sẽ giảm khi OLED được sử dụng rộng rãi hơn, nhưng LCD vẫn còn rất phổ biến.
+Chi phí sản xuất màn hình LCD cũng rẻ hơn nhiều so với OLED, nên việc đưa cảm biến vân tay dưới màn hình này sẽ giúp cho ra đời những mẫu điện thoại giá rẻ được tích hợp giải pháp công nghệ cao. BOE lên kế hoạch sản xuất hàng loạt tấm nền LCD được trang bị cảm biến vân tay vào cuối 2019, nhưng chưa tiết lộ sẽ cung cấp cho hãng smartphone nào.

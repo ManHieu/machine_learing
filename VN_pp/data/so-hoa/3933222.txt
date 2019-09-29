@@ -1,0 +1,13 @@
+TITLE: iPadOS - hệ điều hành mới dành riêng cho iPad - VnExpress Số Hóa
+
+KEY WORDS: iPadOS, iPad OS, hệ điều hành, iOS 13, giao diện
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo Apple, iPad vẫn sử dụng lõi của iOS nhưng phần mềm hệ thống sẽ được tùy chỉnh riêng, bao gồm cả việc sử dụng tên gọi "iPadOS" cho hệ điều hành mới. Sự khác biệt giữa iOS và iPadOS được thể hiện ngay từ giao diện khi phiên bản cho máy tính bảng có thể hiển thị tiện ích (widget) và các ứng dụng nổi bật (dock).
+Tính năng Split View và Slide Over sẽ giúp iPad làm việc tốt hơn.
+Tận dụng kích thước màn hình lớn, iPadOS có tính năng Split View để chạy đa cửa sổ cho các ứng dụng, nếu nhà phát triển phần mềm cho phép. Apple lấy ví dụ rằng người dùng có thể soạn mail trong khi xem một email khác đặt cạnh hoặc truy cập nhiều ứng dụng như Tin nhắn, Lịch chỉ với thao tác chạm.
+Trong khi đó tính năng Slide Over cho phép kéo thả nội dung giữa các ứng dụng mà lập trình viên hỗ trợ. iPadOS cũng hỗ trợ chia sẻ thư mục trên iCloud, giao thức SMB, xem và quản lý dữ liệu trên USB, thẻ nhớ được cắm vào iPad thông qua ứng dụng File.
+Các thay đổi khác cho iPad với nền tảng mới còn có trình duyệt web với chế độ đầy đủ, hỗ trợ điều hướng con trỏ tốt hơn. iPadOS còn giúp giảm độ trễ của Apple Pencil giảm còn 9 mili giây so với 20 mili giây trước đây. Chưa có thông tin về thời gian cập nhật hệ điều hành mới cho iPad.
+Bảo Anh (theo Apple Insider)

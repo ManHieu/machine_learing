@@ -1,0 +1,13 @@
+TITLE: Google xoá hai ứng dụng chỉnh ảnh 'sống ảo' - VnExpress Số Hóa
+
+KEY WORDS: Google, ứng dụng chỉnh ảnh
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Ứng dụng Sun Pro Beauty Camera và Funny Sweet Beauty Selfie Camera bị công ty bảo mật Wandera phát hiện chứa những mánh khoé để kiếm tiền từ người dùng thông qua quảng cáo. 
+Việc hiển thị quảng cáo là nguồn thu chính của nhiều nhà phát triển ứng dụng. Tuy nhiên theo Wandera, hai ứng dụng trên liên tục chạy ngầm ngay cả khi người dùng không sử dụng, dẫn tới nguy cơ tiêu tốn các tài nguyên của máy như bộ nhớ RAM và thời lượng pin. 
+Ngoài ra, Sun Pro Beauty Camera và Funny Sweet Beauty Selfie Camera còn yêu cầu quyền truy cập micro và thu âm, kéo theo nhiều nguy cơ bảo mật khác, như lộ thông tin cá nhân.
+Dan Cuddeford, Giám đốc kỹ thuật của Wandera, cho biết hai ứng dụng này được trang bị một công cụ bảo vệ có nguồn gốc từ Trung Quốc, với mục đích ngăn chặn việc bị phân tích mã nguồn. Việc công cụ bảo vệ,  vốn chỉ dành cho các ứng dụng cần bảo mật cao, xuất hiện trên một ứng dụng chụp ảnh đơn giản khiến các nhà phân tích nghi ngờ. 
+Trước khi bị xoá khỏi Play Store, Sun Pro Beauty Camera đã đạt hơn một triệu lượt tải từ năm 2017. Trong khi đó, Funny Sweet Beauty Selfie Camera cũng thu hút hơn 500.000 lượt tải sau hai tháng phát hành. Các chuyên gia khuyên người dùng nên xoá các ứng dụng trên nếu đã cài trên smartphone, đồng thời cảnh giác mỗi khi tải bất cứ ứng dụng gì từ Play Store.
+Lưu Quý

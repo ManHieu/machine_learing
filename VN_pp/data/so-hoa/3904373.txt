@@ -1,0 +1,13 @@
+TITLE: 540 triệu tài khoản Facebook với ID, bình luận, lượt thích bị lưu trữ công khai - VnExpress Số Hóa
+
+KEY WORDS: Facebook, tài khoản, lưu trữ công khai
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Cultura Colectiva, một doanh nghiệp Mexico, bị phát hiện lưu trữ công khai 540 triệu hồ sơ Facebook với các thông tin số ID, bình luận, lượt thích và tên tài khoản, theo công ty bảo mật UpGuard. Cơ sở dữ liệu nặng 14,6 GB đã bị khóa hôm qua (3/4), nhưng chỉ sau khi Bloomberg liên lạc với Facebook.
+Trước khi bị khóa, bất kỳ ai cũng có thể truy cập vào các hồ sơ Facebook được lưu công khai.
+Một máy chủ khác được phát hiện lưu trữ tên tài khoản, mật khẩu và địa chỉ email của khoảng 22.000 người dùng, được liên kết với ứng dụng Facebook có tên "At the Pool". Theo Gizmodo, mật khẩu có thể của "At the Pool" chứ không phải Facebook nhưng vẫn tiềm ẩn rủi ro nếu người dùng sử dụng chung mật khẩu cho nhiều dịch vụ.
+Hai bộ dữ liệu này được lưu trữ trên dịch vụ Amazon S3, không được bảo mật và hầu như ai cũng có thể truy cập. Mật khẩu cũng không được mã hóa. Theo UpGuard, Facebook đã nỗ lực giám sát quyền truy cập của bên thứ ba vào hệ thống dữ liệu nhưng vi phạm mới cho thấy nó đã nằm ngoài khả năng kiểm soát của Facebook.
+Với vi phạm trên, Facebook có thể phải trả hàng tỷ USD tiền phạt tại Mỹ, theo Apple Insider.
+Bảo Anh (tổng hợp)

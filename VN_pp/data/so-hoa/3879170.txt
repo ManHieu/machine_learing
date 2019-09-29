@@ -1,0 +1,15 @@
+TITLE: Cách quay video màn hình iPhone, iPad - VnExpress Số Hóa
+
+KEY WORDS: quay video màn hình, iPhone
+
+TOPIC: số hóa, kinh nghiệm
+
+CONTENT: 
+Quay video màn hình là tính năng được Apple bổ sung trên iOS 11 phát hành từ 2017, cho phép người dùng dễ dàng chia sẻ các thao tác trên màn hình. Để thực hiện, truy cập Settings (Cài đặt) > Control Center (Trung tâm kiểm soát) và chọn Customize Controls (Tùy chỉnh điều khiển).
+Thêm nút Ghi màn hình vào Trung tâm điều khiển.
+Người dùng chọn Screen Recording (Ghi màn hình) để thêm tính năng này vào Trung tâm kiểm soát. Vuốt từ dưới màn hình lên để mở Control Center, nút cho phép quay video màn hình đã xuất hiện.
+Tiến hành quay video màn hình.
+Bấm vào nút vừa thêm vào để tiến hành quay video màn hình, trong đó thanh trạng thái sẽ chuyển sang màu đỏ kèm bộ đếm giờ. Bấm vào khu vực đó để ngừng quay. Video được lưu dưới dạng định dạng MP4, chất lượng 45khung hình mỗi giây, độ phân giải 900 x 1.600 pixel trong thư viện ảnh.
+Xem lại file đã ghi.
+ 
+Bảo Anh

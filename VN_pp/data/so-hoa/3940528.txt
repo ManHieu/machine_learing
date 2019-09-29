@@ -1,0 +1,24 @@
+TITLE: 15 hacker bị FBI truy nã gắt gao, trong đó có một hacker Việt Nam - VnExpress Số Hóa
+
+KEY WORDS: hacker, FBI, truy nã, tấn công mạng
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Evgeniy Mikhaylovich Bogachev
+Có biệt danh "Slavik", Bogachev là tác giả của nhiều trojan nguy hiểm nhắm vào ngân hàng. Ông từng bị buộc tội đánh cắp hơn 100 triệu USD bằng trojan GameOver Zeus vào năm 2014 và được FBI treo thưởng 3 triệu USD. Bogachev được cho có liên quan đến tình báo Nga.
+Nhóm DNC Hacker
+Theo FBI, DNC Hacker là nhóm tội phạm nguy hiểm, với 12 thành viên là sĩ quan quân đội Nga. Có nguồn tin cho rằng tổ chức này là một phần của một trong hai nhóm gián điệp không gian mạng khét tiếng có liên quan đến chính phủ Nga, là APT28 (Fancy Bear) hoặc APT29 (Cozy Bear). Ngày 13/7/2018, nhóm đã bị chính phủ Mỹ cáo buộc đột nhập vào máy chủ của Ủy ban Quốc gia Dân chủ để đánh cắp dữ liệu trong khoảng thời gian 2015 - 2016, sau đó dùng nó để tác động đến cuộc bầu cử Tổng thống Mỹ năm 2016.
+Nhóm hacker tấn công Yahoo
+Tháng 3/2017, Bộ Tư pháp Mỹ đã buộc tội bốn hacker tấn công vào máy chủ Yahoo năm 2014 và đánh cắp thông tin của hơn 500 triệu người dùng. Nhóm này gồm Alexsey Belan, Dmitriy Aleksandrovich Dokuchayev, Igor suchin và một người khác có tên Karim Baratov. Riêng Baratow đã bị bắt tại Canada, dẫn độ về Mỹ năm ngoái và nhận mức án 5 năm tù.
+IRGC
+Tháng 2/2019, Mỹ ra lệnh truy nã 4 công dân Iran thuộc nhóm IRGC cùng một cựu nhân viên tình báo Không quân Mỹ sau khi chúng thực hiện cuộc tấn công lừa đảo qua email và phương tiện truyền thông xã hội. Riêng Behzad Mesri vào tháng 11/2017 đã hack HBO và đăng lên mạng các tập phim và kịch bản chưa phát hành của kênh truyền hình này.
+Fujie Wang
+Wang được cho là một thành viên thuộc đơn vị gián điệp không gian mạng Trung Quốc. Người này bị cáo buộc đã tấn công Anthem - công ty bảo hiểm lớn thứ hai của Mỹ - năm 2015, khiến hơn 80 triệu hồ sơ khách hàng bị rò rỉ.
+Nhóm Quân đội Điện tử Syria (SEA)
+Năm 2016, Bộ Tư pháp Mỹ đã buộc tội ba công dân Syria thuộc nhóm SEA tấn công hệ thống máy tính của Văn phòng điều hành Tổng thống (EOP) và Thủy quân Lục chiến Mỹ. Một trong số đó đã bị bắt, trong khi hai cái tên còn lại là Ahmed al Agha và Firas Dardar nằm trong diện "truy nã gắt gao nhất" của FBI.
+Park Jin Hyok
+Tháng 9/2018, Park Jin Hyok, 34 tuổi, bị cáo buộc sử dụng mã độc tống tiền (ransomware) WannaCry để tấn công hàng triệu hệ thống máy tính trên thế giới, trong đó có nhà thầu quốc phòng Mỹ Lockheed Martin hay hãng phim Sony Pictures. Hyok được cho là thành viên quan trọng của Lazarus Group - nhóm hacker do chính phủ Triều Tiên hậu thuẫn.
+Nhóm Jabberzeus
+Theo Wired, Jabberzeus nằm dưới quyền Slavik, dùng biến thể của trojan Zeus có tên là Jabber Zeus để tấn công các ngân hàng lớn. Nhóm này có 9 tên, nhưng 6 trong số đó đã bị bắt vào năm 2014. Ba tên còn lại là Vyacheslav Igorevich "tank" Penchukov điều hành nhóm (ngoài cùng bên phải), Ivan Viktorvich "petr0vich" Klepikov kiểm soát mảng thông tin (ngoài cùng bên trái) và Alexey Dmitrievich "thehead" Bron làm nhiệm vụ chuyển tiền bất chính ra nước ngoài (giữa).
+Xem tiếp trang sau

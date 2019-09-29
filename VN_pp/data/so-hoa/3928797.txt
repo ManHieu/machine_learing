@@ -1,0 +1,14 @@
+TITLE: Huawei bị rút khỏi danh sách thiết bị bảo mật cho doanh nghiệp - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Google, Android
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Từ ngày 24/5, sản phẩm của hãng Trung Quốc cũng không còn xuất hiện trên trang web Android.com, nhưng việc bị gạch tên khỏi Android Enterprise được trang công nghệ 9to5Macs đánh giá là một "đòn đau" với Huawei.
+Các sản phẩm của Huawei không còn trên trang Android Enterprise.
+Hiện có hơn hai tỷ thiết bị Android đang hoạt động trên toàn cầu, nhưng không phải mẫu máy nào cũng phù hợp để được sử dụng trong môi trường doanh nghiệp. Do đó, Google triển khai chương trình Android Enterprise Recommended nhằm hỗ trợ doanh nghiệp biết được sản phẩm Android nào hội tụ đủ các tiêu chuẩn về bảo mật, an toàn thông tin. Các thiết bị sẽ phải trải qua quá trình kiểm tra do Google thực hiện để có mặt trong danh sách.
+Google không thông báo họ xoá tên Huawei từ khi nào, nhưng vào ngày 19/5, các thiết bị của hãng Trung Quốc vẫn còn nằm trong danh sách này. Trong số những thiết bị bị loại có cả Nexus 6P - smartphone Huawei được đặt hàng để sản xuất cho chính Google.
+Trong khi đó, Google cho biết vẫn hợp tác với Huawei cho tới 19/8, tức người dùng các mẫu smartphone Huawei sẽ có thể tiếp tục tải các bản nâng cấp, bản vá lỗi bảo mật trong ba tháng.
+Huawei liên tiếp gặp bất lợi trong một tuần qua sau khi bị Mỹ đưa vào danh sách "gây ảnh hưởng đến an ninh quốc gia". Sau khi Google rút giấy phép sử dụng hệ điều hành Android, các hãng Intel, Qualcomm, Xilinx cũng dừng cung cấp linh kiện cho hãng smartphone Trung Quốc. Ngay cả ARM, đối tác sản xuất chip Kirin cũng tuyên bố ngừng quan hệ kinh doanh với công ty. Họ cũng bị hiệp hội thẻ nhớ SD gạch tên. 
+Châu An

@@ -1,0 +1,21 @@
+TITLE: Smartphone có camera 'tàng hình' chưa xuất hiện nhiều trong 2019, có thể đến 2020 hoặc 2021 - VnExpress Số Hóa
+
+KEY WORDS: camera, smartphone, camera trước, smartphone camera tàng hình
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Để có smartphone tràn viền, nhiều hãng đã tìm cách hạn chế kích thước cụm cảm biến và camera trước, như thu chúng vào thân máy dưới dạng module, thiết kế "giọt nước", "đục lỗ"... Gần đây, Xiaomi và Oppo còn đưa ra giải pháp đặt camera trước xuống dưới tấm nền (panel). Tuy nhiên, cách thức này được đánh giá là còn hạn chế về mặt công nghệ cũng như chưa phải lúc để thực hiện, ít nhất trong 2019.
+Thiết kế smartphone màn hình tràn viền toàn bộ đang được nhiều hãng smartphone theo đuổi. Ảnh: Phonearena.
+Theo Ice Universe, tài khoản chuyên đưa ra dự đoán chính xác về smartphone chưa ra mắt, các công ty điện thoại sẽ tập trung vào cải thiện thiết kế hiện có, trong đó thu hẹp kích thước camera trước xuống mức nhỏ nhất. "Các 'lỗ' chứa ống kính camera trước sẽ không biến mất, ít nhất 1 - 2 năm tới. Nó sẽ thu hẹp dần cho đến khi đạt đường kính khoảng 1mm", Ice Universe viết trên Twitter.
+Dự đoán của Ice Universe không phải là không có cơ sở, khi một số hãng smartphone vẫn loay hoay tìm cách thu hẹp camera selfie. Chẳng hạn, Samsung dùng máy ảnh trước dạng "đục lỗ" đường kính 5mm cho Galaxy S10, nhưng Galaxy Note10 được đồn đại sẽ có lỗ còn nhỏ hơn.
+Trong khi đó, Phonearena cho rằng máy ảnh trước nằm dưới tấm nền vẫn là thách thức lớn cho hầu hết nhà sản xuất smartphone. Ý tưởng về điều này đã hình thành cách đây hơn chục năm. Tuy nhiên, việc biến nó thành hiện thực lại là vấn đề khác.
+Trên thực tế, camera dưới màn hình hiển thị đã xuất hiện trên smartphone, dưới dạng máy quét vân tay quang học. Bộ phận chính của nó là cảm biến CMOS để chụp lại dấu vân tay ở khoảng cách rất gần, ghi dữ liệu ngón tay vào bộ nhớ và sau đó đối chiếu mỗi khi người dùng mở khóa.
+Tuy nhiên, camera selfie dưới màn hình lại rất khác. Nó cần mặt kính trong suốt để ghi khung cảnh bên ngoài từ vài cm đến vô tận nhưng vẫn đảm bảo hiển thị liền mạch khi sử dụng bình thường.
+ 
+ 
+Smartphone có camera 'tàng hình' chưa xuất hiện trong 2019
+Nguyên mẫu smartphone camera trước ẩn dưới màn hình của Xiaomi.
+Xiaomi gần đây đã khoe sáng chế cho smartphone với camera selfie ẩn dưới màn hình. Theo mô tả, công ty Trung Quốc sẽ dùng một tấm nền OLED phụ đặt bên dưới tấm nền chính, kết hợp với phần mềm điều khiển xen kẽ để vừa hiển thị liền mạch, vừa kích hoạt máy ảnh trước khi cần. Sau đó, hãng cũng tung video về một thiết bị đã áp dụng công nghệ này.
+Trong khi đó, Oppo cũng có giải pháp của mình. Ở video chia sẻ cách đây ít ngày, việc chuyển đổi hiển thị và kích hoạt camera khá nhuần nhuyễn. Tuy nhiên, Brian Shen, Phó chủ tịch của Oppo, cho rằng hiện tại, áp dụng công nghệ camera ẩn dưới màn hình vẫn khó cho chất lượng hình ảnh như camera lộ thiên truyền thống, vì chất lượng quang học bị giảm sút. Điều đó cho thấy nhà sản xuất Trung Quốc vẫn chưa muốn đưa công nghệ này vào sản phẩm thương mại sớm.
+Bảo Lâm tổng hợp

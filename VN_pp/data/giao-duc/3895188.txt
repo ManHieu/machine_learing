@@ -1,0 +1,27 @@
+TITLE: Lương của lập trình viên C++ hơn 1.000 USD mỗi tháng - VnExpress
+
+KEY WORDS: FUNiX, C++, ngôn ngữ lập trình
+
+TOPIC: vnexpress, giáo dục, giáo dục 4.0
+
+CONTENT: 
+C ++ là ngôn ngữ lập trình hướng đối tượng, cho phép bạn viết một mô-đun hệ điều hành cấp rất thấp cũng như các hệ thống nhúng. Nó có thể được sử dụng trong phần phụ trợ của ứng dụng web, nhưng thường dành cho dự án quy mô lớn. Hơn nữa, nó được sử dụng phổ biến trong phát triển trò chơi.
+Báo cáo Thị trường nhân lực ngành Công nghệ thông tin 2019 tại Việt Nam do VietnamWorks công bố cho biết, nhà tuyển dụng sẵn sàng trả mức lương hơn 1.000 USD một tháng cho lập trình viên có kỹ năng C++, tùy vào số năm kinh nghiệm.
+Khảo sát về mức lương thực tế trên báo cáo này cũng cho thấy, lập trình viên C++ có kinh nghiệm từ 2 đến 5 năm có mức lương trung bình 937 USD một tháng, lập trình viên kinh nghiệm 5-7 năm đạt mức lương 1765 USD một tháng.
+Thống kê mức lương của lập trình viên theo kỹ năng, theo VietnamWorks.
+Không chỉ trong lĩnh vực lập trình hệ thống thông thường, lập trình viên C++ còn có cơ hội tham gia vào thị trường công nghệ cao, tiêu biểu là trong lĩnh vực Automotive - ngành ô tô tự động hóa - ngành công nghệ đang ngày càng nóng với sự tham gia của các tập đoàn công nghệ hàng đầu thế giới.
+Theo ông Nguyễn Thành Lâm, Giám đốc Dự án xSeries - dự án đào tạo các kỹ năng công nghệ cao tại Đại học FUNiX, kiến thức về C++ là kiến thức quan trọng cho bất kỳ lập trình viên nào muốn theo đuổi lĩnh vực Automotive.
+"C++ phù hợp với nhu cầu tuyển dụng của các dự án tự động hóa trên thế giới cũng như tại Việt Nam. C++ dễ học trong thời gian ngắn, đồng thời cũng dễ chuyển tiếp lên các ngôn ngữ bậc cao hơn", ông Lâm nhận định.
+Ông Nguyễn Vũ Hạnh, Kiến trúc sư giải pháp của FPT Global Automotive (FGA) - doanh nghiệp đang đầu tư phát triển công nghệ xe tự lái tại Việt Nam, cho biết, lập trình viên thông thạo C++ có nhiều cơ hội trong lĩnh vực công nghệ tự động hóa tại các doanh nghiệp công nghệ lớn như FGA, Vinfast, các trung tâm R&D về phần mềm ôtô của các hãng Huyndai, LG, Samsung ở Việt Nam. Riêng số nhân sự cần tuyển dụng tại FGA là khoảng 1.000 người trong năm nay, với yêu cầu về khả năng sử dụng tốt ngôn ngữ C++.
+C++ thuộc nhóm ngôn ngữ lập trình phổ biến nhất.
+Trang IEE Spectrum, website uy tín hàng đầu thế giới dành cho giới kỹ thuật và khoa học ứng dụng vừa xếp C++ đứng thứ hai trong top 10 ngôn ngữ lập trình phổ biến nhất năm 2018. Kết quả này dựa trên thống kê từ nhiều nguồn như lượng tìm kiếm trên Google, các thảo luận về lập trình và tài liệu học tập, số lượng mã được lập trình viên lưu trữ trên GitHub...
+C++ cũng nằm trong top đầu các ngôn ngữ cần thiết trong mọi thời đại, theo nhiều trang thống kê khác như TIOBE, PYPL, RedMonk.
+Trên trang mạng chuyên gia Quora, nhiều lập trình viên kinh nghiệm cũng khẳng định giá trị của C++. Richard Kenneth, một lập trình viên kỳ cựu người Canada với hơn 20 năm làm việc trên nhiều ngôn ngữ như C, C++, Java, Python... chia sẻ: "C ++ là một ngôn ngữ nền tảng linh hoạt nhất hiện nay. Nó đặc biệt mạnh ở những lĩnh vực mà hiệu suất tối đa là rất quan trọng, như trò chơi video console, đồ họa máy tính, hệ thống điều khiển thời gian thực, hệ điều hành, máy tính số".
+Bảng thông kê về top 10 ngôn ngữ lập trình quan trọng - theo IEEE Spectrum.
+Bjarne Stroutstrup - tác giả ngôn ngữ lập trình C++ cho biết, ngôn ngữ này được thiết kế để phát triển các ứng dụng cốt lõi, quan trọng. C++ có được tốc độ, tính ổn định cao, chương trình gọn nhẹ, tiêu tốn ít điện năng và nhiều ưu điểm khác.
+Với sự nâng cấp liên tục, ông tin ngôn ngữ này vẫn sẽ thống trị trong lĩnh vực nhúng, chương trình xử lý hình ảnh, ứng dụng truyền thông, tài chính. Các công ty công nghệ hàng đầu như Facebook và Google đều sử dụng C ++ để phát triển hệ thống.
+"Đây là giai đoạn thuận lợi để các lập trình viên muốn nhanh chóng tham gia vào thị trường nhân lực công nghệ cao, bắt kịp xu thế 4.0 trên thế giới học tập và sở hữu những kỹ năng lập trình tương ứng. Kỹ năng lập trình C++ là một trong số đó ", ông Nguyễn Thành Lâm chia sẻ.
+Nguyên Chương
+Đại học trực tuyến FUNiX đang tuyển sinh khóa học lập trình ứng dụng ô tô (Automotive) bằng ngôn ngữ C++. Chương trình kéo dài 30 tuần học trực tuyến. Sinh viên được FGA tài trợ 30% học phí, đảm bảo cơ hội việc làm khi khi hoàn thành khóa học.
+Xem thêm thông tin tại đây.
+ 

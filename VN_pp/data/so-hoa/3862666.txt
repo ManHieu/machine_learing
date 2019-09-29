@@ -1,0 +1,23 @@
+TITLE: 2019 có thể chưa phải lúc mua smartphone 5G - VnExpress Số Hóa
+
+KEY WORDS: điện thoại, smartphone, 5g, mạng 5G
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Nhiều nhà mạng, hãng điện thoại, công ty sản xuất vi xử lý... đang đẩy mạnh 5G, nhưng theo Howtogeek, việc tiên phong cũng đi kèm không ít rủi ro, tương tự 3G hoặc 4G trước đây.
+Kích thước lớn hơn
+Yếu tố mỏng và đẹp luôn là ưu tiên của các hãng sản xuất di động, thậm chí tạo nên những cuộc đua không hồi kết. Thiết kế tràn viền được cho là biện pháp tối ưu để giúp một thiết bị di động có màn hình có không gian hiển thị lớn nhưng đảm bảo cầm vừa tay. 
+Nguyên mẫu smartphone hỗ trợ 5G của Qualcomm khá dày. Ảnh: AnandTech.
+Tuy nhiên, smartphone 5G lại không đáp ứng được điều đó, nhiều module vẫn còn khá lớn và các kỹ sư chưa có biện pháp thu nhỏ chúng lại. "Các module ăng-ten 5G chiếm nhiều không gian. Nếu đặt vào điện thoại, nó khiến máy dày hơn đáng kể cũng như làm màn hình nhỏ hơn", Doug Michau, Giám đốc bán hàng và hoạt động kỹ thuật của Motorola, chia sẻ với Cnet.
+Thị trường chưa xuất hiện điện thoại 5G, nhưng năm ngoái Motorola đã trình diễn phụ kiện Moto Mod hỗ trợ kết nối di động này. Tuy nhiên, nếu so sánh kích thước của Motorola Z3 và Moto Mod 5G, có thể thấy module 5G còn dày hơn cả smartphone sử dụng nó.
+Nếu điện thoại 5G ra mắt trong năm 2019, nó có thể sẽ bị giảm nhiều thành phần như giắc cắm tai nghe 3,5mm, loa âm thanh nổi thứ cấp, cảm biến vân tay, thậm chí là xu hướng camera nhiều ống kính hay màn hình tràn viền để nhường chỗ cho linh kiện 5G. 
+Giá bán cao hơn
+Giá điện thoại trong năm 2018 đã vượt ngưỡng 900 USD, thậm chí 1.000 USD như iPhone X, XS. Công nghệ 5G được dự đoán xuất hiện đầu tiên trên điện thoại cao cấp như các dòng Samsung Galaxy S, Galaxy Note, Google Pixel, LG V-Series thế hệ mới... Cộng với cuộc đua camera nhiều ống kính hay màn hình gập, giá smartphone sẽ tăng đáng kể thời gian tới.
+Những smartphone 5G đầu tiên được dự đoán sẽ rất đắt. Ảnh: Reviewgeek.
+Trong khi đó, năm 2019 sẽ không nhiều smartphone tầm trung hỗ trợ 5G. Sản phẩm xuất hiện, nếu có, sẽ đến từ thương hiệu Trung Quốc như OnePlus hay Xiaomi, vốn nổi tiếng với dòng thiết bị cấu hình mạnh giá rẻ.
+Tuổi thọ pin kém
+Nếu công nghệ như camera, màn hình, nhận dạng... luôn được cải tiến theo từng năm, công nghệ pin vẫn chững lại. Những máy có dung lượng pin lớn luôn cồng kềnh và ngược lại, buộc các nhà sản xuất phải lựa chọn. Biện pháp tạm thời là tính năng sạc nhanh, nhưng chúng chưa thực sự hữu ích nếu xung quanh không có nguồn điện.
+Việc kết nối mạng di động luôn làm tiêu tốn nhiều năng lượng. Thế hệ điện thoại có LTE đầu tiên "ngốn" pin rất nhanh, đặc biệt là thiết bị sử dụng mạng CDMA của Sprint và Verizon. Theo Androidcommunity, lịch sử có thể lặp lại với 5G.
+Khi ra mắt Snapdragon 855, Qualcomm khẳng định smartphone tương lai sẽ không tiêu tốn nhiều năng lượng. Chip xử lý này tích hợp modem Snapdragon X50 - nền tảng 5G đầu tiên được thương mại hóa. Tuy vậy, tuyên bố trên chỉ có thể kiểm chứng khi điện thoại chạy chip của Qualcomm được bán ra.
+Bảo Lâm

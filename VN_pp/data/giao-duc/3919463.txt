@@ -1,0 +1,10 @@
+TITLE: Bài toán về bản đồ nhà trong đề thi BIMC 2018 - VnExpress
+
+KEY WORDS: bài toán, bản đồ nhà, đề thi BIMC 2018, thể dục trí não, đố vui
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Topic 37. HOUSING MAP
+Problem: A town has 25 building blocks in a 5 × 5 arrangement. Each block has a height from 1 to 5. There is a block of each height in every row and every column. Twenty observers are standing outside looking in. Each observer records the number of blocks he can see, which are blocks not hidden behind a taller block. Determine the height of each block.
+Dịch đề: Một thị trấn có 25 ngôi nhà sắp xếp trên lưới ô vuông 5 × 5. Các ngôi nhà có thể có từ 1 đến 5 tầng, chia thành 5 loại. Mỗi hàng và cột của lưới đều có đủ cả năm loại nhà. 20 người đứng ngoài lưới ô vuông trên và nhìn vào bên trong. Họ ghi lại số ngôi nhà họ có thể nhìn thấy, tức là những nhà không bị nhà đứng trước che khuất. Tìm số tầng của mỗi nhà. 

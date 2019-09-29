@@ -1,0 +1,23 @@
+TITLE: Lý do 200 nhà nghiên cứu mất hai năm để chụp ảnh hố đen - VnExpress
+
+KEY WORDS: bức ảnh đầu tiên chụp hố đen, hố đen siêu lớn, thiên hà M87, Kính viễn vọng Chân trời sự kiện
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Kazunori Akiyama, điều phối viên dự án EHT, bên bức ảnh chụp hố đen trong quá trình kiểm tra dữ liệu. Ảnh: Live Science.
+Một nhóm nhà thiên văn học quốc tế công bố bức ảnh cận cảnh đầu tiên của hố đen hôm 10/4. Đó là hố đen siêu lớn ở trung tâm thiên hà Virgo A (còn gọi là Messier 87 hoặc M87). Hố đen này có đường kính bằng cả hệ Mặt Trời. Dù ở cách 55 triệu năm ánh sáng, nó trông lớn ngang với Sagittarius A*, hố đen nhỏ hơn ở trung tâm dải Ngân hà.
+Bức ảnh là kết quả đầu tiên từ dự án Kính viễn vọng Chân trời sự kiện (EHT), bắt đầu vào tháng 4/2017, sử dụng mọi kính viễn vọng vô tuyến lớn trên Trái Đất. Nếu hố đen có kích thước khổng lồ và mạng lưới kính viễn vọng có sẵn, tại sao gần đây các nhà khoa học mới tìm ra cách chụp ảnh chúng? Và sau khi tìm ra cách chụp, tại sao cần tới hai năm để tạo ra một bức ảnh?
+Hố đen lớn cỡ này rất hiếm. Mỗi thiên hà lớn được cho là chỉ có một hố đen ở trung tâm. Chúng thường khá tối, bao quanh là những đám mây vật chất và sao dày đặc. Ngay cả hố đen gần nhất trong thiên hà của chúng ta cũng cách Trái Đất 26.000 năm ánh sáng.
+ 
+ 
+Các nhà nghiên cứu chụp bức ảnh hố đen đầu tiên bằng cách nào?
+Mạng lưới kính viễn vọng toàn cầu cho ra đời bức ảnh đầu tiên chụp hố đen. Video: 
+Hình ảnh mới không hé lộ ánh sáng đầu tiên con người phát hiện từ một hố đen. Hình ảnh này không phải tạo ra từ ánh sáng như chúng ta vẫn biết. Sóng điện từ mà kính viễn vọng thu được là sóng vô tuyến rất dài.
+Năm 1931, theo Đài thiên văn Armagh, nhà vật lý học Karl Jansky nhận thấy có một điểm sáng trong hoạt động sóng vô tuyến ở trung tâm dải Ngân hà. Các nhà khoa học ngày nay tin chắc điểm sáng này là một hố đen siêu lớn. Từ sau phát hiện đó, giới vật lý đã tìm thấy thêm nhiều hố đen khác thông qua tín hiệu vô tuyến của chúng.
+Điểm mới mẻ của dự án là Kính viễn vọng Chân trời sự kiện chụp ảnh chiếc bóng mà hố đen tạo ra dựa trên vật chất phát sáng ở đĩa bồi tụ bao quanh (vật chất nóng rơi nhanh về phía chân trời sự kiện của hố đen). Điều đó rất thú vị với các nhà vật lý bởi nó xác nhận một số dự đoán quan trọng về hình dáng chiếc bóng.
+Để chụp ảnh chiếc bóng, các nhà vật lý thiên văn phải phát hiện sóng vô tuyến chi tiết tới mức chưa từng thấy. Không một kính viễn vọng nào có thể làm được điều đó. Nhưng nhóm nghiên cứu đã tìm ra cách kết hợp tất cả kính viễn vọng trên toàn cầu để tạo ra một kính viễn vọng ảo lớn cỡ Trái Đất, theo Sheperd Doeleman, nhà vật lý thiên văn ở Đại học Harvard, giám đốc EHT.
+Mỗi kính viễn vọng vô tuyến thu được một lượng cực lớn photon vô tuyến bay đến, nhưng chưa đủ chi tiết để quan sát chiếc bóng của hố đen bao quanh bởi đĩa bồi tụ. Nhưng tầm quan sát của mỗi kính viễn vọng khác biệt đôi chút. Do đó, các nhà khoa học phải tỉ mỉ kết hợp những bộ dữ liệu hơi khác nhau với sự trợ giúp của đồng hồ nguyên tử, so sánh thời điểm photon vô tuyến xuất hiện ở từng thiết bị. Bằng cách này, họ có thể lọc ra tín hiệu của hố đen từ nhiều tạp âm.
+Mạng lưới kính viễn vọng thu thập dữ liệu dùng để tạo ra bức ảnh chỉ trong ba ngày tháng 4/2017. Tổng lượng dữ liệu lên tới hơn 5 petabyte, bằng toàn bộ lượng thông tin của Thư viện Quốc hội. Dữ liệu được lưu trữ trong bộ ổ cứng đồ sộ nặng hơn nửa tấn, theo Dan Marrone, nhà vật lý thiên văn trong dự án EHT. Không thể truyền dữ liệu qua mạng, các nhà vật lý phải gom thông tin về một chỗ bằng cách điều tàu vận chuyển số ổ cứng.
+Trong năm đầu, nhóm nghiên cứu dùng máy tính để lọc và giải mã dữ liệu cho tới khi bức ảnh ra đời. Họ dành tiếp năm sau đó kiểm tra kết quả và viết báo cáo. Do đó, phần lớn công việc trong dự án tính toán cẩn thận để loại trừ tất cả lỗi và tạp âm từ nguồn dữ liệu.
+An Khang (Theo Live Science) 

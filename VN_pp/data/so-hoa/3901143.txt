@@ -1,0 +1,16 @@
+TITLE: Ba 'bố già máy học' giành giải thưởng Turing nhờ công trình AI - VnExpress Số Hóa
+
+KEY WORDS: Turing Award, công nghệ máy học
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Turing Award là giải thưởng thường niên của Hiệp hội Khoa học Máy tính cho các cá nhân hoặc tập thể có đóng góp quan trọng và được ví như giải Nobel cho lĩnh vực khoa học máy tính. Giải thưởng được đặt theo tên của nhà bác học người Anh Alan Mathison Turing, người được coi là cha đẻ của lý thuyết khoa học máy tính và trí tuệ nhân tạo.
+Năm nay, ba nhà khoa học đoạt giải là Geoff Hinton, giáo sư danh dự tại Đại học Toronto và là nhà nghiên cứu cao cấp tại Google Brain của Google; Yann LeCun, giáo sư tại Đại học New York kiêm phụ trách chính về AI của Facebook; Yoshua Bengio, giáo sư tại Đại học Montreal và cũng là người đồng sáng lập công ty về AI mang tên Element AI.
+Cả ba đã đặt nền móng cho nhiều tiến bộ gần đây trong lĩnh vực trí tuệ nhân tạo. Đặc biệt, họ được gọi chung là các "bố già về máy học (Deep Learning)" vì cùng nghiên cứu về mạng lưới thần kinh, một loại phần mềm máy học mô phỏng theo cách thức hoạt động của bộ não con người. Ba người chiến thắng sẽ chia giải thưởng trị giá một triệu USD, kèm theo các giải thưởng riêng của Google, công ty tài trợ Turing Award.
+Từ trái qua phải lần lượt là Yoshua Bengio, Yann LeCun và Geoff Hinton.
+Khi Hinton bắt đầu làm việc với các mạng lưới thần kinh vào cuối những năm 1970 và đầu những năm 1980. Khi đó, hầu hết các nhà khoa học máy tính tin kỹ thuật này là một ngõ cụt. Năm 1983, ông đồng phát minh ra máy Boltzmann, một trong những thiết bị mạng lưới thần kinh đầu tiên sử dụng xác suất thống kê. Ngày nay, công nghệ ngày đã được cải tiến và sử dụng bởi các công ty công nghệ lớn như Facebook, Amazon... Hinton cho biết ông tin tưởng máy học sẽ cho phép máy tính có trí thông minh giống con người hoặc thậm chí là "siêu nhân".
+Còn LeCun đã phát triển mạng lưới thần kinh tích chập, loại kiến trúc phần mềm mang lại sức mạnh cho hệ thống thị giác của máy tính ngày nay.
+Bengio, người đã làm việc cùng với LeCun trong dự án phát triển hệ thống thị giác, đã tiếp tục áp dụng các mạng thần kinh để xử lý ngôn ngữ tự nhiên, dẫn đến những tiến bộ lớn trong lĩnh vực dịch thuật tự động. Gần đây, ông đã nghiên cứu một phương pháp mới cho phép các mạng thần kinh tạo ra những hình ảnh hoàn toàn mới lạ, nhưng có tính thực tế cao.
+Tuy nhiên, dù lạc quan về tương lai của công nghệ máy học và mạng lưới thần kinh, các nhà khoa học vẫn bày tỏ thái độ cảnh giác về những ứng dụng thực tế chúng có thể mang lại, đặc biệt là việc lạm dụng trong phát triển các hệ thống vũ khí.
+Bảo Nam (theo Bloomberg)

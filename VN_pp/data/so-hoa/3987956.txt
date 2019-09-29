@@ -1,0 +1,15 @@
+TITLE: Google dùng 3.000 video DeepFake để chống DeepFake - VnExpress Số Hóa
+
+KEY WORDS: DeepFake, AI, trí tuệ nhân tạo
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Fox News, Google đã hợp tác và trả tiền cho nhiều diễn viên suốt một năm qua để ghi lại hàng trăm video, sau đó sử dụng các công cụ tái tạo hình ảnh DeepFake được công khai trên mạng để sản xuất ra hàng nghìn video giả mạo mới. Hãng dịch vụ Internet Mỹ kỳ vọng dựa trên kho dữ liệu này, các chuyên gia công nghệ có thể phân tích, đánh giá và tìm ra những phương pháp để đối phó với DeepFake.
+Một phần trong kho video DeepFake của Google.
+DeepFake là những video, hình ảnh, giọng nói, âm thanh bị các phần mềm trí tuệ nhân tạo chỉnh sửa, bóp méo, cắt ghép khiến chúng trông như thật. Ban đầu, DeepFake chủ yếu được dùng để ghép khuôn mặt các nữ diễn viên vào trong những video mang tính khiêu dâm.
+Tuy nhiên, các công cụ này ngày càng phổ biến trong khoảng hai năm nay, đe dọa không chỉ các ngôi sao mà cả người bình thường. Nhiều nhân vật nổi tiếng của Mỹ như cựu đệ nhất phu nhân Michelle Obama, nhà sáng lập Facebook Mark Zuckerberg, Tổng thống Donald Trump và Chủ tịch quốc hội Nancy Pelosi đều từng là nạn nhân của DeepFake.
+Các chuyên gia đã bày tỏ sự lo ngại về việc lạm dụng công nghệ giả mạo thông qua AI có thể tạo ra các thông tin sai lệch và nguy hiểm. Các nhà làm luật và các tổ chức về quyền kỹ thuật số cũng dự đoán DeepFake sẽ gây ra những tác động lớn tới cuộc bầu cử tổng thống Mỹ năm 2020.
+Trong khi đó, Bobby Chesney, Giáo sư luật tại Đại học Luật Texas, nhận định trên Data and Society rằng con người sẽ không thể tránh khỏi nguy cơ trở thành nạn nhân của DeepFake. Bất kỳ ai công khai hồ sơ cá nhân lên mạng xã hội đều có thể bị giả mạo.
+"Chúng ta cần bàn về các biện pháp nhằm hạn chế tác hại của DeepFake, chứ không phải giải quyết triệt để bởi nó sẽ không bao giờ biến mất hoàn toàn", ông nói. 
+Châu An

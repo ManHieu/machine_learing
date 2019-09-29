@@ -1,0 +1,12 @@
+TITLE: Apple cập nhật iOS cho iPhone, iPad đời cũ - VnExpress Số Hóa
+
+KEY WORDS: Apple, iOS, iOS 12, iOS 12.4.2, iPhone
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+iOS 12.4.2 được Apple tung ra chỉ vài ngày sau khi phát hành iOS 13.1, tập trung khắc phục lỗi liên quan đến lỗ hổng bảo mật mà tin tặc có thể khai thác, tấn công thiết bị di động của Apple từ xa. Lỗ hổng này được phát hiện bởi nhóm bảo mật Project Zero của Google.
+Không được lên iOS 13 như iPhone 11 hay XS nhưng 5s vẫn có bản cập nhật phần mềm mới. Ảnh: 9to5mac
+Các thiết bị được cập nhật iOS 12.4.2 không phải là những model đời mới như iPhone 11 hay XS, XS Max là các sản phẩm đời cũ, đã bị Apple ngừng nâng cấp lên iOS 13, như iPhone 5s, 6 và 6 Plus, iPod Touch gen 6 và iPad Air, iPad Mini 2 và Mini 3. 
+Cùng với phiên bản iOS 12 này, Apple còn đưa ra bản cập nhật watch OS 5.3.2 cho các mẫu đồng hồ thông minh Apple Watch series 1 và 2. Chúng cũng khắc phục lỗi và vá một số lỗ hổng bảo mật chứ không bổ sung thêm nhiều tính năng mới. Khác với các mẫu iPhone và iPad đời cũ, Apple Watch series 1 và 2 vẫn sẽ được nâng cấp lên watchOS 6 mới sắp tới.
+Mỹ Anh (theo 9to5mac)

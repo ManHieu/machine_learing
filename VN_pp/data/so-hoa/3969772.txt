@@ -1,0 +1,9 @@
+TITLE: Cài đặt modem Wi-Fi TP Link Archer C50 (hàng Mỹ) thành Repeater thế nào - VnExpress Số Hóa
+
+KEY WORDS: cài đặt modem Wi-Fi thành repeater
+
+TOPIC: số hóa, góc độc giả, tư vấn
+
+CONTENT: 
+Anh/chị/em nào có kinh nghiệm xin hướng dẫn giúp cách cài đặt. Tôi đã tìm kiếm trên mạng nhưng giao diện khi truy cập vào khác nhau nên không disable DHCP được. Xin cảm ơn. 
+David HungHungfd181818@...

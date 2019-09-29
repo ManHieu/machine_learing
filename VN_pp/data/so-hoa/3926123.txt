@@ -1,0 +1,19 @@
+TITLE: Huawei gặp khó khi bị Google rút giấy phép Android - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Google, Android
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Quyết định rút giấy phép sử dụng hệ điều hành Android của Google với Huawei ngay lập tức khiến công ty Trung Quốc mất quyền truy cập vào các bản cập nhật của hệ điều hành này, theo Reuters. Bên cạnh đó, các điện thoại sẽ ra mắt của Huawei cũng không được truy cập vào các ứng dụng và dịch vụ phổ biến của Google, trong đó có kho phần mềm Google Play Store, ứng dụng Gmail và YouTube.
+Việc kinh doanh smartphone của Huawei tại châu Âu có thể gặp khó sau quyết định của Google.
+Chuyên gia Ron Amadeo của trang Ars Technica cho rằng Huawei sẽ gặp rất nhiều khó khăn trên thị trường smartphone thời gian tới khi công ty không có lựa chọn nào khả thi để thay thế cho hệ sinh thái Android. Ngoài ra, việc Mỹ cấm hợp tác phần cứng và phần mềm với công ty Trung Quốc sẽ là "bản án tử hình" với điện thoại của Huawei nước ngoài, đặc biệt tại châu Âu và Ấn Độ.
+Trên Twitter, nhà báo Wajahat Kazmi từ Dubai cho rằng việc Google không cho truy cập vào kho ứng dụng Play Store, các phần mềm như Gmail, Chrome và trên các thiết bị mới, không hỗ trợ cập nhật Android với các thiết bị hiện nay sẽ là đòn giáng mạnh vào smartphone của Huawei. "Điều này có thể tàn phá Huawei", chuyên gia này viết.
+Các tác động sau quyết định của Google chủ yếu ảnh hưởng tới việc kinh doanh của Huawei ở châu Âu, thị trường lớn thứ hai của công ty. Geoff Blaber, Phó chủ tịch nghiên cứu của CCS Insight, cho biết, các ứng dụng độc quyền của Google rất quan trọng để các nhà sản xuất điện thoại thông minh có thể cạnh tranh ở các khu vực như châu Âu.
+Biên tập viên Leo Kelion của BBC cho rằng quyết định của Google và động thái của Mỹ với Huawei có thể gây tổn hại rất lớn cho việc kinh doanh của công ty tại thị trường châu Âu. "Người mua smartphone sẽ không muốn chọn một thiết bị Android mà lại không thể truy cập vào Play Store, không dùng được trợ lý ảo hoặc không nhận được các bản vá bảo mật", ông phân tích.
+Tuy nhiên, về lâu dài, hành động của Google có thể khiến các nhà cung cấp điện thoại thông minh nói chung có thêm lý do để xem xét nghiêm túc việc phát triển một hệ điều hành hay thế Android. Việc này càng trở nên cấp thiết hơn trong bối cảnh Google đẩy mạnh dòng smartphone Pixel của riêng mình, mới nhất là sự xuất hiện của bộ đôi Pixel 3a và 3a XL hướng đến phân khúc giá rẻ.
+Thực tế, Huawei đã chuẩn bị cho trường hợp không được "làm ăn" với các công ty Mỹ từ nhiều năm qua. Điện thoại của "gã khổng lồ" công nghệ Trung Quốc đang dùng bộ vi xử lý tự phát triển riêng. Đầu năm nay, Huawei đã lên "kế hoạch B" là phát triển hệ điều hành và công nghệ riêng. Chúng đã được sử dụng ở Trung Quốc.
+Theo Reuters, công ty Trung Quốc vẫn có quyền truy cập vào phiên bản mở của hệ điều hành Android, thông qua Dự án nguồn mở Android (AOSP), miễn phí cho bất kỳ ai có nhu cầu. Tuy nhiên, các ứng dụng phổ biến của Google như Gmail, YouTube, Chrome hay kho phần mềm Play Store sẽ không xuất hiện trên các thiết bị Huawei trong tương lai vì nó không thuộc mã nguồn mở mà phải được Google cấp phép.
+Hiện tại, những người dùng smarphone Huawei vẫn vào được Play Store để cập nhật các ứng dụng đang sử dụng, nhưng sẽ không nhận được bản cập nhật Android mới. 
+Theo dữ liệu của IDC quý I/2019, Huawei là nhà sản xuất smartphone lớn thứ hai thế giới với 19% thị phần (sau Samsung và trên Apple). Thị trường lớn nhất của Huawei là Trung Quốc, sau đó tới châu Âu. Tại Trung Quốc, Huawei là công ty smartphone lớn duy nhất duy trì đà đi lên, trong khi Vivo, Oppo, Xiaomi và Apple đều tăng trưởng âm. 
+Đình Nam

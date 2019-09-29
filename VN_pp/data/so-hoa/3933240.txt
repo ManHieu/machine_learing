@@ -1,0 +1,16 @@
+TITLE: iPhone nào được nâng cấp iOS 13, iPad nào có thể cài đặt iPadOS - VnExpress Số Hóa
+
+KEY WORDS: iOS 13, cài đặt, nâng cấp, iPadOS, máy tính bảng, iPad, iPhone, cập nhật
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Phiên bản thử nghiệm dành cho lập trình viên của iOS 13 đã cho phép tải về. Các mẫu điện thoại hỗ trợ bao gồm iPhone 6s, 6s Plus, SE, iPhone 7, 7 Plus, iPhone 8, 8 Plus, iPhone X, XR, XS và XS Max. Như vậy, iPhone 6 ra mắt từ 2014 và các model cũ hơn sẽ không thể cài đặt phiên bản mới.
+iOS 13 với dark mode. Ảnh: Engadget
+iOS 13 được Apple công bố tại Hội nghị Các nhà phát triển toàn cầu WWDC 2019 diễn ra tại San Jose (Mỹ) hôm nay. Phiên bản mới tập trung cải thiện hiệu suất với thời gian mở ứng dụng nhanh gấp đôi hiện tại, các ứng dụng và cập nhật nhỏ hơn khoảng 50%.
+iOS 13 được bổ sung Chế độ tối (dark mode), cho phép hiển thị với nền đen và chữ trắng, tối ưu hóa pin nhất là với dòng iPhone XS, XS Max dùng màn hình OLED. Dark mode hoạt động ở cấp độ hệ thống, tức toàn bộ ứng dụng của Apple đều hỗ trợ và người dùng có thể bật hoặc tắt cùng lúc.
+Máy tính bảng iPad cũng có phần mềm mới, sử dụng lõi của iOS nhưng tối ưu hóa riêng cho màn hình lớn, tạo thành nền rảng riêng mang tên "iPadOS". Các thiết bị có thể cài bao gồm iPad mini 4, Air 2, mini thế hệ 5, Air thế hệ 3, iPad Pro 9,7 inch và 12,9 inch, iPad thế hệ 5 và 6, iPad Pro 10,5 inch và 12,9 inch thế hệ 2, iPad Pro 11 inch và 12,9 inch thế hệ ba.
+Giao diện của iPadOS.
+iPadOS khác iOS khi cho phép hiển thị widget và các ứng dụng nổi bật ngay trên giao diện chính. Hệ điều hành mới cũng tận dụng kích thước màn hình lớn để hỗ trợ đa nhiệm nhiều cửa sổ, cho phép kéo thả nội dung giữa các ứng dụng thông qua tính năng Split View và Slide Over.
+Apple khuyến cáo người dùng không nên cài đặt các phiên bản thử nghiệm trên thiết bị chính hay các máy quan trọng vì có thể phát sinh lỗi, gây mất dữ liệu.
+Bảo Anh (theo Apple Insider)

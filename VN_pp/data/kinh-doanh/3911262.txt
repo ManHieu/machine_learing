@@ -1,0 +1,30 @@
+TITLE: Ngoài gia công, ngành IT ở Việt Nam đang làm những gì? - VnExpress Kinh Doanh
+
+KEY WORDS: công nghệ, CNTT, IT, ngành công nghệ, phần mềm, lập trình
+
+TOPIC: kinh doanh, doanh nghiệp
+
+CONTENT: 
+Công nghệ tài chính (Fintech)
+Các chuyên gia của Solidiance dự đoán, đến năm 2020, thị trường Fintech Việt Nam sẽ đạt giá trị 7,8 tỷ USD. Từ năm 2015, các startup Fintech phát triển mạnh tại Hà Nội và TP HCM. Vài Fintech đã góp mặt vào bản đồ thế giới như Momo trong Top 100 Fintech toàn cầu và Money Lover là ứng dụng hàng đầu về quản lý chi tiêu. 
+Tuy nhiên, so với các quốc gia trong khu vực thì lượng Fintech tại Việt Nam còn khiêm tốn. Theo thống kê chưa đầy đủ, giai đoạn 2017-2018, Singapore có hơn 490 công ty Fintech, Malaysia có 196 công ty, Indonesia có 262 công ty.
+Công nghệ chuỗi khối (Blockchain)
+Đây là công nghệ 'lời giải' cho sự minh bạch, điều khó đạt được trong thế giới Internet xưa cũ, nơi dữ liệu và quyền hành tập trung ở một số tổ chức. "Với lực lượng kỹ sư hùng hậu, chịu khó học hỏi và sẵn sàng đón nhận cơ hội mới, Việt Nam được xem là một trong những Blockchain Hub mới nổi ở khu vực", TopDev bình luận.
+Đa số các sản phẩm của Blockchain Việt hướng đến thị trường toàn cầu. Vài tên tuổi nổi bật như OmniLabs, IBL, Lina, Nexttech, Umbala Network...Theo Infinity Blockchain Labs, hiện có hơn 430.000 dự án opensource và 800 công ty khởi nghiệp lớn nhỏ trên thế giới hoạt động trên nền tảng Blockchain. 
+Trí tuệ nhân tạo (AI)
+Với sự phát triển của các nền tảng như OpenAI, OpenCV, TensorFlow, Caffe... vấn đề về thuật toán không còn quá khó khăn. Phần còn lại là dữ liệu có đủ lớn và chất lượng để AI phát huy tác dụng hay không.
+Các doanh nghiệp có những sản phẩm đi vào cuộc sống, nhận được vốn lớn hoặc có doanh thu cao có thể kể đến như FPT.AI, ELSA, QRM, Hana.ai, CyRadar, GotIt... Gần đây nhất, VinGroup cũng gia nhập thị trường này với việc thành lập Viện nghiên cứu trí tuệ nhân tạo AI - VinAI Research (trực thuộc Công ty VinTech).
+TopDev cho biết, có hơn 73% công ty công nghệ đang có ý định ứng dụng AI vào các sản phẩm của mình. Điều này cũng khiến cho nhu cầu về các kỹ sư AI đang ở mức báo động.
+Phần mềm dịch vụ (SaaS)
+SaaS (Software as a Service) được nhiều chuyên gia dự đoán sẽ tạo được một xu thế mới trong các doanh nghiệp tại Việt Nam. Theo khảo sát của BetterCloud, đến năm 2020, sẽ có khoảng 73% doanh nghiệp chuyển sang dùng SaaS toàn thời gian. SAAS đang dẫn đầu lĩnh vực B2B Tech tại nhiều quốc gia nhưng tại Việt Nam vẫn còn chưa được khai thác một cách tốt nhất, mở nhiều "đất dụng võ" cho các startup trong lĩnh vực này.
+Hiện tại việc sử dụng SAAS đã dễ dàng hơn rất nhiều so với thời phần mềm truyền thống. Thị trường đang có cả doanh nghiệp hàng chục năm kinh nghiệm như Misa, và những startup non trẻ như Base, Cloudjet, Vexere... với tư duy làm sản phẩm hiện đại và ứng dụng công nghệ mới.
+Thương mại điện tử (E-Commerce)
+Theo số liệu mới nhất từ Cục Thương mại điện tử và Kinh tế số phát hành vào cuối tháng 9/2018, doanh thu thương mại điện tử trong năm 2017 của Việt Nam đã đạt 6,2 tỷ USD, tăng trưởng 24% so với cùng kỳ năm ngoái. Chính vì thế, thương mại điện tử Việt Nam được nhiều chuyên gia đầu tư xem là hấp dẫn với quy mô dự đoán có thể đạt 10 tỷ USD vào năm 2020.
+Ngoài những doanh nghiệp quen thuộc như Lazada, Shopee, Sendo, Tiki.. thì có thể nhắc đến những cái tên cũng khá nổi trong thời gian gần đây Ecomobi, iFind, Zody, Jamja, Accesstrade, Massoffer, Wisepass, Websosanh...
+Nền tảng thương mại (Marketplace Platform)
+Nền tảng (platform) có thể tạm chia thành 2 nhánh gồm nền tảng giao dịch (transaction platform) được sử dụng để tối ưu hóa giao dịch giữa những người dùng và người cung cấp dịch vụ (Uber, Grab, Go-Jek, Amazon, Ebay...) và nền tảng sáng tạo (innovation platform) là nền móng phát triển, hỗ trợ các mô hình kinh doanh, khởi tạo hệ sinh thái (App Store, Google Play...). 
+Có thể kể đến 5 nền tảng lớn nhất trên thế giới hiện nay là Microsoft, Oracle, Intel, SAP và Salesforce được định giá lên tới 911 tỷ USD. Trong khi đó các nền tảng tích hợp giữa giao dịch và sáng tạo như Apple, Google, Facebook, Amazon, Alibaba và XiaoMi có giá trị lên đến 2.000 tỷ USD.
+Tại Việt Nam, các nền tảng thương mại đang phát triển mạnh. Cạnh tranh khốc liệt là nền tảng về e-logistics, tức mảng gọi xe, giao nhận, với các 'anh tài' như Grab, Go-Viet, FastGo, Be, Now, AhaMove... Các mảng khác như đời sống, sức khỏe, kinh doanh cũng có những đơn vị như Jupviec, eDoctor, Luxstay, Homedy, Chili...
+Công nghệ giáo dục (EdTech)
+Đến nay, thị trường EdTech tại Việt Nam đã đón nhận đầu tư khoảng 55 triệu USD. Thống kê sơ bộ của TopDev, hiện có khoảng 50 công ty EdTech nổi bật. Thị trường có một vài tên tuổi lâu năm như Topica trong khi EdTech vẫn chỉ đang trong giai đoạn sơ khai. "Với chỉ dưới 5% số dân công sở có sử dụng một trong các dịch vụ giáo dục online, Edtech cho thấy vẫn còn một thị trường rộng lớn đang chờ được khai phá", TopDev nhận định.
+Viễn Thông	

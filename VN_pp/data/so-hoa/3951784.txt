@@ -1,0 +1,12 @@
+TITLE: Xoá tính năng theo dõi người dùng trong ứng dụng Android - VnExpress Số Hóa
+
+KEY WORDS: android, bảo mật, quyền riêng tư, quyền vị trí
+
+TOPIC: số hóa, kinh nghiệm
+
+CONTENT: 
+ 
+ 
+Các cách để ứng dụng trên Android không thể truy cập được vào dữ liệu của bạn
+	
+Hoàng Phong, Văn Lộc	

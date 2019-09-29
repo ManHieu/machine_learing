@@ -1,0 +1,25 @@
+TITLE: Lương của kỹ sư quản trị an ninh mạng hơn 1.000 USD - VnExpress
+
+KEY WORDS: kỹ sư an ninh mạng, Đại học Quốc gia TP HCM, Viện Đào tạo Quốc tế, Đại học Turku
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Thống kê gần nhất của Trung tâm Ứng cứu Sự cố Máy tính Việt Nam (VNCERT) trong năm 2018 chỉ ra, các cuộc tấn công an ninh mạng đã bùng nổ ở mức báo động, gây thiệt hại lớn cho doanh nghiệp trên toàn cầu. 
+Theo đó, hơn 9.300 vụ tấn công mạng nhằm vào các website của Việt Nam. Việt Nam là quốc gia xếp thứ ba trên thế giới trong top 10 quốc gia bị kiểm soát bởi mạng botnet sau Ấn Độ và Trung Quốc với gần 98% người dùng internet mua hàng trực tuyến. 
+Cuộc tấn công của tin tặc ở Việt Nam nhằm vào các doanh nghiệp, tổ chức lớn, sàn giao dịch thương mại điện tử và mạng xã hội để đánh cắp kho dữ liệu khổng lồ của khách hàng gồm thông tin cá nhân, tài khoản ngân hàng, mật khẩu và xâm chiếm cả quyền điều hành. 
+Điều này cho thấy vai trò của kỹ sư vận hành hệ thống và quản trị an ninh mạng ngày càng quan trọng. Từ tạp hóa nhỏ lẻ, siêu thị cho đến tập đoàn đa quốc gia về công nghệ, điện tử, thực phẩm và tổ chức tài chính đều không thể phủ nhận vai trò quan trọng của CNTT. Nó giúp cải thiện hiệu suất công việc.
+Chuyên ngành Quản trị an ninh mạng được nhiều sinh viên và tổ chức giáo dục quan tâm.
+"Tuy nhiên, tiện ích luôn đi kèm với rủi ro. Để vận hành suôn sẻ mọi công đoạn, bảo mật khối tài sản là kho dữ liệu và quyền điều hành hệ thống, vai trò của kỹ sư quản trị an ninh mạng là không thể thay thế trước các cuộc cạnh tranh và tấn công của tin tặc", Phó giáo sư, Tiến sĩ Vũ Hải Quân, Phó Giám đốc Đại học Quốc gia TP HCM, Viện trưởng Viện Đào tạo Quốc tế nhấn mạnh.
+Trong bối cảnh đó, nhu cầu nhân sự vận hành và bảo mật thông tin là điều tất yếu. Chuyên ngành Quản trị an ninh mạng vì thế được nhiều sinh viên và tổ chức giáo dục quan tâm.
+Bản phân tích hơn hai triệu thông báo việc làm trong lĩnh vực CNTT của hãng IT và Networking Cisco phối hợp với hãng phân tích thị trường chỉ ra, các vị trí tuyển dụng liên quan đến quản trị an ninh mạng, phân tích dữ liệu, lưu trữ dữ liệu đám mây, mạng lưới internet vạn vật và hạ tầng hội tụ đang thiếu hụt nhân sự trầm trọng.
+Trong 10 năm tới, công nghệ thông tin sẽ một trong những lĩnh vực hấp dẫn trên thị trường lao động trong và ngoài nước. Ngoài lý do cung cầu, đây còn là ngành đóng vai trò thiết yếu trong doanh nghiệp.
+Kỹ sư công nghệ thông tin, đặc biệt là lĩnh vực quản trị an ninh mạng có nhiều cơ hội thăng tiến, nhất là về mức lương, chế độ đãi ngộ. Theo báo cáo của Công ty an ninh mạng Symatec tại Mỹ năm 2018, mức lương khởi điểm của kỹ sư quản trị an ninh mạng dao động từ 500 đến 700 USD, mức lương dành cho kỹ sư lành nghề tại các tập đoàn lớn lên tới 1.000 hoặc vài nghìn đô.
+Đáp ứng nhu cầu thị trường, Viện Đào tạo Quốc tế thuộc Đại học Quốc gia TP HCM đã phối hợp với trường Đại học Turku (thành phố Turku, Phần Lan) xây dựng chương trình đào tạo liên kết quốc tế, mang lại môi trường học tập tốt cho sinh viên đam mê CNTT, nhất chuyên ngành Quản trị an ninh mạng.
+Viện Đào tạo Quốc tế có 20 năm kinh nghiệm trong lĩnh vực đào tạo liên kết quốc tế. Đây là môi trường phù hợp của các kỹ sư an ninh mạng bởi các điều kiện ưu tiên đến từ chương trình học, đội ngũ giảng viên, cơ sở vật chất và bằng tốt nghiệp được công nhận toàn cầu.
+Đội ngũ giảng viên của Viện Đào tạo Quốc tế và Đại học Turku đã hợp tác nghiên cứu, thiết kế bài giảng từ những kiến thức chọn lọc của ngành ở trong và ngoài nước. Ngoài kiến thức cơ bản, chương trình học không ngừng cập nhật những thành tựu công nghệ thông tin và vấn đề an ninh mạng để sinh viên bắt kịp sự phát triển chung của thế giới.
+"Thực hành nhiều trong điều kiện cơ sở vật chất hiện đại ở Việt Nam và Phần Lan là cơ hội để sinh viên tiếp thu kiến thức sâu và hiệu quả hơn. Đây cũng là bước đệm vững chắc để sinh viên tự tin vào nghề sau khi ra trường", đại diện Viện Đào tạo Quốc tế chia sẻ.
+Thế Đan
+Để tìm hiểu thêm thông tin, huynh và học sinh đăng ký tham dự hội thảo "Trở thành sinh viên Đại học Quốc gia TP HCM, nhận bằng đại học của các trường uy tín thế giới" vào ngày 23/3. Hội thảo do Viện đào tạo quốc tế, Đại học quốc gia TP HCM phối hợp cùng chuyên gia đại học Andrews Mỹ và đại học Turku Phần Lan tổ chức.
+Đăng ký tham gia tại: https://bit.ly/2Hwemp4
+ 

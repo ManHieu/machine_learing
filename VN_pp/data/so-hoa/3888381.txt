@@ -1,0 +1,20 @@
+TITLE: Apple, Samsung 'hụt hơi' về sạc nhanh trước điện thoại Trung Quốc - VnExpress Số Hóa
+
+KEY WORDS: sạc nhanh
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Điện thoại thông minh đã phát triển mạnh mẽ trong suốt thập kỷ qua, tuy nhiên công nghệ pin gần như không có sự đột phá. Những năm gần đây, các nhà sản xuất smartphone chủ yếu tăng dung lượng pin, làm cho nó an toàn hơn nhưng công nghệ đằng sau rất ít thay đổi.
+Dùng pin lớn, việc nạp năng lượng sẽ mất nhiều thời gian hơn. Tuy nhiên các công ty công nghệ đã tìm cách giải quyết vấn đề này bằng việc tăng tốc độ sạc và trong cuộc đua này, không ai làm tốt hơn các thương hiệu Trung Quốc, Android Center đánh giá.
+Các công ty điện thoại Trung Quốc có xu hướng phát triển sạc nhanh của riêng mình. Ảnh: Pocket-lint
+Oppo sớm đầu tư vào công nghệ sạc nhanh với tiêu chuẩn Vooc, một trong những công nghệ tốc độ nhất hiện nay. Cuối 2018, công ty Trung Quốc này trình làng mẫu R17 Pro với sạc Super Vooc 50W, cho phép nạp từ 0% lên 40% chỉ trong 10 phút, sạc trên 90% viên pin dung lượng 3.700 mAh trong khoảng 30 phút.
+OnePlus, công ty chung mẹ với Oppo, cũng có công nghệ tương tự mang tên Dash Charge. Vài năm qua, điện thoại OnePlus đã hỗ trợ sạc 22,5W và sẽ nâng cấp lên 30W năm nay. Công nghệ cho phép nạp pin từ 0% lên 52% chỉ trong 30 phút trong điều kiện màn hình bật. Còn khi màn hình tắt, cùng thời gian đó máy sẽ nạp được 70%.
+Không kém cạnh, công ty Trung Quốc khác là Huawei phát triển SuperCharge với tốc độ sạc 40W. Viên pin 4.200 mAh trên Mate 20 Pro có thể nạp từ 0% lên 75% trong 15 phút và mất 50 phút để sạc được 95%. Đó là công nghệ của 2018 còn sang 2019, Huawei giới thiệu SuperCharge 55W với mẫu điện thoại gập Mate X, cho phép sạc 85% viên pin 4.500 mAh chỉ trong 30 phút.
+Trong khi đó, Samsung và Apple bị bỏ lại phía sau trong cuộc đua này. Nhà sản xuất Hàn Quốc mới ra Galaxy S10 nhưng chỉ hỗ trợ sạc 18W, cho phép nạp 40% dung lượng pin trong 30 phút. Ngay cả mẫu Galaxy S10 5G cũng chỉ được nâng cấp lên sạc 25W. Bù lại, dòng điện thoại mới của Samsung có thể sạc không dây 15W, nhanh gần bằng sạc có dây.
+Apple hỗ trợ sạc nhanh từ thế hệ 2017 nhưng người dùng phải mua thêm cáp sạc riêng. Ảnh: Gizmodo
+Với Apple, phải đến iPhone 8 trở đi, hãng mới tích hợp sạc nhanh. Nhưng công ty Mỹ lại bị chê "keo kiệt" khi buộc người dùng phải mua bộ sạc, cáp thêm với giá tiền triệu mới sử dụng được tính năng này. Giống Samsung, sạc nhanh trên iPhone lại trở thành chậm khi so với giải pháp của các công ty Trung Quốc.
+Trên trang chủ, Apple cho biết sạc nhanh của hãng nạp tới 50% dung lượng pin trong 30 phút, bằng nửa tốc độ Super Vooc của Oppo hay OnePlus Dash Charge. Còn khi Huawei so khả năng sạc trong 10 phút đầu, Mate X nạp được 1.485 mAh, gấp sáu lần so với mức 190 mAh của iPhone XS Max.
+Vấn đề đối với sạc nhanh trên smartphone Trung Quốc là mỗi nhà sản xuất lại dùng công nghệ riêng, buộc người dùng phải sử dụng bộ cáp sạc của chính công ty đó nếu muốn khai thác công nghệ. Bù lại, phụ kiện này thường được tặng kèm trong hộp và cũng không quá đắt đỏ nếu người dùng muốn mua thêm.
+Ngược lại, Samsung tích hợp sạc nhanh cho smartphone của mình dựa trên nền tảng Quick Charge của Qualcomm. Vì thế, người dùng có thể lấy bộ sạc cùng tiêu chuẩn để nạp pin một cách thuận lợi. Những bộ sạc đạt chuẩn Quick Charge do bên thứ ba sản xuất cũng sẵn có với giá cạnh tranh, dễ dàng tái sử dụng hay dùng chung cho nhiều thiết bị. 
+Bảo Anh

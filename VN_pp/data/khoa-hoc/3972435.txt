@@ -1,0 +1,14 @@
+TITLE: Chuyên gia trí tuệ nhân tạo truyền cảm hứng cho sinh viên về học máy - VnExpress
+
+KEY WORDS: trí tuệ nhân tạo, ngày học máy, Machine Learning day
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Trí tuệ nhân tạo được ứng dụng nhiều trong lĩnh vực y tế. 
+Ngày 24/8, Ngày học máy (Machine Learning day) khai mạc tại Đại học Thủy lợi, các chuyên gia đã đưa ra bức tranh tổng quan về ứng dụng trí tuệ nhân tạo trong các ngành hiện nay cũng như những cơ hội khi sinh viên quan tâm đến lĩnh vực này. Các chuyên gia đến từ dự án Thúc đẩy đổi mới sáng tạo thông qua nghiên cứu, khoa học và công nghệ (FIRST) do Bộ Khoa học và Công nghệ là cơ quan chủ quản. Dự án đặt mục tiêu kết nối và lan tỏa giữa các viện nghiên cứu trường đại học, các nhóm nghiên cứu mạnh ở các trường, viện, doanh nghiệp với các chuyên gia giỏi của người Việt ở nước ngoài. 
+Theo GS Hồ Tú Bảo, Giám đốc Phòng thí nghiệm Khoa học dữ liệu của Viện Nghiên cứu cao cấp về Toán (VIASM), trí tuệ nhân tạo được ứng dụng nhiều trên thế giới và trở nên quan trọng hơn ở Việt Nam thời gian gần đây. Các ứng dụng tăng lên nhanh, đạt được thành công như trong ngành ngân hàng, hàng không, nhận dạng tiếng nói, hình ảnh...
+Rất nhiều lĩnh vực tiềm năng cho trí tuệ nhân tạo nhưng nguồn nhân lực đang là bài toán khó. Vì vậy GS Bảo cho rằng các trường đại học cần có nhập môn trí tuệ nhân tạo. Ở khía cạnh ứng dụng cần tính tới các giải pháp sử dụng hiệu quả dữ liệu "Ở Việt Nam dữ liệu đang là tài nguyên, vừa có, vừa thiếu", GS Bảo nói và cho rằng trong giao thông, y tế... bài toán dữ liệu lớn đang được đặt ra. Nếu tập trung làm một số việc thành công sẽ là động lực lan tỏa ứng dụng trí tuệ nhân tạo các ngành trong cả nước.
+Ở các bài giảng của GS Nguyễn Hùng Sơn (Đại học Varsava, Ba Lan); GS Nguyễn Xuân Long (Đại học California, Berkeley, Hoa Kỳ)... làm rõ hơn việc làm thế nào để đáp ứng yêu cầu trong lĩnh vực khoa học máy tính này; các thành tựu mới nhất của trí tuệ nhân tạo, nhất là khoa học dữ liệu và học máy. Các bài giảng nhận được sự quan tâm của nhiều sinh viên.
+GS Trịnh Minh Thụ, Hiệu trưởng Đại học Thủy lợi cho biết, nhà trường đặc biệt quan tâm đến các nghiên cứu khoa học và ứng dụng trí tuệ nhân tạo, dữ liệu vào quản lý thiên tai, dự đoán xả lũ, điều chỉnh hợp lý, dự báo thiên tai như sạt lở đất, ngập lụt, hạn hán.
+Đoàn Trung 

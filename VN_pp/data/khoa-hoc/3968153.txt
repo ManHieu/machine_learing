@@ -1,0 +1,19 @@
+TITLE: Chung kết Hackathon đi tìm ứng dụng AI made in Vietnam hàng đầu - VnExpress
+
+KEY WORDS: Chung kết Hackathon, lập trình ứng dụng AI trong 40 giờ, AI4VN
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Ngày 16/8, Chung kết Hackathon Vietnam AI Grand Challenge 2019 - Cuộc thi lập trình ứng dụng AI trong 40 giờ sẽ diễn ra tại Đại học Bách Khoa Hà Nội, sau 4 tháng tổ chức loạt vòng loại. 12 đội thi tranh tài tại chung kết Grand Finale là đại diện xuất sắc nhất từ 3 khu vực TP HCM, Đà Nẵng, Hà Nội. Sự kiện nhằm tìm ra dự án AI nổi bật đại diện cho Việt Nam, cũng như đồng hành, hỗ trợ các dự án phát triển và nhân rộng mô hình sau cuộc thi.
+Chung kết năm nay diễn ra trong khuôn khổ ngày hội Trí tuệ nhân tạo quốc gia AI4VN - sự kiện về AI có quy mô lớn nhất lần đầu tổ chức.
+Các đội đang thuyết trình về sản phẩm trước ban giám khảo tại vòng loại.
+Trước đó, tại các vòng thi khu vực, với thử thách 40 giờ lên ý tưởng và lập trình, 12 ứng cử viên được đánh giá cao bởi các giải pháp có tính ứng dụng ở nhiều lĩnh vực: bán lẻ, giáo dục, y tế... Tiêu biểu như chatbot gọi món tự động, tư vấn sản phẩm cho khách hàng qua nhận diện gương mặt, lời nói và cảm xúc, trợ lý ảo giúp người dùng học tiếng Anh từ tin tức hằng ngày, cảnh báo và ngăn chặn quấy rối và xâm phạm tình dục...
+Để chuẩn bị cho chung kết, 12 đội cũng đã trải qua chương trình đào tạo, ươm mầm Kambria AI Incubation Program, được cố vấn bởi hơn 20 mentors là chuyên gia, CEO các doanh nghiệp và đơn vị nghiên cứu về AI quốc tế lớn, nhằm phát triển ý tưởng kinh doanh và củng cố về mặt kỹ thuật cho sản phẩm.
+Đánh giá màn trình diễn sản phẩm demo và thuyết trình trong đêm chung kết là hội đồng chuyên môn, gồm các chuyên gia AI đến từ nhiều tập đoàn công nghệ hàng đầu, đại diện quỹ đầu tư, tổ chức về công nghệ lớn như Mc Kinsey, Topica, VinTech, Vin Ventures, VietAI, Vietnam Innovation Network (VIN)...
+Đội xuất sắc lựa chọn từ vòng thi chung kết phải đáp ứng tiêu chí kinh doanh như thấu hiểu khách hàng tiềm năng, có khả năng gọi được vốn từ các nhà đầu tư và tính thực tiễn. Ngoài ra, kết quả còn dựa vào đánh giá công nghệ và bình chọn của cộng đồng. 
+Quán quân cuộc thi sẽ nhận 10.000 USD, á quân 1 nhận 4.000 USD, á quân 2 nhận 2.000 USD. Ngoài cơ hội nhận các giải thưởng có tổng giá trị lên đến 40.000 USD, các đội tham gia giải hackathon này còn được kết nối dự án với các tập đoàn lớn, nhằm tiếp tục phát triển và tạo ra ảnh hưởng mang tính toàn cầu.
+Chung kết Hackathon nằm trong Ngày hội Trí tuệ nhân tạo (AI4VN) - sự kiện lớn nhất về AI, diễn ra từ 15 - 16/8.
+Chuỗi hackathon đã diễn ra tại ba thành phố lớn TP HCM (28-30/6), Đà Nẵng (5-7/7) và Hà Nội (12-14/7). Chủ đề năm nay hướng đến thiết kế các trợ lý ảo với khả năng thực hiện đa tác vụ, mang lại trải nghiệm tương tác cao và ứng dụng trong các lĩnh vực như công nghệ xe hơi, công nghiệp sản xuất, dịch vụ ngân hàng, khách sạn, bán lẻ...
+Chung kết Vietnam AI Grand Challenge 2019 nằm trong khuôn khổ Ngày hội trí tuệ nhân tạo Việt Nam AI4VN, do Bộ Khoa học và Công nghệ, Bộ kế hoạch và Đầu tư, trường Đại học Bách Khoa cùng báo điện tử VnExpress phối hợp tổ chức. Sự kiện nhằm kết nối các nhà chính sách, quản lý, tập đoàn công nghệ, đơn vị nghiên cứu, kỹ sư... , tìm ra giải pháp thúc đẩy nghiên cứu, triển khai ứng dụng AI trong nhiều lĩnh vực như tài chính, thương mại điện tử, viễn thông, sản xuất, nông nghiệp, y tế, giáo dục, giao thông, thành phố thông minh...
+Phong Vân 

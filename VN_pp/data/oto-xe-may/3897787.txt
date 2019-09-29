@@ -1,0 +1,21 @@
+TITLE: Mức phạt lỗi sai làn đường khác xa với sai vạch kẻ đường
+
+KEY WORDS: sai làn, sai vạch, mức phạt, tín hiệu giao thông
+
+TOPIC: vnexpress, xe, diễn đàn
+
+CONTENT: 
+Đọc những bình luận trong bài "Sai làn đường hay sai vạch - Tình huống tài xế Việt mơ hồ" tôi cảm thấy đúng thật rất nhiều tài xế "mơ hồ" thậm chí "ngô nghê" với một số điều trong luật giao thông. Xin được giải thích lại những khái niệm này:
+Sai làn đường là gì?
+Là điều khiển phương tiện đi không đúng phần đường, làn đường dành cho phương tiện đó tại đường có phân chia làn, phổ biến nhất và hay bị xử phạt vi phạm là đường chia làn theo biển báo hiệu số R412 (a,b,c,d) "Làn đường dành cho từng loại xe" và R415 "Biển gộp làn đường theo phương tiện". Mức xử phạt vi phạm lỗi này từ 800.000 đến 1,2 triệu, hình phạt bổ sung tước giấy phép lái xe từ 1 đến 3 tháng. Ví dụ: xe tải đi vào làn xe con; xe con đi vào làn xe máy; xe máy đi vào làn ôtô.
+Biển R415 - Biển gộp làn đường theo phương tiện.
+Sai vạch kẻ đường là gì?
+Nói đầy đủ cho lỗi này là điều khiển phương tiện không tuân thủ đèn tín hiệu, biển báo, vạch kẻ đường. Lỗi vi phạm này thường ở những nơi đường giao nhau có đặt biển báo hiệu R411 đồng thời có vạch kẻ, mũi tên chỉ hướng dưới đường 1.18.
+Biển R411 - Hướng dẫn đi trên mỗi làn đường.
+Ví dụ: Tại nơi giao nhau, theo biển báo và vạch kẻ đường, phương tiện không nhập đúng làn theo hướng đi bắt buộc; xe rẽ trái tại làn đi thẳng; xe đi thẳng ở làn rẽ phải; xe ở làn rẽ phải lại đi thẳng...thì đó chính là không tuân thủ biển báo hiệu, vạch kẻ đường. Lỗi này nhẹ thôi, xử phạt từ 100 đến 200 nghìn đồng.
+Như vậy, tất cả các phương tiện khi gặp biển báo hiệu, vạch kẻ đường như trên, phải đi đúng làn, đúng hướng đi, theo mũi tên ghi trên biển báo và dưới đường. Nếu vạch kẻ phân cách các làn theo từng hướng là "vạch liền" thì các phương tiện phải nhập làn để di chuyển theo hướng đi mong muốn trước khi vào khu vực đó và không được đè vạch. Nếu là "vạch đứt" thì có thể được chuyển làn trong khi đè vạch, nhưng phải chuyển xong trước khi tới vạch dừng xe. Khi phương tiện chuyển làn ở sau vạch dừng xe là sai luật rồi đấy.
+Quay lại tình huống giao thông trong bài "Sai làn đường hay sai vạch - Tình huống tài xế Việt mơ hồ", lái xe màu đỏ ở làn giữa đã không tuân thủ đèn tín hiệu và vạch kẻ đường, anh ta thấy đèn đỏ bật sáng nhưng không dừng lại trước vạch dừng xe, mà tiếp tục cho xe đi qua vạch dừng xe để rẽ bên phải. Đó là lỗi vượt đèn đỏ, bởi vì đèn xanh ở làn trong cùng bên phải theo chiều đi bật sáng chỉ cho phép các xe đang đi chuyển trên làn bên phải được rẽ về bên phải và bắt buộc phải rẽ không được phép dừng lại ở làn này; phương tiện ở các làn còn lại phải dừng chờ đèn trước vạch dừng xe.
+Còn nếu là lỗi đi "sai vạch" thì tín hiệu đèn giao thông trong tình huống này phải là màu xanh đang bật sáng, tất cả các phương tiện đang dừng chờ được phép lăn bánh, mà xe màu đỏ ở làn giữa theo mũi tên đi thẳng kẻ trên mặt đường đã không tuân thủ chỉ dẫn này, lại cho xe rẽ phải, đấy mới là lỗi "không tuân thủ đèn tín hiệu vạch kẻ đường" với mức phạt từ 100 đến 200 nghìn đồng.
+Trường hợp nơi giao nhau không có biển báo hiệu R411 mà dưới cột đèn tín hiệu phía bên phải ghi: "đèn đỏ các phương tiện được rẽ phải" thì các phương tiện muốn rẽ phải đều có thể rẽ ở bất cứ vị trí nào mà không bị xử phạt. Tuy nhiên, tôi phải nói rõ đó là không bị xử phạt, còn luật đã quy định (đại ý): các phương tiện muốn rẽ bên phải, phải nhập làn trước khi rẽ, có tín hiệu xin rẽ, chú ý quan sát, nhường đường cho người đi bộ tại vạch kẻ đường dành cho người đi bộ.
+Thứ tự ưu tiên chấp hành hệ thống báo hiệu đường bộ: Đèn tín hiệu, biển báo hiệu, vạch kẻ đường. Trừ trường hợp có người chỉ huy giao thông điều tiết khác với hệ thống báo hiệu đường bộ thì phải bắt buộc tuân theo hướng dẫn của người chỉ huy giao thông. Do đó tuân thủ theo đèn báo hiệu là ưu tiên số một.
+Độc giả Nguyễn Phúc Tâm 

@@ -1,0 +1,13 @@
+TITLE: Sàn Bitcoin của Nhật bị hack 32 triệu USD - VnExpress Số Hóa
+
+KEY WORDS: Bitcoin, tiền điện tử, hack, ví lạnh, ví nóng, đánh cắp
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Sàn giao dịch tiền điện tử Bitpoint của Nhật Bản mới trở thành nạn nhân của tin tặc khi bị đánh cắp 3,5 tỷ yen (tương đương 32 triệu USD) trên ví nóng (có kết nối Internet). Trong số này, 2,5 tỷ yen thuộc về khách hàng và được giao dịch thông qua các đồng bao gồm Bitcoin, Bitcoin Cash và Ripple.
+32 triệu USD tiền điện tử của Bitpoint bị hack thông qua ví nóng. Ảnh: Coinexpert
+Bitpoin đã ngừng tất cả các dịch vụ của mình, bao gồm rút tiền, gửi tiền và các lệnh giao dịch. Công ty cho biết không phát hiện bất kỳ hoạt động bất thường hay thất thoát nào liên quan đến ví lạnh - loại ví lưu trữ tiền điện tử hoạt động không cần kết nối với mạng Internet.
+Vụ hack với Bitpoint xảy ra hơn một năm sau khi Coincheck, một trong những sàn giao dịch tiền điện tử lớn nhất của Nhật Bản, bị đánh cắp 400 triệu USD. Cơ quan tài chính Nhật Bản đã yêu cầu các sàn tăng cường hệ thống an ninh sau thời điểm đó nhưng thiệt hại vẫn xảy ra.
+Khách hàng của Bitpoint đã nhận được thông báo ngừng giao dịch và tiến hành điều tra. Trong khi năm ngoái, Coincheck tuyên bố rút tiền túi để hoàn trả cho người dùng số tiền bị đánh cắp.
+Bảo Anh (theo Verge)

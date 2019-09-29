@@ -1,0 +1,16 @@
+TITLE: Thiết bị chống chó cắn
+
+KEY WORDS: thiết bị chống chó cắn, nguyễn tấn minh, giải thưởng sáng tạo khoa học kỹ thuật toàn quốc
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Chỉ vì bị chó cắn nhiều lần, quá sợ hãi Nguyễn Tấn Minh, Trường THPT Chuyên Khoa học Tự nhiên, Đại học Quốc gia Hà Nội đã tự sáng chế ra thiết bị bảo vệ mình và các em nhỏ khỏi bị chó cắn. Thiết bị này có hình cầu gồm 3 bộ phận chính là micro, loa áp điện và modul tạo sóng siêu âm. Bên trong được thiết kế bảng vi mạch Kit Arduino, dưới đáy thiết bị là công tắc bật, tắt nguồn. Thiết bị nhìn giống quả bóng pokemon, nặng khoảng 300g nên thuận tiện cho người mang vật theo bên mình.
+ 
+ 
+“Bửu bối thần kỳ” trị chó dữ cho trẻ em
+Cơ chế hoạt động của thiết bị chống chó cắn D.S Dog Security
+Sáng tạo thiết bị chống chó cắn (D.S Dog Security) Minh muốn giúp trẻ em, đối tượng thường tò mò, hiếu động nhưng chưa có kỹ năng tự bảo vệ bản thân trước mối nguy hiểm từ chó dữ. Khi hoạt động, thiết bị phát ra một nguồn sóng siêu âm 40kHz (120dB) gây khó chịu cho thính giác của các giống chó phổ biến ở Việt Nam. Thực nghiệm cho thấy thiết bị khiến cho 9/11 con chó bỏ chạy.
+Thiết bị hoạt động theo hai cơ chế là thủ công và tự động. Với phương pháp thủ công, người dùng có thể kích hoạt bằng một bút bấm trên đỉnh thiết bị. Trong trường hợp trẻ hoảng sợ, không thể kích hoạt thiết bị theo cách thủ công, trí thông minh nhân tạo của thiết bị sẽ đối chiếu âm thanh thu được từ micro với cơ sở dữ liệu về tiếng chó sủa để nhận biết và tự động kích hoạt thiết bị.
+Nguyễn Tấn Minh. Ảnh: P. Minh.
+Hiện cơ sở dữ liệu của thiết bị có đầy đủ tiếng sủa của các giống chó phổ biến ở Việt Nam. Minh cho biết, trong tương lai, thiết bị chống chó cắn của Minh sẽ được cập nhật thêm dữ liệu vào kho âm thanh tiếng chó sủa để tăng khả năng nhận biết các giống chó khác nhau, tính năng định vị GPS và gọi số khẩn cấp SOS. Tác giả cũng sẽ thay đổi mẫu mã, linh kiện bên trong để giảm giá sản xuất xuống 180 đến 200 nghìn đồng/thiết bị. Thiết bị sử dụng pin 12V với thời gian hoạt động liên tục là 24 tiếng, có giá 250 nghìn đồng. Tác giả đã đưa sản phẩm sáng tạo tham dự cuộc thi học sinh nghiên cứu khoa học kỹ thuật cấp Quốc gia năm 2019. 

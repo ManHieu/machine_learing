@@ -1,0 +1,23 @@
+TITLE: Lập trình viên Trung Quốc dùng Github để phản đối luật 996 - VnExpress Số Hóa
+
+KEY WORDS: Github, trung quốc, lập trình viên
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Đằng sau thành quả về công nghệ, khoa học kỹ thuật mạnh mẽ những năm gần đây của Trung Quốc, các công ty và đặc biệt là giới lập trình viên, kỹ sư phần mềm nước này phải chịu áp lực rất lớn về cạnh tranh và thời gian làm việc.
+Mới đây, sự phẫn nộ do phải làm việc trong thời gian quá dài của nhân sự trong ngành công nghệ ở Trung Quốc đã bùng nổ sau khi một nhà phát triển phần mềm đăng bản sao luật lao động trên nền tảng phát triển mở dành cho lập trình viên Github. Cụ thể, những người ký hợp đồng sẽ phải chấp nhận lịch làm việc 996, nghĩa là giờ làm việc từ 9 giờ sáng tới 9 giờ tối, sáu ngày một tuần.
+Nếu áp dụng theo quy trình 996 tương đương với việc người lao động phải làm việc ít nhất 60 giờ một tuần. Đó là số giờ làm việc rất lớn, đặc biệt với các vị trí đòi hỏi sự tập trung trí óc và sáng tạo như công việc lập trình. Theo quy định về tiền làm thêm giờ, những nhân viên tuân theo lịch làm việc 996 xứng đáng được trả gấp 2,275 lần mức lương cơ bản. Đáng tiếc là họ hiếm khi được trả nhiều như vậy. Một quy định khác của Luật Lao động Trung Quốc cũng nghiêm cấm lao động làm thêm hơn 36 giờ mỗi tháng.
+Thông tin về luật 996 cũng như quy định trong Luật lao động Trung Quốc được các lập trình viên đăng tải trên website đính kèm.
+GitHub là dịch vụ cung cấp kho lưu trữ mã nguồn dựa trên nền web, dành cho các dự án phát triển phần mềm. Website này có hơn 31 triệu thành viên, đa số là nhà phát triển, lập trình viên, kỹ sự phần mềm đến từ khắp nơi trên thế giới. Là một trong số ít trang web quốc tế không bị chặn ở Trung Quốc, các lập trình viên đã khéo léo biến nơi đây thành diễn đàn thảo luận để bày tỏ sự bức xúc của bản thân.
+Đầu tiên, họ lập ra một dự án mở có tên 996icu. Tuy nhiên thay vì những dòng code, mọi người vào đây để chia sẻ câu chuyện về tình trạng lao động khắc nghiệt tại những công ty đã và đang làm việc. Nó nhanh chóng thu hút sự chú ý và tham gia bình luận, chia sẻ của hàng chục nghìn thành viên.
+Một số người cho biết kể từ tháng 9/2016, hàng chục công ty công nghệ ở Trung Quốc đã bắt đầu triển khai luật 996 và không có tiền lương cho việc làm thêm giờ vào cuối tuần. Ban đầu một số công ty cho biết đây chỉ là chính sách trong thời gian ngắn để giải tỏa áp lực kinh doanh, tuy nhiên cũng có đơn vị tuyên bố nó là bắt buộc.
+Mới đây trong cuộc họp thường niên diễn ra sau dịp Tết Nguyên đán, CEO của công ty thương mại điện tử Youzan đã ca ngợi chính sách 996 và tuyên bố sẽ áp dụng cho toàn công ty trong thời gian tới.
+Giữa tháng 3/2019, một công ty thương mại điện tử lớn khác là Jingdong cũng bắt đầu triển khai hệ thống làm việc 996. Riêng một vài bộ phận đặc biệt sẽ được áp dụng chính sách 995.
+Một số công ty khéo léo hơn trong việc áp dụng. ByteDance, công ty điều hành ứng dụng video ngắn Tiktok đưa ra quy định nhân viên vẫn phải làm việc sáu ngày một tuần, nhưng chỉ hai lần trong tháng và có sự cách quãng.
+"Dự án 996icu" thu hút hơn 22.000 lượt bình luận, gần 100.000 Star (tương tự Like). Đây là những thống kê rất ấn tượng trên Github.
+"Tôi đề nghị chúng ta tập hợp một danh sách các công ty đang áp dụng chính sách 996 và những công ty không áp dụng để mọi người cùng biết", thành viên Yaunping-Huang bình luận trên Github.
+Một người dùng khác có tên TheFirstWhiteDream viết: "Chúng ta nên nâng cao nhận thức pháp lý của mình giống như các đồng nghiệp người nước ngoài".
+"Tôi đã ghen tị với tất cả các bạn, vì tôi phải làm việc như 896 (từ 8 giờ sáng tới 9 giờ tối, sáu ngày một tuần)", người dùng có nickname HelloAnyu nói.
+Các cuộc thảo luận công khai về tác động tiêu cực của văn hóa làm việc 996 đang vượt ra ngoài phạm vi của Github. Trên WeChat, nền tảng truyền thông xã hội lớn nhất Trung Quốc, một nhà phát triển tên Li đã đăng dòng trạng thái: "Cuộc sống hay tiền bạc, đó là một câu hỏi. Nhưng bạn không thể nhận được cả hai cùng một lúc".
+Bảo Nam (theo SCMP)

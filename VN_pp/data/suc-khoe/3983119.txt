@@ -1,0 +1,15 @@
+TITLE: Liệu pháp diệt ung thư và HIV cùng lúc - VnExpress Sức Khỏe
+
+KEY WORDS: Crispr, HIV, chỉnh sửa gen
+
+TOPIC: sức khỏe, tin tức
+
+CONTENT: 
+Các bác sĩ ở Bắc Kinh quyết định thử nghiệm liệu pháp gene với bệnh nhân trên, theo phác đồ dùng công cụ chỉnh sửa gene Crispr để điều trị cả hai bệnh cùng lúc. Kết quả mới công bố trên tạp chí New England Journal of Medicine tháng này cho thấy tình hình sức khỏe của bệnh nhân khả quan.
+Crispr là công cụ sửa gene được sử dụng ngày càng rộng rãi, trong đó các đoạn gene được điều chỉnh có mục đích nhằm điều trị một số bệnh không dùng thuốc. Crispr đã được dùng trong thử nghiệm điều trị HIV trên chuột, và đang thử nghiệm cho người. 
+Trong thử nghiệm với bệnh nhân trên, các bác sĩ dùng Crispr để làm tê liệt gene CCR5 - cánh cửa để HIV xâm nhập vào các tế bào miễn dịch - trên tế bào gốc lấy từ tủy xương một người hiến tặng. 
+Tháng 7/2017, bệnh nhân được truyền hóa chất và làm xạ trị quét sạch tủy xương, tạo khoảng trống để bác sĩ đưa hàng triệu tế bào gốc đã tắt CCR5 vào cơ thể bằng cách tiêm tĩnh mạch. Tế bào tủy chỉnh gene sống sót trong cơ thể bệnh nhân, cung cấp cho anh ta đủ máu và tế bào miễn dịch cần thiết, đồng thời góp phần đóng phần lớn đường xâm nhập của HIV.
+Bệnh nhân vẫn trong tình trạng dương tính HIV bởi tủy mới không đủ khả năng điều trị dứt virus này, tuy nhiên có thể kiểm soát bệnh bằng thuốc kháng virus. 
+Việc điều trị cho bệnh nhâ này cho thấy công cụ Crispr an toàn cho người và có thể giúp tìm ra cách chữa bệnh không dùng thuốc cho bệnh nhân HIV/AIDS. 
+Gen CCR5 giúp virus HIV xâm nhập các tế bào miễn dịch. Ảnh: Wired 
+ Lê Hằng (Theo Wired) 

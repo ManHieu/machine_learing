@@ -1,0 +1,22 @@
+TITLE: Những lưu ý khi mua khóa cửa thông minh - VnExpress Số Hóa
+
+KEY WORDS: khóa thông minh, smarthome, kinh nghiệm
+
+TOPIC: số hóa, điện tử gia dụng, nhà thông minh
+
+CONTENT: 
+Thiết bị có chịu được việc mở khóa bạo lực
+Dù mua khóa cửa thông thường hoặc khóa cửa thông minh, người dùng cần xem xét xem liệu nó có thể chịu được việc mở khóa một cách bạo lực bằng tay hoặc các công cụ hỗ trợ hay không. Cụ thể, người mua nên kiểm tra bộ phận cảm ứng và mật khẩu có nằm trong vùng bảo vệ bằng kim loại không. Ngoài ra, thiết bị cũng cần có chức năng chống mở theo kiểu bạo lực, tức khả năng phát hiện và cảnh báo các hành vi mở trái phép, thông qua việc kích hoạt chuông hay camera, gửi tin nhắn cảnh báo cho người sử dụng.
+Các thông số này được đánh giá và xếp loại theo các tiêu chuẩn riêng, cần tham khảo người bán hoặc thông tin từ website của nhà sản xuất. Hệ số an toàn càng cao, khả năng ngăn chặn việc mở cửa bằng bạo lực càng lớn.
+Thử nghiệm tính năng chống 'hộp đen thần bí'
+Từng gây xôn xao khi có khả năng mở mọi loại khóa cửa thông minh chỉ trong 3 giây, "hộp đen" này trên thực tế là một cuộn dây Tesla. Bên trong nó có biến áp với khả năng chuyển điện áp thấp của pin thành điện áp cao, khoảng 1.000V trở lên. Khi kích hoạt, nó tạo lực từ mạnh, phá vỡ thành phần mạch điện của khóa thông minh hoặc các thiết bị điện tử. Việc này khiến hệ thống điều khiển khóa cửa bị hỏng hoặc khởi động lại, gây hiện tượng mở khóa tự động. Nó cũng có thể khiến dây dẫn động cơ cảm nhận được dòng điện, giống như mô phỏng lệnh mở cửa, cũng khiến khóa cửa bị mở.
+Một số sản phẩm khóa cửa có tính ổn định cao và được hỗ trợ khả năng chống nhiễu để tránh các trường hợp này. Tuy nhiên, nhiều nhà sản xuất để tiết kiệm chi phí, không chú ý tới vấn đề an toàn, đã bỏ qua biện pháp phòng vệ. Người dùng cần tìm hiểu để biết sản phẩm mình sử dụng có hỗ trợ tính năng bảo mật trước dạng tấn công điện từ này hay không.
+Tính năng mở khóa bằng vân tay
+Việc mở khóa bằng vân tay thuận tiện hơn so với mở khóa bằng phím số. Tuy nhiên, việc sử dụng tính năng sinh trắc học này đi kèm nhiều rủi ro bởi hầu hết  các thuật toán về vân tay đều có tính năng tự học. Nó có thể liên tục tìm hiểu để thêm mới các thông tin dấu vân tay của người dùng trong quá trình sử dụng, nhằm giúp hệ thống nhận ra vân tay của chủ nhà trong nhiều trường hợp.
+Tuy nhiên, kẻ gian có thể sử dụng tấm phim mỏng có cấy ghép một phần vân tay giả để dán trên bộ phận quét. Khi người dùng mở khóa cửa, hệ thống ghi nhận cả thông tin vân tay giả và coi nó là một phần của dấu vân tay chuẩn. Bằng cách so sánh nhiều lần, cuối cùng hệ thống có thể chấp nhận dấu vân tay của kẻ gian để thực hiện mở khóa. Không chỉ khóa vân tay, vấn đề này cũng xảy ra với smartphone. 
+Người dùng nên chú ý hơn đến cảm biến vân tay trên khóa cửa thông minh của mình có vật lạ hay lớp màng mỏng nào không. Ngoài ra, luôn đảm bảo giữ cho cảm biến sạch, không có bụi bẩn. Nếu phát hiện bất thường, cần xóa vân tay cũ hoặc sử dụng các phương pháp khác để mở khóa cửa.
+Sơ hở trong việc mở khóa bằng ứng dụng
+Hầu hết khóa cửa thông minh hỗ trợ mở qua ứng dụng. Tuy nhiên, các nhà sản xuất khóa cửa truyền thống không có khả năng cao trong bảo mật phần mềm, nên tin tặc có thể bẻ khóa ứng dụng hoặc máy chủ, giả mạo các lệnh để tạo mật khẩu tạm thời. Từ đó, chúng dễ dàng kiểm soát việc truy cập và mở khóa từ xa.
+Người tiêu dùng gần như không có khả năng tự vệ trước rủi ro này, bởi nó phụ thuộc vào quá trình đầu tư và nghiên cứu phát triển của nhà sản xuất, như kiểm soát truy cập, bảo vệ dữ liệu, chống tấn công giả dạng và chống rò rỉ thông tin... từ khi bắt đầu quá trình phát triển ứng dụng. Lựa chọn các thương hiệu tên tuổi, có kinh nghiệm là giải pháp tốt nhất trong trường hợp này.
+(theo Sina) 
+Bảo Nam

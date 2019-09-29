@@ -1,0 +1,15 @@
+TITLE: Gmail, Google Drive bị lỗi toàn cầu - VnExpress Số Hóa
+
+KEY WORDS: Gmail, Google Drive
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Cnet, hàng nghìn người đã phàn nàn trên mạng xã hội khi không thể truy cập Gmail và Google Drive trong sáng nay. Một số cho biết họ không thể mở dịch vụ thư điện tử, trong khi số khác nói bị lỗi khi kiểm tra tệp đính kèm trong email.
+Người dùng báo cáo về tình trạng Gmail và Google Drive bị lỗi từ sáng nay. Ảnh: Outage Report
+Trên trang tổng quan trạng thái của Google, công ty Internet này cho biết Gmail và Google Drive bị "gián đoạn dịch vụ", được mô tả rằng "người dùng có thể truy cập nhưng sẽ thấy thông báo lỗi, độ trễ cao". Gián đoạn được Google ghi nhận từ 9h53 sáng nay và đang được điều tra.
+DownDetector, trang báo cáo các sự cố với các dịch vụ trực tuyến, ghi nhận hàng nghìn người dùng gặp sự cố với Gmail và Google Drive. "Không thể tải được file ở Australia, việc đến hạn chót rồi", tài khoản Natalie Bramble-Dunkley bình luận. Người dùng ở Thái Lan, Canada cũng phàn nàn khi công cụ của Google bị lỗi.
+Gã khổng lồ lĩnh vực Internet xác nhận với một số trang công nghệ rằng Gmail và Google Drive ngừng hoạt động. Công ty khuyến cáo người dùng kiểm tra hiệu suất dịch vụ tại địa chỉ google.com/appstatus để cập nhật thông tin. Đến 11h45, hai dịch vụ của Google vẫn báo "gián đoạn".
+Thống kê tới 10/2018, Gmail có 1,5 tỷ người dùng hoạt động, tức cứ năm người trên thế giới thì có một dùng thư điện tử của Google. Dịch vụ này ra đời từ 2004, cung cấp miễn phí địa chỉ email cho người dùng thông qua web, ứng dụng di động hoặc các chương trình thư điện tử khác.
+Drive là dịch vụ lưu trữ và đồng bộ hóa tập tin hoạt động từ 2012, cho phép người dùng lưu trữ trực tuyến, chia sẻ tập tin và chỉnh sửa tài liệu. Google Drive được phát triển cùng với Docs, Sheets và Slides, một bộ phần mềm văn phòng online tương tự ứng dụng Word, Excel và PowerPoint của Microsoft. 
+Đình Nam

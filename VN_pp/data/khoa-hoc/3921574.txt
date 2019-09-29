@@ -1,0 +1,12 @@
+TITLE: Bài báo xuất sắc nhất (Best Paper)
+
+KEY WORDS: Bài báo xuất sắc nhất (Best Paper), Chuyên san Kỹ thuật đo lường – điều khiển và tự động hóa
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Sáng 10/5, tại Hà Nội, Hiệp hội Tự động hóa Việt Nam đã trao Giải thưởng Bài báo xuất sắc (Best Paper) đăng trên Chuyên san Kỹ thuật đo lường - điều khiển và tự động hóa với công trình "Giải thuật triệt tiêu điện áp common mode cho bộ biến đổi ma trận gián tiếp và ngõ ra kép" của tác giả Nguyễn Chấn Việt, Phan Quốc Dũng, Lê An Nhuận, Nguyễn Đình Tuyên thuộc Đại học Bách khoa (Đại học Quốc gia TP HCM).
+Chủ tịch Hội Tự động hóa Việt Nam TS Nguyễn Quân (trái) trao giải cho đại diện nhóm tác giả. Ảnh: Phan Minh.
+Ý tưởng chính của nghiên cứu đưa ra phương pháp vector không gian cho phép giảm điện áp common mode (CMV) sinh ra trong quá trình đóng cắt của bộ biến đổi điện trong các động cơ. Cấu hình của bộ biến đổi được thiết kế gồm 6 khóa hai chiều và 12 khóa một chiều có thể biến đổi năng lượng trực tiếp từ nguồn điện để cấp cho tải mà không cần đến khâu lưu trữ năng lượng trung gian. Cách này đơn giản và không cần các bộ lọc cồng kềnh như giải pháp truyền thống. Phương pháp này cũng giúp giảm tác động xấu của dòng điện áp CMV lên động cơ và các thiết bị.
+PGS Tạ Cao Minh, Phó Chủ tịch – Tổng thư ký Hiệp hội tự động hóa Việt Nam đánh giá, công trình đã nghiên cứu cải tiến, nâng cao chất lượng của biến tần ma trận gián tiếp và ngõ ra kép. Đây là một cấu hình mới trên thế giới hiện nay, có khả ứng dụng thực tế cao.
+Đây cũng là lý do bài báo được chọn trong số 78 bài khoa học được xét chọn trong 3 năm (2016 – 2018) ở lần đầu tiên tổ chức giải thưởng. Tiêu chí lựa chọn đảm bảo tính mới, độc đáo, có kết quả thực nghiệm và có cấu trúc bài viết khoa học, văn phong sáng. 

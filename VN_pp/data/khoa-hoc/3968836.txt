@@ -1,0 +1,19 @@
+TITLE: Tiến sĩ người Việt muốn ứng dụng AI 'chẩn bệnh' cho cây trồng - VnExpress
+
+KEY WORDS: trí tuệ nhân tạo trong nông nghiệp, biến đổi khí hậu, ts nguyễn kỳ tài
+
+TOPIC: vnexpress, khoa học, trong nước
+
+CONTENT: 
+Mô hình nông nghiệp công nghệ cao.
+Tại hội thảo chuyên đề "AI trong nông nghiệp" tổ chức ngày 16/8 trong khuôn khổ chương trình AI4VN, TS Nguyễn Kỳ Tài đã giới thiệu 4 mô hình công nghệ AI có thể tính toán tối ưu dinh dưỡng cây trồng giúp đạt năng suất cao nhất trong điều kiện biến đổi khí hậu. TS Tài mong muốn có thể ứng dụng mô hình trí tuệ nhân tạo, phát triển nền nông nghiệp bền vững tại Việt Nam.
+Trước hết đó là mô hình máy nông nghiệp tự động. Các máy móc được lập trình và phát triển dữ liệu tự động giúp xử lý các nhiệm vụ thiết yếu như tưới nước, nhận dạng cỏ dại, phun thuốc diệt cỏ, thu hoạch vụ mùa với tốc độ nhanh hơn, đạt năng suất cây trồng cao hơn.
+Mô hình thứ hai là công nghệ giám sát cây trồng và đất. Với công nghệ này, dữ liệu đầu vào sẽ được thu thập từ hình ảnh vệ tinh, phương tiện máy bay không ngưới lái, bộ cảm biến nhiệt độ, dữ liệu dưới lòng đất... Từ các thông số này máy sẽ tích hợp xử lý và phân tích dữ liệu, đưa ra những cảnh báo về tình trạng đất và cây trồng.
+Với mô hình thứ ba cho phép phân tích phân tích dự báo. Mỗi cây trồng hoặc mỗi khu vực sẽ được cài đặt hệ thống cảm biến tự tổng hợp và phân tích dữ liệu, so sánh với dữ liệu đầu vào, từ những thông số sai lệch sẽ đưa ra cảnh báo về tình trạng thiếu nước, thiếu dinh dưỡng và khả năng bị bệnh của cây.
+Mô hình thứ tư là nông nghiệp chính xác. Sau khi phân tích dữ liệu, mô hình này sẽ tự động có những biện pháp chăm sóc cây trồng như bổ sung nước, tưới phân đạm với tỷ lệ chính xác cao.
+Theo TS Tài, hiện nay nền nông nghiệp Việt Nam phụ thuộc rất nhiều vào thời tiết. Một số phương pháp truyền thống đôi khi là lạc hậu vẫn được người nông dân duy trì trong thời đại cách mạng công nghệ 4.0. Như vậy sẽ ảnh hưởng lớn tới sản lượng cây trồng. Giống như con người, cây trồng cũng có "ngôn ngữ" riêng của để thể hiện tình trạng sức khỏe. "Ngôn ngữ" này được thể hiện trực tiếp qua các chỉ số, điều kiện sinh trưởng của cây trồng, sớm phát hiện và ngăn ngừa kịp thời đối với những cây trồng mắc bệnh.
+4 mô hình công nghệ AI này đã được TS Tài và nhóm nghiên cứu áp dụng thử nghiệm trên các cánh đồng trồng mía tại vùng nông thôn ở Toowoomba, Queensland. "Do các công nghệ nghiên cứu và ứng dụng thành công ở nước ngoài nên việc chuyển giao và áp dụng vào Việt Nam sẽ không quá đắt đỏ", ông Tài nói và cho biết việc trở về Việt Nam giới thiệu mô hình công nghệ này với mong muốn đóng góp kiến thức của bản thân cho sự phát triển của quê hương. Nếu mô hình này phát triển, không chỉ ở những khu trang trại, nông trường mà những người nông dân cũng có thể tiếp cận công nghệ AI, tăng hiệu quả nông nghiệp và giảm thiểu nguy cơ mắc bệnh từ thuốc hóa học, phân bón hóa học trong nông nghiệp.
+Tuy nhiên, vị chuyên gia này cho rằng, bài toán nông nghiệp bền vững tại Việt Nam không chỉ là ứng dụng công nghệ cao mà còn là câu chuyện trồng cây gì, nuôi con gì. Để giải quyết bài toán này thì cần tới trí tuệ con người chứ không phải trí tuệ nhân tạo.
+Chương trình Ngày hội Trí tuệ nhân tạo (AI4VN) diễn ra tại trường Đại học Bách Khoa Hà Nội, số 1 Đại Cồ Việt, quận Hai Bà Trưng, Hà Nội từ 15 - 16/8. Sự kiện được tổ chức bởi Bộ Khoa học và Công nghệ, Bộ Kế hoạch và Đầu tư, trường Đại học Bách khoa Hà Nội cùng Báo điện tử VnExpress.
+Ngày hội Trí tuệ nhân tạo Việt Nam có sự đồng hành của FPT, Viettel, VietinBank, VNPT, VIB, VinGroup, VNPost, BKAV. Ngoài ra, chương trình cũng nhận được sự phối hợp từ các đơn vị Five9, Misa, SmartOCR, dinogo, FastGo, Topica, Kambria, VietAI, BKHoldings, Netnam.
+Nguyễn Xuân 

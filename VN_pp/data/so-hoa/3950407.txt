@@ -1,0 +1,13 @@
+TITLE: Qualcomm đang nghiên cứu chip mới cho thiết bị đeo tay - VnExpress Số Hóa
+
+KEY WORDS: apple, qualcomm, wearos, nokia 3.2, wear 439, android wear
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Qualcomm đang chuẩn bị chip mới cho đồng hồ thông minh bởi sản phẩm hiện tại - Wear 3100 - chưa thể thuyết phục được các nhà sản xuất đồng hồ. Sản phẩm mới mang tên "Snapdragon Wear 429" hoặc "Snapdragon Wear 2700", được sản xuất theo tiến trình 12nm và tích hợp CPU Cortex-A53 64-bit.
+So sánh cấu hình với chip Wear 3100 (được phát triển theo tiến trình 28nm và tích hợp với 4 nhân Crotex-A7), chip mới được dự đoán sẽ sử dụng nhiều bóng bán dẫn hơn, giúp xử lý nhanh hơn và tiêu tốn ít năng lượng hơn.
+Một thiết bị đeo tay sử dụng con chip Wear 3100. Ảnh: DroidLife.
+Qualcomm đang thử nghiệm chip Wear 429/Wear2700 với cấu hình gồm 1GB RAM LPDDR3 và 8GB dung lượng lưu trữ eMMC. Chip này được cho là tích hợp tính năng tiết kiệm năng lượng, gửi một số tác vụ tới chip hoặc lõi có năng lượng thấp hơn để tiết kiệm pin. Nhiều khả năng Wear 429 sẽ dựa trên nền tảng di động Snapdragon 429 (cũng sử dụng tiến trình 12nm và có các lõi Cortex-A53).
+Wear 3100 được bán trên thị trường dưới dạng chip năng lượng thấp có khả năng xử lý các tác vụ đơn giản mà không yêu cầu toàn bộ sức mạnh tính toán của lõi Cortex-A7. Điều này giúp thiết bị tiết kiệm pin và giữ thiết bị phát sáng khi người dùng không sử dụng đồng hồ. Pin trên đồng hồ chạy Wear 3100 được 36 đến 60 giờ. Tuy nhiên, hầu hết đồng hồ chạy Wear OS gần đây vẫn sử dụng chipset Wear 2100 cũ hơn, được giới thiệu vào năm 2016.
+Hoàng Phong (theo PhoneArena)

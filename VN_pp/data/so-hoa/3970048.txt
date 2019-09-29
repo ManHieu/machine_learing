@@ -1,0 +1,14 @@
+TITLE: Sai lầm của Apple trên iOS 12.4 - VnExpress Số Hóa
+
+KEY WORDS: iOS 12.4, hack iPhone, jaibreak iOS 12.4
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Nhà nghiên cứu bảo mật Pwn20wnd đã phát hành công cụ bẻ khóa công khai iOS 12.4 và có thể hoạt động trên tất cả các mẫu iPhone gần đây. Đây là lần đầu tiên sau nhiều năm, một công cụ jailbreak như vậy được public. Công cụ bẻ khóa hoạt động trên iOS 12.4 cũng như mọi phiên bản khác dưới iOS 12.3.
+Theo Ned Williamson, một nhà nghiên cứu bảo mật tại Google, iOS 12.4 phát hành vào tháng 6, đã tiếp tục có một lỗ hổng tương tự được tìm thấy bởi nhóm săn lỗi Project Zero. Trước đó, lỗ hổng từng được Apple vá trên iOS 12.3. "Điều này có nghĩa là các hacker có thể lợi dụng sai lầm của công ty để hack iPhone một cách dễ dàng hơn rất nhiều", một nhà nghiên cứu nhận định.
+Công cụ bẻ khóa iOS 12.4 được phát hành công khai
+Pwn20wnd đã nói với Motherboard rằng, một hacker có thể tạo ra một phần mềm gián điệp hoàn hảo, lợi dụng sai lầm của Apple. "Ví dụ, một ứng dụng độc hại có thể khai thác lỗi này, cho phép nó thoát khỏi cơ chế ngăn ứng dụng tiếp cận dữ liệu của các ứng dụng khác hoặc hệ thống trên iPhone và đánh cắp dữ liệu người dùng", ông nói.
+Một số người dùng trên Twitter tuyên bố rằng họ đã bẻ khóa thành công iPhone bằng công cụ này. Tuy nhiên, nhiều chuyên gia khuyên rằng việc bẻ khóa sẽ khiến cho thiết bị dễ bị tấn công hơn và hiệu suất hoạt động mất ổn định.
+Có khả năng Apple sẽ phát hành iOS 12.4.1 trong thời gian tới, để khắc phục lại lỗ hổng này. Cho đến lúc đó, nhà nghiên cứu bảo mật Stefan Esser khuyên người dùng nên cảnh giác với những ứng dụng cài đặt từ App Store, bởi vì bất kỳ ứng dụng nào cũng đều có thể bị hacker lợi dụng để cài phần mềm gián điệp.
+Ngọc Bình (theo 9to5mac)

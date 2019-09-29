@@ -1,0 +1,18 @@
+TITLE: Máy hát tự chế điều khiển bằng cách quẹt thẻ - VnExpress Số Hóa
+
+KEY WORDS: máy hát, nhà thiết kế, DIY
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Verge, năm nay, gia đình nhà thiết kế Chris Patty quyết định chỉ tặng nhau những món quà được làm thủ công, thay vì mua sẵn. Máy hát của anh được điều khiển bằng các thẻ vật lý, mỗi thẻ in tên một nghệ sĩ và ca khúc ở mặt trước. Người dùng sau khi "quẹt thẻ", bài hát tương ứng sẽ vang lên.  
+ 
+ 
+Máy hát tự chế điều khiển bằng cách quẹt thẻ
+Máy hát của Chris Patty. 
+Thiết kế của thiết bị này rất đơn giản. Bên trong hộp có một loa được điều khiển bởi Raspberry Pi, một máy tính nhỏ gọn có kích thước chỉ bằng thẻ ATM và chạy hệ điều hành Linux. Trên máy tính này cài sẵn phần mềm do Patty viết. Tất cả các bài hát được lưu trữ cục bộ trên thẻ SD và sẽ phát ngay khi thẻ liên kết được quét qua đầu đọc. Nhà thiết kế quyết định sử dụng thẻ từ, thay vì thẻ NFC để giảm chi phí. Trên mỗi thẻ được đính kèm mã ID, phần mềm được thiết lập để kết nối mã đó với một bài hát cụ thể.
+Sau khi đăng video về máy hát lên Twitter, Patty nhận được rất nhiều phản hồi tích cực. "Tôi nghĩ các phản hồi nói lên sự không hài lòng nói chung với tình trạng hiện tại của các dịch vụ âm nhạc", Patty nói. "Các thư viện nhạc không giới hạn trong Apple Music và Spotify đã làm giảm trải nghiệm người dùng. Có một vài thứ, thuộc về những yếu tố giới hạn của phương tiện vật lý, lại làm cho âm nhạc trở nên có ý nghĩa. Tôi nghĩ kiểu trải nghiệm đó là thứ chúng ta đều rất nhớ".
+Thiết kế bên trong chiếc máy hát của Patty.
+Không ít người yêu cầu Patty chia sẻ mã nguồn mở của phần mềm và hướng dẫn để họ có thể tự chế thiết bị của riêng mình. Nhà thiết kế cho biết anh có ý định làm một phiên bản kỹ thuật số của thiết bị, để mọi người có thể tạo qua máy in 3D.
+"Cha mẹ tôi có Google Home và cả tài khoản Spotify", Patty nói. "Nhưng trong những ngày qua, từ khi tôi tặng bố món quà này, nó đã được sử dụng nhiều hơn so với các dịch vụ phát nhạc trực tuyến". 
+Bảo Nam

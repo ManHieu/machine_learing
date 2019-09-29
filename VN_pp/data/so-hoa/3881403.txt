@@ -1,0 +1,14 @@
+TITLE: iPhone XS và XS Max vào mạng 4G nhanh hơn iPhone X, XR - VnExpress Số Hóa
+
+KEY WORDS: iPhone XS, iPhone XS Max
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Theo OpenSignal, đơn vị nghiên cứu đã thử nghiệm iPhone trên khắp nước Mỹ, sử dụng nhiều nhà mạng khác nhau từ 26/10/2018 đến 24/1/2019. Kết quả, bộ đôi iPhone XS và XS Max vào mạng 4G nhanh hơn 26% so với tất cả các mẫu điện thoại mà Apple phát hành từ 2015 đến 2017.
+iPhone XS và XS Max cho tốc độ truy cập 4G nhanh hơn. Ảnh: CultofMac
+Trong số các model mới, iPhone XS Max vượt trội khi đạt tốc độ lên đến 21,7 megabit mỗi giây, iPhone XS xếp sau với kết quả 20,5 megabit mỗi giây. Hai thiết bị này sử dụng antenna 4x4 MIMO, còn iPhone XR là 2x2 MIMO nên tốc độ chậm hơn, đạt 17,6 megabit mỗi giây.
+Băng thông điện thoại từ iPhone 6s đến iPhone X hầu như không được cải thiện, có thể khiến người dùng giảm quan tâm đến việc nâng cấp thiết bị, OpenSignal suy đoán.
+2019 được cho là năm của điện thoại 5G và hàng loạt thiết bị hỗ trợ mạng thế hệ mới sẽ được giới thiệu tại MWC. Tuy nhiên, Apple nhiều khả năng sẽ không áp dụng công nghệ này cho đến 2020. Một trong những nguyên nhân khiến hãng chậm trễ trong cuộc đua 5G là bởi Intel, đối tác cung cấp modem, không sẵn sàng tung chip 5G trong năm nay.
+Apple thường bị phàn nàn vì chậm đi theo các tiêu chuẩn di động mới. Chẳng hạn iPhone thế hệ đầu tiên năm 2007 chỉ hỗ trợ 2G, trong khi giai đoạn đó 3G đang tạo nên làn sóng, hay đến 2012 với iPhone 5 thì hãng mới trang bị 4G. 
+Đình Nam

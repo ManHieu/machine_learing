@@ -1,0 +1,16 @@
+TITLE: Hàng loạt website lớn trên thế giới gặp sự cố - VnExpress Số Hóa
+
+KEY WORDS: CloudFlare, bảo mật, sự cố mạng
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Từ đêm qua, khi người sử dụng vào các dịch vụ như Dropbox, BuzzFeed, Discord, Pinterest, OKCupid, SoundCloud... đều nhận được thông báo lỗi "502 Gateway Error".
+Đáng chú ý, ngay cả trang DownDetector, nơi mọi người thường truy cập để theo dõi tình hình sự cố và quá trình khôi phục của các dịch vụ Internet như Facebook, Google... cũng bị ảnh hưởng. Do đó, người dùng phải lên Twitter để chia sẻ và cập nhật thông tin.
+DownDetector, công cụ được dùng để theo dõi tình hình "sập mạng" cũng không thể truy cập.
+Thậm chí, CoinDesk, trang chuyên về tiền ảo, đã khiến một số thành viên "hoảng loạn" khi hiển thị nhầm giá Bitcoin sụt xuống chỉ còn 26 USD.
+"Do sự cố CloudFlare, chúng tôi đã nhận được dữ liệu sai từ các nhà cung cấp nên hiển thị sai mức giá tiền ảo. Hãy bình tĩnh mọi người. Bitcoin không có giá 26 USD", CoinDesk đăng thông báo trên Twitter.
+Cloudflare CEO Matthew Prince cho biết họ không bị hacker tấn công và vụ sập mạng là do trục trặc trong quá trình triển khai phần mềm. "CPU bị quá tải khiến các hệ thống chính và dự phòng đều ngừng hoạt động, ảnh hưởng đến tất cả các dịch vụ. Không có bằng chứng cho thấy hệ thống bị tấn công. Chúng tôi đang tiếp tục tìm hiểu gốc rễ của vấn đề", ông Prince nói.
+Hãng ước tính sự cố kéo dài khoảng 30 phút. Số lượng website bị sập không được công bố như Cloudflare thừa nhận là diện ảnh hưởng "rất rộng".
+Cloudflare là dịch vụ cung cấp mạng phân phối nội dung, dịch vụ bảo mật Internet và các dịch vụ phân phối máy chủ tên miền, đứng giữa khách truy cập và nhà cung cấp dịch vụ lưu trữ. CloudFlare hiện đặt 165 trung tâm dữ liệu tại 46 quốc gia, trong đó có Việt Nam. 
+Châu An

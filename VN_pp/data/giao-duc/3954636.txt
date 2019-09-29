@@ -1,0 +1,18 @@
+TITLE: Bài toán tưởng đơn giản nhưng phải người IQ cao mới làm được - VnExpress
+
+KEY WORDS: bài toán, tưởng đơn giản, IQ cao, mới làm được, đố vui, toán học
+
+TOPIC: vnexpress, giáo dục
+
+CONTENT: 
+Bài toán: Hãy tìm đáp án cho phép tính sau?
+8+11=19, đó là kết quả theo logic thông thường mà chúng ta vẫn biết. Nhưng trong trường hợp phi logic như chuỗi phép tính trên thì kết quả sẽ như nào? Dưới đây là hai cách giải cho bài toán này:
+Cách thứ nhất:
+Trong cả chuỗi phép tính thì chỉ có phép đầu tiên "4+1=5" là logic, còn lại đều phi logic và ẩn chứa một quy tắc ngầm. Nếu ta phát hiện được quy tắc này thì sẽ dễ dàng giải được bài toán.
+Cách giải: Hãy cộng đáp án của phép tính trước vào phép tính sau như hình minh họa dưới đây. Với phép tính đầu tiên, bạn sẽ cộng thêm số 0, vì trước nó không có phép tính nào cả.
+Áp dụng quy tắc này cho phép tính cuối cùng, bạn sẽ tìm ra được đáp án bài toán là 40.
+Cách thứ hai:
+Nếu quan sát kỹ, bạn sẽ nhận thấy có một quy tắc ngầm khác ẩn sau chuỗi phép tính. Vì vậy, nó khiến bài toán có thêm một cách giải nữa. Tuy cách giải này cho ra một đáp án khác, nhưng vẫn được xem là hợp lệ.
+Cách giải: Mỗi số đầu tiên và số thứ hai của các phép tính đều tạo thành một chuỗi số theo thứ tự lần lượt là: "1, 2, 3" và "4, 5, 6". Phép tính cuối cùng tuy phá vỡ quy tắc này, nhưng trên thực tế nó lại hoàn toàn phù hợp, nếu như thêm bốn phép tính nữa vào giữa phép tính thứ ba và phép tính cuối. (Xem minh họa).
+Áp dụng cách giải thứ nhất, chúng ta lần lượt cộng đáp án của phép tính trước với phép tính sau. Sau khi hoàn thành, ta sẽ được đáp án là 96.
+Thanh Hương (Theo Theepochtimes) 

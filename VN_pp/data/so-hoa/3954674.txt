@@ -1,0 +1,16 @@
+TITLE: Apple phạt nhà cung ứng nếu để lộ hình ảnh iPhone 12 - VnExpress Số Hóa
+
+KEY WORDS: iPhone 12, Apple, rò rỉ iPhone
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Một số nhà sản xuất smartphone thường chia sẻ ảnh cho nhiều nguồn tin như một cách quảng bá về sản phẩm trước khi ra mắt. Tuy nhiên, Apple không thích điều đó vì iPhone đã nhận được mối quan tâm đủ lớn và việc biết trước quá nhiều về sản phẩm khiến lễ công bố trở nên nhàm chán, không còn nhiều bất ngờ.
+Theo The Information, Apple đã thành lập một nhóm phụ trách việc ngăn chặn rò rỉ thông tin kỹ thuật số về sản phẩm ngay tại trụ sở. Họ cũng đưa ra một loạt điều khoản với các nhà cung ứng, như phải vận hành một hệ thống máy tính độc lập với các hoạt động khác của công ty. Các file CAD phải được chia sẻ trong mạng riêng và bảo mật. Apple cũng đóng dấu watermark vào tất cả các tệp tin để ngăn việc chụp ảnh màn hình. Họ cũng cấm sử dụng các dịch vụ email công cộng và các dịch vụ đám mây bên thứ ba như Google Enterprise hay Dropbox.
+Nếu một hình ảnh bị rò rỉ, nhà cung cấp phải hoàn trả cho Apple 25 triệu USD và chịu mọi chi phí liên quan tới cuộc điều tra. Một số nhà cung cấp phải tăng cường bảo mật như trang bị camera nhận diện khuôn mặt, triển khai hệ thống camera an ninh mới và bổ sung đội ngũ nhân viên bảo vệ. Tuy nhiên, điều khoản hiện tại giữa Apple và Foxconn khiến nhà máy này không bị phạt nếu thông tin bị rò rỉ.
+CEO Tim Cook từng hứa hẹn sẽ tăng cường bảo mật cho sản phẩm Apple nhưng chưa hiệu quả. Ảnh: Business Insider.
+Để khiến sản phẩm thực sự gây bất ngờ, Apple từng "kín như bưng" trước các lễ công bố. Những căn phòng không cửa sổ, bị khóa trái là nơi iPhone, iPad được đem ra thảo luận. Thông tin được giữ kín giữa khoảng 100 người được Steve Jobs tự tay lựa chọn. Đến ngày công bố sản phẩm, nhân viên Apple theo dõi sự kiện qua báo chí và cũng ngạc nhiên như bao người khác dù họ góp phần làm ra nó.
+Thế nhưng, kể từ khi Steve Jobs ra đi mang theo sự khắc nghiệt, những bí mật "thần kỳ" ở Apple cũng không còn. Một năm sau khi huyền thoại công nghệ qua đời, Apple trình làng iPhone 5 vào tháng 9/2012 giới phân tích nhận xét rằng điều bất ngờ nhất ở sự kiện là Apple... không công bố điều gì bất ngờ. 
+Mọi thứ tiếp tục lặp lại khi thông tin về iPhone 2013 ồ ạt xuất hiện trên mạng. Thậm chí, khi Apple thay đổi thiết kế trên mẫu điện thoại kỷ niệm 10 năm, nhiều người cũng đã biết sản phẩm này sẽ có tên iPhone X với "tai thỏ" trên màn hình.
+Dù vậy, ngăn chặn rò rỉ thiết kế, linh kiện là nhiệm vụ khó khăn. Theo thống kê, có tới 2,7 triệu công nhân có hợp đồng ra vào 40 nhà máy đối tác của Apple mỗi ngày, đồng nghĩa khả năng kiểm soát toàn bộ gần như không thể. 
+Châu An

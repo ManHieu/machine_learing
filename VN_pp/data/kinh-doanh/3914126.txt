@@ -1,0 +1,55 @@
+TITLE: Hóa đơn tiền điện tăng đột biến
+
+KEY WORDS: giá điện, điện, tăng tiền điện, EVN
+
+TOPIC: kinh doanh, hàng hóa
+
+CONTENT: 
+Vừa nhận được hóa đơn điện tháng 4, chị Út, ở phường Hiệp Bình Chánh, Thủ Đức (TP HCM) "tá hỏa" vì số tiền phải trả tăng lên tới gần 1,3 triệu đồng, trong khi tháng trước nhà chị chỉ dùng 688.000 đồng.
+"Lục lại hóa đơn để so sánh, tôi thấy tháng này nhà tôi chỉ tăng có 100 kWh nhưng không hiểu điện lực tính thế nào mà tiền điện tăng gấp đôi. Gọi điện hỏi tổng đài thì chỉ được nhận trả lời là do giá điện tăng", chị Út nói.
+Cũng "sốc" khi nhận hóa đơn tiền điện, anh Vinh (chung cư EHome 3, phường An Lạc, quận Tân Bình) cho hay, tiền điện tháng 4 nhà anh tăng gần gấp 4 lần tháng 3 và hơn 5 lần so với tháng 2. Cụ thể, hóa đơn điện tháng 2 là 290.000 đồng, tăng lên 320.000 đồng vào tháng 3 và tháng 4 lên tới 1,25 triệu đồng (gồm thuế VAT) với lượng điện tiêu thụ 482 kWh. Dù được điện lực báo là do tăng lượng điện tiêu thụ và giá tháng 4 có điều chỉnh, nhưng anh Vinh cho rằng "mức tăng nhiều lần như vậy là bất hợp lý".
+"Tôi có đề nghị điện lực xuống kiểm tra đồng hồ nhưng họ bảo đồng hồ chạy không sai trong khi sinh hoạt của gia đình vẫn vậy và không tăng đáng kể. Cuối cùng điện lực gửi tôi biểu tính giá điện. Tôi không hiểu họ chia như thế nào nhưng trong đơn giá thì giá điện được tính với nhiều mức khác nhau", anh Vinh chia sẻ.
+Biểu giá bán lẻ điện sinh hoạt trước và sau điều chỉnh ngày 20/3:
+Bậc thang
+Đơn giá cũ (đồng)
+Đơn giá mới (đồng)
+Tỷ lệ tăng (%)
+Bậc 1: Cho kWh 0-50
+1.549
+1.678
+8,33
+Bậc 2: Cho kWh 51-100
+1.600
+1.734
+8,38
+Bậc 3: Cho kWh 101-200
+1.858
+2.014
+8,40
+Bậc 4: Cho kWh 201-300
+2.340
+2.536
+8,38
+Bậc 5: Cho kWh 301-400
+2.615
+2.834
+8,37
+Bậc 6: Cho kWh 401 trở lên
+2.701
+2.927
+8,37
+Một trường hợp khác là chị Anh ở quận 10 cho biết, tháng 3 lượng điện tiêu thụ nhà chị là 2.405 kWh, tháng 4 là 3.366 kWh. Tháng trước chị trả 6 triệu tiền điện, nhưng tháng này nhân viên ngành điện chỉ đưa hóa đơn ghi chỉ số điện tiêu thụ mà không có số tiền. Thắc mắc, chị nhận được trả lời từ nhân viên đề nghị tải app và nhập mã khách hàng để biết cụ thể số tiền. Kiểm tra trên hệ thống của điện lực, chị Anh bất ngờ khi tiền điện tháng 4 gần 10,5 triệu đồng, tăng 75% so với tháng trước.
+Hóa đơn tiền điện tháng 4 các hộ gia đình tại Hà Nội cũng ghi nhận tăng so với tháng trước. Chị Hoa ở Hà Đông cho biết, tiền điện tháng 4 gia đình chị tăng gần 400.000 đồng so với tháng 3, lên gần 1,3 triệu đồng. "Khi nhận hóa đơn tôi bất ngờ vì tháng rồi thời tiết Hà Nội chưa nóng, điều hòa chưa dùng. Giá điện tăng thì mới từ 20/3, không biết vào hè tiền điện còn tăng thế nào nữa", chị than thở.
+Chị Thủy ở Thanh Trì, phản ánh, tháng rồi chỉ số điện tiêu thụ nhà chị tăng gấp đôi các tháng trong năm. Với 267 kWh điện sử dụng, chị phải trả gần 580.000 đồng tiền điện, gần gấp đôi tháng trước. "Bên công ty điện tới kiểm tra công tơ thì nói chỉ số ghi điện đúng, không có gì bất thường và nói có thể do nóng nhà mình dùng tăng các thiết bị làm mát. Song, giải thích như vậy là chưa thỏa đáng", chị Thủy nêu. 
+Không riêng các hộ gia đình tăng giá điện đột biến, nhiều doanh nghiệp cũng than vì tiền điện tăng quá "sốc". Chủ một xưởng may tại quận Tân Phú (TP HCM) phản ánh, tiền điện tháng 1-3 luôn dao động quanh mức 3-9,4 triệu đồng, nhưng tháng 4 cơ sở này phải trả tới 17 triệu đồng, tăng 1,8 lần so với tháng 3.
+Trao đổi với VnExpress, ông Nguyễn Duy Quốc Việt - Phó tổng giám đốc EVN TP HCM cho rằng, nắng nóng kéo dài khiến nhu cầu sử dụng điện tăng cao. "Chúng tôi ghi nhận nhiều hộ gia đình sử dụng máy lạnh, lượng điện tiêu thụ gấp 2-3 lần tháng trước đó", ông nói.
+Còn tại Hà Nội, thời tiết bắt đầu nóng lên từ đầu tháng 4 cũng là nguyên nhân được đại diện EVN Hà Nội đưa ra giải thích chuyện hóa đơn tiền điện tăng. Số liệu thống kê của đơn vị này, sản lượng điện tiêu thụ những ngày đầu tháng 4 tăng 11 triệu kwh một ngày, tăng lên 58 triệu kWh, so với cuối tháng 3. 
+Một lý do khác dẫn đến sự chênh lệch kỳ hóa đơn tiền tiện tháng 4 so với  kỳ hóa đơn tháng 3 là số ngày sử dụng điện của hóa đơn tháng 4 (31 ngày) nhiều hơn số ngày sử dụng điện của hóa đơn tháng 3 (28 ngày với trường hợp không bị ảnh hưởng lịch ghi chỉ số Tết Nguyên đán và 21 ngày với trường hợp ảnh hưởng của lịch ghi chỉ số Tết Nguyên đán).
+"Số ngày sử dụng điện dài hơn, lượng điện năng tiêu thụ tăng theo quy luật hàng năm vào những tháng hè, cộng với việc giá bán điện điều chỉnh làm tổng số tiền điện tháng 4/2019 các hộ dân phải trả tăng hơn so với tháng trước", đại diện EVN Hà Nội giải thích.
+Việc tăng giá bán lẻ điện bình quân thêm 8,36% từ 20/3, theo ngành điện cũng là nguyên nhân khiến tiền điện của các hộ gia đình tăng theo. Cùng đó, biểu tính giá điện lũy tiến theo 6 bậc thang nên khi khách hàng dùng điện càng nhiều, tiền điện phải trả càng cao.
+Cụ thể, giá bán lẻ điện sinh hoạt chia theo 6 bậc thang, thấp nhất 1.678 đồng một kWh và cao nhất 2.927 đồng một kWh. Các mức giá này chưa gồm thuế VAT.
+"Lượng điện sử dụng càng nhiều càng rơi vào bậc thang giá cao. Những trường hợp tăng giá đột biến gấp nhiều lần, ngành điện sẽ trực tiếp kiểm tra lại thông tin và thông báo cho từng khách hàng cụ thể", ông Nguyễn Duy Quốc Việt nói và khuyến cáo khách hàng truy cập website.
+Giải thích cụ thể trường hợp khách hàng nhận hóa đơn thông báo lượng điện tiêu thụ mà không ghi số tiền, ông Việt nói, do điều chỉnh giá điện từ 20/3 nên EVN TP HCM không kịp tính số tiền chính xác ngay cho khách hàng vào ngày ghi giá điện. Do đó, công ty đã thông báo cho khách hàng kiểm tra tiền điện trên app hoặc website.
+Với trường hợp hóa đơn điện của anh Vinh (Tân Bình), kỳ ghi chỉ số công tơ điện từ 18/3 đến 17/4 , trong khi đó giá điện điều chỉnh tăng thêm 8,36% từ 20/3  nên sẽ có 2 ngày điện tiêu thụ được tính theo giá bậc thang cũ, còn lại áp dụng giá điện mới. Với phương thức tính giá lũy tiến cộng thêm lượng điện tiêu thụ nhà anh Vinh tăng đột biến so với tháng trước nên hóa đơn điện tăng cao.
+Do đó, Phó tổng giám đốc EVN TP HCM khuyến cáo khách hàng truy cập vào website của công ty điện lực để kiểm tra lượng điện tiêu thụ, cách tính giá điện minh bạch, chính xác.
+Thi Hà - Anh Minh	

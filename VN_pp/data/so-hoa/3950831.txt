@@ -1,0 +1,13 @@
+TITLE: Dropbox hỗ trợ chia sẻ file lên đến 100 GB - VnExpress Số Hóa
+
+KEY WORDS: Dropbox, Dropbox Transfer, chia sẻ file
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Người dùng chỉ cần kéo - thả một file vào trong Transfer để chuyển tới những người khác dưới dạng một đường link hay một email. Người nhận không cần phải có tài khoản Dropbox vẫn có thể xem và tải được file.
+Trang download có thể được tuỳ biến phù hợp nhu cầu của người dùng.
+Công cụ này cung cấp những thiết lập về bảo mật, như có thể đặt mật khẩu hay ngày hết hạn cho file. Người dùng cũng sẽ nhận được thông báo mỗi khi file được ai đó tải xuống. Họ cũng có thể tuỳ chỉnh trang download như đổi hình nền, thêm logo, tên thương hiệu của công ty mình...
+Hiện nay, có nhiều dịch vụ chia sẻ dữ liệu nhưng thường bị giới hạn dung lượng file là 8 GB, 10 GB và 25 GB, trong khi Transfer hỗ trợ kích cỡ file lên tới 100 GB.
+Dịch vụ Transfer đang được triển khai thử nghiệm với một nhóm nhỏ người dùng Dropbox và sẽ sớm được mở rộng tới mọi thành viên. 
+Châu An

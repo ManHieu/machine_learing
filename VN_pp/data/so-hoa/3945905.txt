@@ -1,0 +1,16 @@
+TITLE: Khả năng tiếp tục dùng Android của Huawei bị bỏ ngỏ - VnExpress Số Hóa
+
+KEY WORDS: Huawei, Donald Trump, lệnh cấm, android
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Huawei chưa chắc chắn sẽ dùng hoàn toàn Android sau khi Mỹ gỡ bỏ lệnh cấm. Ảnh: Fortune.
+Một tháng sau khi đưa Huawei và 68 thực thể vào danh sách "đe dọa an ninh quốc gia", Tổng thống Donald Trump đã làm dịu sự căng thẳng bằng tuyên bố tại Hội nghị G20 rằng các công ty của Mỹ sẽ tiếp tục được kinh doanh với Huawei. Dù không đề cập đến việc cung cấp hạ tầng mạng 5G, động thái cởi trói này được dự đoán sẽ tác động đến Google và Android.
+Theo điều khoản của lệnh cấm ban đầu, Google không được bán giấy phép Android cho Huawei. Có nghĩa, điện thoại của công ty này chỉ được sử dụng mã nguồn mở cơ bản, không có quyền truy cập vào Play Store và các ứng dụng Google quan trọng.
+Trump không đề cập cụ thể đến Google, Qualcomm hay Intel trong thông báo. Tuy nhiên, người đứng đầu Nhà Trắng đã đưa ra quan điểm về những sản phẩm phức tạp và có tính khoa học cao được tạo ra bởi các công ty công nghệ Mỹ. "Không ai có thể cạnh tranh với công nghệ Mỹ và tôi đã đồng ý cho phép họ tiếp tục bán sản phẩm đó (cho Huawei)", Trump cho biết tại G20.
+Thực tế, lệnh cấm không có hiệu lực về mặt kỹ thuật, do Huawei được gia hạn 90 ngày (đến hết 19/8), đồng nghĩa với việc các sản phẩm Android của công ty Trung Quốc vẫn sử dụng nền tảng của Google bình thường. Tuy nhiên, nó có thể ảnh hưởng đến tương lai khi Huawei xác nhận đã chuyển sang "Kế hoạch B" là hệ điều hành HongMeng. Thậm chí, công ty được cho là đã liên hệ với các đối tác trong nước như Vivo và Xiaomi để thử nghiệm sản phẩm "cây nhà lá vườn" này.
+Giờ đây, khi lệnh cấm sắp được gỡ bỏ, khả năng cao Google sẽ tiếp tục bán giấy phép Android, nhưng Huawei cần phải quyết định có nên tiếp tục theo đuổi dự án HongMeng hay gắn bó với Android và giao diện EMUI. Hoặc cũng có thể, công ty Trung Quốc sẽ kết hợp cả hai, phòng trường hợp phía Mỹ có động thái cấm đoán tương tự thời gian qua.
+Tuy nhiên, việc bán điện thoại Huawei tại Mỹ được dự đoán vẫn rất khó khăn. Ông Trump không có dấu hiệu cho thấy sẽ đóng hoàn toàn cánh cửa đó với các doanh nghiệp Trung Quốc, nhưng cho biết lãnh đạo hai quốc gia cần làm rõ điều đó trong cuộc đàm phán thương mại cuối cùng về thuế quan.
+Hồi tháng 5, Mỹ đưa Huawei vào danh sách đen, cấm các doanh nghiệp Mỹ làm ăn với đại gia viễn thông Trung Quốc. Lệnh cấm này đã làm ảnh hưởng nghiêm trọng đến hoạt động kinh doanh của Huawei. CEO Huawei Nhậm Chính Phi thừa nhận, không dự đoán Mỹ sẽ tấn công Huawei kiên quyết đến thế, tác động đến chuỗi cung ứng với quy mô lớn như vậy. "Việc này sẽ khiến doanh thu năm nay và năm sau của Huawei giảm về quanh 100 tỷ USD", ông Nhậm chia sẻ. Năm ngoái, hãng công nghệ này đạt doanh thu hơn 104 tỷ USD.
+Bảo Lâm (theo PCWorld)

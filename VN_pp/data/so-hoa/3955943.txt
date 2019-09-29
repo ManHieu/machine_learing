@@ -1,0 +1,16 @@
+TITLE: 5 triệu người Bulgaria bị ăn cắp thông tin cá nhân - VnExpress Số Hóa
+
+KEY WORDS: tin tặc, hacker, tấn công, đánh cắp dữ liệu Bulgaria
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Chính quyền Bulgaria thừa nhận cơ quan thuế nước này đã bị tấn công sau khi một cơ quan truyền thông nhận được email chế nhạo sự yếu kém và yêu cầu nhà nước nhận trách nhiệm. Tên, địa chỉ, thu nhập và thông tin an sinh xã hội của khoảng 5 triệu người trong độ tuổi lao động và người nước ngoài khác làm việc tại đây đã bị lộ.
+Theo BBC, quốc gia này có khoảng 7 triệu dân và quy mô của vụ hack trên có nghĩa là hầu hết những người trưởng thành đều bị đánh cắp thông tin. Trang tin này đánh giá "cả đất nước Bulgaria đã bị hack".
+Hầu hết người trong độ tuổi lao động tại Bulgaria bị đánh cắp thông tin. Ảnh: InterDev
+Một lập trình viên 20 tuổi đã bị bắt sau cuộc điều tra sơ bộ liên quan tới vụ tấn công trên. Các quan chức nhận định ban đầu rằng Nga có thể đứng sau, hành động với mục đích trả đũa khi gần đây Bulgaria mua máy bay chiến đấu do Mỹ sản xuất, theo Verge.
+Dù người thực hiện và mục tiêu là gì, các chuyên gia cho rằng vụ hack tiếp tục là hồi chuông cảnh báo các mối nguy hiểm ngày càng gia tăng với các chính phủ và công dân trong thời đại số.
+"Bạn có thể đặt mật khẩu phức tạp và khó phá hơn nhưng thông tin mà chính phủ nắm giữ là những thứ không thay đổi", Guy Bunker, giám đốc công ty an ninh mạng Clearswift nói. "Ngày sinh của bạn sẽ không đổi, bạn sẽ không chuyển nhà trong một sớm một chiều và rất nhiều thông tin có giá trị trong 10, 20 năm tới".
+Năm ngoái, Mỹ cáo buộc tin tặc Triều Tiên đã làm tê liệt hệ thống chăm sóc sức khỏe tại Anh và đánh cắp thông tin của hàng triệu người Bangladesh. Năm 2014, Washington cho rằng tin tặc ở Trung Quốc đã xâm nhập vào hệ thống mạng máy tính của chính phủ Mỹ, làm lộ thông tin cá nhân của hơn 21,5 triệu người.
+Trong khi đó các doanh nghiệp và tổ chức còn bị vi phạm nghiêm trọng hơn. Hacker đã đánh cắp hơn 140 triệu dữ liệu của Equachus hay tin tặc đã lấy đi thông tin của 500 triệu người của hệ thống khách sạn Mariott. Năm 2016, một tỷ người dùng Yahoo bị hack.
+Đình Nam (theo BBC, Verge)

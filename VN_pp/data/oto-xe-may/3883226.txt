@@ -1,0 +1,18 @@
+TITLE: Ôtô tự thông báo thời gian đèn tín hiệu chuyển màu
+
+KEY WORDS: công nghệ ôtô, đèn tín hiệu, đèn đỏ, Audi
+
+TOPIC: vnexpress, xe
+
+CONTENT: 
+Hệ thống thông tin đèn giao thông (Traffic Light Information - TLI) - có trên mọi mẫu xe Audi, trừ A3 và TT - có thể báo với tài xế điều gì đang diễn ra với đèn tín hiệu phía trước. Công nghệ hiện được khai thác tại 13 khu đô thị với hơn 4.600 điểm giao cắt và con số này đang tăng lên, theo Popular Science.
+Màn hình trên cụm đồng hồ kỹ thuật số cho biết cách tránh đèn đỏ và trong bao lâu đèn sẽ chuyển sang xanh. Ảnh: Audi
+Audi đã thử nghiệm chương trình này trên một số ít mẫu xe tại Las Vegas, Mỹ, trong năm 2016. Từ đó, có thêm nhiều mẫu xe và nhiều thành phố khác tại Mỹ tham gia vào hệ thống. Công nghệ cũng có thêm những tính năng mới và hiện có thể "nói" với tài xế khi nào đèn xanh chuyển sang đỏ và ngược lại.
+Hệ thống được miêu tả như sau: khi đang lái xe về phía một điểm giao cắt, ôtô liên lạc với đèn tín hiệu. Nếu đèn đang đỏ - hoặc sẽ chuyển sang đỏ khi xe tới nơi - một biểu tượng đèn tín hiệu xuất hiện trên kính chắn gió (màn hình HUD), trên bảng điều khiển, hoặc cả hai. Kèm đó là đồng hồ đếm ngược cho biết mất bao lâu trước khi đèn chuyển sang xanh.
+Để giúp tài xế tính toán, hệ thống sẽ báo luôn tốc độ cần thiết để duy trì việc chạy xe, tránh phải dừng lại ở đèn tín hiệu. Tính năng tư vấn tốc độ tối ưu đèn xanh sử dụng thông tin từ đèn giao thông và vị trí xe để tính toán tốc độ đề xuất giúp tài xế điều khiển xe tới điểm giao cắt khi đèn đang xanh.
+Việc áp dụng hệ thống kết nối không dây yêu cầu nâng cấp cơ sở hạ tầng, nhưng các con số đang tăng lên. Ảnh: Audi
+Hệ thống thông tin liên lạc kết nối không dây của Audi đã được nâng cấp nhằm hỗ trợ ôtô "giao tiếp" với cơ sở hạ tầng. Những cụm đèn tín hiệu gửi tình trạng hoạt động tới các trung tâm điều phối giao thông và những nơi này chuyển tiếp thông tin tới đối tác kỹ thuật của Audi, các dịch vụ công nghệ giao thông (TTS).
+Các TTS cung cấp thông tin cho Audi, và hãng Đức lại chuyển tới cho các xe bằng cách sử dụng kết nối 4G LTE. Ôtô lúc đó tự hiển thị đồng hồ đếm ngược trên màn hình và sẽ tắt ở thời điểm 3 giây trước khi về 0 nhằm buộc tài xế tập trung vào đường đi thay vì nhìn màn hình. Tuy  nhiên, công nghệ vẫn đang được hoàn thiện để đạt độ chính xác hơn.
+Thông tin có thể hiện lên phía bên phải kính chắn gió, và biến mất khi còn 3 giây trước khi đồng hồ đếm ngược về không, tức khi đèn chuyển sang xanh. Ảnh: Audi
+Những nâng cấp tương lai sẽ cho phép TLI có thể kết nối với hệ thống stop/start động cơ, nhờ đó xe tự tắt rồi tự khởi động theo thực tế giao thông. Các hệ thống định vị cũng có thể sử dụng dữ liệu để giúp lên kế hoạch tiết kiệm thời gian chạy xe thậm chí trước khi ai đó bắt đầu đưa ôtô ra khỏi garage.
+Mỹ Anh 

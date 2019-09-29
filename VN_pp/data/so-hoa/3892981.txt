@@ -1,0 +1,17 @@
+TITLE: Apple chật vật tìm giải pháp 5G cho iPhone - VnExpress Số Hóa
+
+KEY WORDS: iPhone 2020, iPhone 5G, Apple
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Samsung, Huawei và một số hãng Android khác sẽ bán ra thị trường smartphone hỗ trợ 5G ngay trong nửa đầu 2019. Trong khi đó, theo Bloomberg, ngân hàng Cowen đánh giá cuộc tranh chấp dai dẳng giữa Apple và Qualcomm đã đẩy nhà sản xuất iPhone vào thế khó với quá ít lựa chọn.
+Apple đang chậm trễ trong cuộc đua 5G. Ảnh: BI
+Lựa chọn đầu tiên của Apple là trang bị 5G trên iPhone 2020, chậm 18 tháng so với đối thủ, sử dụng modem Intel mà không hỗ trợ mmWave. mmWave là những tần số có bước sóng trong khoảng milimet, được sử dụng cho giao tiếp không dây tốc độ cao của 5G. Như vậy, giải pháp này không giống chiến lược thông thường của Apple, là không nhất thiết phải là người tiên phong, sẵn sàng đi chậm hơn thị trường, nhưng luôn cung cấp những sản phẩm tiên tiến hơn.
+Lựa chọn thứ hai là "nguồn modem 5G từ Samsung". Tuy nhiên, Samsung là đối thủ lớn nhất trên thị trường di động và sẽ đưa ra những điều khoản gây khó cho Apple. Ngoài ra, Apple cũng muốn giảm bớt sự phụ thuộc vào Samsung trong việc cung ứng linh kiện.
+Giải pháp thứ ba là công nghệ của Huawei, nhưng những lo ngại về an ninh, bảo mật cùng căng thẳng thương mại Mỹ - Trung khiến điều này khó thành hiện thực. Trong khi đó, một công ty khác là MediaTek lại rất khó đáp ứng được yêu cầu cao về thời gian, lộ trình xuất xưởng của Apple. 
+Cowen cho rằng Apple có thể mua luôn mảng kinh doanh modem của Intel và tự xây dựng modem cho riêng mình. Tuy nhiên, cách này đắt đỏ và cũng khó đảm bảo sẽ kịp ra modem vào năm 2020.
+Một viễn cảnh trong mơ là Apple có thể dàn xếp ổn thỏa cuộc tranh chấp toàn cầu với Qualcomm - nhà cung cấp chip mạng lớn nhất thế giới. Nhưng kể cả khi hai bên chấp thuận bắt tay nhau trở lại, có thể mọi thứ đã quá muộn để iPhone năm tới sẽ có 5G.
+Mâu thuẫn giữa hai hãng bắt đầu diễn ra từ tháng 1/2017 khi Qualcomm bị Ủy ban Thương mại Mỹ FTC cáo buộc vi phạm nghiêm trọng luật cạnh tranh công bằng khi "mua chuộc" các công ty điện thoại, đặc biệt là Apple, dùng độc quyền chip của mình. Chỉ sau vài ngày, đến lượt Apple kiện hãng sản xuất chip và đòi bồi thường một tỷ USD. Qualcomm cũng tố Apple vi phạm bản quyền sáng chế và yêu cầu cấm bán một số mẫu iPhone tại Mỹ, Trung Quốc và Đức. Ngày 26/10/2018, Qualcomm cho biết Apple đang nợ 7 tỷ USD tiền bản quyền bằng sáng chế chip di động được sử dụng trên iPhone.
+Theo CNet, mạng 5G sẽ xuất hiện từ năm 2019 và phổ biến vào 2020. Với tốc độ kết nối cao gấp 257 lần so với mạng 4G, nó được kỳ vọng giúp hàng loạt lĩnh vực khác hưởng lợi như xe tự lái, máy bay không người lái, công nghệ thực tế ảo và thực tế tăng cường... 
+Châu An

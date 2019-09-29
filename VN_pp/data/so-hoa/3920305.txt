@@ -1,0 +1,18 @@
+TITLE: Facebook mới chỉ nói, còn Google đã hành động về sự riêng tư - VnExpress Số Hóa
+
+KEY WORDS: Facebook, Google, quyền riêng tư
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Cả hai CEO của Facebook và Google đều coi bảo vệ dữ liệu người dùng là trọng tâm trong sự kiện lớn nhất năm của hai hãng diễn ra tháng này ở Mỹ.
+Tuy nhiên, các cập nhật sản phẩm liên quan đến bảo mật được Facebook công bố ngày 1/5 trong hội nghị F8 tương đối mơ hồ, trong khi giải pháp của Google đã sẵn sàng để triển khai hoặc trình diễn trong hội thảo dành cho các nhà phát triển Google I/O ngày 8/5. Điều này thể hiện sự khác biệt trong chiến lược của hai công ty dịch vụ Internet.
+Đối với Facebook, sự riêng tư là một chủ đề để họ tăng sự tin tưởng của người dùng, tác động tới các nhà chức trách và xây dựng lại hình ảnh công ty vốn đang bị vùi dập trước các chỉ trích. Còn với Google, sự riêng tư là một nhiệm vụ, một tính năng song hành trong quá trình xử lý dữ liệu để khiến sản phẩm hoạt động nhanh hơn, dễ tiếp cận hơn.
+Ai cũng muốn công nghệ giúp đảm bảo quyền riêng tư, nhưng người dùng cần phân biệt giữa những lời hứa hẹn và thực tế triển khai. Như "di động", "theo nhu cầu", "AI" hay "Blockchain" trước đây, "riêng tư" không thể được xác định dựa trên mệnh giá. Nó phải là ưu tiên khi vận hành phần cứng, phần mềm chứ không phải phần trang trí thêm vào.
+Facebook bàn về các giải pháp bảo mật trong tương lai.
+Tại Facebook F8, Zuckerberg mô tả riêng tư "sẽ" mang đến sự tự do cho người dùng như thế nào. Ông hứa hẹn Messenger và Instagram sẽ được mã hóa - điều mà ông đã nhắc đến trong tháng 1 và mô tả chi tiết hơn hồi tháng 3. Người dùng cũng chưa được dùng tính năng Clear History (xóa lịch sử hoạt động) - thứ mà Zuckerberg nói từ năm 2018, hay Data Transfer Project - dự án cho phép chuyển tải nội dung, danh bạ và nhiều dữ liệu khác trên các ứng dụng khác nhau dù đã công bố được 10 tháng.
+Năm 2007, Facebook đã mắc phải sai lầm lớn đầu tiên liên quan tới quyền riêng tư. Khi đó, họ giới thiệu Beacon - công cụ cho phép nhà quảng cáo theo dõi hoạt động người dùng cả khi họ đã đăng xuất. "Chúng tôi xin lỗi vì đã ra mắt một sản phẩm như thế. Tôi cảm thấy thật xấu hổ về cách mà công ty xử lý. Mọi người cần biết rõ hơn về những gì họ chia sẻ", Zuckerberg tỏ ra hối lỗi. 12 năm qua, với án phạt tỷ đô của FTC vẫn đang treo lơ lửng liên quan tới vụ bê bối Cambridge Analytica, nhiều lời xin lỗi liên quan tới bảo mật vẫn tiếp tục được đưa ra.
+Google trình diễn nhiều giải pháp bảo mật chuẩn bị được triển khai.
+Google không phải không dính đến các rắc rối bảo mật, nhưng họ cũng có những cách giải quyết hiệu quả. Tại Google I/O 2019, người xem chứng kiến Sundar Pichai trình diễn các giải pháp bảo mật của hãng, như chế độ duyệt web ẩn trên Chrome (incognito mode), hay trong vài tuần tới, hãng sẽ triển khai tính năng tự động xóa, trong đó các hoạt động trên web và ứng dụng của người dùng sẽ tồn tại trong khoảng 3-18 tháng trước khi biến mất. Hệ điều hành Android Q 10 cũng được trang bị gần 50 tính năng bảo mật mới.
+"Với bảo mật, hãy cho thấy bạn làm được gì, đừng chỉ nói suông", TechCrunch nhận xét.
+Minh Minh (theo TechCrunch)

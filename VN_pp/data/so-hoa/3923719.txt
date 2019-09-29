@@ -1,0 +1,15 @@
+TITLE: WhatsApp bị tấn công, chưa xác định số người bị ảnh hưởng - VnExpress Số Hóa
+
+KEY WORDS: WhatsApp, tấn công, hack
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo Financial Times, mã độc này do công ty NSO Group của Israel phát triển và xâm nhập vào smartphone bằng cách gọi điện thoại người dùng thông qua ứng dụng WhatsApp dành cho iOS và Android. Sau đó, kẻ tấn công có thể truy cập các thông tin như dữ liệu vị trí, tin nhắn riêng tư... NSO Group cũng được cho là đã phát tán mã độc Pegasus nhắm tới những nhà hoạt động nhân quyền năm 2018.
+Nguy hiểm hơn, phần mềm gián điệp có thể được gửi đến smartphone ngay cả khi người dùng không nghe máy. Trong nhiều trường hợp, những cú điện thoại này còn biến mất trong lịch sử cuộc gọi, nên rất nhiều người sử dụng không hề nhận ra họ đã bị tấn công.
+Không nhận cuộc gọi, người dùng WhatsApp vẫn có thể bị cài mã độc trên máy. Ảnh: MyBroadband.
+Chi tiết về lỗ hổng chưa được công bố, nhưng WhatsApp thừa nhận đã biết về cuộc tấn công này từ đầu tháng 5.
+"Cuộc tấn công có dấu hiệu của một công ty tư nhân hợp tác với chính phủ trong việc cung cấp phần mềm gián điệp khai thác các tính năng điện thoại", đại diện WhatsApp giải thích. "Chúng tôi khuyến khích người dùng nâng cấp phiên bản mới nhất của ứng dụng, cũng như cập nhật hệ điều hành thiết bị nhằm ngăn việc khai thác thông tin lưu trữ trên máy, dù có nhận được cuộc gọi đáng ngờ hay không".
+Trong khi đó, NSO từ chối bình luận về những cáo buộc trên.
+WhatsApp cũng cho biết hiện còn quá sớm để xác định có bao nhiêu điện thoại bị cài phần mềm theo dõi thông qua vụ tấn công. Dịch vụ nhắn tin này hiện thuộc sở hữu của Facebook và có 1,5 tỷ người dùng trên toàn cầu. 
+Châu An

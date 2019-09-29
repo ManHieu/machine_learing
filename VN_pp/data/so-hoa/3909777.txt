@@ -1,0 +1,14 @@
+TITLE: iOS 13: giao diện Dark mode, đa nhiệm cho iPad, Apple công bố ngày 3/6 - VnExpress Số Hóa
+
+KEY WORDS: Dark mode, chế độ tối, iOS 13, Apple
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Dark mode (chế độ tối), tính năng được người dùng mong chờ từ lâu, sẽ xuất hiện trên iOS 13. Như tên gọi, khi kích hoạt dark mode thì giao diện trên iPhone iPad sẽ chuyển sang tông màu đen. Chế độ này đem đến sự dễ chịu cho mắt người dùng, nhất là khi sử dụng máy vào ban đêm.
+Hình dung về Dark mode trên iOS 13. Ảnh: PhoneArena.
+Việc sử dụng tông màu tối làm chủ đạo còn giúp iPhone X, XS hay XS Max tiết kiệm pin hơn do màn hình OLED gần như không tiêu tốn năng lượng khi hiển thị điểm ảnh đen. Trước đó, Apple đã hỗ trợ dark mode trên máy tính Mac với phiên bản macOS Mojave 10.14.
+Các ứng dụng mặc định cũng được Apple nâng cấp trên iOS 13, trong đó Mail sẽ thông minh hơn, hỗ trợ sắp xếp theo các danh mục, tìm kiếm email theo mục. Ngoài ra, công ty công nghệ Mỹ còn cải tiến Reminder, bộ ứng dụng văn phòng Pages, Numbers và Keynote.
+Riêng với iPad, hệ điều hành mới tập trung nâng cấp thao tác đa nhiệm để tận dụng kích thước màn hình lớn và khả năng xử lý mạnh mẽ. Trình duyệt Safari trên máy tính bảng của Apple sẽ tự động yêu cầu phiên bản web khi cần, thay vì hiển thị bản mobile trên iPad.
+Apple dự kiến công bố iOS 13 tại Hội nghị Các nhà phát triển Toàn cầu (WWDC) sẽ khai mạc ngày 3/6. Sau các phiên bản thử nghiệm, hệ điều hành mới có thể được phát hành cho người dùng vào tháng 9.
+Bảo Anh (theo 9to5mac)

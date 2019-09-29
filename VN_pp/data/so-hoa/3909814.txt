@@ -1,0 +1,13 @@
+TITLE: iPhone, iPad, MacBook của Apple bị tố vi phạm sáng chế Wi-Fi - VnExpress Số Hóa
+
+KEY WORDS: Apple, sáng chế, vi phạm sáng chế, bằng sáng chế, kiện tụng
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Red Rock Analytics, công ty có trụ sở tại Mỹ, đã đâm đơn kiện Apple vì cho rằng hãng điện tử Mỹ vi phạm bằng sáng chế về công nghệ thu phát trong chip Wi-Fi. Sở hữu trí tuệ mang mã số 7,346,313, liên quan đến "Hiệu chỉnh cân bằng I-Q trong máy thu phát" (Calibration of I-Q balance in transceivers), được cấp cho Red Rock Analytics tháng 3/2008.
+Nhiều thiết bị của Apple bị tố vi phạm sáng chế Wi-Fi. Ảnh: 9to5mac.
+Theo đơn khiếu nại gửi lên Tòa án quận phía đông Texas (Mỹ), Red Rock Analytics cho rằng hầu hết sản phẩm tương thích với chuẩn Wi-Fi 802.11n, gồm iPhone 4 trở về sau, iPad, Apple TV, MacBook, iMac, Mac Mini, HomePod và Apple Watch đều vi phạm sáng chế. Phía nguyên đơn yêu cầu Apple phải bồi thường thiệt hại dựa trên mỗi thiết bị đã bán ra (trước và sau khi khởi kiện) cũng như chi phí kiện tụng.
+Apple chưa đưa ra bình luận nào.
+Trước đó, Red Rock Analytics từng kiện Samsung cũng với bằng sáng chế này. Tuy nhiên, hãng điện thoại Hàn Quốc sau đó kiện ngược lại. Cả hai đơn kiện đã được tiếp nhận nhưng chưa xét xử.
+Bảo Lâm (theo Apple Insider)

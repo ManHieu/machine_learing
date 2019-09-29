@@ -1,0 +1,14 @@
+TITLE: Hạ viện Mỹ chất vấn Apple về lỗi khiến iPhone bị nghe lén - VnExpress Số Hóa
+
+KEY WORDS: apple, hạ viện mỹ, nghe lén, lỗi nghe lén, lỗi iphone bị nghe lén, chất vấn, FaceTime
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Theo Mashable, trong thư gửi đến chính CEO Apple Tim Cook, Ủy ban Năng lượng và Thương mại Hạ viện Mỹ muốn biết tại sao Grant Thompson, 14 tuổi và mẹ của cậu, Michele, cố gắng báo cáo lỗi trên FaceTime nhưng bất thành cũng như việc Apple mất quá nhiều thời gian để xử lý.
+Lỗi FaceTime khiến người gọi có thể nghe âm thanh khi người nhận chưa bắt máy. Ảnh: Appleinsider
+Bên cạnh đó, Ủy ban băn khoăn liệu lỗ hổng đã được công ty iPhone phát hiện trước hay sau khi Thompson tìm ra vấn đề, cũng như lý do thời gian phát hành phiên bản iOS 12.1.4 (bản khắc phục lỗi FaceTime) chậm trễ. Thư cũng yêu cầu Apple phải tiết lộ về lỗi khác tương tự (nếu có), nhất là các phần mềm sử dụng micro và camera thiết bị, dù đã được sửa chữa hay chưa.
+Ngoài ra, các thành viên của Ủy ban còn muốn biết quyền riêng tư của những người bị ảnh hưởng bởi lỗi FaceTime đã bị xâm phạm ở mức độ nào, cũng như chính sách "thông báo và bồi thường" mà Apple sẽ triển khai. Phía công ty Mỹ chưa đưa ra bình luận.
+Cuối tháng 1, hai mẹ con nhà Thompson gửi cảnh báo đến Apple sau khi phát hiện lỗ hổng cho phép người gọi nghe âm thanh từ phía người nhận ngay cả khi họ chưa bắt máy. Mẹ của Thompson nhiều lần liên hệ thông qua email và mạng xã hội nhưng một tuần sau mới được hồi âm.
+Sau khi ghi nhận, Apple đã xin lỗi người dùng, đồng thời thưởng cho Grant một khoản tiền không tiết lộ và tài trợ học phí học trung học. Trong bản cập nhật iOS 12.1.4 và macOS 10.14.3 bổ sung, lỗ hổng đã được vá.
+Bảo Lâm

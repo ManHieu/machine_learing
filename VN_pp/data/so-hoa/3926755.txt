@@ -1,0 +1,19 @@
+TITLE: Hệ điều hành HongMeng - 'kế hoạch B' của Huawei sau lệnh cấm - VnExpress Số Hóa
+
+KEY WORDS: Huawei
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Hệ điều hành cho nền tảng di động của Huawei có tên HongMeng OS. Ảnh: News.cn
+Sau khi bị chính quyền ông Trump đưa vào danh sách đen thương mại, ngày 20/5, Huawei lập tức bị Google rút giấy phép sử dụng hệ điều hành Android. Để sẵn sàng cho "cuộc sống không Android", Huawei được cho là đã phát triển một hệ điều hành của riêng mình dành cho các thiết bị di động, có tên HongMeng OS, theo Global Times. Đây cũng chính là "kế hoạch B" mà ông Richard Yu - người đứng đầu tập đoàn Huawei từng đề cập trong một cuộc phỏng vấn với Die Welt - một trang tin tiếng Đức đầu tháng 3/2019. 
+HongMeng OS đã được phát triển trong 7 năm, kể từ năm 2012, theo HuaweiCentral. Tuy nhiên, xây dựng một hệ điều hành riêng trong bối cảnh iOS và Android đã quá phổ biến là bài toán không dễ có lời giải.
+Điều này được chính Wang Chenglu, Chủ tịch mảng kỹ thuật phần mềm của Huawei nói với truyền thông Trung Quốc vào tháng 9/2018. "Tự xây dựng một hệ điều hành mới không khó nhưng vấn đề nằm ở hệ sinh thái và hỗ trợ ứng dụng cũng như các lập trình viên", Chenglu lý giải. 
+Theo Bussiness Insider, các nền tảng di động cần một hệ sính thái mạnh, đặc biệt là khi nói đến các ứng dụng. Việc thiếu ứng dụng gần như chắc chắn dự báo về cái chết của bất kỳ một hệ điều hành mới nào. Đây luôn là vấn đề lớn nhất khiến cho nhiều "hoài bão" bị sụp độ như Bada của Samsung hay Windows Phone của Microsoft. 
+Những thiết bị sắp ra mắt như Huawei Mate 30 Pro chưa biết sẽ chạy hệ điều hành nào. Ảnh: LetsgoDigital
+Với Microsoft, thất bại của Windows Phone là một chuỗi vòng quanh không lối thoát. Hệ điều hành này có thị phần thấp khiến các nhà phát triển ứng dụng không có hứng thú dành thời gian và công sức để phát triển. Và cũng chính vì có số lượng phần mềm quá ít ỏi, Windows Phone không thu hút được người dùng. 
+Samsung cùng từng thử sức mình vào năm 2015 khi cung cấp smartphone chạy hệ điều hành mới mang tên Tizen. Nhưng nó cũng gặp vấn đề tương tự và không gây được thiện cảm với giới công nghệ. "Chúng tôi không ấn tượng. Cảm giác giống như một bản sao rỗng của Android khi không có bất kỳ ứng dụng nào", chuyên gia của trang ArsTechnica bình luận. Đây có thể cũng chính là những phản ứng mà Huawei gặp phải khi xây dựng hệ điều hành HongMeng OS. 
+Với người dùng Trung Quốc, lệnh cấm của Google không có các tác động đáng kể. Họ đã quen với việc sử dụng hệ điều hành Android mà không có Google Play cũng như hàng loạt dịch vụ khác của Google. Đơn giản bởi tất cả chúng đã bị cấm từ lâu tại Trung Quốc. 
+Tuy nhiên, với các thị trường còn lại trên thế giới, Huawei sẽ cần phép màu để bán được điện thoại Android mà không có những dịch vụ như vậy của Google. Thị trường châu Âu - "con gà đẻ trứng vàng" của Huawei chắc chắn sẽ không chấp nhận những sản phẩm chỉ có phần "xác" của Android. Khó khăn sẽ chất chồng hơn khi muốn phổ biến một hệ điều hành rất mới như HongMeng OS. 
+Các chuyên gia cho rằng nếu Huawei thật sự muốn phát triển một hệ điều hành riêng, hãng phải sớm đưa ra thị trường và cần thêm nhiều năm để thuyết phục người dùng. Nhưng với thời gian vỏn vẹn vài tháng như lệnh cấm Google, Huawei chắc chắn phải sử dụng giải pháp tình thế hoặc chờ đợi vào những quyết định nới lỏng của chính quyền ông Trump.  
+Tuấn Hưng

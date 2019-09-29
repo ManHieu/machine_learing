@@ -1,0 +1,23 @@
+TITLE: AI biến đổi ngành công nghiệp smartphone như thế nào - VnExpress Số Hóa
+
+KEY WORDS: AI, trí tuệ nhân tạo, smartphone, AI4VN
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Các nhà sản xuất đang nỗ lực tìm kiếm những công nghệ khiến điện thoại của họ "thông minh" hơn đối thủ, nhưng không hề dễ dàng. Đa số điện thoại trong cùng phân khúc giá được trang bị phần cứng ngang nhau, cùng thực hiện được những chức năng như nhau. Khi bạn ra mắt một smartphone có "tai thỏ", một loạt hãng khác cũng rục rịch chạy theo. Khi bạn công bố smartphone có camera trượt lên, một loạt hãng khác cũng tung ra giải pháp tương tự...
+Theo Statistica, thị trường smartphone đã tiến đến điểm bão hòa, không phải về doanh số mà do những giới hạn về phần cứng, khi gần như không có bước đột phá đáng kể nào về chip, pin, màn hình... nhiều năm qua. Trong khi đó, thời gian nâng cấp điện thoại ngày càng kéo dài, nhưng chu kỳ đổi iPhone mới đã tăng từ 24 tháng lên 30 tháng.
+Vậy làm sao để smartphone của mình trở nên nổi bật? Đó là khi nhà sản xuất có thể tạo ra được một hệ thống phần mềm và phần cứng AI hoạt động xuyên suốt với nhau. Đầu tư vào trí tuệ nhân tạo đang tạo ra một cuộc chiến mới trong lĩnh vực điện thoại di động.
+AI đã hiện diện từ nhiều năm trước thông qua các trợ lý ảo như Apple Siri, Google Assistant, Amazon Alexa, Samsung Bixby, nhưng nó đang tiến sâu hơn vào lĩnh vực phần cứng và trở thành "nguyên liệu" chính trong việc phát triển smartphone.
+Ảnh: TNW.
+Từ tháng 7/2017, Huawei bắt đầu công bố chip Kirin tích hợp AI để hỗ trợ các tác vụ thông minh và nhanh hơn. Hay trong lễ công bố iPhone 2018, giới công nghệ đã cảm nhận được trí tuệ nhân tạo là nhân tố ẩn trong toàn bộ lộ trình xây dựng smartphone của Apple, như chip A12 với bộ vi xử lý "Neural engine", camera, nhận diện khuôn mặt FaceID...
+Để hình dung trí tuệ nhân tạo thâm nhập vào cuộc sống thế nào, đơn giản chỉ cần nhìn vào camera - một trong những thành phần được sử dụng nhiều nhất trên smartphone. Điện thoại ngày nay không chỉ đóng vai trò là một thiết bị liên lạc. Tương tự, camera trên điện thoại không chỉ có nhiệm vụ chụp ảnh, quay video. Chúng còn thu thập dữ liệu hình ảnh, lưu trữ và phân tích để thực hiện nhiều chức năng đáp ứng nhu cầu của người dùng.
+Chẳng hạn, iPhone XS cho phép người dùng điều chỉnh độ sâu trường ảnh sau khi chụp. Hay tính năng Top Shot của Google Pixel 3 chụp nhiều ảnh cùng lúc, sau đó sử dụng công nghệ nhận diện để tự động quyết định tấm nào đẹp nhất. Một tính năng khác là Photobooth tự động chụp selfie mà bạn không cần nhấn nút. Nó sẽ ra quyết định chụp khi thấy khoảnh khắc phù hợp như các khuôn mặt hiện trên màn hình đều đang vui vẻ, hay khi bạn đang hôn người yêu... Chuyên gia của Google cho biết họ đã xây dựng một mạng lưới thần kinh, kết hợp với trí tuệ nhân tạo để phân tích những hình ảnh, biểu cảm của con người.
+Nhiều điện thoại Android khác lại tự động gom những bức ảnh tương đồng hay theo một chuỗi diễn biến lại với nhau để tạo thành một video, một câu chuyện về một ngày cụ thể hay tổng hợp một chuyển đi chơi của người dùng.
+Một công dụng nổi bật của AI là khả năng cá nhân hóa dữ liệu. Dựa vào thói quen sử dụng mà nội dung hiển thị trên từng dịch vụ cho mỗi người cũng khác nhau. Ví dụ, khi xem phim trên Netflix, nó sẽ dự đoán được 99% khả năng bạn sẽ thích chương trình nào đó để hiển thị lên đầu, thông qua việc phân tích những nội dung bạn đã xem trước đó.
+Cá nhân hóa trên di động sẽ còn mở ra những tiềm năng xa hơn thế với những cảm biến nhận diện bối cảnh, tìm kiếm giọng nói, chatbot... Dù hiện tại, AI trên smartphone chưa được như trong các bộ phim khoa học viễn tưởng, nhưng nó đã dần len lỏi trong nhiều phần của smartphone. Với sự phát triển mạnh mẽ về cả phần cứng và phần mềm, người dùng hoàn toàn có thể chờ đợi về "một chiếc điện thoại AI thực thụ" thời gian tới.
+Ngày 15-16/8, chương trình Ngày hội Trí tuệ nhân tạo (AI4VN) diễn ra tại trường Đại học Bách Khoa Hà Nội, số 1 Đại Cồ Việt, quận Hai Bà Trưng. Sự kiện được tổ chức bởi Bộ Khoa học và Công nghệ, Bộ kế hoạch và Đầu tư, trường Đại học Bách Khoa cùng báo điện tử VnExpress.
+Với chủ đề "Đẩy mạnh hệ sinh thái Trí tuệ nhân tạo", Ngày hội AI năm nay là nền tảng kết nối các thành tố trong hệ sinh thái từ đơn vị nghiên cứu, doanh nghiệp, tập đoàn, startup đến các nhóm cộng đồng nhằm mục tiêu thúc đẩy nghiên cứu phát triển và ứng dụng công nghệ AI trong các lĩnh vực giáo dục, thương mại, kinh doanh, nông nghiệp, y tế...của Việt Nam.
+Chương trình gồm nhiều hoạt động thuyết trình, trình bày tham luận, thảo luận bàn tròn báo cáo về xu hướng và đầu tư AI toàn cầu từ các chuyên gia, CEO trong và ngoài nước, triển lãm và trình diễn công nghệ AI, cuộc thi lập trình trong 48h (Hackathon)...Chi tiết chương trình tham khảo tại đây.
+ 
+Châu An

@@ -1,0 +1,14 @@
+TITLE: Samsung Galaxy Note 10+ sạc nhanh gấp đôi iPhone XS Max - VnExpress Số Hóa
+
+KEY WORDS: iPhone XS Max, Oppo, Reno 10x, VOOC, VOOC 3.0, Apple, Power Delivery, PD, Samsung, Galaxy Note 10, Galaxy Note 10+, sạc nhanh, 25 W, 45 W
+
+TOPIC: số hóa, sản phẩm
+
+CONTENT: 
+Galaxy Note 10+, iPhone XS Max và Reno 10x Zoom có pin lần lượt 4.300 mAh, 3.174 mAh và 4.065 mAh. Cả ba đều hỗ trợ sạc nhanh nhưng sử dụng các công nghệ và phụ kiện không giống nhau và cũng không phải là chuẩn Quick Charge của Qualcomm như nhiều smartphone Android khác.
+Note 10+ là smartphone có công suất sạc nhanh cao nhất trên thị trường, 45W, nhưng bán riêng với giá 1 triệu đồng. Trong khi đó, phụ kiện kèm máy là sạc nhanh 25W. Thời gian sạc đầy pin của bộ sạc 25W và 45W chỉ chênh nhau 5 phút. Cả hai đều hỗ trợ công nghệ sạc Power Delivery 3.0 PPS.
+iPhone XS Max cũng hỗ trợ sạc nhanh nhưng là chuẩn Power Delivery 2.0 và có công suất tối đa 18W. Apple không bán riêng sạc nhanh cho iPhone mà cho dùng chung sạc nhanh với iPad hoặc các bộ sạc laptop 29W, 30W, 61W hoặc thậm chí 87W. Điện áp sẽ tự động được điều chỉnh xuống phù hợp với mức tối đa mà XS Max hỗ trợ. Ngoài ra, người dùng cũng có thể sử dụng một số bộ sạc nhanh công nghệ PD do bên thứ ba sản xuất.
+Khác với Samsung và Apple, Oppo sử dụng sạc nhanh VOOC 3.0, tự phát triển riêng trên Reno 10x Zoom. Bộ sạc nhanh khác không tương thích với Reno và ngược lại, bộ sạc VOOC cũng không sạc nhanh cho các smartphone khác được. Khác với công nghệ PD, sạc VOOC vẫn dùng cổng kết nối USB-A cỡ lớn thay vì USB-C nhỏ.
+Để sạc nhanh có tốc độ tốt nhất, cả ba smartphone đều cần dây cáp riêng. Note 10+ dùng kiểu USB-C hai đầu. iPhone XS Max dùng cáp USB-C Lighting. Trong khi sạc VOOC 3.0 cũng dùng một loại cáp USB-A USB-C được tinh chỉnh riêng, dày và cứng hơn cáp thông thường.
+Mặc dù dung lượng pin lớn nhất, Galaxy Note 10+ lại sạc nhanh nhất. Thời gian nạp 100% pin của máy chỉ bằng một nửa so với iPhone XS Max. So với Reno 10x, Note 10+ cũng nhanh hơn gần nửa tiếng. Smartphone của Samsung mất 60 phút để làm đầy pin với sạc 45W và 65 phút với sạc 25W. Reno 10x mất 92 phút khi dùng sạc VOOC 3.0 công suất 20W. iPhone XS Max sử dụng với bộ sạc 87W nhưng lại tốn 121 phút để đạt được 100% pin.
+Công nghệ sạc nhanh trên Galaxy Note 10+ vừa rút ngắn thời gian vừa sạc rất nhanh trong giai đoạn đầu. iPhone XS Max cũng sạc nhanh trong 45 phút đầu nhưng tới mức 90%, tốc độ sạc rất chậm. Thậm chí, từ mức 99 tới 100% tốn 15 phút. So với Oppo Reno 10x, thời gian sạc đầy pin của iPhone XS Max vẫn chậm hơn 29 phút. 

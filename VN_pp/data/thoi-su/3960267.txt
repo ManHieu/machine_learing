@@ -1,0 +1,22 @@
+TITLE: Sân bay Long Thành sẽ nhận diện hành khách bằng trí tuệ nhân tạo - VnExpress
+
+KEY WORDS: Sân bay Long Thành, công nghệ, thông minh, trí tuệ nhân tạo, nhận diện hành khách
+
+TOPIC: vnexpress, thời sự, giao thông
+
+CONTENT: 
+Bộ Giao thông Vận tải vừa gửi Thủ tướng và Hội đồng Thẩm định Nhà nước báo cáo nghiên cứu khả thi dự án đầu tư xây dựng Cảng hàng không quốc tế Long Thành.
+Đơn vị tư vấn đề xuất áp dụng công nghệ trí tuệ nhân tạo vào khâu làm thủ tục hành khách, xuất nhập cảnh để hỗ trợ việc nhận dạng, danh tính thông qua dữ liệu sinh trắc học (khuôn mặt, dấu vân tay...), giúp thủ tục được nhanh chóng, chính xác; đồng thời nhận diện hành khách trong danh sách cấm bay, đưa ra cảnh báo kịp thời cho lực lượng an ninh.
+Thông qua việc phân tích dữ liệu thu nhận từ hệ thống truyền hình mạch kín, công nghệ trí tuệ nhân tạo sẽ giúp dự đoán chuyển động của từng hành khách, tính toán đưa ra thông tin nhằm tối ưu hóa luồng khách hoặc phân bổ nguồn nhân lực để đáp ứng nhu cầu của hành khách tại nhà ga.
+Phối cảnh thiết kế sân bay Long Thành. 
+Sân bay Long Thành sẽ sử dụng thiết bị soi chiếu hành khách tự động thay cho việc kiểm tra an ninh bằng dụng cụ cầm tay. Việc áp dụng công nghệ nhận dạng thông tin hành lý bằng tần số vô tuyến - RFID sẽ giúp cho việc phân loại và nhận dạng hành lý. Hành khách có thể kiểm tra thông tin lộ trình hành lý, xem thông tin chuyến bay, sơ đồ nhà ga, thông tin mua sắm, bãi xe thông minh...
+Việc vận chuyển và phân loại hành lý ký gửi bằng công nghệ mới sẽ có tốc độ vận chuyển nhanh gấp 5 lần so với hệ thống băng tải, rút ngắn thời gian hành khách chờ lấy hành lý và chuyển tiếp giữa các nhà ga.   
+Một số sân bay như T4 Changi (Singapore) đã áp dụng công nghệ gửi hành lý tự động. Ảnh: Đoàn Loan. 
+Sân bay Long Thành giai đoạn một dự kiến cần 5.000-6.000 cán bộ, nhân viên vận hành, khai thác. Theo mức độ ứng dụng công nghệ tự động hóa, nguồn nhân lực sẽ được điều chỉnh phù hợp.
+Nghiên cứu khả thi dự án sân bay Long Thành do Tổng công ty Cảng hàng không Việt Nam (ACV) làm chủ đầu tư, đơn vị tư vấn thực hiện là JFV (liên danh nhà thầu Nhật - Pháp - Việt) với Japan Airport Consultants và ADP Ingenierie đứng đầu. 
+Sau khi báo cáo nghiên cứu khả thi được trình Chính phủ, Hội đồng Thẩm định Nhà nước sẽ thuê tư vấn nước ngoài thẩm tra, dự kiến trình Quốc hội trong tháng 10/2019.
+Sân bay Long Thành có tổng mức đầu tư 336.630 tỷ đồng (tương đương 16 tỷ USD), trong đó giai đoạn một là 114.000 tỷ đồng (5,4 tỷ USD); kế hoạch chậm nhất 2025 hoàn thành và đưa vào khai thác giai đoạn một.
+Tháng 11/2017, Quốc hội đã thông qua nghị quyết về dự án thu hồi đất, bồi thường, hỗ trợ, tái định cư sân bay Long Thành với tổng mức đầu tư gần 23.000 tỷ đồng.
+Giữa năm 2018, Tổng công ty Cảng hàng không Việt Nam (ACV) đã ký hợp đồng với tư vấn JFV để thực hiện gói thầu tư vấn khảo sát và lập báo cáo nghiên cứu khả thi giai đoạn một.
+Ngày 15-16/8, VnExpress phối hợp cùng Bộ Khoa học và Công nghệ, Bộ kế hoạch và Đầu tư, Đại học Bách Khoa tổ chức Ngày hội Trí tuệ nhân tạo (AI4VN) tại Đại học Bách Khoa (số 1 Đại Cồ Việt, quận Hai Bà Trưng, Hà Nội). Chương trình có sự tham gia của nhiều chuyên gia, CEO các tập đoàn trong và ngoài nước, triển lãm và trình diễn công nghệ AI. Chi tiết và đăng ký tham dự tại đây: https://ai4vn.vnexpress.net
+ 

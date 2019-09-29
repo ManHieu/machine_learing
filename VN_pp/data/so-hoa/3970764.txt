@@ -1,0 +1,18 @@
+TITLE: Facebook ra mắt công cụ Hoạt động ngoài Facebook - VnExpress Số Hóa
+
+KEY WORDS: Facebook, công cụ Facebook, hoạt động ngoài Facebook
+
+TOPIC: số hóa, đời sống số
+
+CONTENT: 
+Hôm nay (20/8), Facebook đã công bố công cụ Hoạt động ngoài Facebook (Off-Facebook Activity). Đây là lần đầu tiên, công ty cung cấp cho người dùng khả năng xem và kiểm soát dữ liệu cá nhân của mình mà các trang web bên ngoài đã sử dụng.
+Tính năng này xuất hiện sau hai năm liên tiếp xảy ra các vụ bê bối về thông tin cá nhân liên quan tới Facebook, khiến nhiều người dùng phải đặt câu hỏi về cách xử lý dữ liệu của công ty.
+Tính năng mới Hoạt động ngoài Facebook cho người dùng nhiều quyền kiểm soát dữ liệu cá nhân hơn.
+Về cơ bản, công cụ mới sẽ hiển thị tóm tắt các trang web của bên thứ ba chia sẻ thông tin truy cập với Facebook và cho phép bạn ngắt kết nối lịch sử duyệt web đó khỏi tài khoản cá nhân. Người dùng cũng có thể từ chối theo dõi hoạt động ngoài Facebook trong tương lai hoặc chặn có chọn lọc các trang web nhất định gửi hoạt động duyệt web của bạn tới nền tảng mạng xã hội này.
+Vào năm 2018, Mark Zuckerberg, Giám đốc điều hành Facebook đã chia sẻ công cụ "Clear History" tại Hội nghị nhà phát triển F8, cho phép xóa dữ liệu trên mạng xã hội dễ dàng, như xóa lịch sử trình duyệt. Tuy nhiên, BuzzFeed nhận định rằng đó chỉ là một động thái PR nhằm đối phó với vụ bê bối Cambridge Analytica của công ty.
+Hơn một năm sau, Hoạt động ngoài Facebook xuất hiện để giải đáp thắc mắc về cách xử lý dữ liệu của công ty. Mặc dù vậy, hầu hết mọi người vẫn sẽ phải chờ đợi để có thể sử dụng công cụ này trên tài khoản của họ. Hiện tại, công cụ chỉ dành cho người dùng ở Ireland, Hàn Quốc, Tây Ban Nha, và sẽ được tung ra trong những tháng tới cho tất cả quốc gia và vùng lãnh thổ.
+Giao diện của công cụ mới cho phép xem bản tóm tắt, ngắt kết nối hoặc vô hiệu hóa hoàn toàn dữ liệu mà các trang web thu thập và chia sẻ lại cho Facebook.
+Trong nhiều năm, Facebook thu thập thông tin về người dùng theo hai cách. Thứ nhất, thông qua trang web hoặc ứng dụng của công ty và thứ hai, theo dõi trang hoạt động trực tuyến của người dùng truy cập bên ngoài nền tảng. Đó là lý do tại sao, sau khi truy cập trang web của nhà bán lẻ quần áo, ngay lập tức sẽ thấy xuất hiện các quảng cáo trên Facebook liên quan tới sản phẩm này. "Về cơ bản, Facebook giám sát mọi nơi bạn đến trên Internet, thu thập tất cả để phục vụ cho quảng cáo nhắm mục tiêu", một nhà nghiên cứu nhận định. "Gần một phần ba số trang web hiện có trên thế giới đều được tích hợp một trình theo dõi của Facebook".
+"Đây là một cách khác để cung cấp cho mọi người sự minh bạch và kiểm soát nhiều hơn trên Facebook", Erin Egan, Giám đốc Bộ phận bảo mật của Facebook nói về công cụ mới. "Nếu bạn xóa Hoạt động ngoài Facebook của mình, chúng tôi sẽ xóa thông tin nhận dạng của bạn khỏi dữ liệu mà các ứng dụng và trang web chọn gửi cho chúng tôi".
+Theo đại diện của Facebook, việc triển khai tính năng mới có thể ảnh hưởng tới doanh thu của công ty. "Chúng tôi sẽ không biết trang web nào bạn đã truy cập hoặc bạn đã làm gì ở đó và chúng tôi sẽ không sử dụng bất kỳ dữ liệu nào bạn ngắt kết nối để nhắm mục tiêu quảng cáo đến bạn trên Facebook, Instagram hoặc Messenger", ông Egan nhấn mạnh. "Tuy nhiên, chúng tôi tin rằng việc cung cấp cho mọi người quyền kiểm soát dữ liệu của họ sẽ quan trọng hơn".
+Ngọc Bình

@@ -1,0 +1,14 @@
+TITLE: Hệ thống định vị toàn cầu Galileo của châu Âu gặp sự cố
+
+KEY WORDS: định vị toàn cầu, hệ thống định vị toàn cầu Galileo, Liên minh châu Âu, GPS
+
+TOPIC: vnexpress, khoa học
+
+CONTENT: 
+Hệ thống định vị toàn cầu Galileo bắt đầu hoạt động từ năm 2016. Ảnh: BBC.
+Hệ thống định vị toàn cầu Galileo của Liên minh châu Âu (EU) ngừng hoạt động từ hôm 12/7 do một trục trặc kỹ thuật ở trạm điều khiển trên mặt đất ở Italy. Sự cố này khiến mọi thiết bị nhận tín hiệu như những mẫu điện thoại mới nhất không thể thu được thông tin khả dụng về thời gian hay địa điểm. Thay vào đó, các thiết bị sẽ phải dựa vào dữ liệu từ Hệ thống định vị toàn cầu (GPS) của Mỹ. Tùy theo chip định vị vệ tinh lắp đặt trong máy, điện thoại di động và nhiều thiết bị khác có thể liên lạc với hệ thống Glonass của Nga và Beidou của Trung Quốc. 
+Hệ thống Galileo vẫn đang trong giai đoạn thử nghiệm và chưa có nhiều ứng dụng quan trọng. Theo thông báo hôm 11/7 của cơ quan GNSS châu Âu (GSA), tín hiệu của Galileo có thể không đáng tin cậy. Bản cập nhật hôm 12/7 của GSA cho biết hệ thống sẽ tạm ngừng cung cấp dịch vụ cho tới khi có thông báo mới. 
+"Các chuyên gia đang làm việc để khắc phục sự cố sớm hết mức có thể. Một Hội đồng đánh giá sự cố đã được thành lập để phân tích nguyên nhân chính xác và tiến hành các biện pháp phục hồi", GSA cho biết. 
+Galileo là dự án hàng tỷ USD của Liên minh châu Âu và Cơ quan Vũ trụ châu Âu (ESA). EU nắm quyền sở hữu hệ thống trong khi ESA đóng vai trò như nhà cung ứng kỹ thuật. Hiện nay, mạng lưới có 22 vệ tinh đang hoạt động trên quỹ đạo và 2 vệ tinh khác đang được thử nghiệm trong vũ trụ, ngoài ra có 12 vệ tinh đang được chế tạo. Bên cạnh đó, Galileo còn sử dụng cơ sở hạ tầng phức tạp trên mặt đất để điều khiển mạng lưới và theo dõi vận hành. 
+Hệ thống định vị thay thế GPS của châu Âu đi vào hoạt động từ tháng 12/2016 sau 17 năm phát triển. Ủy ban châu Âu nhấn mạnh Galileo không chỉ là một dịch vụ dự phòng mà còn chính xác và cung cấp tín hiệu mạnh hơn GPS.
+An Khang (Theo BBC) 

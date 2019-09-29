@@ -1,0 +1,13 @@
+TITLE: 300 triệu tin nhắn riêng tư, thông tin cá nhân người dùng Trung Quốc bị lộ - VnExpress Số Hóa
+
+KEY WORDS: tin nhắn, riêng tư, Trung Quốc
+
+TOPIC: số hóa, đời sống số, bảo mật
+
+CONTENT: 
+Theo nhà nghiên cứu bảo mật Victor Gevers, ngoài 300 triệu tin nhắn, cơ sở dữ liệu của 364 triệu hồ sơ cá nhân cũng có thể xem được nếu biết địa chỉ IP truy cập. Thông tin được trích xuất từ các ứng dụng phổ biến tại Trung Quốc như WeChat, QQ, với thông tin nhận dạng cá nhân, ảnh, địa chỉ, vị trí GPS.
+Một số ứng dụng mạng xã hội tại Trung Quốc. Ảnh: Forbes
+Dữ liệu được trao đổi thông qua 17 máy chủ từ xa khác nhau, có thể được phân phối cho các đồn cảnh sát của các tỉnh, thành Trung Quốc. Trong số này, có nhiều tin nhắn của thanh thiếu niên, các cuộc trò chuyện đúng ra phải là riêng tư. Hồ sơ cũng chứa nhiều địa chỉ các quán Internet, nơi mà Trung Quốc kiểm soát thông tin gắt gao.
+Dữ liệu trên được chuyên gia tìm thấy thông qua một công cụ tìm kiếm các thiết bị có kết nối Internet. "Có vẻ ai đó đã làm rối cấu hình tường lửa, khiến dữ liệu bị lộ", Gevers nói. Ông đã liên hệ với ChinaNet Online, một nhà cung cấp dịch vụ Internet của Trung Quốc và cơ sở dữ liệu đã được khóa ngay sau đó.
+Theo Verge, việc chính phủ Trung Quốc trực tiếp hoặc thuê bên thứ ba giám sát người dùng Internet trong nước là điều khá phổ biến. Các công ty dịch vụ tại đây cũng không gặp khó khăn trong việc này, chẳng hạn WeChat tuyên bố công khai rằng việc thu thập dữ liệu để tuân thủ luật pháp và quy định hiện hành. 
+Bảo Anh
