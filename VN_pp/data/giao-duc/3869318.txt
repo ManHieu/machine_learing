@@ -1,9 +1,0 @@
-TITLE: Bài toán tính diện tích trong 5 phút ở kỳ thi TIMC - VnExpress
-
-KEY WORDS: bài toán, bài toán tính diện tích, tính diện tích, kỳ thi TIMC, Toán học trẻ quốc tế
-
-TOPIC: vnexpress, giáo dục
-
-CONTENT: 
-Problem: With each vertex of a 1 cm by 1 cm square as centre, circles of radius 1 cm are drawn, as shown in the diagram below. How much larger, in cm2, is the area of the shaded region than the area of a circle of radius 1 cm? (Take π = 3.14)
-Dịch đề: Vẽ các hình tròn bán kính 1 cm với tâm là các đỉnh của một hình vuông kích thước 1 cm × 1 cm, như hình dưới đây. Tính hiệu, theo cm2, của diện tích phần tô đậm và diện tích hình tròn bán kính 1 cm? (Lấy π = 3.14) 
